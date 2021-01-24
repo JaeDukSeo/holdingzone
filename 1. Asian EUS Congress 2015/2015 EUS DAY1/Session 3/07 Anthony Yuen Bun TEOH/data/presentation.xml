@@ -1,0 +1,675 @@
+<?xml version="1.0"?>
+<presentation title="07 Anthony Yuen Bun TEOH" width="1024.0000000" height="768.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{FD1C244F-4299-4DA7-AEF4-6BA135D6D49E}">
+	<presenters>
+		<presenter name="Dr Anthony Yuen Bun TEOH" title="Deputy Director of Endoscopy Honorary Assistant Professor Department of Surgery  The Chinese University of Hong Kong" email="" web="" phone="" photoAssetId="">
+			<bio>Development of the AEG consensus
+in EUS-guided pseudocyst drainage</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<videoTracks>
+			<videoTrack volume="1.0000000" src="ispring.resources_37b9c9e0.spr0_9856174" width="240" height="180">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="48.7610000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37b9d380.spr0_9858576" width="240" height="180">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="36.8260000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37b9d7e0.spr0_9862367" width="240" height="180">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="60.5570000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37b9dc40.spr0_9864754" width="240" height="180">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="35.3520000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37b9e0a0.spr0_9866844" width="240" height="180">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="28.8850000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37b9e500.spr0_9869325" width="240" height="180">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="36.8260000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37b9e960.spr0_9871353" width="240" height="180">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="30.8820000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37b9edc0.spr0_9872460" width="240" height="180">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="14.3030000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37b9f220.spr0_9873630" width="240" height="180">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="16.2070000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37b9f680.spr0_9875565" width="240" height="180">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="30.2779999"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37b9fca0.spr0_9877452" width="240" height="180">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="25.4950000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37ba0100.spr0_9879761" width="240" height="180">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="33.2039986"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37ba0560.spr0_9881789" width="240" height="180">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="29.0709991"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37ba09c0.spr0_9882320" width="240" height="180">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="5.4330000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37ba0aa0.spr0_9885128" width="240" height="180">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="42.4459991"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37ba10c0.spr0_9888263" width="240" height="180">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="46.9039993"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37ba1520.spr0_9890650" width="240" height="180">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="35.8160000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37ba1980.spr0_9891836" width="240" height="180">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="13.8850000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37ba1de0.spr0_9893037" width="240" height="180">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="14.0710000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37ba2240.spr0_9894441" width="240" height="180">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="19.9689999"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37ba26a0.spr0_9895408" width="240" height="180">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="10.6300000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37ba2b00.spr0_9896968" width="240" height="180">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="21.3600000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_37ba2f60.spr0_9898575" width="240" height="180">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="21.3619995"/>
+			</videoTrack>
+		</videoTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="true"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>true</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Development of the AEG consensus in EUS-guided pseudocyst drainage" titleNormalized="development of the aeg consensus in eus-guided pseudocyst drainage" src="slide1.swf" size="351047" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="48.7600016"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Development of the AEG consensus in EUS-guided pseudocyst drainage
+Deputy Director of Endoscopy
+Honorary Assistant Professor
+Department of Surgery
+The Chinese University of Hong Kong
+Dr Anthony Yuen Bun TEOH
+</text>
+		</slide>
+		<slide index="1" title="Endoscopic aspiration 1975" titleNormalized="endoscopic aspiration 1975" src="slide2.swf" size="239328" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.8250002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Endoscopic aspiration 1975
+2
+ GIE 1975
+Case report -&gt; patient with abd. pain and 10cm PC 
+21G needle -&gt; aspiration -&gt; no relief of pain
+Cyst recurred -&gt; no surgery</text>
+		</slide>
+		<slide index="2" title="Evolution of endoscopic drainage" titleNormalized="evolution of endoscopic drainage" src="slide3.swf" size="11336" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="60.5590014"/>
+			</animationSteps>
+			<notes>Since then, over the last 2 decades, we have witnessed the evolution of endoscopic treatment from simple aspiration, fistulotomy, nasocystic catheter drainage, EUS guided puncture to irrigation, necrosectomy, insertion of metallic stents, mulitple gateway access and EUS specific stent systems.</notes>
+			<notesNormalized>since then, over the last 2 decades, we have witnessed the evolution of endoscopic treatment from simple aspiration, fistulotomy, nasocystic catheter drainage, eus guided puncture to irrigation, necrosectomy, insertion of metallic stents, mulitple gateway access and eus specific stent systems.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Since then, over the last 2 decades, we have witnessed the evolution of endoscopic treatment from simple aspiration, fistulotomy, nasocystic catheter drainage, EUS guided puncture to irrigation, necrosectomy, insertion of metallic stents, mulitple gateway access and EUS specific stent systems.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Aspiration
+Stent drainage
+EUS-guided puncture
+1975	1980	 1985	1990 	1995	2000 2005 2010
+Timeline
+2015
+Evolution of endoscopic drainage 
+Fistulotomy
+One-step EUS-guided drainage
+Necrosectomy
+SEMS
+Multiport
+Endoscopy
+EUS-guidance
+Walled-off necroses
+NC catheter drainage
+NC irrigation
+EUS stents</text>
+		</slide>
+		<slide index="3" title="Survey on techniques of pseudocyst drainage AEG members" titleNormalized="survey on techniques of pseudocyst drainage aeg members" src="slide4.swf" size="4487" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.3510012"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Survey on techniques of pseudocyst drainage AEG members
+19 experienced endoscopist
+77% preferred to use EUS for drainage 
+84% would continue antibiotics for 3 to 5 days
+46% believed that ERCP is not essential prior to drainage 
+85% use 19-gauge needle 
+69% use double guide-wire technique
+84% would dilate the track up to 8 to 10mm in size
+92% would place plastic stents instead of metallic stents. 
+61% would place the stents in for 3 to 6 months
+Teoh et al EIO 2015	</text>
+		</slide>
+		<slide index="4" title="Issues" titleNormalized="issues" src="slide5.swf" size="4050" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="28.8840002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Issues
+Wide variation in practice of EUS guided drainage
+A lack of guidelines or consensus on how the procedure should be done 
+Lack of RCT’s conferring benefits of endoscopic treatment
+There remains a need for standardization of the procedure.
+</text>
+		</slide>
+		<slide index="5" title="AEG intervention subgroup meeting" titleNormalized="aeg intervention subgroup meeting" src="slide6.swf" size="1045695" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.8250002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>AEG intervention subgroup meeting
+1st meeting in Beijing</text>
+		</slide>
+		<slide index="6" title="Aim of the interventional subgroup" titleNormalized="aim of the interventional subgroup" src="slide7.swf" size="3950" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.8810000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Aim of the interventional subgroup
+Review the current status of EUS guided interventions
+Establishment of consensus/guidelines for performance of the procedures
+Education &amp; training of endoscopist to perform the procedures</text>
+		</slide>
+		<slide index="7" title="Procedures in review" titleNormalized="procedures in review" src="slide8.swf" size="6947" advanceOnTime="1" framesCount="373" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="372" playTime="14.3030005" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Procedures in review
+EUS guided pseudocyst drainage
+EUS guided biliary drainage
+EUS guided PD drainage
+EUS guided CPN/CGN 
+EUS guided cyst ablation</text>
+		</slide>
+		<slide index="8" title="Pseudocyst drainage: which modality?" titleNormalized="pseudocyst drainage: which modality?" src="slide9.swf" size="93166" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.2060007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pseudocyst drainage: which modality?</text>
+		</slide>
+		<slide index="9" title="Systemic review in the optimal approach for pseudocyst drainage" titleNormalized="systemic review in the optimal approach for pseudocyst drainage" src="slide10.swf" size="4180" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.2769999"/>
+			</animationSteps>
+			<notes>Hence, the results from a Systemic review / in the optimal approach for pseudocyst drainage is that EUS-guided drainage is the modality of choice in pancreatic pseudocysts that are located adjacent to the stomach or duodenum. In patients with unfavorable anatomy, surgical cystogastrostomy should be the subsequent choice of procedure. Large randomized studies are needed to compare the outcomes of various modalities.</notes>
+			<notesNormalized>hence, the results from a systemic review / in the optimal approach for pseudocyst drainage is that eus-guided drainage is the modality of choice in pancreatic pseudocysts that are located adjacent to the stomach or duodenum. in patients with unfavorable anatomy, surgical cystogastrostomy should be the subsequent choice of procedure. large randomized studies are needed to compare the outcomes of various modalities.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Hence, the results from a Systemic review / in the optimal approach for pseudocyst drainage is that EUS-guided drainage is the modality of choice in pancreatic pseudocysts that are located adjacent to the stomach or duodenum. In patients with unfavorable anatomy, surgical cystogastrostomy should be the subsequent choice of procedure. Large randomized studies are needed to compare the outcomes of various modalities.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Systemic review in the optimal approach for pseudocyst drainage
+EUS-guided drainage is the modality of choice 
+
+Surgical cystogastrostomy in patients with unfavorable anatomy
+
+Percutaneous drainage associated with poorer outcome 
+Teoh et al JGH In press</text>
+		</slide>
+		<slide index="10" title="Consensus in the optimal management of pancreatic pseudocyst. Results from the Asian EUS group UCLA/RAND expert panel" titleNormalized="consensus in the optimal management of pancreatic pseudocyst. results from the asian eus group ucla/rand expert panel" src="slide11.swf" size="99061" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.4940008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Consensus in the optimal management of pancreatic pseudocyst. Results from the Asian EUS group UCLA/RAND expert panel</text>
+		</slide>
+		<slide index="11" title="Background" titleNormalized="background" src="slide12.swf" size="4301" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.2029986"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Background
+RAND/ULCA appropriateness methods (RAM)
+Developed in mid 1980s
+Enable measurement of the overuse and underuse of medical and surgical procedures
+Rationale:
+The gold standard for evidence-based medicine – randomized controlled trials are often not available and robust scientific evidence lacking
+Nevertheless clinicians still need to make decisions everyday
+</text>
+		</slide>
+		<slide index="12" title="Outline of the method" titleNormalized="outline of the method" src="slide13.swf" size="135413" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.0699991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Outline of the method</text>
+		</slide>
+		<slide index="13" title="Summary statements" titleNormalized="summary statements" src="slide14.swf" size="3676" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.4320001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Summary statements
+Prepared after review of literature by group leaders</text>
+		</slide>
+		<slide index="14" title="16 statements on the following:" titleNormalized="16 statements on the following:" src="slide15.swf" size="18785" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.4449991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>16 statements on the following:
+Indications of treatment
+Optimal approach
+Pre-drainage evaluation
+Pre-procedural preparations
+Procedural details
+Adjunctive treatments
+Management of complications
+Competency and training</text>
+		</slide>
+		<slide index="15" title="Appropriateness Voting" titleNormalized="appropriateness voting" src="slide16.swf" size="4562" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="46.9029993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Appropriateness Voting
+A procedure is considered to be appropriate if
+"The expected health benefit (e.g., increased life expectancy, relief of pain, reduction in anxiety, improved functional capacity) exceeds the expected negative consequences (e.g., mortality, morbidity, anxiety, pain, time lost from work) by a sufficiently wide margin that the procedure is worth doing, exclusive of cost." (Brook et al., 1986)
+Scoring will be based on a point scale of 1 to 9, 
+1=extremely inappropriate/unnecessary
+5=uncertain or equivocal
+9=extremely appropriate/necessary</text>
+		</slide>
+		<slide index="16" title="Voting for necessity" titleNormalized="voting for necessity" src="slide17.swf" size="4116" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.8150019"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Voting for necessity
+Necessity is defined as when the health benefits outweigh the health risks to such an extent that the physician MUST offer the procedure to the patient
+
+Scoring will be based on a point scale of 1 to 9: 
+1=extremely unnecessary
+5=uncertain or equivocal
+9=extremely necessary
+</text>
+		</slide>
+		<slide index="17" title="1st round of voting in the 1st AEG retreat July 2014" titleNormalized="1st round of voting in the 1st aeg retreat july 2014" src="slide18.swf" size="1261167" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.8840002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>1st round of voting in the 1st AEG retreat July 2014
+GI Hep singapore</text>
+		</slide>
+		<slide index="18" title="1st round of voting in 2014 AEG retreat" titleNormalized="1st round of voting in 2014 aeg retreat" src="slide19.swf" size="1602183" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.0700001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>1st round of voting in 2014 AEG retreat</text>
+		</slide>
+		<slide index="19" title="Last round of voting on necessity June 2015 – IDD meeting Hong Kong" titleNormalized="last round of voting on necessity june 2015 – idd meeting hong kong" src="slide20.swf" size="1358626" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.9679999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Last round of voting on necessity June 2015 – IDD meeting Hong Kong</text>
+		</slide>
+		<slide index="20" title="Consensus statements" titleNormalized="consensus statements" src="slide21.swf" size="5452" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.6290001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="21" title="Consensus statements" titleNormalized="consensus statements" src="slide22.swf" size="9974" advanceOnTime="1" framesCount="85" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="84" playTime="3.5000000" pauseTime="17.8600006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>All statements are considered appropriate and necessary !!!!</text>
+		</slide>
+		<slide index="22" title="Conclusion" titleNormalized="conclusion" src="slide23.swf" size="3954" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.3609995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conclusion	
+Considerable controversies exist in the optimal management of pancreatic pseudocyst
+We hope that the these guidelines could be adopted across institutions and stimulate research in areas with knowledge deficiencies</text>
+		</slide>
+	</slides>
+</presentation>

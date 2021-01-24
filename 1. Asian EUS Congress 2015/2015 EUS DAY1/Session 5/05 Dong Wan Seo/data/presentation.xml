@@ -1,0 +1,619 @@
+<?xml version="1.0"?>
+<presentation title="05 Dong Wan Seo" width="1024.0000000" height="768.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{A85EB3BB-A8EC-495D-A0D7-6704FA2DDD02}">
+	<presenters>
+		<presenter name="Dong Wan Seo, M.D." title="Division of Gastroenterology, Asan Medical Center, University of Ulsan, Seoul, Korea" email="" web="" phone="" photoAssetId="">
+			<bio>EUS-FNA of Hepatic Lesions: Technique and Limitation</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<videoTracks>
+			<videoTrack volume="1.0000000" src="ispring.resources_34745830.spr0_12009939" width="240" height="180">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="69.7060000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34745910.spr0_12011078" width="240" height="180">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="14.0799999"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34745bb0.spr0_12014510" width="240" height="180">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="53.8699989"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34745e50.spr0_12016928" width="240" height="180">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="39.3339996"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_347460f0.spr0_12017739" width="240" height="180">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="10.7740000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34746390.spr0_12019315" width="240" height="180">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="22.6159992"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34746710.spr0_12021062" width="240" height="180">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="24.4699993"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_347469b0.spr0_12024120" width="240" height="180">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="49.8760000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34746c50.spr0_12025493" width="240" height="180">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="19.7360000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34746ef0.spr0_12029065" width="240" height="180">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="54.9380000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34978140.spr0_12029985" width="240" height="180">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="12.2100000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34978220.spr0_12035586" width="240" height="180">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="85.1699982"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_349784c0.spr0_12036974" width="240" height="180">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="19.4099998"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34978760.spr0_12037910" width="240" height="180">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="12.8170000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34978a00.spr0_12039065" width="240" height="180">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="15.0900000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34978ca0.spr0_12041592" width="240" height="180">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="38.3100000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34978f40.spr0_12042621" width="240" height="180">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="12.8170000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_349791e0.spr0_12043869" width="240" height="180">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="15.4180000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34979480.spr0_12046319" width="240" height="180">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="41.0990000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_34979720.spr0_12049501" width="240" height="180">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="49.1300000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_349799c0.spr0_12050843" width="240" height="180">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="19.1790000"/>
+			</videoTrack>
+		</videoTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="true"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>true</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS-FNA of Hepatic Lesions: Technique and Limitation" titleNormalized="eus-fna of hepatic lesions: technique and limitation" src="slide1.swf" size="7088" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="69.7089991"/>
+			</animationSteps>
+			<notes>Thank you, chairman.  Ladies &amp; gentlemen!
+It is indeed a great pleasure  to give a talk during this wonderful meeting.
+My special thanks goes to pf. Wang HP and organizing committee members of this meeting.
+
+Cholangioscopy: current status and innovations
+
+Cholangioscopy is an endoscopic technique by which we can see inside of the biliary tree.
+
+I assume that some of you are already familiar with endoscopic findings of the bile duct. But others may not.
+So today I would like to take all of you  to a journey into the biliary tree.</notes>
+			<notesNormalized>thank you, chairman. ladies &amp; gentlemen!
+it is indeed a great pleasure to give a talk during this wonderful meeting.
+my special thanks goes to pf. wang hp and organizing committee members of this meeting.
+
+cholangioscopy: current status and innovations
+
+cholangioscopy is an endoscopic technique by which we can see inside of the biliary tree.
+
+i assume that some of you are already familiar with endoscopic findings of the bile duct. but others may not.
+so today i would like to take all of you to a journey into the biliary tree.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Thank you, chairman.  Ladies &amp;amp; gentlemen!&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;It is indeed a great pleasure  to give a talk during this wonderful meeting.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;My special thanks goes to pf. Wang HP and organizing committee members of this meeting.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Cholangioscopy: current status and innovations&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Cholangioscopy is an endoscopic technique by which we can see inside of the biliary tree.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;I assume that some of you are already familiar with endoscopic findings of the bile duct. But others may not.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;So today I would like to take all of you  to a journey into the biliary tree.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-FNA of Hepatic Lesions: Technique and Limitation
+Dong Wan Seo, M.D.
+
+Division of Gastroenterology, Asan Medical Center, University of Ulsan, Seoul, Korea</text>
+		</slide>
+		<slide index="1" title="Contents" titleNormalized="contents" src="slide2.swf" size="3638" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.0789999"/>
+			</animationSteps>
+			<notes> </notes>
+			<notesNormalized> </notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Liver anatomy
+ Linear EUS anatomy
+ EUS-FNA technique
+ Limitations
+Contents</text>
+		</slide>
+		<slide index="2" title="Right liver from Duodenum" titleNormalized="right liver from duodenum" src="slide3.swf" size="705215" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="53.8689989"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Right liver from Duodenum</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="1218927" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="39.3329996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="1066426" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.7730002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="1298145" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.6149992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="6" title="Left lobe liver from stomach" titleNormalized="left lobe liver from stomach" src="slide7.swf" size="595346" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.4689993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Left lobe liver from stomach
+ main PV
+ PV umbilical portion
+ MHV, LHV
+ S1, S2, S3, S4</text>
+		</slide>
+		<slide index="7" title="Left lobe liver from stomach" titleNormalized="left lobe liver from stomach" src="slide8.swf" size="316342" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_34819a90.spr0_11969363" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_34819a90.spr2_11969363" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video0"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="49.8790011"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Left lobe liver from stomach</text>
+		</slide>
+		<slide index="8" title="Right liver from stomach" titleNormalized="right liver from stomach" src="slide9.swf" size="521321" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.7389998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Right liver from stomach
+ main PV
+ LPV up, lt liver
+ RPV, P5, P8, P7
+ S5, S6, S7, S8</text>
+		</slide>
+		<slide index="9" title="Right liver from Duodenum" titleNormalized="right liver from duodenum" src="slide10.swf" size="244623" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_34440510.spr0_11974465" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_34440510.spr2_11974465" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video1"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="54.9389986"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Right liver from Duodenum</text>
+		</slide>
+		<slide index="10" title="Right liver from Duodenum" titleNormalized="right liver from duodenum" src="slide11.swf" size="550262" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.2090000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Right liver from Duodenum
+ IVC, Ao
+ rt KD, rt adrenal
+ RPV, P5, P8, P7
+ S5, S6, S7, S8</text>
+		</slide>
+		<slide index="11" title="Right liver from duodenum" titleNormalized="right liver from duodenum" src="slide12.swf" size="217860" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_34704090.spr0_11979722" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_34704090.spr2_11979722" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video2"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="85.1689982"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Right liver from duodenum</text>
+		</slide>
+		<slide index="12" title="Technique of EUS-FNA" titleNormalized="technique of eus-fna" src="slide13.swf" size="363496" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.4089998"/>
+			</animationSteps>
+			<notes>이러한 목적으로 EUS 내로 삽입이 가능한 needle aspiration kit가 개발되었고 
+장관 근처에 존재하는 solid tumor에 fine needle aspiration이 가능해졌습니다.</notes>
+			<notesNormalized>이러한 목적으로 eus 내로 삽입이 가능한 needle aspiration kit가 개발되었고 
+장관 근처에 존재하는 solid tumor에 fine needle aspiration이 가능해졌습니다.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;이러한 목적으로 EUS 내로 삽입이 가능한 needle aspiration kit가 개발되었고 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;장관 근처에 존재하는 solid tumor에 fine needle aspiration이 가능해졌습니다.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Technique of EUS-FNA
+(Fine Needle Aspiration)</text>
+		</slide>
+		<slide index="13" title="M/71 hepatic mass" titleNormalized="m/71 hepatic mass" src="slide14.swf" size="1359" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.8189997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>M/71 hepatic mass</text>
+		</slide>
+		<slide index="14" title="M/71" titleNormalized="m/71" src="slide15.swf" size="1456" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.0890002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>M/71
+Unusual inflammatory mass or malignancy</text>
+		</slide>
+		<slide index="15" title="EUS-FNA of S2 mass" titleNormalized="eus-fna of s2 mass" src="slide16.swf" size="167416" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_34740b70.spr0_11985120" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_34740b70.spr2_11985120" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video3"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="38.3090014"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA of S2 mass</text>
+		</slide>
+		<slide index="16" title="M/71" titleNormalized="m/71" src="slide17.swf" size="1515" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.8189997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>M/71
+EUS-FNA: chronic granulomatous inflammation
+		with caseous necrosis</text>
+		</slide>
+		<slide index="17" title="F/50" titleNormalized="f/50" src="slide18.swf" size="449731" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.4190001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+DIAGNOSIS:
+ Pancreas, EUS-FNA:
+ ADENOCARCINOMA
+F/50</text>
+		</slide>
+		<slide index="18" title="EUS-FNA of S5 S6 mass" titleNormalized="eus-fna of s5 s6 mass" src="slide19.swf" size="317178" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_346ff750.spr0_11990736" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_346ff750.spr2_11990736" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="41.0989985"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA of S5 S6 mass</text>
+		</slide>
+		<slide index="19" title="Limitation for hepatic lesions" titleNormalized="limitation for hepatic lesions" src="slide20.swf" size="3550" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="49.1290011"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>difficult to get anatomical orientation
+ penetration depth
+ angulation of scope tip
+
+
+Limitation for hepatic lesions</text>
+		</slide>
+		<slide index="20" title="Conclusion" titleNormalized="conclusion" src="slide21.swf" size="7612" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.1790003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>technically possible 
+ but still more difficult compared to 	other organs
+ good anatomical orientation
+ definitely rewarding procedure
+Conclusion
+EUS-FNA of hepatic lesions</text>
+		</slide>
+	</slides>
+</presentation>

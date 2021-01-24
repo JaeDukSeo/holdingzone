@@ -1,0 +1,663 @@
+<?xml version="1.0"?>
+<presentation title="03 HJ Choi" width="1024.0000000" height="768.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{7758A542-BD85-413F-8BF0-F1C3BD8E74E2}">
+	<presenters>
+		<presenter name="HJ Choi " title="Department of Internal Medicine SoonChunHyang University School of Medicine  Bucheon and Seoul, KOREA" email="" web="" phone="" photoAssetId="">
+			<bio>Usefulness of EUS-guided sampling using core biopsy needle with onsite evaluation for diagnosis of metastatic liver mass</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<videoTracks>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11404952" width="240" height="180">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="2.8790000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11406044" width="240" height="180">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="15.2780000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11407635" width="240" height="180">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="22.1000000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11408524" width="240" height="180">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="10.5500000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11409694" width="240" height="180">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="15.9750000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11410833" width="240" height="180">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="14.4399996"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11411863" width="240" height="180">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="12.9560000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11412830" width="240" height="180">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="12.0699997"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11413469" width="240" height="180">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="4.6399999"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11414265" width="240" height="180">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="9.5660000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e4e20.spr0_11415388" width="240" height="180">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="15.4180000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e4e20.spr0_11416293" width="240" height="180">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="11.3770000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e4e20.spr0_11417182" width="240" height="180">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="8.9600000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e4e20.spr0_11418368" width="240" height="180">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="17.5499992"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11419663" width="240" height="180">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="18.2970000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11421207" width="240" height="180">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="22.4300000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11422611" width="240" height="180">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="19.6399994"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_354e2500.spr0_11423750" width="240" height="180">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="13.4200000"/>
+			</videoTrack>
+		</videoTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="true"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>true</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Usefulness of EUS-guided sampling using core biopsy needle with onsite evaluation for diagnosis of metastatic liver mass" titleNormalized="usefulness of eus-guided sampling using core biopsy needle with onsite evaluation for diagnosis of metastatic liver mass" src="slide1.swf" size="2337" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.8790001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Usefulness of EUS-guided sampling using core biopsy needle with onsite evaluation for diagnosis of metastatic liver mass
+HJ Choi, JH Moon, YN Lee, MH Choi, TH Lee, TH Lee, SW Cha,
+YD Cho, SH Park
+
+Department of Internal Medicine 
+SoonChunHyang University School of Medicine
+Bucheon and Seoul, KOREA</text>
+		</slide>
+		<slide index="1" title="BACKGROUND" titleNormalized="background" src="slide2.swf" size="2773" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.2789997"/>
+			</animationSteps>
+			<notes>Metastatic liver masses can be originated from various solid organ malignancies. And accurate diagnosis may be helpful for the guidance of adequate treatment.</notes>
+			<notesNormalized>metastatic liver masses can be originated from various solid organ malignancies. and accurate diagnosis may be helpful for the guidance of adequate treatment.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Metastatic liver masses can be originated from various solid organ malignancies. And accurate diagnosis may be helpful for the guidance of adequate treatment.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Histopathological diagnosis for metastatic liver masses
+A very common target of metastatic tumors
+Colon &gt; pancreas &gt; breast 
+Optimal for deciding treatment
+From supportive care to partial hepatectomy
+Metastatic tumors with unknown primary site
+Identification of the site of origin may be helpful for the guidance of adequate treatment
+BACKGROUND
+DIGESTIVE DISEASE CENTER SOON CHUN HYANG UNIVERSITY HOSPITAL</text>
+		</slide>
+		<slide index="2" title="BACKGROUND" titleNormalized="background" src="slide3.swf" size="337366" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.0990004"/>
+			</animationSteps>
+			<notes>EUS-guided sampling for solid liver masses is feasible, safe and reliable modality in previous published studies. However, sufficient tissue acquisition is demanded for the confirmation of specific tumor type.</notes>
+			<notesNormalized>eus-guided sampling for solid liver masses is feasible, safe and reliable modality in previous published studies. however, sufficient tissue acquisition is demanded for the confirmation of specific tumor type.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;EUS-guided sampling for solid liver masses is feasible, safe and reliable modality in previous published studies. However, sufficient tissue acquisition is demanded for the confirmation of specific tumor type.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-guided sampling for metastatic solid liver mass
+Feasible, safe and reliable modality 
+Diagnostic assessment and tissue sampling at the same time
+On-site evaluation for confirmation of malignant cells
+Helpful for rapid decision of treatment modality
+Demand of histologic evaluation by tissue acquisition
+For confirmation of specific tumor type
+BACKGROUND
+DIGESTIVE DISEASE CENTER SOON CHUN HYANG UNIVERSITY HOSPITAL</text>
+		</slide>
+		<slide index="3" title="BACKGROUND" titleNormalized="background" src="slide4.swf" size="119326" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.5490002"/>
+			</animationSteps>
+			<notes>As you know, ProCore needle has the reverse bevel side hole to acquire effectively core tissue during needle pass.</notes>
+			<notesNormalized>as you know, procore needle has the reverse bevel side hole to acquire effectively core tissue during needle pass.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;As you know, ProCore needle has the reverse bevel side hole to acquire effectively core tissue during needle pass.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-guided fine needle biopsy (EUS-FNB)
+Obtaining tissue core for histologic evaluation
+EchoTip ProCore® needle
+ (Wilson-Cook medical, Winston-Salem, NC)
+Side hole at its tip for tissue acquisition during puncture
+BACKGROUND
+DIGESTIVE DISEASE CENTER SOON CHUN HYANG UNIVERSITY HOSPITAL</text>
+		</slide>
+		<slide index="4" title="AIM" titleNormalized="aim" src="slide5.swf" size="2368" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.9789995"/>
+			</animationSteps>
+			<notes>The aim of this study is to evaluate the clinical usefulness of the EUS-guided fine needle biopsy with on-site evaluation for the diagnosis of metastatic solid liver masses.</notes>
+			<notesNormalized>the aim of this study is to evaluate the clinical usefulness of the eus-guided fine needle biopsy with on-site evaluation for the diagnosis of metastatic solid liver masses.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The aim of this study is to evaluate the clinical usefulness of the EUS-guided fine needle biopsy with on-site evaluation for the diagnosis of metastatic solid liver masses.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>AIM
+ To evaluate the clinical usefulness of EUS-guided fine needle biopsy with on-site evaluation for the diagnosis of metastatic solid liver masses
+DIGESTIVE DISEASE CENTER SOON CHUN HYANG UNIVERSITY HOSPITAL</text>
+		</slide>
+		<slide index="5" title="PATIENTS" titleNormalized="patients" src="slide6.swf" size="2979" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.4389996"/>
+			</animationSteps>
+			<notes>We included patients with metastatic solid liver masses that was confirmed by prior imaging studies and needed to make accurate diagnosis for guiding management decision.</notes>
+			<notesNormalized>we included patients with metastatic solid liver masses that was confirmed by prior imaging studies and needed to make accurate diagnosis for guiding management decision.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;We included patients with metastatic solid liver masses that was confirmed by prior imaging studies and needed to make accurate diagnosis for guiding management decision.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Study setting
+Study period: March 2012 – January 2014
+Retrospective analysis of a prospectively maintained database 
+Inclusion criteria
+Metastatic solid liver masses confirmed by imaging study (CT, MRI or EUS)
+Metastatic solid liver masses that were need to make accurate diagnosis for guiding management decision
+Exclusion criteria
+Inability to perform EUS-FNB: intervening blood vessels or altered GI anatomy
+Coagulopathy: INR &gt; 1.8 or platelet count &lt; 50,000/µL
+PATIENTS
+DIGESTIVE DISEASE CENTER SOON CHUN HYANG UNIVERSITY HOSPITAL</text>
+		</slide>
+		<slide index="6" title="PROCEDURES" titleNormalized="procedures" src="slide7.swf" size="2871" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.9590000"/>
+			</animationSteps>
+			<notes>EUS-FNB was performed with stylet, 15 to 20 movements with fanlike pattern, and 5 to 10 mL suction.</notes>
+			<notesNormalized>eus-fnb was performed with stylet, 15 to 20 movements with fanlike pattern, and 5 to 10 ml suction.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;EUS-FNB was performed with stylet, 15 to 20 movements with fanlike pattern, and 5 to 10 mL suction.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Instruments
+Linear array echoendoscope: GF-UCT240 (Olympus)
+EUS-FNA biopsy needle
+22G EchoTip ProCore (Cook Endoscopy)
+EUS-guided FNB
+Transgastric approach
+Puncture with stylet
+15‒20 back-and-forth needle movements with fanlike pattern in the lesion
+5‒10 mL of suction during sampling
+PROCEDURES
+DIGESTIVE DISEASE CENTER SOON CHUN HYANG UNIVERSITY HOSPITAL</text>
+		</slide>
+		<slide index="7" title="PROCEDURES" titleNormalized="procedures" src="slide8.swf" size="404678" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.0689997"/>
+			</animationSteps>
+			<notes>Acquired samples were divided into triple preparations, on-site, cytologic and histologic analysis.</notes>
+			<notesNormalized>acquired samples were divided into triple preparations, on-site, cytologic and histologic analysis.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Acquired samples were divided into triple preparations, on-site, cytologic and histologic analysis.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Triple sample preparation for one pass specimen
+PROCEDURES
+DIGESTIVE DISEASE CENTER SOON CHUN HYANG UNIVERSITY HOSPITAL 
+On-site analysis
+Diff-Quick (Giemsa stain)
+Cytologic analysis
+Papanicolaou stain
+Histologic analysis
+H &amp; E stain with IHC*
+*IHC, immunohistochemical stain</text>
+		</slide>
+		<slide index="8" title="ASSESSMENT" titleNormalized="assessment" src="slide9.swf" size="2884" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.6389999"/>
+			</animationSteps>
+			<notes>Definitions of assessments were like this.</notes>
+			<notesNormalized>definitions of assessments were like this.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Definitions of assessments were like this.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Classification of results
+On-site findings for malignancy
+Positive / Atypia / Negative / Nondiagnostic
+Cytologic and histologic findings for malignancy
+Positive / Suspicious / Atypia / Negative / Nondiagnostic 
+Reference standards for malignancy
+Histopathological findings
+Clinical data including imaging studies following of greater than 6 months
+ASSESSMENT
+DIGESTIVE DISEASE CENTER SOON CHUN HYANG UNIVERSITY HOSPITAL</text>
+		</slide>
+		<slide index="9" title="CASE, Pancreatic Cancer with Liver Metastasis (54/F)" titleNormalized="case, pancreatic cancer with liver metastasis (54/f)" src="slide10.swf" size="399699" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.5689997"/>
+			</animationSteps>
+			<notes>993279 김은희
+
+A.	CT showed a mass on left lobe of liver. 
+
+Let me show a case. CT scan showed a mass on the pancreas and the liver left lobe.</notes>
+			<notesNormalized>993279 김은희
+
+a.	ct showed a mass on left lobe of liver. 
+
+let me show a case. ct scan showed a mass on the pancreas and the liver left lobe.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;993279 김은희&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;A.	&lt;i&gt;CT showed a mass on left lobe of liver. &lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Let me show a case. CT scan showed a mass on the pancreas and the liver left lobe.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CASE, Pancreatic Cancer with Liver Metastasis (54/F)</text>
+		</slide>
+		<slide index="10" title="CASE, Pancreatic Cancer with Liver Metastasis (54/F)" titleNormalized="case, pancreatic cancer with liver metastasis (54/f)" src="slide11.swf" size="191290" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_35334d50.spr0_11388275" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_35334d50.spr2_11388275" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video0"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.4190001"/>
+			</animationSteps>
+			<notes>993279 김은희
+
+EUS showed hypoechoic solid mass  in left lobe of liver  and EUS-FNB was done by 22G needle.
+
+After confirming of intervening vessels, tissue sampling was performed with 22G needle.</notes>
+			<notesNormalized>993279 김은희
+
+eus showed hypoechoic solid mass in left lobe of liver and eus-fnb was done by 22g needle.
+
+after confirming of intervening vessels, tissue sampling was performed with 22g needle.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;993279 김은희&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;&lt;i&gt;EUS showed hypoechoic solid mass  in left lobe of liver  and EUS-FNB was done by 22G needle.&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;After confirming of intervening vessels, tissue sampling was performed with 22G needle.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CASE, Pancreatic Cancer with Liver Metastasis (54/F)</text>
+		</slide>
+		<slide index="11" title="CASE, Pancreatic Cancer with Liver Metastasis (54/F)" titleNormalized="case, pancreatic cancer with liver metastasis (54/f)" src="slide12.swf" size="1687727" advanceOnTime="1" framesCount="127" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="126" playTime="5.2500000" pauseTime="6.1300001"/>
+			</animationSteps>
+			<notes>993279 김은희
+
+Positivity for malignancy was confirmed by  on-site analysis (Diff-Quick stain, X400)
+Cytological analysis revealed poorly differenciated adenocarcinoma (PAP, X400)
+
+On-site evaluation revealed malignant cells. And cytologic result was cosistent with metastatic carcinoma.</notes>
+			<notesNormalized>993279 김은희
+
+positivity for malignancy was confirmed by on-site analysis (diff-quick stain, x400)
+cytological analysis revealed poorly differenciated adenocarcinoma (pap, x400)
+
+on-site evaluation revealed malignant cells. and cytologic result was cosistent with metastatic carcinoma.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;993279 김은희&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;&lt;i&gt;Positivity for malignancy was confirmed by  on-site analysis (Diff-Quick stain, X400)&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;&lt;i&gt;Cytological analysis revealed poorly differenciated adenocarcinoma (PAP, X400)&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;On-site evaluation revealed malignant cells. And cytologic result was cosistent with metastatic carcinoma.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CASE, Pancreatic Cancer with Liver Metastasis (54/F)
+On-site, Diff-Quick Stain
+Cytologic Evaluation
+Cytology, PAP Stain</text>
+		</slide>
+		<slide index="12" title="CASE, Pancreatic Cancer with Liver Metastasis (54/F)" titleNormalized="case, pancreatic cancer with liver metastasis (54/f)" src="slide13.swf" size="2203275" advanceOnTime="1" framesCount="103" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="102" playTime="4.2500000" pauseTime="4.7100000"/>
+			</animationSteps>
+			<notes>993279 김은희
+
+Small cell neuroendocrine carcinoma was diagnosed by histological analysis (H&amp;E, X100, X400)
+
+Histologic result was also consistent with poorly differentiated metastatic carcinoma.</notes>
+			<notesNormalized>993279 김은희
+
+small cell neuroendocrine carcinoma was diagnosed by histological analysis (h&amp;e, x100, x400)
+
+histologic result was also consistent with poorly differentiated metastatic carcinoma.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;993279 김은희&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;&lt;i&gt;Small cell neuroendocrine carcinoma was diagnosed by histological analysis (H&amp;amp;E, X100, X400)&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Histologic result was also consistent with poorly differentiated metastatic carcinoma.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CASE, Pancreatic Cancer with Liver Metastasis (54/F)
+Histologic Evaluation, H&amp;E Stain
+x100
+x400</text>
+		</slide>
+		<slide index="13" title="CASE, Pancreatic Cancer with Liver Metastasis (54/F)" titleNormalized="case, pancreatic cancer with liver metastasis (54/f)" src="slide14.swf" size="1970051" advanceOnTime="1" framesCount="247" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="246" playTime="10.2500000" pauseTime="7.2999992"/>
+			</animationSteps>
+			<notes>993279 김은희
+
+Immunohistochemical stainig shows positive for CD 56 and synaptophysin and negative for Chromogranin-A. The Ki-67 index was more than 20%.
+
+ Note: 1. CD56과 Synaptophysin 이 양성이라 neuroendocrine carcinoma 가 먼저 의심되나, osteoclast-like giaNt cell 이 많이 나오고 neuroendocrine carcinoma 의 핵의 특징적인 소견이 잘 관찰되지 않아 undifferentiated carcinoma with osteoclasit-like giant cells 의 가능성도 배제할 수 없습니다. 
+
+After immunohistochemical analysis, final diagnosis was metastatic undifferentiated carcinoma with osteoclast-like giant cells.</notes>
+			<notesNormalized>993279 김은희
+
+immunohistochemical stainig shows positive for cd 56 and synaptophysin and negative for chromogranin-a. the ki-67 index was more than 20%.
+
+ note: 1. cd56과 synaptophysin 이 양성이라 neuroendocrine carcinoma 가 먼저 의심되나, osteoclast-like giant cell 이 많이 나오고 neuroendocrine carcinoma 의 핵의 특징적인 소견이 잘 관찰되지 않아 undifferentiated carcinoma with osteoclasit-like giant cells 의 가능성도 배제할 수 없습니다. 
+
+after immunohistochemical analysis, final diagnosis was metastatic undifferentiated carcinoma with osteoclast-like giant cells.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;993279 김은희&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;&lt;i&gt;Immunohistochemical stainig shows positive for CD 56 and synaptophysin and negative for Chromogranin-A. The Ki-67 index was more than 20%.&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;&lt;i&gt; Note: 1. CD56과 Synaptophysin 이 양성이라 neuroendocrine carcinoma 가 먼저 의심되나, osteoclast-like giaNt cell 이 많이 나오고 neuroendocrine carcinoma 의 핵의 특징적인 소견이 잘 관찰되지 않아 undifferentiated carcinoma with osteoclasit-like giant cells 의 가능성도 배제할 수 없습니다. &lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;After immunohistochemical analysis, final diagnosis was metastatic undifferentiated carcinoma with osteoclast-like giant cells.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CD56
+CASE, Pancreatic Cancer with Liver Metastasis (54/F)
+Histologic Evaluation, Immunohistochemical Stains
+Synaptophysin
+Chromogranin-A
+Ki-67
+ Metastatic undifferentiated carcinoma
+with osteoclast-like giant cells</text>
+		</slide>
+		<slide index="14" title="RESULTS–1. Baseline Characteristics" titleNormalized="results–1. baseline characteristics" src="slide15.swf" size="3519" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.2989992"/>
+			</animationSteps>
+			<notes>Let me show study results. Total 25 patients undergone EUS-FNB for metastatic solid liver masses. Almost masses were located at left lobe. Most common diagnosis was pancreatic cancer.</notes>
+			<notesNormalized>let me show study results. total 25 patients undergone eus-fnb for metastatic solid liver masses. almost masses were located at left lobe. most common diagnosis was pancreatic cancer.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Let me show study results. Total 25 patients undergone EUS-FNB for metastatic solid liver masses. Almost masses were located at left lobe. Most common diagnosis was pancreatic cancer.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>RESULTS–1. Baseline Characteristics
+Total number of patients	25
+Age, mean±SD (range), years	64.8±15.0 (25‒87)
+Male / Female, n	9 / 12
+Location of tumor, n
+	Left lobe / Right lobe	24 / 1
+Size of tumor, mm, n (%)
+	Median (range)	31 (14‒70)
+	&lt; 20		 8 (32.0)
+	20‒30	 8 (32.0)
+	&gt; 30		 9 (36.0)
+Final diagnosis, n (%)
+	Pancreatic cancer	11 (44.0)
+	Metastatic neuroendocrine tumor	 5 (20.0)
+	Colon cancer	 3 (12.0)
+	Stomach cancer	 2 ( 8.0)
+	Gallbladder cancer	 2 ( 8.0)
+	Ampulla of Vater cancer	 2 ( 8.0)
+*SD, standard deviation
+DIGESTIVE DISEASE CENTER SOON CHUN HYANG UNIVERSITY HOSPITAL</text>
+		</slide>
+		<slide index="15" title="RESULTS–2. Technical Outcomes of EUS-FNB (n=34)" titleNormalized="results–2. technical outcomes of eus-fnb (n=34)" src="slide16.swf" size="3034" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.4290003"/>
+			</animationSteps>
+			<notes>The median number of needle passes for diagnosis was 1 with interquartile range of 1 to 2. Acquired samples were adequate for cytohistologic evaluation 100%, 96%, 92% and 84% respectively.</notes>
+			<notesNormalized>the median number of needle passes for diagnosis was 1 with interquartile range of 1 to 2. acquired samples were adequate for cytohistologic evaluation 100%, 96%, 92% and 84% respectively.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The median number of needle passes for diagnosis was 1 with interquartile range of 1 to 2. Acquired samples were adequate for cytohistologic evaluation 100%, 96%, 92% and 84% respectively.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>RESULTS–2. Technical Outcomes of EUS-FNB (n=34)
+Number of needle passes for diagnosis
+	Median (range)	1.0 (1‒4)
+	Interquartile range	1.0‒2.0
+Technical success, n (%)	25 (100)
+Adequate specimen, n (%)
+	On-site cytology	25 (100)
+	Cytology with PAP stain	24 ( 96)
+	Histology with H&amp;E stain	23 ( 92)
+	Histology with IHC stain	21 ( 84)
+Complications, n	 0 ( 0)
+DIGESTIVE DISEASE CENTER SOON CHUN HYANG UNIVERSITY HOSPITAL</text>
+		</slide>
+		<slide index="16" title="RESULTS–3. Diagnostic Yield of EUS-FNB of Metastatic Solid Liver Mass for Malignancy (n=25)" titleNormalized="results–3. diagnostic yield of eus-fnb of metastatic solid liver mass for malignancy (n=25)" src="slide17.swf" size="3062" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.6389994"/>
+			</animationSteps>
+			<notes>Diagnostic yields for malignancy were 100% in on-site cytology, 92% in cytology and 84% in histology. Diagnostic accuracy for the specific tumor type was 80%.</notes>
+			<notesNormalized>diagnostic yields for malignancy were 100% in on-site cytology, 92% in cytology and 84% in histology. diagnostic accuracy for the specific tumor type was 80%.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Diagnostic yields for malignancy were 100% in on-site cytology, 92% in cytology and 84% in histology. Diagnostic accuracy for the specific tumor type was 80%.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>RESULTS–3. Diagnostic Yield of EUS-FNB of Metastatic Solid Liver Mass for Malignancy (n=25)
+Positive for malignancy, n (%)
+	On-site cytology	 25 (100)
+	Cytology with PAP stain	 23 ( 92)
+	Histology using H&amp;E stain	 21 ( 84)
+Overall diagnostic accuracy	100
+ for malignancy (%)
+Diagnostic accuracy	 80 (64.3‒95.7)
+ for specific tumor type, % (95% CI)
+*CI, confidential incidence
+DIGESTIVE DISEASE CENTER SOON CHUN HYANG UNIVERSITY HOSPITAL</text>
+		</slide>
+		<slide index="17" title="CONCLUSION" titleNormalized="conclusion" src="slide18.swf" size="2377" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.4190001"/>
+			</animationSteps>
+			<notes>In conclusion, EUS-guided sampling for metastatic solid liver masses may be helpful in the management of patients who need to get a accurate histopathological diagnosis. Thank you for your attention.</notes>
+			<notesNormalized>in conclusion, eus-guided sampling for metastatic solid liver masses may be helpful in the management of patients who need to get a accurate histopathological diagnosis. thank you for your attention.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In conclusion, EUS-guided sampling for metastatic solid liver masses may be helpful in the management of patients who need to get a accurate histopathological diagnosis. Thank you for your attention.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CONCLUSION
+ EUS-guided sampling for metastatic solid liver masses may be helpful in the management of patients who need to get a accurate histopathological diagnosis.
+DIGESTIVE DISEASE CENTER SOON CHUN HYANG UNIVERSITY HOSPITAL</text>
+		</slide>
+	</slides>
+</presentation>
