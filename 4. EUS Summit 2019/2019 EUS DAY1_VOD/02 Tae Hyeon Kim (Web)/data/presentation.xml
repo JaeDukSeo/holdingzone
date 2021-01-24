@@ -1,0 +1,1054 @@
+<?xml version="1.0"?>
+<presentation title="02 Tae Hyeon Kim" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{C24887DA-9C75-403B-8BC9-B0BB35DA68CE}">
+	<presenters>
+		<presenter name="Tae Hyeon Kim" title="Korea" email="" web="" phone="" photoAssetId="">
+			<bio>Contrast Enhanced Harmonic EUS in PCL</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="256045" duration="9144"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="821439" duration="29337"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="1293211" duration="46186"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="920182" duration="32863"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="235565" duration="8413"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="498879" duration="17817"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="975771" duration="34848"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="1375131" duration="49111"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="977234" duration="34901"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="743908" duration="26568"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="975771" duration="34848"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="762194" duration="27221"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="320411" duration="11443"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="389165" duration="13898"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="1329782" duration="47492"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="1394148" duration="49791"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="352594" duration="12592"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="648822" duration="23172"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="642971" duration="22963"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="535451" duration="19123"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="838994" duration="29964"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="735131" duration="26254"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="1026239" duration="36651"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="223131" duration="7968"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="501805" duration="17921"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="672228" duration="24008"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="66605" duration="2378"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="9.1090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="29.2959995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="46.1459999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="32.8300000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="8.3750000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="17.7800000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="34.7999992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="49.0820000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="34.8680000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="26.5270000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="34.8009987"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="27.1900000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="11.4099998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="13.8470000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="47.4470000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="49.7500000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="12.5460000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="23.1200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="22.9200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="19.0860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="29.9300000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="26.2259998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="36.5999985"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="7.9410000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="17.8850000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="23.9570000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="2.3360000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Contrast Enhanced Harmonic EUS in PCL" titleNormalized="contrast enhanced harmonic eus in pcl" src="slide1.swf" size="564500" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.1089997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+Division of biliopancreas, Department of Internal Medicine, Wonkwang University Hospital, Iksan, Korea 
+Tae Hyeon Kim 
+Contrast Enhanced Harmonic EUS in PCL</text>
+		</slide>
+		<slide index="1" title="Classification of Pancreatic Cysts" titleNormalized="classification of pancreatic cysts" src="slide2.swf" size="94825" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.2949995"/>
+			</animationSteps>
+			<notes>	Mucinous 와 nonmuci 을 구분하는 것이 중요하다
+	결국이는 수술할 것인가 추적할 것인 가를 결정할 수 있기 때문이다.
+
+
+	Associated with von Hippel–Lindau disease, autosomal -dominant polycystic kidney disease, and cystic fibrosis)
+
+•	Benign lesion
+	•	 observation or 
+        medical management
+
+
+•	 Premalignant or malignant potential
+	•	surgical resection
+
+
+
+Although for many years the most common
+pancreatic cyst was believed to be a pseudocyst,
+cystic pancreatic neoplasms, serous cystadenoma,
+mucinous cystic tumor (MCT), and intraductal
+papillary mucinous tumors (IPMTs) now account
+for most of the pancreatic cysts seen in asymptomatic
+individuals.5 Cystic pancreatic tumors are most
+often benign or low-grade indolent neoplasms;
+however, if the cyst is mucinous (eg, intraductal
+papillary mucinous neoplasm or MCT), a variable
+but well-established malignant potential exists.6,7</notes>
+			<notesNormalized>	mucinous 와 nonmuci 을 구분하는 것이 중요하다
+	결국이는 수술할 것인가 추적할 것인 가를 결정할 수 있기 때문이다.
+
+
+	associated with von hippel–lindau disease, autosomal -dominant polycystic kidney disease, and cystic fibrosis)
+
+•	benign lesion
+	•	 observation or 
+ medical management
+
+
+•	 premalignant or malignant potential
+	•	surgical resection
+
+
+
+although for many years the most common
+pancreatic cyst was believed to be a pseudocyst,
+cystic pancreatic neoplasms, serous cystadenoma,
+mucinous cystic tumor (mct), and intraductal
+papillary mucinous tumors (ipmts) now account
+for most of the pancreatic cysts seen in asymptomatic
+individuals.5 cystic pancreatic tumors are most
+often benign or low-grade indolent neoplasms;
+however, if the cyst is mucinous (eg, intraductal
+papillary mucinous neoplasm or mct), a variable
+but well-established malignant potential exists.6,7</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="17"&gt;	Mucinous 와 nonmuci 을 구분하는 것이 중요하다&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="17"&gt;	결국이는 수술할 것인가 추적할 것인 가를 결정할 수 있기 때문이다.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="17"&gt;	Associated with von Hippel–Lindau disease, autosomal -dominant polycystic kidney disease, and cystic fibrosis)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="28"&gt;•	Benign lesion&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="28"&gt;	•	 observation or &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="28"&gt;        medical management&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="28"&gt;•	 Premalignant or malignant potential&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="28"&gt;	•	surgical resection&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Although for many years the most common&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;pancreatic cyst was believed to be a pseudocyst,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;cystic pancreatic neoplasms, serous cystadenoma,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;mucinous cystic tumor (MCT), and intraductal&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;papillary mucinous tumors (IPMTs) now account&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;for most of the pancreatic cysts seen in asymptomatic&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;individuals.5 Cystic pancreatic tumors are most&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;often benign or low-grade indolent neoplasms;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;however, if the cyst is mucinous (eg, intraductal&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;papillary mucinous neoplasm or MCT), a variable&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;but well-established malignant potential exists.6,7&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Classification of Pancreatic Cysts</text>
+		</slide>
+		<slide index="2" title="Imaging studies for pancreatic cystic lesions" titleNormalized="imaging studies for pancreatic cystic lesions" src="slide3.swf" size="4638" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="46.1449999"/>
+			</animationSteps>
+			<notes>For this discrimination, we performed CT and MRI and EUS
+
+Radiographics; MR
+Soft-tissue contrast is the major strength of MR imaging, which allows optimal depiction of the internal features of pancreatic cysts. With clearer depiction of septa and other cyst contents as well as the pancreatic ductal system, a more specific diagnosis can be achieved in many cases (4–7).</notes>
+			<notesNormalized>for this discrimination, we performed ct and mri and eus
+
+radiographics; mr
+soft-tissue contrast is the major strength of mr imaging, which allows optimal depiction of the internal features of pancreatic cysts. with clearer depiction of septa and other cyst contents as well as the pancreatic ductal system, a more specific diagnosis can be achieved in many cases (4–7).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;For this discrimination, we performed CT and MRI and EUS&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Radiographics; MR&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Soft-tissue contrast is the major strength of MR imaging, which allows optimal depiction of the internal features of pancreatic cysts. With clearer depiction of septa and other cyst contents as well as the pancreatic ductal system, a more specific diagnosis can be achieved in many cases (4–7).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Imaging studies for pancreatic cystic lesions
+Cyst morphology
+Communication between cyst and PD
+Yes: Pseudocyst, IPMN
+No: MCN, SCN, SPEN, Lymphoepithelial cyst
+Mural nodule in cyst: correlated with malignancy risk
+Visualization of mural nodules in BD‑IPMN is often difficult on CE‑CT and MRI.
+EUS is a very useful modality
+
+UWonkwang</text>
+		</slide>
+		<slide index="3" title="EUS for PCL: B-mode Imaging" titleNormalized="eus for pcl: b-mode imaging" src="slide4.swf" size="238504" advanceOnTime="1" framesCount="381" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_25b9c3d0.spr0_1985703" slides="1" repeat="untilNextSlide" volume="0.8000000" posterFrameId="ispring.resources_25b9c3d0.spr2_1985703" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video1" videoClipId="ispring.resources_25b9c3d0.spr0_2007281" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_25b9c3d0.spr2_2007281" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="380" playTime="15.8333333" pauseTime="16.9966685"/>
+			</animationSteps>
+			<notes>376476 한덕임 
+
+CT 는 특징적인 morphological feature 가 있다면 정확한 진단이 가능할 수 있다. 
+
+diagnostic accuracies of CT in the differential diagnosis have been reported to be variable, ranging from
+20% to 90%.
+
+Study design 에 따라서 다르게 나타났을 것으로 생각됨.
+특히 단순하게 benign lesion과 malignant 병변을 감별하는데는 다소 높은 정확 도를 보일 수 있다.
+ 
+그러나 CT 상 internal septa 나 small intramural nodule 을 발견하는것은 쉽지 않으며, 실제로 CT 상에서는 macrocystic SCA 같이 보이나 EUS 를 해보면 Mutilocular 양상으로 보이는 경우가 있기 때문이다. </notes>
+			<notesNormalized>376476 한덕임 
+
+ct 는 특징적인 morphological feature 가 있다면 정확한 진단이 가능할 수 있다. 
+
+diagnostic accuracies of ct in the differential diagnosis have been reported to be variable, ranging from
+20% to 90%.
+
+study design 에 따라서 다르게 나타났을 것으로 생각됨.
+특히 단순하게 benign lesion과 malignant 병변을 감별하는데는 다소 높은 정확 도를 보일 수 있다.
+ 
+그러나 ct 상 internal septa 나 small intramural nodule 을 발견하는것은 쉽지 않으며, 실제로 ct 상에서는 macrocystic sca 같이 보이나 eus 를 해보면 mutilocular 양상으로 보이는 경우가 있기 때문이다.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;376476 한덕임 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;CT 는 특징적인 morphological feature 가 있다면 정확한 진단이 가능할 수 있다. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;diagnostic accuracies of CT in the differential diagnosis have been reported to be variable, ranging from&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;20% to 90%.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Study design 에 따라서 다르게 나타났을 것으로 생각됨.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;특히 단순하게 benign lesion과 malignant 병변을 감별하는데는 다소 높은 정확 도를 보일 수 있다.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;그러나 CT 상 internal septa 나 small intramural nodule 을 발견하는것은 쉽지 않으며, 실제로 CT 상에서는 macrocystic SCA 같이 보이나 EUS 를 해보면 Mutilocular 양상으로 보이는 경우가 있기 때문이다. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>
+
+EUS for PCL: B-mode Imaging
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Provides detailed imaging of inner cystic structure
+Septations (thick or thin)
+Mural nodule
+Cyst wall
+ 
+Displays the pancreatic parenchyma in the fine detail
+</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="151391" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.3740000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="5" title="Mural nodule size &gt; 5 mm on EUS imaging may affect malignancy rate in BD-IPMN" titleNormalized="mural nodule size &gt; 5 mm on eus imaging may affect malignancy rate in bd-ipmn" src="slide6.swf" size="65901" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.7790007"/>
+			</animationSteps>
+			<notes>The ROC curve was drawn to determine the cutoff value of mural
+nodule size on EUS (n=110) for predicting malignant BD-IPMNs
+(Fig. 3). The mural nodule size of 5 mm was chosen with sensitivity
+of 84% (95% CI, 63.9%e95.5%) and specificity of 77.7 (95% CI,
+67.3%e86.0%). The AUCs for the mural nodule size of 5 mm were
+0.855.</notes>
+			<notesNormalized>the roc curve was drawn to determine the cutoff value of mural
+nodule size on eus (n=110) for predicting malignant bd-ipmns
+(fig. 3). the mural nodule size of 5 mm was chosen with sensitivity
+of 84% (95% ci, 63.9%e95.5%) and specificity of 77.7 (95% ci,
+67.3%e86.0%). the aucs for the mural nodule size of 5 mm were
+0.855.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The ROC curve was drawn to determine the cutoff value of mural&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;nodule size on EUS (n=110) for predicting malignant BD-IPMNs&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;(Fig. 3). The mural nodule size of 5 mm was chosen with sensitivity&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;of 84% (95% CI, 63.9%e95.5%) and specificity of 77.7 (95% CI,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;67.3%e86.0%). The AUCs for the mural nodule size of 5 mm were&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;0.855.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Mural nodule size &gt; 5 mm on EUS imaging may affect malignancy rate in BD-IPMN
+
+
+
+ 
+95% CI
+OR
+P value
+MN size &gt; 5 mm 
+on EUS 
+5.296-72.213
+19.6
+&lt;0.0001
+Kim TH et al. Pancreatology 2015
+
+UWonkwang</text>
+		</slide>
+		<slide index="6" title="Revisions of international consensus Fukuoka guideline 2017" titleNormalized="revisions of international consensus fukuoka guideline 2017" src="slide7.swf" size="155063" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.7989992"/>
+			</animationSteps>
+			<notes>the presence of mural  nodules is a very important factor for deciding therapeutic strategies for BD‑IPMN.
+
+Laoratory results investigated with norm al range including tumor marker. 
+
+
+Surgical resection should be considered for pancreatic cystic lesions if a mural nodule is detected by CH-EUS, even if EUS-FNA does not show malignancy.</notes>
+			<notesNormalized>the presence of mural nodules is a very important factor for deciding therapeutic strategies for bd‑ipmn.
+
+laoratory results investigated with norm al range including tumor marker. 
+
+
+surgical resection should be considered for pancreatic cystic lesions if a mural nodule is detected by ch-eus, even if eus-fna does not show malignancy.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;the presence of mural  nodules is a very important factor for deciding therapeutic strategies for BD‑IPMN.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Laoratory results investigated with norm al range including tumor marker. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Surgical resection should be considered for pancreatic cystic lesions if a mural nodule is detected by CH-EUS, even if EUS-FNA does not show malignancy.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Revisions of international consensus Fukuoka guideline 2017
+Tanaka M et al. pancreatology 2017</text>
+		</slide>
+		<slide index="7" title="Mural Nodule: True or False" titleNormalized="mural nodule: true or false" src="slide8.swf" size="327201" advanceOnTime="1" framesCount="614" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="613" playTime="25.5416667" pauseTime="23.5403341"/>
+			</animationSteps>
+			<notes>851872 양숙자 
+
+1. Pancreas: Intraductal papillary mucinous neoplasm with intermediate to high-grade dysplasia 
+  1) Tumor size: 3.2 cm
+  2) Histopathological type: Pancreatobiliary type
+  3) Resection margins;
+      - Pancreatic margin: No tumor present
+      - Duodenal margin: No tumor present
+  4) Regional lymph nodes;
+      - No metastasis out of 6 lymph nodes 
+         (Frozen:0/2, labelled as 'CBD':0/4)
+  5) Labelled as 'CBD': Nonspecific reactive lymph nodes only
+ 2. Gallbladder: Chronic cholecystitis</notes>
+			<notesNormalized>851872 양숙자 
+
+1. pancreas: intraductal papillary mucinous neoplasm with intermediate to high-grade dysplasia 
+ 1) tumor size: 3.2 cm
+ 2) histopathological type: pancreatobiliary type
+ 3) resection margins;
+ - pancreatic margin: no tumor present
+ - duodenal margin: no tumor present
+ 4) regional lymph nodes;
+ - no metastasis out of 6 lymph nodes 
+ (frozen:0/2, labelled as 'cbd':0/4)
+ 5) labelled as 'cbd': nonspecific reactive lymph nodes only
+ 2. gallbladder: chronic cholecystitis</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;851872 양숙자 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;1. Pancreas: Intraductal papillary mucinous neoplasm with intermediate to high-grade dysplasia &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;  1) Tumor size: 3.2 cm&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;  2) Histopathological type: Pancreatobiliary type&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;  3) Resection margins;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;      - Pancreatic margin: No tumor present&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;      - Duodenal margin: No tumor present&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;  4) Regional lymph nodes;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;      - No metastasis out of 6 lymph nodes &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;         (Frozen:0/2, labelled as &amp;apos;CBD&amp;apos;:0/4)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;  5) Labelled as &amp;apos;CBD&amp;apos;: Nonspecific reactive lymph nodes only&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; 2. Gallbladder: Chronic cholecystitis&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Mural Nodule: True or False
+Mural nodule
+Iso or hyperechoic compared adjacent tissue
+Lack of mobility
+Not smooth edged
+Not hyperechoic rim
+Mucus plug
+Hypoechoic compared adjacent tissue 
+Change according to position
+Smooth edge
+Hyperechoic rim</text>
+		</slide>
+		<slide index="8" title="Mural Nodules: Can We Do Better?" titleNormalized="mural nodules: can we do better?" src="slide9.swf" size="250373" advanceOnTime="1" framesCount="942" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_25c36bb0.spr0_2031375" slides="1" repeat="untilNextSlide" volume="0.8000000" posterFrameId="ispring.resources_25c36bb0.spr2_2031375" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video3" videoClipId="ispring.resources_25c36bb0.spr0_2045546" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_25c36bb0.spr2_2045546" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="543" videoId="video2" startPos="0.0000000"/>
+				<playVideo frameIndex="340" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="941" playTime="34.8699989" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>Highly echoic round structure is visible in the cyst, but CH-EUS this lesion not enhanced.
+
+
+조종백 1006702. Invasive ductal adenocarcinoma with intraductal papillary mucinous neoplasm (IPMN) with intermediate to high-grade dysplasia
+
+Mural nodules were classified into 4 types: type I (low papillary nodule) was defined as low, fine, protruding components in the cyst wall or MPD epithelium; type II (polypoid nodule), as a smooth-surfaced component protruding into the cyst or MPD; type III (papillary nodule), as a protruding component with a thickened cyst wall or MPD epithelium or with an irregular, villous structure; and type IV (invasive nodule), as a lesion in which papillary nodules were connected to a hypoechoic area ill-defined from the pancreatic parenchyma.25</notes>
+			<notesNormalized>highly echoic round structure is visible in the cyst, but ch-eus this lesion not enhanced.
+
+
+조종백 1006702. invasive ductal adenocarcinoma with intraductal papillary mucinous neoplasm (ipmn) with intermediate to high-grade dysplasia
+
+mural nodules were classified into 4 types: type i (low papillary nodule) was defined as low, fine, protruding components in the cyst wall or mpd epithelium; type ii (polypoid nodule), as a smooth-surfaced component protruding into the cyst or mpd; type iii (papillary nodule), as a protruding component with a thickened cyst wall or mpd epithelium or with an irregular, villous structure; and type iv (invasive nodule), as a lesion in which papillary nodules were connected to a hypoechoic area ill-defined from the pancreatic parenchyma.25</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Highly echoic round structure is visible in the cyst, but CH-EUS this lesion not enhanced.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;조종백 1006702. Invasive ductal adenocarcinoma with intraductal papillary mucinous neoplasm (IPMN) with intermediate to high-grade dysplasia&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Mural nodules were classified into 4 types: type I (low papillary nodule) was defined as low, fine, protruding components in the cyst wall or MPD epithelium; type II (polypoid nodule), as a smooth-surfaced component protruding into the cyst or MPD; type III (papillary nodule), as a protruding component with a thickened cyst wall or MPD epithelium or with an irregular, villous structure; and type IV (invasive nodule), as a lesion in which papillary nodules were connected to a hypoechoic area ill-defined from the pancreatic parenchyma.25&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Mural Nodules: Can We Do Better?
+Contrasts enhanced harmonic EUS
+
+Injected contrast agent visualizes vascularity of nodules
+
+Differentiates mural nodules from mucus</text>
+		</slide>
+		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="294998" advanceOnTime="1" framesCount="361" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_336f0b00.spr0_2050265" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_336f0b00.spr2_2050265" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="360" playTime="15.0000000" pauseTime="11.5270004"/>
+			</animationSteps>
+			<notes>In the cyst, amorphous heterogenous lesion was seen. 
+
+Mucin attached on cystic wall of pancreas, mucin aspirated from cyst.</notes>
+			<notesNormalized>in the cyst, amorphous heterogenous lesion was seen. 
+
+mucin attached on cystic wall of pancreas, mucin aspirated from cyst.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In the cyst, amorphous heterogenous lesion was seen. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Mucin attached on cystic wall of pancreas, mucin aspirated from cyst.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="10" title="" titleNormalized="" src="slide11.swf" size="110121" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.7999987"/>
+			</animationSteps>
+			<notes>FB-EUS and CH-EUS for diagnosing mucinous and malignant cysts When the presence of a mural nodule was considered indicative of a mucinous cyst, CH-EUS tended to be more accurate than FBEUS; however, there was no statistically significant difference (● " Table 2).</notes>
+			<notesNormalized>fb-eus and ch-eus for diagnosing mucinous and malignant cysts when the presence of a mural nodule was considered indicative of a mucinous cyst, ch-eus tended to be more accurate than fbeus; however, there was no statistically significant difference (● " table 2).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;FB-EUS and CH-EUS for diagnosing mucinous and malignant cysts When the presence of a mural nodule was considered indicative of a mucinous cyst, CH-EUS tended to be more accurate than FBEUS; however, there was no statistically significant difference (● &amp;quot; Table 2).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>P= 0.057 (McNemar’s test)
+Kamata K et al. Endoscopy 2016
+When the presence of a mural nodule was considered indicative of a mucinous cyst
+CH-EUS tended to be more accurate than FBEUS.</text>
+		</slide>
+		<slide index="11" title="Can CE-EUS predict malignancy risk in IPMN?" titleNormalized="can ce-eus predict malignancy risk in ipmn?" src="slide12.swf" size="361780" advanceOnTime="1" framesCount="606" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video5" videoClipId="ispring.resources_336ed760.spr0_2056406" slides="1" repeat="untilNextSlide" volume="0.8000000" posterFrameId="ispring.resources_336ed760.spr2_2056406" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video6" videoClipId="ispring.resources_336ee8e0.spr0_2087000" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_336ee8e0.spr2_2087000" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video5" startPos="0.0000000"/>
+				<playVideo frameIndex="83" videoId="video6" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="605" playTime="25.2083333" pauseTime="1.9816672"/>
+			</animationSteps>
+			<notes>조종백 1006702. Invasive ductal adenocarcinoma with intraductal papillary mucinous neoplasm (IPMN) with intermediate to high-grade dysplasia.
+
+
+Only one Yamamoto et al. analyzed the time intensity curve in resected IPMNs who underwent CHEUS. The echo intensity change, echo intensity reduction rate of the mural nodule and the nodule/pancreatic parenchyma contrast ratio were significantly higher in high-grade dysplasia. 
+Yamamoto et al. analyzed the time intensity curve in resected IPMNs who underwent CHEUS. The echo intensity change, echo intensity reduction rate of the mural nodule and the nodule/pancreatic parenchyma contrast ratio were significantly higher in high-grade dysplasia. </notes>
+			<notesNormalized>조종백 1006702. invasive ductal adenocarcinoma with intraductal papillary mucinous neoplasm (ipmn) with intermediate to high-grade dysplasia.
+
+
+only one yamamoto et al. analyzed the time intensity curve in resected ipmns who underwent cheus. the echo intensity change, echo intensity reduction rate of the mural nodule and the nodule/pancreatic parenchyma contrast ratio were significantly higher in high-grade dysplasia. 
+yamamoto et al. analyzed the time intensity curve in resected ipmns who underwent cheus. the echo intensity change, echo intensity reduction rate of the mural nodule and the nodule/pancreatic parenchyma contrast ratio were significantly higher in high-grade dysplasia.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;조종백 1006702. Invasive ductal adenocarcinoma with intraductal papillary mucinous neoplasm (IPMN) with intermediate to high-grade dysplasia.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Only one Yamamoto et al. analyzed the time intensity curve in resected IPMNs who underwent CHEUS. The echo intensity change, echo intensity reduction rate of the mural nodule and the nodule/pancreatic parenchyma contrast ratio were significantly higher in high-grade dysplasia. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Yamamoto et al. analyzed the time intensity curve in resected IPMNs who underwent CHEUS. The echo intensity change, echo intensity reduction rate of the mural nodule and the nodule/pancreatic parenchyma contrast ratio were significantly higher in high-grade dysplasia. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Can CE-EUS predict malignancy risk in IPMN?
+Invasive cancer, IPMN</text>
+		</slide>
+		<slide index="12" title="Can CE-EUS predict malignancy risk in IPMN?" titleNormalized="can ce-eus predict malignancy risk in ipmn?" src="slide13.swf" size="85229" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.4089998"/>
+			</animationSteps>
+			<notes>However, I tried to find evidence of this question. 
+But a few papers published</notes>
+			<notesNormalized>however, i tried to find evidence of this question. 
+but a few papers published</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;However, I tried to find evidence of this question. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;But a few papers published&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>It is usually difficult to distinguish maligancy and low-grade dysplasia by the pattern of enhancement. 
+Fujita, et al EUS 2016
+Can CE-EUS predict malignancy risk in IPMN?</text>
+		</slide>
+		<slide index="13" title="IPMNs of the Pancreas: Differentiation of Malignant and Benign Tumors by CE-EUS Findings of Mural Nodules" titleNormalized="ipmns of the pancreas: differentiation of malignant and benign tumors by ce-eus findings of mural nodules" src="slide14.swf" size="327524" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.8490004"/>
+			</animationSteps>
+			<notes>FIGURE 1. Type I: A, EUS revealed a BD-type IPMN in the pancreatic body, and the cystic wall contained 1 to 2 mm fine, papillary, protruding components. B, CE-EUS revealed a blood flow signal in the fine protruding components. C, The resected pathologic tissue contained a multilocular cystic lesion. D, A high-power image (20) reflected the irregularities of the cystic wall. The pathologic diagnosis was adenoma.
+
+FIGURE 2. Type II: A, EUS showed a relatively smooth-surfaced component protruding into the MPD. B, CE-EUS revealed a blood flow signal in the protruding component. C, A polypoid lesion protruding in the dilated MPD was observed in the formalin-fixed resected specimen. D, Under high-power magnification (20), a solitary protruding lesion was present in the MPD. The pathologic diagnosis was adenoma.
+FIGURE 3. Type III. A, EUS showed an irregularly surfaced, large, protruding lesion in the dilated MPD. B, CE-EUS revealed an abundant blood-flow signal in the lesion. C, Histologic sections showed a polypoid tumor with a polypoid, irregular structure occupying the MPD lumen. D, Under high-power magnification (20), a villous papillary structure composed of thick branched papillae. The pathologic diagnosis was IPMC with minimally invasion.
+
+FIGURE 4. Type IV: A, EUS revealed papillary nodules in the cystic lesion (arrow) continuous with hypoechoic area (arrow head) ill-defined from the pancreatic parenchyma, with dilatation of the bile duct upstream. B, On CE-EUS, weak contrast enhancement was detected in the lesion. C, Histologic sections showed features of an invasive IPMN invading the pancreatic parenchyma. D, Under high-power magnification (20), moderately differentiated adenocarcinoma was found near by the CIS lesion. The pathologic diagnosis was moderately differentiated tubular adenocarcinoma derived from IPMN.</notes>
+			<notesNormalized>figure 1. type i: a, eus revealed a bd-type ipmn in the pancreatic body, and the cystic wall contained 1 to 2 mm fine, papillary, protruding components. b, ce-eus revealed a blood flow signal in the fine protruding components. c, the resected pathologic tissue contained a multilocular cystic lesion. d, a high-power image (20) reflected the irregularities of the cystic wall. the pathologic diagnosis was adenoma.
+
+figure 2. type ii: a, eus showed a relatively smooth-surfaced component protruding into the mpd. b, ce-eus revealed a blood flow signal in the protruding component. c, a polypoid lesion protruding in the dilated mpd was observed in the formalin-fixed resected specimen. d, under high-power magnification (20), a solitary protruding lesion was present in the mpd. the pathologic diagnosis was adenoma.
+figure 3. type iii. a, eus showed an irregularly surfaced, large, protruding lesion in the dilated mpd. b, ce-eus revealed an abundant blood-flow signal in the lesion. c, histologic sections showed a polypoid tumor with a polypoid, irregular structure occupying the mpd lumen. d, under high-power magnification (20), a villous papillary structure composed of thick branched papillae. the pathologic diagnosis was ipmc with minimally invasion.
+
+figure 4. type iv: a, eus revealed papillary nodules in the cystic lesion (arrow) continuous with hypoechoic area (arrow head) ill-defined from the pancreatic parenchyma, with dilatation of the bile duct upstream. b, on ce-eus, weak contrast enhancement was detected in the lesion. c, histologic sections showed features of an invasive ipmn invading the pancreatic parenchyma. d, under high-power magnification (20), moderately differentiated adenocarcinoma was found near by the cis lesion. the pathologic diagnosis was moderately differentiated tubular adenocarcinoma derived from ipmn.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;FIGURE 1. Type I: A, EUS revealed a BD-type IPMN in the pancreatic body, and the cystic wall contained 1 to 2 mm fine, papillary, protruding components. B, CE-EUS revealed a blood flow signal in the fine protruding components. C, The resected pathologic tissue contained a multilocular cystic lesion. D, A high-power image (20) reflected the irregularities of the cystic wall. The pathologic diagnosis was adenoma.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;FIGURE 2. Type II: A, EUS showed a relatively smooth-surfaced component protruding into the MPD. B, CE-EUS revealed a blood flow signal in the protruding component. C, A polypoid lesion protruding in the dilated MPD was observed in the formalin-fixed resected specimen. D, Under high-power magnification (20), a solitary protruding lesion was present in the MPD. The pathologic diagnosis was adenoma.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;FIGURE 3. Type III. A, EUS showed an irregularly surfaced, large, protruding lesion in the dilated MPD. B, CE-EUS revealed an abundant blood-flow signal in the lesion. C, Histologic sections showed a polypoid tumor with a polypoid, irregular structure occupying the MPD lumen. D, Under high-power magnification (20), a villous papillary structure composed of thick branched papillae. The pathologic diagnosis was IPMC with minimally invasion.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;FIGURE 4. Type IV: A, EUS revealed papillary nodules in the cystic lesion (arrow) continuous with hypoechoic area (arrow head) ill-defined from the pancreatic parenchyma, with dilatation of the bile duct upstream. B, On CE-EUS, weak contrast enhancement was detected in the lesion. C, Histologic sections showed features of an invasive IPMN invading the pancreatic parenchyma. D, Under high-power magnification (20), moderately differentiated adenocarcinoma was found near by the CIS lesion. The pathologic diagnosis was moderately differentiated tubular adenocarcinoma derived from IPMN.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Type I Type II
+Type III Type IV
+fine, papillary
+Small protruding 
+papillary nodules in cyst with hypoechoic area 
+large, protruding lesion 
+Ohno E, et al. Ann Sug 2009
+IPMNs of the Pancreas: Differentiation of Malignant and Benign Tumors by CE-EUS Findings of Mural Nodules</text>
+		</slide>
+		<slide index="14" title="Intraductal Papillary Mucinous Neoplasms of the Pancreas Differentiation of Malignant and Benign Tumors by Endoscopic Ultrasound Findings of Mural Nodules" titleNormalized="intraductal papillary mucinous neoplasms of the pancreas differentiation of malignant and benign tumors by endoscopic ultrasound findings of mural nodules" src="slide15.swf" size="49610" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="47.4490008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>types III and IV mural nodules were more frequently associated with malignancy, particularly invasive cancer, at 88.9% and 91.7%, respectively. 
+Ohno E, et al. Ann Sug 2009
+Intraductal Papillary Mucinous Neoplasms of the Pancreas Differentiation of Malignant and Benign Tumors by Endoscopic Ultrasound Findings of Mural Nodules</text>
+		</slide>
+		<slide index="15" title="ROC for the diagnosis of malignant cyst based on mural nodule height on FB-EUS and CH-EUS" titleNormalized="roc for the diagnosis of malignant cyst based on mural nodule height on fb-eus and ch-eus" src="slide16.swf" size="34247" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="49.7490000"/>
+			</animationSteps>
+			<notes>In conclusion, our study shows that, compared with FB-EUS, CHEUS
+is better at discriminating mural nodules from mucus clots
+and more accurately distinguishes between malignant and benign
+pancreatic cysts. These advantages may help to reduce the
+number of unnecessary surgical procedures in patients with nonmalignant
+cysts.</notes>
+			<notesNormalized>in conclusion, our study shows that, compared with fb-eus, cheus
+is better at discriminating mural nodules from mucus clots
+and more accurately distinguishes between malignant and benign
+pancreatic cysts. these advantages may help to reduce the
+number of unnecessary surgical procedures in patients with nonmalignant
+cysts.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In conclusion, our study shows that, compared with FB-EUS, CHEUS&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;is better at discriminating mural nodules from mucus clots&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;and more accurately distinguishes between malignant and benign&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;pancreatic cysts. These advantages may help to reduce the&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;number of unnecessary surgical procedures in patients with nonmalignant&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;cysts.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>ROC for the diagnosis of malignant cyst based on mural nodule height on FB-EUS and CH-EUS
+For diagnosis of malignant cysts, the optimal cutoff value of mural nodule height for was 8mm for FB-EUS and 4mm for CH-EUS. The areas under the ROCs for FB-EUS and CH-EUS were 0.84 and 0.93, respectively (P=0.028).
+ 
+This result suggested that CH-EUS was superior to FB-EUS in distinguishing between malignant and benign cysts.
+Kamata K et al. Endoscopy 2016</text>
+		</slide>
+		<slide index="16" title="Vascular patterns in nodules of IPMNs depicted under CE-ultrasonography are helpful for evaluating malignant potential" titleNormalized="vascular patterns in nodules of ipmns depicted under ce-ultrasonography are helpful for evaluating malignant potential" src="slide17.swf" size="30889" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.5490002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Vascular patterns in nodules of IPMNs depicted under CE-ultrasonography are helpful for evaluating malignant potential
+Kurihara N et al. E J Radiology 2010
+Branch type were more frequently associated with size and carcinoma.</text>
+		</slide>
+		<slide index="17" title="82/F" titleNormalized="82/f" src="slide18.swf" size="529390" advanceOnTime="1" framesCount="403" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video7" videoClipId="ispring.resources_3339f0f0.spr0_2115875" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_3339f0f0.spr2_2115875" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video7" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="402" playTime="16.7500000" pauseTime="6.3700008"/>
+			</animationSteps>
+			<notes>Pancreas &amp; spleen, distal pancreatectomy:
+
+ 1. Pancreas: Intraductal papillary mucinous neoplasm (IPMN) with low to intermediate-grade dysplasia 
+  1) Tumor size: 3 cm
+  2) Histopathological type: Pancreatobiliary type
+  3) Resection margins;
+      - Pancreatic margin: Presence of low-grade IPMN
+  4) Labelled as 'ectopic pancreas': Nonspecific muscular tissue only
+ 2. Spleen: No pathologic finding</notes>
+			<notesNormalized>pancreas &amp; spleen, distal pancreatectomy:
+
+ 1. pancreas: intraductal papillary mucinous neoplasm (ipmn) with low to intermediate-grade dysplasia 
+ 1) tumor size: 3 cm
+ 2) histopathological type: pancreatobiliary type
+ 3) resection margins;
+ - pancreatic margin: presence of low-grade ipmn
+ 4) labelled as 'ectopic pancreas': nonspecific muscular tissue only
+ 2. spleen: no pathologic finding</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Pancreas &amp;amp; spleen, distal pancreatectomy:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; 1. Pancreas: Intraductal papillary mucinous neoplasm (IPMN) with low to intermediate-grade dysplasia &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;  1) Tumor size: 3 cm&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;  2) Histopathological type: Pancreatobiliary type&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;  3) Resection margins;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;      - Pancreatic margin: Presence of low-grade IPMN&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;  4) Labelled as &amp;apos;ectopic pancreas&amp;apos;: Nonspecific muscular tissue only&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; 2. Spleen: No pathologic finding&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Intraductal papillary mucinous neoplasm (IPMN) with low to intermediate-grade dysplasia 
+82/F</text>
+		</slide>
+		<slide index="18" title="75/F, MPD dilatation" titleNormalized="75/f, mpd dilatation" src="slide19.swf" size="364200" advanceOnTime="1" framesCount="530" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video8" videoClipId="ispring.resources_333a4db0.spr0_2145718" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_333a4db0.spr2_2145718" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video8" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="529" playTime="22.0416667" pauseTime="0.8783334"/>
+			</animationSteps>
+			<notes>Pancreas, ERCP biopsy: 
+
+ 1. Biopsy forcep: Benign ductal cells
+ 2. Suction method: Back-to-back tubular glands with cribriformed structure, D/Dx) Tubulopapillary neoplasm, intermediate-to high grade dysplasia</notes>
+			<notesNormalized>pancreas, ercp biopsy: 
+
+ 1. biopsy forcep: benign ductal cells
+ 2. suction method: back-to-back tubular glands with cribriformed structure, d/dx) tubulopapillary neoplasm, intermediate-to high grade dysplasia</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Pancreas, ERCP biopsy: &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; 1. Biopsy forcep: Benign ductal cells&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; 2. Suction method: Back-to-back tubular glands with cribriformed structure, D/Dx) Tubulopapillary neoplasm, intermediate-to high grade dysplasia&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>
+75/F, MPD dilatation</text>
+		</slide>
+		<slide index="19" title="CH-EUS Characteristics of Different PCL" titleNormalized="ch-eus characteristics of different pcl" src="slide20.swf" size="107676" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.0890002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Fusaroli et al. Pancreatology 2016
+CH-EUS Characteristics of Different PCL</text>
+		</slide>
+		<slide index="20" title="" titleNormalized="" src="slide21.swf" size="431349" advanceOnTime="1" framesCount="464" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video9" videoClipId="ispring.resources_333a7890.spr0_2152750" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_333a7890.spr2_2152750" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video10" videoClipId="ispring.resources_333a7890.spr0_2179593" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_333a7890.spr2_2179593" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video9" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video10" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="463" playTime="19.2916667" pauseTime="10.6383336"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="21" title="" titleNormalized="" src="slide22.swf" size="310508" advanceOnTime="1" framesCount="313" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video11" videoClipId="ispring.resources_333a7dd0.spr0_2196968" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_333a7dd0.spr2_2196968" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video11" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="312" playTime="13.0000000" pauseTime="13.2259998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="22" title="75/F, Epigastric pain" titleNormalized="75/f, epigastric pain" src="slide23.swf" size="192060" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.5989985"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>75/F, Epigastric pain</text>
+		</slide>
+		<slide index="23" title="" titleNormalized="" src="slide24.swf" size="135595" advanceOnTime="1" framesCount="395" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video12" videoClipId="ispring.resources_333ab410.spr0_2219015" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_333ab410.spr2_2219015" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video12" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="394" playTime="7.9410000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="24" title="" titleNormalized="" src="slide25.swf" size="343632" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.8840002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ductal adenocarcinoma of the pancreas, moderately differentiated
+ 1) Tumor site: Pancreatic tail
+ 2) Tumor size: 1.2x1.3 cm
+ 3) Regional lymph nodes; No metastasis out of 8 lymph nodes
+</text>
+		</slide>
+		<slide index="25" title="Take home messages" titleNormalized="take home messages" src="slide26.swf" size="3241" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.9589991"/>
+			</animationSteps>
+			<notes>3.1 What are the indications for performing EUS in PCN?
+EUS is recommended as an adjunct to other imaging modalities
+(GRADE 2C, strong agreement).
+EUS is helpful for identifying PCN with features that should be
+considered for surgical resection. Similar to MRI andCT (see 3.1
+statement), EUS is imperfect at identifying the exact type of PCN
+(GRADE 2C, strong agreement).
+EUS is recommended if the PCN has either clinical or radiological
+features of concern identified during the initial investigation or
+follow-up (GRADE 2C strong agreement).
+Data for EUS-based differentiation between benign and malignant
+PCN are conflicting.45–48 In addition, there is considerable
+interobserver variation in EUS-based diagnoses.49 50
+
+EUS-FNA improves diagnostic accuracy in PCN for differentiating
+mucinous versus non-mucinous PCN, and malignant versus benign
+PCN, in cases where CT or MRI are unclear</notes>
+			<notesNormalized>3.1 what are the indications for performing eus in pcn?
+eus is recommended as an adjunct to other imaging modalities
+(grade 2c, strong agreement).
+eus is helpful for identifying pcn with features that should be
+considered for surgical resection. similar to mri andct (see 3.1
+statement), eus is imperfect at identifying the exact type of pcn
+(grade 2c, strong agreement).
+eus is recommended if the pcn has either clinical or radiological
+features of concern identified during the initial investigation or
+follow-up (grade 2c strong agreement).
+data for eus-based differentiation between benign and malignant
+pcn are conflicting.45–48 in addition, there is considerable
+interobserver variation in eus-based diagnoses.49 50
+
+eus-fna improves diagnostic accuracy in pcn for differentiating
+mucinous versus non-mucinous pcn, and malignant versus benign
+pcn, in cases where ct or mri are unclear</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000000"&gt;3.1 What are the indications for performing EUS in PCN?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;i&gt;EUS is recommended as an adjunct to other imaging modalities&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;i&gt;(GRADE 2C, strong agreement).&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;i&gt;EUS is helpful for identifying PCN with features that should be&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;i&gt;considered for surgical resection. Similar to MRI andCT (see 3.1&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;i&gt;statement), EUS is imperfect at identifying the exact type of PCN&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;i&gt;(GRADE 2C, strong agreement).&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;i&gt;EUS is recommended if the PCN has either clinical or radiological&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;i&gt;features of concern identified during the initial investigation or&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;i&gt;follow-up (GRADE 2C strong agreement).&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;Data for EUS-based differentiation between benign and malignant&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;PCN are conflicting.&lt;/font&gt;&lt;font size="8" color="#0000ff"&gt;45–48 &lt;/font&gt;&lt;font size="12" color="#000000"&gt;In addition, there is considerable&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;interobserver variation in EUS-based diagnoses.&lt;/font&gt;&lt;font size="8" color="#0000ff"&gt;49 50&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;i&gt;EUS-FNA improves diagnostic accuracy in PCN for differentiating&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;i&gt;mucinous versus non-mucinous PCN, and malignant versus benign&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;i&gt;PCN, in cases where CT or MRI are unclear&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CH-EUS is used for the vascular evaluation of the microcirculation of the cyst wall and mural nodule, mainly to make the difference between true nodules and mucus plugs.
+These advantages may help to reduce the number of unnecessary surgical procedures in patients with nonmalignant cysts.
+ CH-EUS may be superior to FB-EUS in distinguishing between malignant and benign cysts.
+Further studies comparing the outcomes of CH-EUS and EUS-FNA or surgical specimen is necessary.
+Take home messages</text>
+		</slide>
+		<slide index="26" title="" titleNormalized="" src="slide27.swf" size="1482114" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.3350000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+	</slides>
+</presentation>

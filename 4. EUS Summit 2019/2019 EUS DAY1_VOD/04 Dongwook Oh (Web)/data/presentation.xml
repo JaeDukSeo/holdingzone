@@ -1,0 +1,820 @@
+<?xml version="1.0"?>
+<presentation title="04 Dongwook Oh" width="792.0000000" height="612.0000000" thmbWidth="76.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{3E4A9AEA-8BCF-4BA9-B8E7-220DF1A8B5E4}">
+	<presenters>
+		<presenter name="Dongwook Oh" title="Korea" email="" web="" phone="" photoAssetId="">
+			<bio>CEH-EUS guided FNA of hepatic mass</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="532525" duration="19018"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="359176" duration="12827"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="517896" duration="18496"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="207771" duration="7420"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="740251" duration="26437"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="814856" duration="29102"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="286034" duration="10215"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="1120594" duration="40021"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="1507519" duration="53839"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="585919" duration="20925"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="710994" duration="25392"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="580068" duration="20716"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="452068" duration="16145"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="647359" duration="23119"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="291885" duration="10424"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="503999" duration="17999"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="494491" duration="17660"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="1032822" duration="36886"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="1740845" duration="62173"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="352594" duration="12592"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="621759" duration="22205"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="444754" duration="15884"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="716114" duration="25575"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="42468" duration="1516"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="18.9860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="12.7790000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="18.4519997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="7.3699999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="26.3929996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="29.0620000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="10.1770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="39.9729996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="53.7869987"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="20.8880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="25.3589993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="20.6870000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="16.1160000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="23.0900000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="10.3769999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="17.9510000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="17.6180000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="36.8370000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="62.1290000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="12.5459995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="22.1550000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="15.8490000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="25.5259991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="1.4680000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="CEH-EUS guided FNA of hepatic mass" titleNormalized="ceh-eus guided fna of hepatic mass" src="slide1.swf" size="1968" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.9850001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CEH-EUS guided FNA of hepatic mass
+ Dongwook Oh, MD
+Department of Gastroenterology, Asan Medical Center, University of Ulsan College of Medicine</text>
+		</slide>
+		<slide index="1" title="Liver anatomy" titleNormalized="liver anatomy" src="slide2.swf" size="161168" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.7780003"/>
+			</animationSteps>
+			<notes>Understanding of liver anatomy is mandatory for EUS-FNA for hepatic lesions.</notes>
+			<notesNormalized>understanding of liver anatomy is mandatory for eus-fna for hepatic lesions.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;&lt;b&gt;Understanding of liver anatomy is mandatory for EUS-FNA for hepatic lesions.&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Liver anatomy</text>
+		</slide>
+		<slide index="2" title="Technique of EUS-FNA" titleNormalized="technique of eus-fna" src="slide3.swf" size="207590" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.4509997"/>
+			</animationSteps>
+			<notes>EUS-FNA technique for hepatic lesions are not different from pancreatic lesions. If we have an experience of EUS-FNA for pancreatic lesions, we can do FNA.</notes>
+			<notesNormalized>eus-fna technique for hepatic lesions are not different from pancreatic lesions. if we have an experience of eus-fna for pancreatic lesions, we can do fna.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;&lt;b&gt;EUS-FNA technique for hepatic lesions are not different from pancreatic lesions. If we have an experience of EUS-FNA for pancreatic lesions, we can do FNA.&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Technique of EUS-FNA</text>
+		</slide>
+		<slide index="3" title="Diagnostic yields of EUS of Focal liver lesions" titleNormalized="diagnostic yields of eus of focal liver lesions" src="slide4.swf" size="146540" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.3689999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Awad SS, et al. Am J Surg 2002
+Singh P, et al. GIE 2007
+DeWitt J, et al. Am J Gastroenterol 2003
+
+Diagnostic yields of EUS of Focal liver lesions
+EUS can detect small liver lesions that are not detected at CT
+
+With EUS-FNA, it is possible to make a pathologic diagnosis of small liver lesion
+</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="282873" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.3919996"/>
+			</animationSteps>
+			<notes>EUS-FNB with core biopsy needle for solid liver mass may be helpful in the
+management of patients who are unable to diagnose using percutaneous liver biopsy.</notes>
+			<notesNormalized>eus-fnb with core biopsy needle for solid liver mass may be helpful in the
+management of patients who are unable to diagnose using percutaneous liver biopsy.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;EUS-FNB with core biopsy needle for solid liver mass may be helpful in the&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;management of patients who are unable to diagnose using percutaneous liver biopsy.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>J Gastroenterol Hepatol 2015</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="236510" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.0610003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Between Sep 2010 and July 2016
+A single center retrospective study
+Clinical utility of EUS-FNA for hepatic lesions
+47 consecutive pts with hepatic masses underwent EUS-FNA
+</text>
+		</slide>
+		<slide index="6" title="F/50" titleNormalized="f/50" src="slide7.swf" size="271166" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.2780003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>F/50</text>
+		</slide>
+		<slide index="7" title="EUS-FNA of S5 S6 mass" titleNormalized="eus-fna of s5 s6 mass" src="slide8.swf" size="166923" advanceOnTime="1" framesCount="900" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_1f736760.spr0_2985281" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1f736760.spr2_2985281" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="80" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="899" playTime="37.4583333" pauseTime="2.5146662"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA of S5 S6 mass
+Courtesy of Pf. Dong Wan Seo</text>
+		</slide>
+		<slide index="8" title="SonoVueTM vs SonazoidTM" titleNormalized="sonovuetm vs sonazoidtm" src="slide9.swf" size="3497" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="53.7859987"/>
+			</animationSteps>
+			<notes>Two kinds of second generation agents including SONOVUE and SONAZOID are available in Korea.
+Two agents are equivalent for detectability of arterial vascularity
+Sonazoid  is phagocytosed by Kupffer cells in liver which enables Kupffer cell image persistent and stable image enhancement</notes>
+			<notesNormalized>two kinds of second generation agents including sonovue and sonazoid are available in korea.
+two agents are equivalent for detectability of arterial vascularity
+sonazoid is phagocytosed by kupffer cells in liver which enables kupffer cell image persistent and stable image enhancement</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Two kinds of second generation agents including SONOVUE and SONAZOID are available in Korea.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Two agents are equivalent for detectability of arterial vascularity&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Sonazoid  is phagocytosed by Kupffer cells in liver which enables Kupffer cell image persistent and stable image enhancement&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>SonoVueTM vs SonazoidTM
+Detectability of arterial vascularity
+Both, equivalent (for evaluation of pancreas)
+Kupffer cell image of Sonazoid
+Phagocytosed by Kupffer cells in liver
+Kupffer cell activity: related to differentiation
+Persistent and stable image enhancement
+Preferable for evaluation of liver lesion</text>
+		</slide>
+		<slide index="9" title="Kupffer Cell Image in CEH-EUS" titleNormalized="kupffer cell image in ceh-eus" src="slide10.swf" size="56943" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.8870005"/>
+			</animationSteps>
+			<notes>	Sonazoid persist longer in the liver parenchyma compared to pancreas
+	Prolonged visualization of malignant nodules-&gt; inte
+	Vascular, kupffer
+	rvention guidance for liver lesions</notes>
+			<notesNormalized>	sonazoid persist longer in the liver parenchyma compared to pancreas
+	prolonged visualization of malignant nodules-&gt; inte
+	vascular, kupffer
+	rvention guidance for liver lesions</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="24"&gt;	&lt;b&gt;Sonazoid persist longer in the liver parenchyma compared to pancreas&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="24"&gt;	&lt;b&gt;Prolonged visualization of malignant nodules-&amp;gt; inte&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="24"&gt;	&lt;b&gt;Vascular, kupffer&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="24"&gt;	&lt;b&gt;rvention guidance for liver lesions&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Kupffer Cell Image in CEH-EUS
+Prolonged visualization of malignant nodules-&gt; increased detectability &amp; aid for intervention in liver</text>
+		</slide>
+		<slide index="10" title="Contrast-enhanced harmonic image" titleNormalized="contrast-enhanced harmonic image" src="slide11.swf" size="69900" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.3579993"/>
+			</animationSteps>
+			<notes>
+			</notes>
+			<notesNormalized/>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Contrast-enhanced harmonic image
+Kupffer image in contrast-enhanced US remarkably increased the detectability of liver lesions, compared with B-mode US.
+
+The accuracy of diagnosis of liver metastases under contrast-enhanced US has been reported to be more than 90%.
+Sugimoto K, et al. Acad Radiol 2009
+Dietrich CF, et al. World J Gastroenterol 2006</text>
+		</slide>
+		<slide index="11" title="" titleNormalized="" src="slide12.swf" size="152621" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.6860003"/>
+			</animationSteps>
+			<notes>This slide shows summary of CE-EUS finding of hepatic masses.
+Hepatic CE-EUS a little more complex than pancreatic mass.
+
+Washout in HCC tends to be late and often begins later than 90 seconds  after injection of contrast medium, whereas
+metastases or ICCs consistently show rapid washout (&lt; 60 seconds)
+
+Benign and malignant lesions can be differentiated in the late phase. 
+Malignancy manifests as hypovascularity in this phase, which is the most specific finding, 
+while benign liver lesions show isoechogenicity or even hyperechogenicity relative to the surrounding liver parenchyma.</notes>
+			<notesNormalized>this slide shows summary of ce-eus finding of hepatic masses.
+hepatic ce-eus a little more complex than pancreatic mass.
+
+washout in hcc tends to be late and often begins later than 90 seconds after injection of contrast medium, whereas
+metastases or iccs consistently show rapid washout (&lt; 60 seconds)
+
+benign and malignant lesions can be differentiated in the late phase. 
+malignancy manifests as hypovascularity in this phase, which is the most specific finding, 
+while benign liver lesions show isoechogenicity or even hyperechogenicity relative to the surrounding liver parenchyma.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This slide shows summary of CE-EUS finding of hepatic masses.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Hepatic CE-EUS a little more complex than pancreatic mass.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Washout in HCC tends to be late and often begins later than 90 seconds  after injection of contrast medium, whereas&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;metastases or ICCs consistently show rapid washout (&amp;lt; 60 seconds)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Benign and malignant lesions can be differentiated in the late phase. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Malignancy manifests as hypovascularity in this phase, which is the most specific finding, &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;while benign liver lesions show isoechogenicity or even hyperechogenicity relative to the surrounding liver parenchyma.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Late phase Hypoenhancement Strong Hypoenhancement Isoenhancement</text>
+		</slide>
+		<slide index="12" title="Late phase of CEH-EUS: variable tumors in the liver" titleNormalized="late phase of ceh-eus: variable tumors in the liver" src="slide13.swf" size="300248" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.1190008"/>
+			</animationSteps>
+			<notes>This slide shows variable tumors In the liver by CE-EUS, at late phase.
+Left side figure wash out state, but still Contrast a little remained.
+Lower portion figure also wash out but a little remained.
+Middel figure shows storng hypoenhancement at late phase 
+Right slide figure still iso or minimal enhancement
+
+Like this each figure represent HCC, cholangio, meta other bening ds
+Interestingly, metastatic ds had srong hypoenhancement, important finding suggesting metastatic tumor in GI tumors.
+
+
+
+
+The main criterion for malignancy on CEUS is contrast hypo-enhancement in the late phase, whereas benign lesions typically remain isoenhancing to hyperenhancing in comparison with the surrounding normal liver tissue. Benign entities can reliably be differentiated from each other by carefully scrutinizing the arterial contrast uptake phase; for instance, a globular filling-in pattern is typical for hemangioma and, along with continued late-phase enhancement, is pathognomonic for this diagnosis
+
+
+
+Washout in HCC tends to be late and often begins later than 90 seconds  after injection of contrast medium, whereas
+metastases or ICCs consistently show rapid washout (&lt; 60 seconds)</notes>
+			<notesNormalized>this slide shows variable tumors in the liver by ce-eus, at late phase.
+left side figure wash out state, but still contrast a little remained.
+lower portion figure also wash out but a little remained.
+middel figure shows storng hypoenhancement at late phase 
+right slide figure still iso or minimal enhancement
+
+like this each figure represent hcc, cholangio, meta other bening ds
+interestingly, metastatic ds had srong hypoenhancement, important finding suggesting metastatic tumor in gi tumors.
+
+
+
+
+the main criterion for malignancy on ceus is contrast hypo-enhancement in the late phase, whereas benign lesions typically remain isoenhancing to hyperenhancing in comparison with the surrounding normal liver tissue. benign entities can reliably be differentiated from each other by carefully scrutinizing the arterial contrast uptake phase; for instance, a globular filling-in pattern is typical for hemangioma and, along with continued late-phase enhancement, is pathognomonic for this diagnosis
+
+
+
+washout in hcc tends to be late and often begins later than 90 seconds after injection of contrast medium, whereas
+metastases or iccs consistently show rapid washout (&lt; 60 seconds)</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="10"&gt;This slide shows variable tumors In the liver by CE-EUS, at late phase.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="10"&gt;Left side figure wash out state, but still Contrast a little remained.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="10"&gt;Lower portion figure also wash out but a little remained.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="10"&gt;Middel figure shows storng hypoenhancement at late phase &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="10"&gt;Right slide figure still iso or minimal enhancement&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="10"&gt;Like this each figure represent HCC, cholangio, meta other bening ds&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="10"&gt;Interestingly, metastatic ds had srong hypoenhancement, important finding suggesting metastatic tumor in GI tumors.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="10"&gt;The main criterion for malignancy on CEUS is contrast hypo-enhancement in the late phase, whereas benign lesions typically remain isoenhancing to hyperenhancing in comparison with the surrounding normal liver tissue. Benign entities can reliably be differentiated from each other by carefully scrutinizing the arterial contrast uptake phase; for instance, a globular filling-in pattern is typical for hemangioma and, along with continued late-phase enhancement, is pathognomonic for this diagnosis&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="10"&gt;Washout in HCC tends to be late and often begins later than 90 seconds  after injection of contrast medium, whereas&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="10"&gt;metastases or ICCs consistently show rapid washout (&amp;lt; 60 seconds)&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Hypoenhancement Isoenhancement
+metastasis HCC
+
+
+
+
+
+
+
+
+Cholangiocarcinoma Hemangioma
+Ultrasonography 2016 Nolsoe CP
+Late phase of CEH-EUS: variable tumors in the liver</text>
+		</slide>
+		<slide index="13" title="CH-EUS guided Liver FNA (AMC data)" titleNormalized="ch-eus guided liver fna (amc data)" src="slide14.swf" size="87338" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.0890002"/>
+			</animationSteps>
+			<notes>1)	Inclusion criteria
+2)	Exclusion criteria</notes>
+			<notesNormalized>1)	inclusion criteria
+2)	exclusion criteria</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;1)	Inclusion criteria&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;2)	Exclusion criteria&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CH-EUS guided Liver FNA (AMC data)
+ Between Sep 2010 and Nov 2016
+A single center retrospective study
+Clinical utility of CEH-EUS guided liver FNA
+Thirty consecutive pts with hepatic masses underwent CEH-EUS guided liver FNA
+B-mode EUS followed by CEH-EUS guided FNA
+</text>
+		</slide>
+		<slide index="14" title="Classification of EUS findings before contrast enhancement" titleNormalized="classification of eus findings before contrast enhancement" src="slide15.swf" size="531098" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.3759999"/>
+			</animationSteps>
+			<notes>1)	Inclusion criteria
+2)	Exclusion criteria</notes>
+			<notesNormalized>1)	inclusion criteria
+2)	exclusion criteria</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;1)	Inclusion criteria&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;2)	Exclusion criteria&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Classification of EUS findings before contrast enhancement</text>
+		</slide>
+		<slide index="15" title="RESULTS (I)" titleNormalized="results (i)" src="slide16.swf" size="5413" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.9500002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>RESULTS (I)
+Variables
+B-mode EUS
+CEH-EUS
+Lesion identification
+22 (73.3%)
+29 (96.7%)
+ Suspected
+8 (26.7%)
+1 (3.3%)
+ Faintly visible
+15 (50%)
+0
+ Clearly visible 
+7 (23.3%)
+29 *96.7%)
+Visuality score, median
+2 (1-2.25)
+3 (3-3)
+Visualization of Hepatic lesions with CEH-EUS</text>
+		</slide>
+		<slide index="16" title="RESULTS (II)" titleNormalized="results (ii)" src="slide17.swf" size="4724" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.6170000"/>
+			</animationSteps>
+			<notes>The diagnostic accuracy of CH EUS guided FNA was 97%</notes>
+			<notesNormalized>the diagnostic accuracy of ch eus guided fna was 97%</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The diagnostic accuracy of CH EUS guided FNA was 97%&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Sensitivity
+Specificity
+Diagnostic accuracy
+CEH-EUS
+78.6% 
+100% 
+80%
+CEH-EUS + CEH-EUS guided FNA
+96.4% 
+100% 
+97%
+RESULTS (II)
+The sensitivity and specificity of CEH-EUS</text>
+		</slide>
+		<slide index="17" title="RESULTS (III)" titleNormalized="results (iii)" src="slide18.swf" size="5489" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.8360018"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Variables
+SonVueTM 
+(n=16)
+SonazoidTM 
+(n=14)
+Lesion identification
+15 (93.8%)
+14 (100%)
+Adequacy
+14 (87.5%)
+14 (100%)
+Diagnostic accuracy
+15 (93.8%)
+14 (100%)
+Number of needle pass
+3 (IQR 3-4)
+2.5 (IQR 1-3)
+RESULTS (III)
+Comparison of contrast agents</text>
+		</slide>
+		<slide index="18" title="46-y/o-male, suspected pancreatic cancer with liver metastasis" titleNormalized="46-y/o-male, suspected pancreatic cancer with liver metastasis" src="slide19.swf" size="117338" advanceOnTime="1" framesCount="1315" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_22c9b260.spr0_3050171" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_22c9b260.spr2_3050171" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="242" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1314" playTime="54.7500000" pauseTime="7.3790016"/>
+			</animationSteps>
+			<notes>B mode EUS shows subtle heterogeneous echogenicity, but it is not clear.
+After contrast inj,  multiple hypoenhanced mass were clearly visualized. Therefore, FNA can be easily performed.
+CHEUS is preferred tech in cases with pancreatic and liver lesions</notes>
+			<notesNormalized>b mode eus shows subtle heterogeneous echogenicity, but it is not clear.
+after contrast inj, multiple hypoenhanced mass were clearly visualized. therefore, fna can be easily performed.
+cheus is preferred tech in cases with pancreatic and liver lesions</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;B mode EUS shows subtle heterogeneous echogenicity, but it is not clear.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;After contrast inj,  multiple hypoenhanced mass were clearly visualized. Therefore, FNA can be easily performed.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;CHEUS is preferred tech in cases with pancreatic and liver lesions&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>46-y/o-male, suspected pancreatic cancer with liver metastasis
+Courtesy of Pf. Dong Wan Seo</text>
+		</slide>
+		<slide index="19" title="CEH-EUS guided Liver FNA" titleNormalized="ceh-eus guided liver fna" src="slide20.swf" size="194442" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.5449995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CEH-EUS guided Liver FNA
+CEH-EUS guided FNA can result in a high diagnostic accuracy in cases where the hepatic lesions are poorly visible on B-mode EUS.</text>
+		</slide>
+		<slide index="20" title="Limitation of CEH-EUS guided FNA" titleNormalized="limitation of ceh-eus guided fna" src="slide21.swf" size="2756" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.1540007"/>
+			</animationSteps>
+			<notes>Helpful in selected cases as a problem-solving tool</notes>
+			<notesNormalized>helpful in selected cases as a problem-solving tool</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;b&gt;Helpful in selected cases &lt;/font&gt;&lt;font size="12" color="#ffff00"&gt;as a problem-solving tool&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Limitation of CEH-EUS guided FNA
+Affected by sonic attenuation (deep seated lesion, severe fatty liver).
+Penetration of US beam with CEH-EUS is inferior.
+Approach huddle: dome of right liver
+
+</text>
+		</slide>
+		<slide index="21" title="Conclusion" titleNormalized="conclusion" src="slide22.swf" size="2590" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.8480000"/>
+			</animationSteps>
+			<notes>EUS may be more sensitive for identifying smaller liver lesions.
+EUS-FNA  is possible to perform diagnostic assessment and could improve tumor stating as well as tissue acquisition.
+EUS-FNA can be used as a rescue method in cases where the percutaneous approach failed.</notes>
+			<notesNormalized>eus may be more sensitive for identifying smaller liver lesions.
+eus-fna is possible to perform diagnostic assessment and could improve tumor stating as well as tissue acquisition.
+eus-fna can be used as a rescue method in cases where the percutaneous approach failed.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;b&gt;EUS may be more sensitive for identifying smaller liver lesions.&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;b&gt;EUS-FNA  is possible to perform diagnostic assessment and could improve tumor stating as well as tissue acquisition.&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;b&gt;EUS-FNA can be used as a rescue method in cases where the percutaneous approach failed.&lt;/font&gt;&lt;font size="12" color="#ffff00"&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Conclusion
+More sensitive for identifying smaller liver lesions.
+A rescue method in cases where the percutaneous approach failed or contraindicated.</text>
+		</slide>
+		<slide index="22" title="Conclusion" titleNormalized="conclusion" src="slide23.swf" size="2924" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.5249991"/>
+			</animationSteps>
+			<notes>Helpful in selected cases as a problem-solving tool</notes>
+			<notesNormalized>helpful in selected cases as a problem-solving tool</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000000"&gt;&lt;b&gt;Helpful in selected cases &lt;/font&gt;&lt;font size="12" color="#ffff00"&gt;as a problem-solving tool&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Conclusion
+One session of EUS-FNA for suspected pancreatic and liver lesions.
+Increases the detectability of inconspicuous liver mass on B-mode EUS.
+A problem-solving tool in cases where conventional EUS had failed to localize the tumor. 
+</text>
+		</slide>
+		<slide index="23" title="Thank you for kind attention~" titleNormalized="thank you for kind attention~" src="slide24.swf" size="641536" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.4670001"/>
+			</animationSteps>
+			<notes>These advantages may help to reduce the number of unnecessary surgical procedur</notes>
+			<notesNormalized>these advantages may help to reduce the number of unnecessary surgical procedur</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;These advantages may help to reduce the number of unnecessary surgical procedur&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Thank you for kind attention~</text>
+		</slide>
+	</slides>
+</presentation>
