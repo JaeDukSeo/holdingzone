@@ -1,0 +1,906 @@
+<?xml version="1.0"?>
+<presentation title="06 Dong-Wan Seo" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{63F8AB1D-6AFF-4AD7-8769-45C3E7A35609}">
+	<presenters>
+		<presenter name="Dong-Wan Seo" title="Korea" email="" web="" phone="" photoAssetId="">
+			<bio>EUS-Guided Pancreatic Cyst Ablation: When and How</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="355519" duration="12697"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="297005" duration="10607"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="2167999" duration="77428"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="228251" duration="8151"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="1219336" duration="43547"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="677348" duration="24191"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="74651" duration="2666"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="425005" duration="15178"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="2590034" duration="92501"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="1496548" duration="53448"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="225325" duration="8047"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="574948" duration="20533"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="578605" duration="20664"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="364296" duration="13010"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="332845" duration="11887"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="1044525" duration="37304"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="432319" duration="15439"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="1818376" duration="64941"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="1437302" duration="51332"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="1247131" duration="44540"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="84891" duration="3031"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="12.6460000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="10.5770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="77.3759995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="8.1070000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="43.5089989"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="24.1560000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="2.6360000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="15.1470000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="92.4580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="53.4189987"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="8.0080000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="20.4860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="20.6200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="12.9790000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="11.8450000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="37.2700000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="15.4099998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="64.8980000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="51.2799988"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="44.5099983"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="3.0000000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS-Guided Pancreatic Cyst Ablation: When and How" titleNormalized="eus-guided pancreatic cyst ablation: when and how" src="slide1.swf" size="4105" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.6489996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-Guided Pancreatic Cyst Ablation: When and How
+
+
+
+
+Dong Wan Seo
+Department of Gastroenterology, Asan Medical Center
+University of Ulsan College of Medicine, Seoul, Korea</text>
+		</slide>
+		<slide index="1" title="Areas to be covered" titleNormalized="areas to be covered" src="slide2.swf" size="2037" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.5789999"/>
+			</animationSteps>
+			<notes>Can do chemical analysis, tumor marker study and cytology.
+
+If amylase level is high, it suggest the possibility of pseudocyst or IPMN.
+If CEA level is very high or cystic fluid shows high viscosity, the probability of mucinous lesion is quite high.
+If cytology shows any malignant cell, we can diagnose cancer transformation from mucinous tumor.</notes>
+			<notesNormalized>can do chemical analysis, tumor marker study and cytology.
+
+if amylase level is high, it suggest the possibility of pseudocyst or ipmn.
+if cea level is very high or cystic fluid shows high viscosity, the probability of mucinous lesion is quite high.
+if cytology shows any malignant cell, we can diagnose cancer transformation from mucinous tumor.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Can do chemical analysis, tumor marker study and cytology.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;If amylase level is high, it suggest the possibility of pseudocyst or IPMN.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;If CEA level is very high or cystic fluid shows high viscosity, the probability of mucinous lesion is quite high.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;If cytology shows any malignant cell, we can diagnose cancer transformation from mucinous tumor.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>When: indications
+
+ How: technical details
+
+Areas to be covered</text>
+		</slide>
+		<slide index="2" title="Patient selection" titleNormalized="patient selection" src="slide3.swf" size="2460" advanceOnTime="1" framesCount="790" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="789" playTime="32.8750000" pauseTime="44.5009995"/>
+			</animationSteps>
+			<notes>Included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+We applied very strict exclusion criteria.
+Typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+Overt cystadenocarcinoma or extensive disease,
+IPMN,
+Cystic tumor which shows communication with main pancreatic duct on ERP
+Were all excluded from this study.</notes>
+			<notesNormalized>included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+we applied very strict exclusion criteria.
+typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+overt cystadenocarcinoma or extensive disease,
+ipmn,
+cystic tumor which shows communication with main pancreatic duct on erp
+were all excluded from this study.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Included cystic tumors were unilocular cystic tumor or oligocystic tumors.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We applied very strict exclusion criteria.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Typical pseudocyst or serous cystadenoma based on hx and imaging studies,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Overt cystadenocarcinoma or extensive disease,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;IPMN,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Cystic tumor which shows communication with main pancreatic duct on ERP&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Were all excluded from this study.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>MCN, SCN, IPMN, SPN
+ don’t have histologic diagnosis
+ only presumed diagnosis
+Patient selection
+Not based on histology 
+Included cystic tumors
+ unilocular or oligocystic tumor
+ size 2~6 cm</text>
+		</slide>
+		<slide index="3" title="Recommended Indication" titleNormalized="recommended indication" src="slide4.swf" size="2186" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.1060004"/>
+			</animationSteps>
+			<notes>Included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+We applied very strict exclusion criteria.
+Typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+Overt cystadenocarcinoma or extensive disease,
+IPMN,
+Cystic tumor which shows communication with main pancreatic duct on ERP
+Were all excluded from this study.</notes>
+			<notesNormalized>included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+we applied very strict exclusion criteria.
+typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+overt cystadenocarcinoma or extensive disease,
+ipmn,
+cystic tumor which shows communication with main pancreatic duct on erp
+were all excluded from this study.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Included cystic tumors were unilocular cystic tumor or oligocystic tumors.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We applied very strict exclusion criteria.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Typical pseudocyst or serous cystadenoma based on hx and imaging studies,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Overt cystadenocarcinoma or extensive disease,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;IPMN,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Cystic tumor which shows communication with main pancreatic duct on ERP&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Were all excluded from this study.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Recommended Indication
+ unilocular or oligocystic tumor
+ size 2~6 cm 
+ presumed Dx of MCN, SCN, 	indeterminate cyst</text>
+		</slide>
+		<slide index="4" title="Patient selection" titleNormalized="patient selection" src="slide5.swf" size="2419" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="43.5079989"/>
+			</animationSteps>
+			<notes>Included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+We applied very strict exclusion criteria.
+Typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+Overt cystadenocarcinoma or extensive disease,
+IPMN,
+Cystic tumor which shows communication with main pancreatic duct on ERP
+Were all excluded from this study.</notes>
+			<notesNormalized>included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+we applied very strict exclusion criteria.
+typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+overt cystadenocarcinoma or extensive disease,
+ipmn,
+cystic tumor which shows communication with main pancreatic duct on erp
+were all excluded from this study.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Included cystic tumors were unilocular cystic tumor or oligocystic tumors.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We applied very strict exclusion criteria.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Typical pseudocyst or serous cystadenoma based on hx and imaging studies,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Overt cystadenocarcinoma or extensive disease,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;IPMN,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Cystic tumor which shows communication with main pancreatic duct on ERP&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Were all excluded from this study.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>pseudocyst
+ overt cystadenocarcinoma 
+ IPMN or communication with p-duct
+Patient selection
+Exclusion criteria
+Included cystic tumors
+ unilocular or oligocystic tumor
+ size 2~6 cm</text>
+		</slide>
+		<slide index="5" title="Recommended Indication" titleNormalized="recommended indication" src="slide6.swf" size="2322" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.1550001"/>
+			</animationSteps>
+			<notes>Included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+We applied very strict exclusion criteria.
+Typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+Overt cystadenocarcinoma or extensive disease,
+IPMN,
+Cystic tumor which shows communication with main pancreatic duct on ERP
+Were all excluded from this study.</notes>
+			<notesNormalized>included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+we applied very strict exclusion criteria.
+typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+overt cystadenocarcinoma or extensive disease,
+ipmn,
+cystic tumor which shows communication with main pancreatic duct on erp
+were all excluded from this study.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Included cystic tumors were unilocular cystic tumor or oligocystic tumors.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We applied very strict exclusion criteria.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Typical pseudocyst or serous cystadenoma based on hx and imaging studies,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Overt cystadenocarcinoma or extensive disease,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;IPMN,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Cystic tumor which shows communication with main pancreatic duct on ERP&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Were all excluded from this study.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Recommended Indication
+ unilocular or oligocystic tumor
+ size 2~6 cm 
+ presumed Dx of MCN, SCN, 	indeterminate cyst
+ without clear MPD communication
+ without evidence of malignancy</text>
+		</slide>
+		<slide index="6" title="Areas to be covered" titleNormalized="areas to be covered" src="slide7.swf" size="2080" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.6390001"/>
+			</animationSteps>
+			<notes>Can do chemical analysis, tumor marker study and cytology.
+
+If amylase level is high, it suggest the possibility of pseudocyst or IPMN.
+If CEA level is very high or cystic fluid shows high viscosity, the probability of mucinous lesion is quite high.
+If cytology shows any malignant cell, we can diagnose cancer transformation from mucinous tumor.</notes>
+			<notesNormalized>can do chemical analysis, tumor marker study and cytology.
+
+if amylase level is high, it suggest the possibility of pseudocyst or ipmn.
+if cea level is very high or cystic fluid shows high viscosity, the probability of mucinous lesion is quite high.
+if cytology shows any malignant cell, we can diagnose cancer transformation from mucinous tumor.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Can do chemical analysis, tumor marker study and cytology.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;If amylase level is high, it suggest the possibility of pseudocyst or IPMN.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;If CEA level is very high or cystic fluid shows high viscosity, the probability of mucinous lesion is quite high.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;If cytology shows any malignant cell, we can diagnose cancer transformation from mucinous tumor.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>When: indications
+
+ How: technical details
+
+Areas to be covered</text>
+		</slide>
+		<slide index="7" title="Techniques of cyst ablation" titleNormalized="techniques of cyst ablation" src="slide8.swf" size="2069" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.1460003"/>
+			</animationSteps>
+			<notes>Included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+We applied very strict exclusion criteria.
+Typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+Overt cystadenocarcinoma or extensive disease,
+IPMN,
+Cystic tumor which shows communication with main pancreatic duct on ERP
+Were all excluded from this study.</notes>
+			<notesNormalized>included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+we applied very strict exclusion criteria.
+typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+overt cystadenocarcinoma or extensive disease,
+ipmn,
+cystic tumor which shows communication with main pancreatic duct on erp
+were all excluded from this study.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Included cystic tumors were unilocular cystic tumor or oligocystic tumors.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We applied very strict exclusion criteria.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Typical pseudocyst or serous cystadenoma based on hx and imaging studies,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Overt cystadenocarcinoma or extensive disease,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;IPMN,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Cystic tumor which shows communication with main pancreatic duct on ERP&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Were all excluded from this study.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Techniques of cyst ablation
+Classic ethanol lavage
+
+Ethanol retention therapy
+
+Combined paclitaxel injection</text>
+		</slide>
+		<slide index="8" title="Ethanol lavage therapy (I)" titleNormalized="ethanol lavage therapy (i)" src="slide9.swf" size="116849" advanceOnTime="1" framesCount="687" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_15eafb00.spr0_3694234" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_15eafb00.spr2_3694234" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="686" playTime="28.5833333" pauseTime="63.8746668"/>
+			</animationSteps>
+			<notes>This patient shows a large cystic tumor in the tail.
+Upon EUS, we can identify several septations. We used 22G needle and punctured the cyst. The stylet was removed. 
+
+This is EUS view. Before puncture, we used Doppler to avoid any intervening vessel and punctured the cyst. 
+Negative pressure was applied to aspirate cystic fluid. This is aspirated fluid.
+
+Then we injected 100% ethanol, this is at the time of ethanol injection. Most of locules showed communication when we injected ethanol.
+If there is any non-communicating locule, we targetted it at the same session and injected ethanol.
+
+Then we waited 20~40 minutes for the retention and removed the injected ethanol.
+Finally small amount paclitaxel was instillated.</notes>
+			<notesNormalized>this patient shows a large cystic tumor in the tail.
+upon eus, we can identify several septations. we used 22g needle and punctured the cyst. the stylet was removed. 
+
+this is eus view. before puncture, we used doppler to avoid any intervening vessel and punctured the cyst. 
+negative pressure was applied to aspirate cystic fluid. this is aspirated fluid.
+
+then we injected 100% ethanol, this is at the time of ethanol injection. most of locules showed communication when we injected ethanol.
+if there is any non-communicating locule, we targetted it at the same session and injected ethanol.
+
+then we waited 20~40 minutes for the retention and removed the injected ethanol.
+finally small amount paclitaxel was instillated.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This patient shows a large cystic tumor in the tail.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Upon EUS, we can identify several septations. We used 22G needle and punctured the cyst. The stylet was removed. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;This is EUS view. Before puncture, we used Doppler to avoid any intervening vessel and punctured the cyst. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Negative pressure was applied to aspirate cystic fluid. This is aspirated fluid.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Then we injected 100% ethanol, this is at the time of ethanol injection. Most of locules showed communication when we injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;If there is any non-communicating locule, we targetted it at the same session and injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Then we waited 20~40 minutes for the retention and removed the injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Finally small amount paclitaxel was instillated.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ethanol lavage therapy (I)</text>
+		</slide>
+		<slide index="9" title="Ethanol lavage therapy (II)" titleNormalized="ethanol lavage therapy (ii)" src="slide10.swf" size="116925" advanceOnTime="1" framesCount="869" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_15eaf4e0.spr0_3697390" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_15eaf4e0.spr2_3697390" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="868" playTime="36.1666667" pauseTime="17.2523321"/>
+			</animationSteps>
+			<notes>This patient shows a large cystic tumor in the tail.
+Upon EUS, we can identify several septations. We used 22G needle and punctured the cyst. The stylet was removed. 
+
+This is EUS view. Before puncture, we used Doppler to avoid any intervening vessel and punctured the cyst. 
+Negative pressure was applied to aspirate cystic fluid. This is aspirated fluid.
+
+Then we injected 100% ethanol, this is at the time of ethanol injection. Most of locules showed communication when we injected ethanol.
+If there is any non-communicating locule, we targetted it at the same session and injected ethanol.
+
+Then we waited 20~40 minutes for the retention and removed the injected ethanol.
+Finally small amount paclitaxel was instillated.</notes>
+			<notesNormalized>this patient shows a large cystic tumor in the tail.
+upon eus, we can identify several septations. we used 22g needle and punctured the cyst. the stylet was removed. 
+
+this is eus view. before puncture, we used doppler to avoid any intervening vessel and punctured the cyst. 
+negative pressure was applied to aspirate cystic fluid. this is aspirated fluid.
+
+then we injected 100% ethanol, this is at the time of ethanol injection. most of locules showed communication when we injected ethanol.
+if there is any non-communicating locule, we targetted it at the same session and injected ethanol.
+
+then we waited 20~40 minutes for the retention and removed the injected ethanol.
+finally small amount paclitaxel was instillated.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This patient shows a large cystic tumor in the tail.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Upon EUS, we can identify several septations. We used 22G needle and punctured the cyst. The stylet was removed. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;This is EUS view. Before puncture, we used Doppler to avoid any intervening vessel and punctured the cyst. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Negative pressure was applied to aspirate cystic fluid. This is aspirated fluid.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Then we injected 100% ethanol, this is at the time of ethanol injection. Most of locules showed communication when we injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;If there is any non-communicating locule, we targetted it at the same session and injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Then we waited 20~40 minutes for the retention and removed the injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Finally small amount paclitaxel was instillated.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ethanol lavage therapy (II)</text>
+		</slide>
+		<slide index="10" title="Techniques of cyst ablation" titleNormalized="techniques of cyst ablation" src="slide11.swf" size="2292" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.0070004"/>
+			</animationSteps>
+			<notes>Included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+We applied very strict exclusion criteria.
+Typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+Overt cystadenocarcinoma or extensive disease,
+IPMN,
+Cystic tumor which shows communication with main pancreatic duct on ERP
+Were all excluded from this study.</notes>
+			<notesNormalized>included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+we applied very strict exclusion criteria.
+typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+overt cystadenocarcinoma or extensive disease,
+ipmn,
+cystic tumor which shows communication with main pancreatic duct on erp
+were all excluded from this study.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Included cystic tumors were unilocular cystic tumor or oligocystic tumors.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We applied very strict exclusion criteria.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Typical pseudocyst or serous cystadenoma based on hx and imaging studies,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Overt cystadenocarcinoma or extensive disease,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;IPMN,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Cystic tumor which shows communication with main pancreatic duct on ERP&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Were all excluded from this study.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Techniques of cyst ablation
+Classic ethanol lavage
+ repeated injection &amp; aspiration
+ generally for small sized cyst
+ unilocular or bilocular cyst
+ to avoid leakage</text>
+		</slide>
+		<slide index="11" title="Ethanol retention therapy (I)" titleNormalized="ethanol retention therapy (i)" src="slide12.swf" size="110854" advanceOnTime="1" framesCount="1246" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_15d6f030.spr0_3701671" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_15d6f030.spr2_3701671" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1245" playTime="20.4860001" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>This patient shows a large cystic tumor in the tail.
+Upon EUS, we can identify several septations. We used 22G needle and punctured the cyst. The stylet was removed. 
+
+This is EUS view. Before puncture, we used Doppler to avoid any intervening vessel and punctured the cyst. 
+Negative pressure was applied to aspirate cystic fluid. This is aspirated fluid.
+
+Then we injected 100% ethanol, this is at the time of ethanol injection. Most of locules showed communication when we injected ethanol.
+If there is any non-communicating locule, we targetted it at the same session and injected ethanol.
+
+Then we waited 20~40 minutes for the retention and removed the injected ethanol.
+Finally small amount paclitaxel was instillated.</notes>
+			<notesNormalized>this patient shows a large cystic tumor in the tail.
+upon eus, we can identify several septations. we used 22g needle and punctured the cyst. the stylet was removed. 
+
+this is eus view. before puncture, we used doppler to avoid any intervening vessel and punctured the cyst. 
+negative pressure was applied to aspirate cystic fluid. this is aspirated fluid.
+
+then we injected 100% ethanol, this is at the time of ethanol injection. most of locules showed communication when we injected ethanol.
+if there is any non-communicating locule, we targetted it at the same session and injected ethanol.
+
+then we waited 20~40 minutes for the retention and removed the injected ethanol.
+finally small amount paclitaxel was instillated.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This patient shows a large cystic tumor in the tail.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Upon EUS, we can identify several septations. We used 22G needle and punctured the cyst. The stylet was removed. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;This is EUS view. Before puncture, we used Doppler to avoid any intervening vessel and punctured the cyst. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Negative pressure was applied to aspirate cystic fluid. This is aspirated fluid.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Then we injected 100% ethanol, this is at the time of ethanol injection. Most of locules showed communication when we injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;If there is any non-communicating locule, we targetted it at the same session and injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Then we waited 20~40 minutes for the retention and removed the injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Finally small amount paclitaxel was instillated.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ethanol retention therapy (I)</text>
+		</slide>
+		<slide index="12" title="Aspirated cystic fluid: 140cc" titleNormalized="aspirated cystic fluid: 140cc" src="slide13.swf" size="435263" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.6190008"/>
+			</animationSteps>
+			<notes>About 7cm sized oligocystic lesion was noted in the tail of the pancreas.
+There was no mural nodule and cyst in cyst pattern was noted.
+The MPD showed normal caliber.
+
+After EUS guidance, the cystic lesion in the body was punctured using 22G aspiration
+ needle. Then cystic fluid was aspirated. It showed clear color and the amount
+ was about 140 ml. After aspiration, 99% ethanol was injected into the cystic 
+cavity (100 ml) and retained in the cavity for 20 minutes. Then reaspiration was
+ done. A total 30 mg paclitaxol was injected into the cyst after 1:1 dilution 
+with distilled water (total volume 7 ml).
+
+The whole procedure was complited without complication.
+
+IMPRESSION) 1. Pancreatic cystic lesion
+               (Oligocyst, cyst in cyst pattern, no mural nodule)
+               Mucinous cystic neoplasm, more likely
+            2. EUS-guided ethanol lavage was performed without complication</notes>
+			<notesNormalized>about 7cm sized oligocystic lesion was noted in the tail of the pancreas.
+there was no mural nodule and cyst in cyst pattern was noted.
+the mpd showed normal caliber.
+
+after eus guidance, the cystic lesion in the body was punctured using 22g aspiration
+ needle. then cystic fluid was aspirated. it showed clear color and the amount
+ was about 140 ml. after aspiration, 99% ethanol was injected into the cystic 
+cavity (100 ml) and retained in the cavity for 20 minutes. then reaspiration was
+ done. a total 30 mg paclitaxol was injected into the cyst after 1:1 dilution 
+with distilled water (total volume 7 ml).
+
+the whole procedure was complited without complication.
+
+impression) 1. pancreatic cystic lesion
+ (oligocyst, cyst in cyst pattern, no mural nodule)
+ mucinous cystic neoplasm, more likely
+ 2. eus-guided ethanol lavage was performed without complication</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;About 7cm sized oligocystic lesion was noted in the tail of the pancreas.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;There was no mural nodule and cyst in cyst pattern was noted.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;The MPD showed normal caliber.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;After EUS guidance, the cystic lesion in the body was punctured using 22G aspiration&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt; needle. Then cystic fluid was aspirated. It showed clear color and the amount&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt; was about 140 ml. After aspiration, 99% ethanol was injected into the cystic &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;cavity (100 ml) and retained in the cavity for 20 minutes. Then reaspiration was&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt; done. A total 30 mg paclitaxol was injected into the cyst after 1:1 dilution &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;with distilled water (total volume 7 ml).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;The whole procedure was complited without complication.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;IMPRESSION) 1. Pancreatic cystic lesion&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;               (Oligocyst, cyst in cyst pattern, no mural nodule)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;               Mucinous cystic neoplasm, more likely&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;            2. EUS-guided ethanol lavage was performed without complication&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>
+Aspirated cystic 
+fluid: 140cc</text>
+		</slide>
+		<slide index="13" title="Techniques of ethanol retention" titleNormalized="techniques of ethanol retention" src="slide14.swf" size="2300" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.9780001"/>
+			</animationSteps>
+			<notes>Included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+We applied very strict exclusion criteria.
+Typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+Overt cystadenocarcinoma or extensive disease,
+IPMN,
+Cystic tumor which shows communication with main pancreatic duct on ERP
+Were all excluded from this study.</notes>
+			<notesNormalized>included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+we applied very strict exclusion criteria.
+typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+overt cystadenocarcinoma or extensive disease,
+ipmn,
+cystic tumor which shows communication with main pancreatic duct on erp
+were all excluded from this study.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Included cystic tumors were unilocular cystic tumor or oligocystic tumors.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We applied very strict exclusion criteria.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Typical pseudocyst or serous cystadenoma based on hx and imaging studies,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Overt cystadenocarcinoma or extensive disease,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;IPMN,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Cystic tumor which shows communication with main pancreatic duct on ERP&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Were all excluded from this study.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Techniques of ethanol retention
+remove the needle &amp; echoendoscope
+
+rotate the patient in recovery room
+ supine 5 min, lt lateral decubitus 5 min
+ prone 5 min, rt lateral decubitus 5 min
+
+reinsert echoendoscope 
+	&amp; puncture cyst again</text>
+		</slide>
+		<slide index="14" title="Ethanol retention therapy (II)" titleNormalized="ethanol retention therapy (ii)" src="slide15.swf" size="105694" advanceOnTime="1" framesCount="472" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_15d763b0.spr0_3704921" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_15d763b0.spr2_3704921" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="471" playTime="11.8450003" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>This patient shows a large cystic tumor in the tail.
+Upon EUS, we can identify several septations. We used 22G needle and punctured the cyst. The stylet was removed. 
+
+This is EUS view. Before puncture, we used Doppler to avoid any intervening vessel and punctured the cyst. 
+Negative pressure was applied to aspirate cystic fluid. This is aspirated fluid.
+
+Then we injected 100% ethanol, this is at the time of ethanol injection. Most of locules showed communication when we injected ethanol.
+If there is any non-communicating locule, we targetted it at the same session and injected ethanol.
+
+Then we waited 20~40 minutes for the retention and removed the injected ethanol.
+Finally small amount paclitaxel was instillated.</notes>
+			<notesNormalized>this patient shows a large cystic tumor in the tail.
+upon eus, we can identify several septations. we used 22g needle and punctured the cyst. the stylet was removed. 
+
+this is eus view. before puncture, we used doppler to avoid any intervening vessel and punctured the cyst. 
+negative pressure was applied to aspirate cystic fluid. this is aspirated fluid.
+
+then we injected 100% ethanol, this is at the time of ethanol injection. most of locules showed communication when we injected ethanol.
+if there is any non-communicating locule, we targetted it at the same session and injected ethanol.
+
+then we waited 20~40 minutes for the retention and removed the injected ethanol.
+finally small amount paclitaxel was instillated.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This patient shows a large cystic tumor in the tail.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Upon EUS, we can identify several septations. We used 22G needle and punctured the cyst. The stylet was removed. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;This is EUS view. Before puncture, we used Doppler to avoid any intervening vessel and punctured the cyst. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Negative pressure was applied to aspirate cystic fluid. This is aspirated fluid.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Then we injected 100% ethanol, this is at the time of ethanol injection. Most of locules showed communication when we injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;If there is any non-communicating locule, we targetted it at the same session and injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Then we waited 20~40 minutes for the retention and removed the injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Finally small amount paclitaxel was instillated.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ethanol retention therapy (II)</text>
+		</slide>
+		<slide index="15" title="Techniques of cyst ablation" titleNormalized="techniques of cyst ablation" src="slide16.swf" size="2330" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.2690005"/>
+			</animationSteps>
+			<notes>Included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+We applied very strict exclusion criteria.
+Typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+Overt cystadenocarcinoma or extensive disease,
+IPMN,
+Cystic tumor which shows communication with main pancreatic duct on ERP
+Were all excluded from this study.</notes>
+			<notesNormalized>included cystic tumors were unilocular cystic tumor or oligocystic tumors.
+we applied very strict exclusion criteria.
+typical pseudocyst or serous cystadenoma based on hx and imaging studies,
+overt cystadenocarcinoma or extensive disease,
+ipmn,
+cystic tumor which shows communication with main pancreatic duct on erp
+were all excluded from this study.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Included cystic tumors were unilocular cystic tumor or oligocystic tumors.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We applied very strict exclusion criteria.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Typical pseudocyst or serous cystadenoma based on hx and imaging studies,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Overt cystadenocarcinoma or extensive disease,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;IPMN,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Cystic tumor which shows communication with main pancreatic duct on ERP&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Were all excluded from this study.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>long retention time after ethanol 	injection
+ 20~40 minutes of retention
+ large cyst &amp; multilocular cyst
+Techniques of cyst ablation
+Ethanol retention therapy
+Combined Paclitaxel injection</text>
+		</slide>
+		<slide index="16" title="F/40" titleNormalized="f/40" src="slide17.swf" size="221512" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.4089998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>F/40</text>
+		</slide>
+		<slide index="17" title="Technical tips: septated cysts" titleNormalized="technical tips: septated cysts" src="slide18.swf" size="122191" advanceOnTime="1" framesCount="1953" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_1630a7e0.spr0_3711484" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1630a7e0.spr2_3711484" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1952" playTime="64.8980026" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>This patient shows a large cystic tumor in the tail.
+Upon EUS, we can identify several septations. We used 22G needle and punctured the cyst. The stylet was removed. 
+
+This is EUS view. Before puncture, we used Doppler to avoid any intervening vessel and punctured the cyst. 
+Negative pressure was applied to aspirate cystic fluid. This is aspirated fluid.
+
+Then we injected 100% ethanol, this is at the time of ethanol injection. Most of locules showed communication when we injected ethanol.
+If there is any non-communicating locule, we targetted it at the same session and injected ethanol.
+
+Then we waited 20~40 minutes for the retention and removed the injected ethanol.
+Finally small amount paclitaxel was instillated.</notes>
+			<notesNormalized>this patient shows a large cystic tumor in the tail.
+upon eus, we can identify several septations. we used 22g needle and punctured the cyst. the stylet was removed. 
+
+this is eus view. before puncture, we used doppler to avoid any intervening vessel and punctured the cyst. 
+negative pressure was applied to aspirate cystic fluid. this is aspirated fluid.
+
+then we injected 100% ethanol, this is at the time of ethanol injection. most of locules showed communication when we injected ethanol.
+if there is any non-communicating locule, we targetted it at the same session and injected ethanol.
+
+then we waited 20~40 minutes for the retention and removed the injected ethanol.
+finally small amount paclitaxel was instillated.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This patient shows a large cystic tumor in the tail.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Upon EUS, we can identify several septations. We used 22G needle and punctured the cyst. The stylet was removed. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;This is EUS view. Before puncture, we used Doppler to avoid any intervening vessel and punctured the cyst. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Negative pressure was applied to aspirate cystic fluid. This is aspirated fluid.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Then we injected 100% ethanol, this is at the time of ethanol injection. Most of locules showed communication when we injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;If there is any non-communicating locule, we targetted it at the same session and injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Then we waited 20~40 minutes for the retention and removed the injected ethanol.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Finally small amount paclitaxel was instillated.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Technical tips: septated cysts</text>
+		</slide>
+		<slide index="18" title="Indications of PCT ablation" titleNormalized="indications of pct ablation" src="slide19.swf" size="115602" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="51.2789988"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Indications of PCT ablation</text>
+		</slide>
+		<slide index="19" title="Technical details" titleNormalized="technical details" src="slide20.swf" size="2542" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="44.5089983"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>size of needle: 19 or 22G
+ agents: ethanol, paclitaxel, gemcitabine 	or lauromacrol
+ aspirate 100% ?: not completely
+ viscous fluid: 19G high pressure suction 	repeated inj &amp; reasp
+ 
+Technical details</text>
+		</slide>
+		<slide index="20" title="Thank you for your kind attention !" titleNormalized="thank you for your kind attention !" src="slide21.swf" size="1792" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for your
+
+ kind attention !
+
+
+
+</text>
+		</slide>
+	</slides>
+</presentation>
