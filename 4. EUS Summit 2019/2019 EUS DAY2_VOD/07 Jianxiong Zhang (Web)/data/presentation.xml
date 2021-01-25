@@ -1,0 +1,616 @@
+<?xml version="1.0"?>
+<presentation title="07 Jianxiong Zhang" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{31C72E2B-2CBB-4333-90C0-093CA1F985A3}">
+	<presenters>
+		<presenter name="Jianxiong Zhang" title="China" email="" web="" phone="" photoAssetId="">
+			<bio>The long-term efficacy of the treatment
+of EUS-guided coiling combined Histoacryl
+injection in patients with spontaneous portalsystemic
+shunt and gastric fundal varices</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="495954" duration="17712"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="471816" duration="16850"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="363565" duration="12984"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="434514" duration="15518"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="770971" duration="27534"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="363565" duration="12984"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="303588" duration="10842"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="1666239" duration="59508"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="828754" duration="29598"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="547885" duration="19567"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="674422" duration="24086"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="364296" duration="13010"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="926034" duration="33072"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="473279" duration="16902"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="317485" duration="11338"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="87816" duration="3136"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="581531" duration="20768"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="686125" duration="24504"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="531794" duration="18992"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="54171" duration="1934"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="17.6840000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="16.8169994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="12.9460000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="15.4820000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="27.4939995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="12.9460000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="10.8109999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="59.4589996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="29.5629997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="19.5200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="24.0569992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="12.9799995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="33.0330000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="16.8500000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="11.3109999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="3.1029999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="20.7210000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="24.4580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="18.9519997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="1.9020000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="The Long-term Efficacy of The Treatment of EUS-guided Coiling Combined Histoacryl Injection in Patients with Spontaneous Portal-systemic Shunt and Gastric Fundal Varices." titleNormalized="the long-term efficacy of the treatment of eus-guided coiling combined histoacryl injection in patients with spontaneous portal-systemic shunt and gastric fundal varices." src="slide1.swf" size="55814" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.6830000"/>
+			</animationSteps>
+			<notes>自2000年应用临床以来，胶囊内镜（Capsule endoscopy，CE）已成为诊断小肠（small bowel，SB）疾病的一线工具
+每年发表在PubMed上的有关CE的文献近4000篇
+CE是评价全SB黏膜的最佳方法,且在隐匿性消化道出血（obscuregastrointestinal bleeding，OGIB）诊断中具有重要作用</notes>
+			<notesNormalized>自2000年应用临床以来，胶囊内镜（capsule endoscopy，ce）已成为诊断小肠（small bowel，sb）疾病的一线工具
+每年发表在pubmed上的有关ce的文献近4000篇
+ce是评价全sb黏膜的最佳方法,且在隐匿性消化道出血（obscuregastrointestinal bleeding，ogib）诊断中具有重要作用</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;自2000年应用临床以来，胶囊内镜（Capsule endoscopy，CE）已成为诊断小肠（small bowel，SB）疾病的一线工具&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;每年发表在PubMed上的有关CE的文献近4000篇&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;CE是评价全SB黏膜的最佳方法,且在隐匿性消化道出血（obscuregastrointestinal bleeding，OGIB）诊断中具有重要作用&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>The Long-term Efficacy of The Treatment of EUS-guided Coiling Combined Histoacryl Injection in Patients with Spontaneous Portal-systemic Shunt and Gastric Fundal Varices.
+Department of Gastroenterology1, Research Ward2
+Beijing Friendship Hospital
+Capital Medical University
+ National Clinical Research Center for Digestive Diseases, Beijing, China
+
+Jianxiong Zhang2, Haiying Zhao1, Peng Li1
+Oct 6th，2019</text>
+		</slide>
+		<slide index="1" title="Background" titleNormalized="background" src="slide2.swf" size="137836" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.8159994"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Background
+Variceal bleeding is a medical emergency associated with a mortality that is still in the order of 10–20% at 6 weeks
+Endoscopic therapy such as ligation and tissue adhesive injection is the recommended endoscopic therapy for acute variceal bleeding
+Endoscopic therapy are usually safe and effective
+Franchis R. J Hepatol,2015,63(3):743-52.</text>
+		</slide>
+		<slide index="2" title="Background" titleNormalized="background" src="slide3.swf" size="1594" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.9450001"/>
+			</animationSteps>
+			<notes>	due to early expulsion of tissue glue(within 2 weeks of the treatmant) </notes>
+			<notesNormalized>	due to early expulsion of tissue glue(within 2 weeks of the treatmant)</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="24"&gt;	due to early expulsion of tissue glue(within 2 weeks of the treatmant) &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Background
+Major complications of tissue adhesive injection including 
+Hemorrhage 
+Gastric ulcer
+Ectopic embolism
+
+Liufang C,et al.Chinese Medicaf Journal 2007；120(23):2081-2085.</text>
+		</slide>
+		<slide index="3" title="Background" titleNormalized="background" src="slide4.swf" size="65909" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.4810004"/>
+			</animationSteps>
+			<notes>ectopic embolism including </notes>
+			<notesNormalized>ectopic embolism including</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;ectopic embolism including &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Background
+Patients with spontaneous portal-systemic shunt have high risk of ectopic embolism after tissue adhesive injection
+Liufang C,et al.Chinese Medical Journal 2007；120(23):2081-2085.</text>
+		</slide>
+		<slide index="4" title="Objectives" titleNormalized="objectives" src="slide5.swf" size="1573" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.4929995"/>
+			</animationSteps>
+			<notes>In order to avoid the risk of ectopic embolism in patients with spontaneous portal-systemic shunt, we tried EUS-guided coil placement before Histoacryl injection</notes>
+			<notesNormalized>in order to avoid the risk of ectopic embolism in patients with spontaneous portal-systemic shunt, we tried eus-guided coil placement before histoacryl injection</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In order to avoid the risk of ectopic embolism in patients with spontaneous portal-systemic shunt, we tried EUS-guided coil placement before Histoacryl injection&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Objectives
+EUS-guided coil implantation before histoacryl injection to minimized the risk of ectopic embolism in patients with spontaneous portal-systemic shunt. 
+To evaluate the long-term efficacy of EUS-guided coil implantation with histoacryl injection in the treatment of spontaneous portal systemic shunt and gastric fundus varices.</text>
+		</slide>
+		<slide index="5" title="Methods" titleNormalized="methods" src="slide6.swf" size="54537" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.9450001"/>
+			</animationSteps>
+			<notes>spontaneous splenorenal shunt, SSRS
+spontaneous gastrorenal shunt, SGRS</notes>
+			<notesNormalized>spontaneous splenorenal shunt, ssrs
+spontaneous gastrorenal shunt, sgrs</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;spontaneous splenorenal shunt, SSRS&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;spontaneous gastrorenal shunt, SGRS&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Methods
+Patients with portal hypertension
+Yes
+No
+Flow chart of the study</text>
+		</slide>
+		<slide index="6" title="Methods" titleNormalized="methods" src="slide7.swf" size="152372" advanceOnTime="1" framesCount="183" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="182" playTime="7.5833333" pauseTime="3.2276665"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Methods</text>
+		</slide>
+		<slide index="7" title="Methods" titleNormalized="methods" src="slide8.swf" size="588653" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="59.4579996"/>
+			</animationSteps>
+			<notes>gastric varices were confirmed by an index endoscopy. And in this case, gastic varices with active bleeding was found </notes>
+			<notesNormalized>gastric varices were confirmed by an index endoscopy. and in this case, gastic varices with active bleeding was found</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;gastric varices were confirmed by an index endoscopy. And in this case, gastic varices with active bleeding was found &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Methods</text>
+		</slide>
+		<slide index="8" title="Methods" titleNormalized="methods" src="slide9.swf" size="224913" advanceOnTime="1" framesCount="2618" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_1bde2b00.spr0_87004781" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1bde2b00.spr2_87004781" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2617" playTime="29.5629997" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Methods</text>
+		</slide>
+		<slide index="9" title="Methods" titleNormalized="methods" src="slide10.swf" size="642880" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.5190005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Methods</text>
+		</slide>
+		<slide index="10" title="Results" titleNormalized="results" src="slide11.swf" size="2826" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.0559992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results 
+Patient characteristics</text>
+		</slide>
+		<slide index="11" title="Results" titleNormalized="results" src="slide12.swf" size="2068" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.9789995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results 
+Procedure data and complications</text>
+		</slide>
+		<slide index="12" title="Results" titleNormalized="results" src="slide13.swf" size="2196" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.0320009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results 
+Follow up</text>
+		</slide>
+		<slide index="13" title="Changes in endoscopic manifestations" titleNormalized="changes in endoscopic manifestations" src="slide14.swf" size="527690" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.8490004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Changes in endoscopic manifestations
+Case 1
+2017-12-13
+2018-01-17
+2018-07-25
+2019-07-22</text>
+		</slide>
+		<slide index="14" title="Changes in endoscopic manifestations" titleNormalized="changes in endoscopic manifestations" src="slide15.swf" size="400443" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.3099999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Changes in endoscopic manifestations
+Case 2
+2018-05-28 before the treatment
+2019-08-19</text>
+		</slide>
+		<slide index="15" title="Changes in endoscopic manifestations" titleNormalized="changes in endoscopic manifestations" src="slide16.swf" size="878894" advanceOnTime="1" framesCount="37" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="36" playTime="1.5000000" pauseTime="1.6029999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Changes in endoscopic manifestations
+Case 3
+2018-11-29
+2018-07-03 before the treatment</text>
+		</slide>
+		<slide index="16" title="Discussion" titleNormalized="discussion" src="slide17.swf" size="176545" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.7200007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Discussion
+BRTO(balloon occluded retrograde transvenous obliteration) 
+Combined with Histoacryl Injection 
+Ryan BM,et al.Gastroenterology.2004,126:1175-89.9.
+Wu Q,et al.Minim Invasive Ther Allied Technol.2016,25:337-44.
+It is an alternative selection for cirrhotic patients with portovenous shunts. 
+The procedure is feasible and procedurally safe
+Difficult procedure with high technical threshold
+May destroy the splenorenal shunt
+Affect the hemodynamics of the portal system
+Radiation damage</text>
+		</slide>
+		<slide index="17" title="Discussion" titleNormalized="discussion" src="slide18.swf" size="187731" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.4570002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Discussion
+EUS-guided Coiling Combined Histoacryl Injection</text>
+		</slide>
+		<slide index="18" title="Conclusions" titleNormalized="conclusions" src="slide19.swf" size="1387" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.9509997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conclusions
+EUS-guided coiling combined histoacryl injection in patients with spontaneous portal-systemic shunt and gastric fundal varices is safe and long-term effective.
+
+But large sample size are needed to investigate this issue.
+</text>
+		</slide>
+		<slide index="19" title="Thanks for your kind attention！" titleNormalized="thanks for your kind attention！" src="slide20.swf" size="851183" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.9010000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thanks for your kind attention！</text>
+		</slide>
+	</slides>
+</presentation>

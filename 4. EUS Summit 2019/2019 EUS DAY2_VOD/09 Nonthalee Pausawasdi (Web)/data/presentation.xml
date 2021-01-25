@@ -1,0 +1,701 @@
+<?xml version="1.0"?>
+<presentation title="09 Nonthalee Pausawasdi" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{0DC1D269-F443-4211-BB04-F08BF8C735D5}">
+	<presenters>
+		<presenter name="Nonthalee Pausawasdi" title="Thailand" email="" web="" phone="" photoAssetId="">
+			<bio>Are we moving from FNA to FNB?</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="498879" duration="17817"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="1108159" duration="39577"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="1732068" duration="61859"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="1142536" duration="40804"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="247999" duration="8857"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="546422" duration="19515"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="1413165" duration="50470"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="1626011" duration="58071"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="1343679" duration="47988"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="2028296" duration="72439"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="828022" duration="29572"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="1882742" duration="67240"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="1704274" duration="60866"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="2031222" duration="72543"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="1468754" duration="52455"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="862399" duration="30799"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="3349256" duration="119616"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="3879542" duration="138555"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="17.7840000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="39.5400000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="61.8279991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="40.7739983"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="8.8090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="19.4860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="50.4169998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="58.0250000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="47.9480000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="72.4059982"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="29.5300000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="67.1999969"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="60.8269997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="72.5059967"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="52.4189987"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="30.7639999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="119.5859985"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="138.5050000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Are we moving from FNA to FNB?" titleNormalized="are we moving from fna to fnb?" src="slide1.swf" size="452142" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.7830004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Are we moving from FNA to FNB?
+Nonthalee Pausawasdi, MD.
+Faculty of Medicine Siriraj Hospital
+Mahidol University, Thailand</text>
+		</slide>
+		<slide index="1" title="Evolution of needle design for EUS-guided tissue acquisition (TA)" titleNormalized="evolution of needle design for eus-guided tissue acquisition (ta)" src="slide2.swf" size="15229" advanceOnTime="1" framesCount="661" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="660" playTime="27.5000000" pauseTime="12.0400009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Evolution of needle design for EUS-guided tissue acquisition (TA)
+Early 2000s’ Now
+Up to 2000
+Various kinds of needles
+Needle
+Tru-cut
+(Quick-Core)
+Reverse bevel
+(ProCore)
+Fork-tip
+(SharkCore)
+Franseen
+(Acquire)
+Forward bevel
+(ProCore)
+Size
+ 19-25 G 19 G 19,22,25 G 19,22,25 G 22,25 G 20G
+ 1st-generation 2nd-generation 3rd-generation
+ ROSE
+No ROSE if adequate sample
+Role of ROSE?
+Drawback: 
+Lack of tissue architecture
+Availability of ROSE
+</text>
+		</slide>
+		<slide index="2" title="Evolution of needle design for EUS-guided tissue acquisition (TA)" titleNormalized="evolution of needle design for eus-guided tissue acquisition (ta)" src="slide3.swf" size="14620" advanceOnTime="1" framesCount="272" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="271" playTime="11.2916667" pauseTime="50.5363324"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Evolution of needle design for EUS-guided tissue acquisition (TA)
+Early 2000s’ Now
+Up to 2000
+Various kinds of needles
+Needle
+Tru-cut
+(Quick-Core)
+Reverse bevel
+(ProCore)
+Fork-tip
+(SharkCore)
+Franseen
+(Acquire)
+Forward bevel
+(ProCore)
+Size
+ 19-25 G 19 G 19,22,25 G 19,22,25 G 22,25 G 20G
+ 1st-generation 2nd-generation 3rd-generation
+ ROSE
+No ROSE needed in large volume ctr
+Role of ROSE ?</text>
+		</slide>
+		<slide index="3" title="What needs to be considered before replacing FNA with FNB?" titleNormalized="what needs to be considered before replacing fna with fnb?" src="slide4.swf" size="2009" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="40.7729983"/>
+			</animationSteps>
+			<notes>Now, I’d like to draw your attention to the currently available evidence in regard to biopsy needle. FNA with cytologic analysis has been an excellent tool for tissue diagnosis of GI lesions but its major drawback is lack of tissue architecture limiting the ability to diagnose certain conditions. To overcome this problem, biopsy needles have been developed in order to obtain core tissue. Ideally, for biopsy needle to replace FNA, it has to have at least comparable technical perfoamce, provide better tissue adequacy, better accuracy, equally safe and cost effective.</notes>
+			<notesNormalized>now, i’d like to draw your attention to the currently available evidence in regard to biopsy needle. fna with cytologic analysis has been an excellent tool for tissue diagnosis of gi lesions but its major drawback is lack of tissue architecture limiting the ability to diagnose certain conditions. to overcome this problem, biopsy needles have been developed in order to obtain core tissue. ideally, for biopsy needle to replace fna, it has to have at least comparable technical perfoamce, provide better tissue adequacy, better accuracy, equally safe and cost effective.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Now, I’d like to draw your attention to the currently available evidence in regard to biopsy needle. FNA with cytologic analysis has been an excellent tool for tissue diagnosis of GI lesions but its major drawback is lack of tissue architecture limiting the ability to diagnose certain conditions. To overcome this problem, biopsy needles have been developed in order to obtain core tissue. Ideally, for biopsy needle to replace FNA, it has to have at least comparable technical perfoamce, provide better tissue adequacy, better accuracy, equally safe and cost effective.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Equally good or better technical performance
+Better tissue adequacy/quality WITHOUT ROSE 
+(Less time consuming)
+Higher diagnostic accuracy
+ Equally Safe
+ Cost-effective
+What needs to be considered before replacing FNA with FNB?</text>
+		</slide>
+		<slide index="4" title="What is the evidence comparing FNA &amp; FNB?" titleNormalized="what is the evidence comparing fna &amp; fnb?" src="slide5.swf" size="2327" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.8090004"/>
+			</animationSteps>
+			<notes>Now, I’d like to draw your attention to the currently available evidence in regard to biopsy needle. FNA with cytologic analysis has been an excellent tool for tissue diagnosis of GI lesions but its major drawback is lack of tissue architecture limiting the ability to diagnose certain conditions. To overcome this problem, biopsy needles have been developed in order to obtain core tissue. Ideally, for biopsy needle to replace FNA, it has to have at least comparable technical perfoamce, provide better tissue adequacy, better accuracy, equally safe and cost effective.</notes>
+			<notesNormalized>now, i’d like to draw your attention to the currently available evidence in regard to biopsy needle. fna with cytologic analysis has been an excellent tool for tissue diagnosis of gi lesions but its major drawback is lack of tissue architecture limiting the ability to diagnose certain conditions. to overcome this problem, biopsy needles have been developed in order to obtain core tissue. ideally, for biopsy needle to replace fna, it has to have at least comparable technical perfoamce, provide better tissue adequacy, better accuracy, equally safe and cost effective.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Now, I’d like to draw your attention to the currently available evidence in regard to biopsy needle. FNA with cytologic analysis has been an excellent tool for tissue diagnosis of GI lesions but its major drawback is lack of tissue architecture limiting the ability to diagnose certain conditions. To overcome this problem, biopsy needles have been developed in order to obtain core tissue. Ideally, for biopsy needle to replace FNA, it has to have at least comparable technical perfoamce, provide better tissue adequacy, better accuracy, equally safe and cost effective.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Technical performance of needle
+Tissue adequacy/
+quality
+Diagnostic accuracy
+Safety
+Cost-effective
+Without ROSE
+What is the evidence comparing FNA &amp; FNB? 
+Yes</text>
+		</slide>
+		<slide index="5" title="4 Meta-analysis comparing FNA vs FNB" titleNormalized="4 meta-analysis comparing fna vs fnb" src="slide6.swf" size="4714" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.4850001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>4 Meta-analysis comparing FNA vs FNB 
+Aadam AA, Amick AE, Shah JN, et al. Gastrointest Endosc. 2014;79:AB188–9.
+Study
+N
+(total)
+Lesions
+Compared needle &amp;
+specimen type
+Diagnostic accuracy
+Other outcomes
+Bang, 2016
+576
+Various masses, LN
+Procore vs FNA 22,25
+
+NSD for overall and panc mass
+FNB: fewer passes
+Oh, 2016
+896
+various masses,
+LN
+Procore vs FNA 22,25
+
+NSD for overall
+FNB: better in panc mass &amp; histo core
+Khan, 2017
+1024
+SEL&gt;2cm
+Procore 22 vs FNA 22
+
+NSD
+FNB: fewer passes
+Wang, 2017
+921
+(8RCT)
+Solid panc mass
+Procore 22 vs FNA 22
+
+NSD
+FNB: better adequacy, fewer passes
++13 RCTs comparing FNA vs FNB (2012-2017): 
+Results: NSD for diagnosis, FNB offers better histology quality with fewer passes</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="70478" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="50.4159998"/>
+			</animationSteps>
+			<notes>It was thought that the reason for not seeing the differences had to do with small sample size. Therefore, this multicenter RCT from China was conducted.</notes>
+			<notesNormalized>it was thought that the reason for not seeing the differences had to do with small sample size. therefore, this multicenter rct from china was conducted.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;It was thought that the reason for not seeing the differences had to do with small sample size. Therefore, this multicenter RCT from China was conducted.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Aadam AA, Amick AE, Shah JN, et al. Gastrointest Endosc. 2014;79:AB188–9.
+Outcomes
+(N=377)
+FNB (N=190)
+(procore 22)
+FNA (N=187)
+(Echotip 22)
+P value
+Overall diagnostic accuracy
+91%
+80%
+0.0015
+Pancreatic mass : Histology
+(N=249)
+93%
+82%
+0.0099
+Pancreatic mass : Cytology
+89%
+79%
+0.0047
+Non-pancreatic lesions
+similar
+similar
+NS</text>
+		</slide>
+		<slide index="7" title="Prospective assessment of the diagnostic performance of EUS-FNB (Acquire 22G) in abdominal masses (N=100) without ROSE" titleNormalized="prospective assessment of the diagnostic performance of eus-fnb (acquire 22g) in abdominal masses (n=100) without rose" src="slide8.swf" size="75081" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="58.0240015"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CA gallbladder
+1.7%
+Spindle cell tumor
+1.7%
+Neuroendocrine tumor (NET)
+1.7%
+Lymphoma
+1.7%
+Leiomyoma
+1.7%
+Disseminated cryptococcosis
+1.7%
+Atypical cell
+1.7%
+Epitheloid cell aggregation
+1.7%
+Other (13%)
+Prospective assessment of the diagnostic performance of EUS-FNB (Acquire 22G) in abdominal masses (N=100) without ROSE
+DDW 2018</text>
+		</slide>
+		<slide index="8" title="Diagnostic Performance of EUS-FNB for solid masses (n=100)" titleNormalized="diagnostic performance of eus-fnb for solid masses (n=100)" src="slide9.swf" size="5403" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="47.9470019"/>
+			</animationSteps>
+			<notes>	Overall diagnostic performance of EUS-FNB ในการวินิจฉัย solid intra-abdominal mass had a sensitivity of 88.1% (95% CI,77.1-95.1), specificity of 100% (95% CI, 2.5-100), positive predictive value (PPV) of 100% (95% CI,93.2-100), negative predictive value (NPV) of 12.5% (95% CI,0.3-52.7), the area under the receiver operating curve (AUROC) of 0.941 (95% CI,0.851-1.000) with the accuracy of 88.3%. For detection of malignancy, FNB had a sensitivity of 97.7% (95% CI,87.7-99.9), specificity of 90% (95% CI, 55.5-99.7), positive predictive value (PPV) of 97.7% (95% CI,87.7-99.9), negative predictive value (NPV) of 90% (95% CI,55.5-99.7), the area under the receiver operating curve (AUROC) of 0.938 (95% CI,0.826-1.000) with the accuracy of 96.2%. </notes>
+			<notesNormalized>	overall diagnostic performance of eus-fnb ในการวินิจฉัย solid intra-abdominal mass had a sensitivity of 88.1% (95% ci,77.1-95.1), specificity of 100% (95% ci, 2.5-100), positive predictive value (ppv) of 100% (95% ci,93.2-100), negative predictive value (npv) of 12.5% (95% ci,0.3-52.7), the area under the receiver operating curve (auroc) of 0.941 (95% ci,0.851-1.000) with the accuracy of 88.3%. for detection of malignancy, fnb had a sensitivity of 97.7% (95% ci,87.7-99.9), specificity of 90% (95% ci, 55.5-99.7), positive predictive value (ppv) of 97.7% (95% ci,87.7-99.9), negative predictive value (npv) of 90% (95% ci,55.5-99.7), the area under the receiver operating curve (auroc) of 0.938 (95% ci,0.826-1.000) with the accuracy of 96.2%.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;	Overall diagnostic performance of EUS-FNB ในการวินิจฉัย solid intra-abdominal mass had a sensitivity of 88.1% (95% CI,77.1-95.1), specificity of 100% (95% CI, 2.5-100), positive predictive value (PPV) of 100% (95% CI,93.2-100), negative predictive value (NPV) of 12.5% (95% CI,0.3-52.7), the area under the receiver operating curve (AUROC) of 0.941 (95% CI,0.851-1.000) with the accuracy of 88.3%. For detection of malignancy, FNB had a sensitivity of 97.7% (95% CI,87.7-99.9), specificity of 90% (95% CI, 55.5-99.7), positive predictive value (PPV) of 97.7% (95% CI,87.7-99.9), negative predictive value (NPV) of 90% (95% CI,55.5-99.7), the area under the receiver operating curve (AUROC) of 0.938 (95% CI,0.826-1.000) with the accuracy of 96.2%. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>PPV: positive predictive value, NPV: negative predictive value, CI: confidence interval, 
+AUROC: Area under Receiver-Operating Characteristics curve
+
+Diagnostic Performance of EUS-FNB for solid masses (n=100)</text>
+		</slide>
+		<slide index="9" title="Comparison of diagnostic performance of FNB (histology) and historical controlled FNA (N=166, cytology with cell block)" titleNormalized="comparison of diagnostic performance of fnb (histology) and historical controlled fna (n=166, cytology with cell block)" src="slide10.swf" size="4589" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="72.4049982"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Comparison of diagnostic performance of FNB (histology) and historical controlled FNA (N=166, cytology with cell block)</text>
+		</slide>
+		<slide index="10" title="Comparison of tissue adequacy of FNB and FNA (historical control, N=166)" titleNormalized="comparison of tissue adequacy of fnb and fna (historical control, n=166)" src="slide11.swf" size="2385" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.5290007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Comparison of tissue adequacy of FNB and FNA (historical control, N=166)</text>
+		</slide>
+		<slide index="11" title="" titleNormalized="" src="slide12.swf" size="96992" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="67.1989969"/>
+			</animationSteps>
+			<notes>In contrast to our study, a large retrospective study recruiting over 3,000….. Study is different from ours.</notes>
+			<notesNormalized>in contrast to our study, a large retrospective study recruiting over 3,000….. study is different from ours.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In contrast to our study, a large retrospective study recruiting over 3,000….. Study is different from ours.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Retrospective analysis of 3,020 patients 
+(FNA 69%, FNB 31%- 22 G Acquire with ROSE)</text>
+		</slide>
+		<slide index="12" title="Comparison between different FNB" titleNormalized="comparison between different fnb" src="slide13.swf" size="52103" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="60.8259997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Comparison between different FNB
+Nayar, 2017
+Abdelfatah, 
+2017
+Bang, 2017
+Park, 2017
+Results:
+Procore- 22 &amp; 25G: comparable 
+ - forward-bevel superior to reverse-bevel
+Franseen vs Fork tip: comparable</text>
+		</slide>
+		<slide index="13" title="What is comping up next for FNB in 2019?" titleNormalized="what is comping up next for fnb in 2019?" src="slide14.swf" size="126827" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="72.5049967"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What is comping up next for FNB in 2019?</text>
+		</slide>
+		<slide index="14" title="" titleNormalized="" src="slide15.swf" size="79906" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="52.4179987"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="15" title="" titleNormalized="" src="slide16.swf" size="198316" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.7629999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="16" title="Current status: FNA vs FNB" titleNormalized="current status: fna vs fnb" src="slide17.swf" size="48408" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="119.5849985"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Current status: FNA vs FNB
+ Now
+ 2020 onwards
+FNA-
+FNB
+Technical performance of needle
+Comparable
+Comparable
+Tissue adequacy/quality
+Inferior 
+Superior
+Diagnostic accuracy
+Better in pancreatic cancer
+Safety
+Comparable
+
+Comparable
+
+Cost
+Comparable to FNB in US (other regions not known) 
+Comparable to FNA in US (other regions not known) 
+
+Lots of on-going research (clinical trial.gov)
+
+49 trials 
+34 RCTs
+Comparing FNA vs FNB
+Comparing FNB vs FNB (different kinds)
+ROSE vs NO ROSE
+Population: pancreatic ca, GIST, lymphoma, solid lesions
+
+FNB definitely has a role in molecular profiling
+
+
+
+
+FNB</text>
+		</slide>
+		<slide index="17" title="Proposed “tailored approach” for needle selection" titleNormalized="proposed “tailored approach” for needle selection" src="slide18.swf" size="75751" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="138.5040049"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Proposed “tailored approach” for needle selection
+Conclusion</text>
+		</slide>
+	</slides>
+</presentation>
