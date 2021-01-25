@@ -1,0 +1,837 @@
+<?xml version="1.0"?>
+<presentation title="11 Can Xu" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{C5BCE5A4-37EC-4591-BC7B-9C8EC0BD81D7}">
+	<presenters>
+		<presenter name="Can Xu" title="China" email="" web="" phone="" photoAssetId="">
+			<bio>EUS-guided interstitial brachytherapy</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="438171" duration="15648"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="964068" duration="34431"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="800959" duration="28605"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="993325" duration="35475"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="353325" duration="12618"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="594696" duration="21239"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="966994" duration="34535"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="857279" duration="30617"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="197531" duration="7054"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="702948" duration="25105"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="494491" duration="17660"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="503999" duration="17999"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="343085" duration="12253"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="288959" duration="10319"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="481325" duration="17190"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="586651" duration="20951"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="453531" duration="16197"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="827291" duration="29546"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="253119" duration="9039"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="719771" duration="25706"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="468891" duration="16746"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="566171" duration="20220"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="990399" duration="35371"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="56365" duration="2013"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="111222" duration="3972"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="114879" duration="4102"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="690514" duration="24661"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="825096" duration="29467"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="32959" duration="1177"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="15.6160000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="34.4010000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="28.5620000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="35.4350000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="12.5790000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="21.1880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="34.5000000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="30.5639992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="7.0070000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="25.0580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="17.6180000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="17.9500000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="12.2100000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="10.2770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="17.1499996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="20.9200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="16.1490000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="29.4960000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="9.0090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="25.6590000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="16.7170000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="20.1870000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="35.3300000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="1.9690000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="3.9370000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="4.0710000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="24.6250000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="29.4290000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="1.1339999"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS-guided interstitial brachytherapy" titleNormalized="eus-guided interstitial brachytherapy" src="slide1.swf" size="431622" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.6189999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Can Xu 
+Changhai Hospital, Shanghai, China 
+ EUS-guided interstitial brachytherapy</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="189959" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.4000010"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Quite a lot of cancers are diagnosed in later stage, not candidate for surgery
+Intraluminal and interstitial brachytherapies are effective palliative therapy for local control of the tumor
+Advantages of interstitial brachytherapies: the target lesion is continuously exposed to γ-rays producing more localized tissue injury and tumor ablation</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="1738" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="28.5610003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Interstitial brachytherapy has been considered a useful modality for local control of tumors
+Clinically, it has been used to control tumor of 
+ the prostate, breast, brain, rectum, pancreas. 
+The conventional seeds implantation is performed
+ during open surgery 
+ under guidance of imaging techniques (CT &amp; abdominal ultrasound)
+
+</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="2085" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.4340014"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Advantages of EUS-guided implantation:
+ minimally invasive
+ accurate positioning 
+ more limpid real-time image
+ a shorter puncture pathway
+Advantages of the iodine-125 longer half-life of 59.4 days
+ high-dosage in targeted organs
+ minimal damage to normal tissue
+EUS-guided iodine-125 is a minimally invasive, safe and effective therapy
+Gai B,et al.J Cancer Res Ther. 2018;14(7):1455-1462. </text>
+		</slide>
+		<slide index="4" title="125 I-radioactive seeds" titleNormalized="125 i-radioactive seeds" src="slide5.swf" size="314029" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.5789999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>125 I-radioactive seeds
+ XinKe Pharmaceutical, Ltd, Shanghai,China</text>
+		</slide>
+		<slide index="5" title="125 I-radioactive seeds" titleNormalized="125 i-radioactive seeds" src="slide6.swf" size="93534" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.1890005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The penetration distance in human tissue for each seed is 1.7 cm 
+No irradiating the surrounding organs
+Harmless to the patient’s relatives 
+The potential harm to the operators can be minimized by adequate shielding 
+125I-radioactive seeds</text>
+		</slide>
+		<slide index="6" title="Therapeutic mechanism" titleNormalized="therapeutic mechanism" src="slide7.swf" size="2066" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.4990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Continuous low-dose-rate (CLDR) irradiation of iodine-125 seeds was more effective in inducing apoptosis of Panc-1 cells than Acute high-dose-rate irradiation
+The best time for chemotherapy is within 3±4 days after implantation of iodine-125 seeds
+The permeability of the surrounding vasculature is promoted by the radiation effects of the seeds at that time
+
+Wang J, et al. Cancer Biother Radiopharm 2009; 24:409
+Therapeutic mechanism
+Cron GO, et al. Int J Radiat Oncol Biol Phys 2005; 63:1245</text>
+		</slide>
+		<slide index="7" title="EUS-guided implantation 125I- feasibility" titleNormalized="eus-guided implantation 125i- feasibility" src="slide8.swf" size="212770" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.5629992"/>
+			</animationSteps>
+			<notes>
+			</notes>
+			<notesNormalized/>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-guided implantation 125I- feasibility
+6 pigs
+modified needle( 22G body+ 18G tip attached to the distal end)
+14 days of clinical observation
+the tissue response to brachytherapy was examined
+
+Sun S, et al. Gastrointest Endosc. 2005;62(5):775</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="550142" advanceOnTime="1" framesCount="111" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="110" playTime="4.5833333" pauseTime="2.4236666"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>2005.07.02
+Our first case 2005.07.02
+</text>
+		</slide>
+		<slide index="9" title="EUS-guided implantation 125I- Clinically" titleNormalized="eus-guided implantation 125i- clinically" src="slide10.swf" size="226452" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.0589995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-guided iodine-125 seeds implantation was reported to have a short-term efficacy on PC, with a three-month partial remission rate of 13.6% to 27%.
+The VAS pain score significantly dropped 1 week after therapy and maintained for 1 month
+Sun S, et al. Endoscopy 2006; 38:399, Jin Z, et al. Endoscopy 2008, 40:314
+EUS-guided implantation 125I- Clinically</text>
+		</slide>
+		<slide index="10" title="" titleNormalized="" src="slide11.swf" size="209263" advanceOnTime="1" framesCount="444" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_1fe53a90.spr0_18600203" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1fe53a90.spr2_18600203" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="443" playTime="17.6180000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="11" title="Preparation before implantation 125I-seeds" titleNormalized="preparation before implantation 125i-seeds" src="slide12.swf" size="329717" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.9490008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Preparation before implantation 125I-seeds 
+Design the protocol by 3D CT system
+Determine the total radioactivity for tumor seeds amount and array
+E
+U
+S</text>
+		</slide>
+		<slide index="12" title="Preparation before implantation 125I-seeds" titleNormalized="preparation before implantation 125i-seeds" src="slide13.swf" size="17271" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.2090000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>In order to reach maximum radiation effects, the number of seeds implanted was 15 percent more than needed. 
+The volumn of tumor were obtained by CT
+Treatment Planning System (TPS)
+The estimated amount was get from modified Cevec formula
+Tumor (cm)
+(mCi)
+Preparation before implantation 125I-seeds</text>
+		</slide>
+		<slide index="13" title="Device preparation" titleNormalized="device preparation" src="slide14.swf" size="599257" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.2789997"/>
+			</animationSteps>
+			<notes>
+			</notes>
+			<notesNormalized/>
+			<notesHtml>&lt;p&gt;&lt;font size="11" color="#ffc000"&gt;&lt;b&gt; &lt;/b&gt;&lt;/font&gt;&lt;font size="10" color="#7030a0"&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Wilson-Cook 19-Gauge needle 
+releasing instrument
+Device preparation</text>
+		</slide>
+		<slide index="14" title="" titleNormalized="" src="slide15.swf" size="180957" advanceOnTime="1" framesCount="1465" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_2dd35320.spr0_18621609" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2dd35320.spr2_18621609" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1464" playTime="17.1499996" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>
+			</notes>
+			<notesNormalized/>
+			<notesHtml>&lt;p&gt;&lt;font size="11" color="#ffc000"&gt;&lt;b&gt; &lt;/b&gt;&lt;/font&gt;&lt;font size="10" color="#7030a0"&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="15" title="EUS-guided implantation 125I for PDAC + Chemo" titleNormalized="eus-guided implantation 125i for pdac + chemo" src="slide16.swf" size="221609" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.9190001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Changhai 2008
+EUS-guided implantation 125I for PDAC
+ + Chemo 
+pain relieved in all patients, median survival time 9.0 Mon,
+ 59.1% the tumor growth was effectively controlled</text>
+		</slide>
+		<slide index="16" title="EUS-guided implantation 125I for PDAC- long-term effect？" titleNormalized="eus-guided implantation 125i for pdac- long-term effect？" src="slide17.swf" size="130211" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.1489996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>(Changhai . 2013)
+ 
+EUS-guided implantation 125I for PDAC- 
+ long-term effect？
+
+ 
+EUS-guided radioactive seeds implantation is an effective method to relieve pain in PDAC, no long−term survival benefit
+</text>
+		</slide>
+		<slide index="17" title="EUS-guided implantation 125I in retroperitoneal metastatic adenocarcinoma" titleNormalized="eus-guided implantation 125i in retroperitoneal metastatic adenocarcinoma" src="slide18.swf" size="322753" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.4950003"/>
+			</animationSteps>
+			<notes>This is a 61 year old lady,  histologically confirmed retroperitoneal metastatic adenocarcinoma.  MRI scan showed many enlarged lymph nodes near the hepatic portal and retroperitoneal areas;  EUS guided Implantation of 20  seeds at the first session and 14 seeds at the second session  one week later.</notes>
+			<notesNormalized>this is a 61 year old lady, histologically confirmed retroperitoneal metastatic adenocarcinoma. mri scan showed many enlarged lymph nodes near the hepatic portal and retroperitoneal areas; eus guided implantation of 20 seeds at the first session and 14 seeds at the second session one week later.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000000"&gt;This is a 61 year old lady,  histologically confirmed &lt;/font&gt;&lt;font size="12" color="#ff0000"&gt;retroperitoneal metastatic adenocarcinoma. &lt;/font&gt;&lt;font size="12" color="#000000"&gt; MRI scan showed many enlarged lymph nodes near the hepatic portal and retroperitoneal areas;  EUS guided Implantation of 20  seeds at the first session and 14 seeds at the second session  one week later.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-guided implantation 125I in retroperitoneal metastatic adenocarcinoma
+Guo Y, et al. Endoscopy 2009; 41: E301</text>
+		</slide>
+		<slide index="18" title="EUS-guided implantation 125I in retroperitoneal metastatic adenocarcinoma" titleNormalized="eus-guided implantation 125i in retroperitoneal metastatic adenocarcinoma" src="slide19.swf" size="191603" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.0090002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Guo Y, et al. Endoscopy 2009; 41: E301
+EUS-guided implantation 125I in retroperitoneal metastatic adenocarcinoma</text>
+		</slide>
+		<slide index="19" title="EUS-guided 125I brachytherapy for malignant left-sided liver tumors" titleNormalized="eus-guided 125i brachytherapy for malignant left-sided liver tumors" src="slide20.swf" size="174975" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.6589998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-guided 125I brachytherapy for malignant left-sided liver tumors
+Jiang TA, et al. Sci. Rep.2016；6, 36098
+ A: low-density mass in the left lobe
+ B: low-echodensity mass on EUS
+ C: seeds implantation
+ D：1 Mon downsize of the mass
+ E：12 Mon disappearance of the mass</text>
+		</slide>
+		<slide index="20" title="EUS-guided 125I seeds Implantation VS ethanol injection" titleNormalized="eus-guided 125i seeds implantation vs ethanol injection" src="slide21.swf" size="24262" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.7189993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Jiang TA, et al. Sci. Rep.2016；6, 36098
+EUS-guided 125I seeds Implantation VS ethanol injection
+Result in ethanol injection group and iodine-125 seed implantation
+EUS-guided 125I brachytherapy has a better prognosis and less recurrence for left-sided liver tumors comparing to ethanol ablation.</text>
+		</slide>
+		<slide index="21" title="Novel treatment-planning system for EUS-guided 125I for unresectable pancreatic cancer" titleNormalized="novel treatment-planning system for eus-guided 125i for unresectable pancreatic cancer" src="slide22.swf" size="148809" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.1890005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Novel treatment-planning system for EUS-guided 125I 
+for unresectable pancreatic cancer
+Sun XT, et al. Oncotarget, 2017, 8, (No. 45), pp: 79099
+All patients tolerated the treatment well without serious complications. 
+Partial remission rate：80%. 
+Twelve patients (12/18) in stage III were alive for over 12 months.</text>
+		</slide>
+		<slide index="22" title="EUS-guided celiac ganglion irradiation" titleNormalized="eus-guided celiac ganglion irradiation" src="slide23.swf" size="64697" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.3290018"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Celiac plexus neurolysis(CPN) and celiac plexus block (CPB) have been considered the first-line therapies for pain control in pancreatic cancer 
+CPN can only relieve the pain to a limited degree, and lasts a short period, and the analgesic effect is inversely correlated to the extent of invasion of celiac ganglia 
+EUS-guided celiac ganglion irradiation with iodine 125 
+
+EUS-guided celiac ganglion irradiation</text>
+		</slide>
+		<slide index="23" title="" titleNormalized="" src="slide24.swf" size="342626" advanceOnTime="1" framesCount="291" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_2e4172a0.spr0_18638546" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2e4172a0.spr2_18638546" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="290" playTime="1.9690000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="24" title="EUS-guided celiac ganglion irradiation of 125I : Animal model" titleNormalized="eus-guided celiac ganglion irradiation of 125i : animal model" src="slide25.swf" size="193781" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.9390001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-guided celiac ganglion irradiation of 125I : Animal model
+CHANGHAI HOSPITAL,2009</text>
+		</slide>
+		<slide index="25" title="EUS-guided celiac ganglion irradiation" titleNormalized="eus-guided celiac ganglion irradiation" src="slide26.swf" size="264628" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.0700001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>safe, feasible, and effective
+EUS-guided celiac ganglion irradiation</text>
+		</slide>
+		<slide index="26" title="EUS-guided celiac ganglion irradiation" titleNormalized="eus-guided celiac ganglion irradiation" src="slide27.swf" size="53800" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.6289992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-guided direct celiac ganglion irradiation with 125I seeds can reduce the VAS score and analgesic drug consumption
+Wang KX, et al. Gastrointest Endosc 2012;76:945
+EUS-guided celiac ganglion irradiation</text>
+		</slide>
+		<slide index="27" title="Summary" titleNormalized="summary" src="slide28.swf" size="1790" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.4290003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Summary
+EUS-guided interstitial brachytherapy is a safe and effective therapy 
+It provides clinical benefit for unresectable pancreatic cancer, especially for cancer pain relief 
+Further studies are needed to confirm the long-term effect 
+EUS-guided celiac ganglion irradiation with 125I is safe, feasible, and effective for pain control
+
+</text>
+		</slide>
+		<slide index="28" title="" titleNormalized="" src="slide29.swf" size="11650" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.1329999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for your attention！</text>
+		</slide>
+	</slides>
+</presentation>

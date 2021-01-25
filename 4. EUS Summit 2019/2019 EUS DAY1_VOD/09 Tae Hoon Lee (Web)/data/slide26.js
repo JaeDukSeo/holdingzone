@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{31D5DFE0-0AD4-4192-A7B3-CC2FCD4AAB43}'];loadHandler&&loadHandler(25, '<div id="spr0_69c0e0"><div id="spr1_69c0e0" class="kern"><img id="img2_69c0e0" src="data/img45.png" width="959px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_69c0e0" class="kern"><div id="spr3_69c0e0" style="left:350px;top:65px;"><img id="img0_69c0e0" src="data/img126.png" width="261" height="56" alt="Summary"/></div><div id="spr4_69c0e0" style="left:67px;top:177px;"><img id="img1_69c0e0" src="data/img127.png" width="822" height="285" alt="Intraductal (ID)-RFA is now widely performed for palliation of malignant biliary obstruction: simple, low-cost, &amp; no phototoxicity\
+The efficacy and safety of ID-RFA for hilar malignancy may differ from a distal bile duct obstruction: efficacy is still a matter of debate.\
+Optimal settings of ID-RFA for treatment of hilar malignant obstruction remain to be defined. \
+Temperature-controlled ID-RFA is also theoretically different from impedance-controlled ID-RFA; specific data are needed to determine optimal settings for each ID-RFA.\
+"/></div></div></div>');})();

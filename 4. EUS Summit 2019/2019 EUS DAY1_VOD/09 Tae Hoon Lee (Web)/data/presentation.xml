@@ -1,0 +1,1215 @@
+<?xml version="1.0"?>
+<presentation title="09 Tae Hoon Lee" width="959.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{31D5DFE0-0AD4-4192-A7B3-CC2FCD4AAB43}">
+	<presenters>
+		<presenter name="Tae Hoon Lee" title="Korea" email="" web="" phone="" photoAssetId="">
+			<bio>Endobiliary RFA - HilarRFA -</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="184365" duration="6584"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="66605" duration="2378"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="657599" duration="23485"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="1307839" duration="46708"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="602742" duration="21526"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="320411" duration="11443"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="996982" duration="35606"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="411839" duration="14708"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="411839" duration="14708"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="545691" duration="19488"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="1490696" duration="53239"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="830948" duration="29676"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="1438034" duration="51358"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="546422" duration="19515"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="1408776" duration="50313"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="281645" duration="10058"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="175588" duration="6271"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="1293211" duration="46186"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="547885" duration="19567"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="650285" duration="23224"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="333576" duration="11913"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="462308" duration="16511"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="190948" duration="6819"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="553005" duration="19750"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="709531" duration="25340"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="722696" duration="25810"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="72456" duration="2587"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="6.5400000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="2.3360000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="23.4570000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="46.6800000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="21.4880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="11.4110000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="35.5690000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="14.6800000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="14.6800000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="19.4529991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="53.1860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="29.6299992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="51.3180000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="19.4860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="50.2840000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="10.0100000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="6.2399998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="46.1459999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="19.5200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="23.1900000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="11.8789997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="16.4829998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="6.7729998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="19.7199993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="25.2900000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="25.7590000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="2.5360000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Endobiliary RFA - HilarRFA -" titleNormalized="endobiliary rfa - hilarrfa -" src="slide1.swf" size="341070" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.5390000"/>
+			</animationSteps>
+			<notes>Thank you for kind introduction.</notes>
+			<notesNormalized>thank you for kind introduction.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Thank you for kind introduction.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Endobiliary RFA
+- Hilar RFA -
+Tae Hoon Lee, MD, PhD
+SoonChunHyang University College of Medicine, Cheonan Hospital
+Cheonan, Korea</text>
+		</slide>
+		<slide index="1" title="Contents" titleNormalized="contents" src="slide2.swf" size="12062" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.3389999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Contents
+ Introduction
+Local ablation PDT and RFA
+ RFA
+Endobiliary RFA: Habib® vs ELRA® EB-RFA
+Hilar RFA
+ Temperature controlled RFA (ELRA®)
+In vivo animal study 
+Clinical safety and feasibility in Korea
+ Future perspective and Summary</text>
+		</slide>
+		<slide index="2" title="HCCA" titleNormalized="hcca" src="slide3.swf" size="2541018" advanceOnTime="1" framesCount="462" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="461" playTime="19.2083333" pauseTime="4.2516658"/>
+			</animationSteps>
+			<notes>First  I will show one case of RFA for HCCA. A 72 year old man admitted due to jaundice.
+Abdomen CT shows irregular enhancing wall thickening on CHD, and both IHD dilatation. This 2.2 cm sized rim enhanced low density lesion on S4 invaded both hepatic a. and Lt portal v.
+
+Imp)
+1. Probable Klastkin tumor, type IIIb (unresectable)
+ -- probable invasion of both hepatic aa., Lt. portal v., and S4.
+2. Enlarged LN in portocaval area.
+ -- probable metastatic LN.</notes>
+			<notesNormalized>first i will show one case of rfa for hcca. a 72 year old man admitted due to jaundice.
+abdomen ct shows irregular enhancing wall thickening on chd, and both ihd dilatation. this 2.2 cm sized rim enhanced low density lesion on s4 invaded both hepatic a. and lt portal v.
+
+imp)
+1. probable klastkin tumor, type iiib (unresectable)
+ -- probable invasion of both hepatic aa., lt. portal v., and s4.
+2. enlarged ln in portocaval area.
+ -- probable metastatic ln.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;First  I will show one case of RFA for HCCA. A 72 year old man admitted due to jaundice.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Abdomen CT shows irregular enhancing wall thickening on CHD, and both IHD dilatation. This 2.2 cm sized rim enhanced low density lesion on S4 invaded both hepatic a. and Lt portal v.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Imp)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;1. Probable Klastkin tumor, type IIIb (unresectable)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; -- probable invasion of both hepatic aa., Lt. portal v., and S4.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;2. Enlarged LN in portocaval area.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; -- probable metastatic LN.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>HCCA
+72 yr old man
+Jaundice</text>
+		</slide>
+		<slide index="3" title="HCCA; RFA" titleNormalized="hcca; rfa" src="slide4.swf" size="338942" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="46.6790003"/>
+			</animationSteps>
+			<notes>Therefore, for this unresectable IIIB type HCCA, we planned concurrent chemoradiation therapy (CCRT). And before CCRT, we added RFA on Rt obstructed lesion. Before RFA, IDUS showed Hypoechogenic heterogeneous asymmetric wall thickening (about 8.3mm thickness) on CHD &amp; Hilum.
+Intraductal endoscopic RFA on right IHD side to hilum was set on 7 Watt, 80 degrees, and 120sec. After RFA, inserted two plastic stents into right branches.
+
+
+* Cholangiogram 에서 abrupt luminal narrowing at CHD &amp; Hilum 소견 관찰되며 Lt.IHD 로 조영되지 않음
+* VisiGlide2 (straight) 이용하여 Lt.IHD 로 cannulation 시도하였으나 fail
+* Intraductal endoscopic RFA: 9=&gt;8Watt, 80도, 120sec, ELRA electrode bipolar type, 22mm probe at hilum
+•	ERBD with plastic stent (Amsterdam, 7Fr/12cm) 
+•	ERBD with plastic stent (Double pigtail, 7Fr/10cm) in Rt.IHD </notes>
+			<notesNormalized>therefore, for this unresectable iiib type hcca, we planned concurrent chemoradiation therapy (ccrt). and before ccrt, we added rfa on rt obstructed lesion. before rfa, idus showed hypoechogenic heterogeneous asymmetric wall thickening (about 8.3mm thickness) on chd &amp; hilum.
+intraductal endoscopic rfa on right ihd side to hilum was set on 7 watt, 80 degrees, and 120sec. after rfa, inserted two plastic stents into right branches.
+
+
+* cholangiogram 에서 abrupt luminal narrowing at chd &amp; hilum 소견 관찰되며 lt.ihd 로 조영되지 않음
+* visiglide2 (straight) 이용하여 lt.ihd 로 cannulation 시도하였으나 fail
+* intraductal endoscopic rfa: 9=&gt;8watt, 80도, 120sec, elra electrode bipolar type, 22mm probe at hilum
+•	erbd with plastic stent (amsterdam, 7fr/12cm) 
+•	erbd with plastic stent (double pigtail, 7fr/10cm) in rt.ihd</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Therefore, for this unresectable IIIB type HCCA, we planned concurrent chemoradiation therapy (CCRT). And before CCRT, we added RFA on Rt obstructed lesion. Before RFA, IDUS showed Hypoechogenic heterogeneous asymmetric wall thickening (about 8.3mm thickness) on CHD &amp;amp; Hilum.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Intraductal endoscopic RFA on right IHD side to hilum was set on 7 Watt, 80 degrees, and 120sec. After RFA, inserted two plastic stents into right branches.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;* Cholangiogram 에서 abrupt luminal narrowing at CHD &amp;amp; Hilum 소견 관찰되며 Lt.IHD 로 조영되지 않음&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;* VisiGlide2 (straight) 이용하여 Lt.IHD 로 cannulation 시도하였으나 fail&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;* Intraductal endoscopic RFA: 9=&amp;gt;8Watt, 80도, 120sec, ELRA electrode bipolar type, 22mm probe at hilum&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	ERBD with plastic stent (Amsterdam, 7Fr/12cm) &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	ERBD with plastic stent (Double pigtail, 7Fr/10cm) in Rt.IHD &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>HCCA; RFA
+7W, 80℃, 60 sec x2
+ELRA electrode bipolar, 11mm 
+Bismuth IIIB
+Both hepatic a., Lt portal v. invasion</text>
+		</slide>
+		<slide index="4" title="HCCA, CCRT 3 months later" titleNormalized="hcca, ccrt 3 months later" src="slide5.swf" size="3031356" advanceOnTime="1" framesCount="433" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="432" playTime="18.0000000" pauseTime="3.4899998"/>
+			</animationSteps>
+			<notes>3  Months later, the main tumor size and portocaval LN decreased, but remained invasion of Lt. portal vein and Lt hepatic artery. However, Rt HA invasion was not definite in this CT scan and can save it surgically.    </notes>
+			<notesNormalized>3 months later, the main tumor size and portocaval ln decreased, but remained invasion of lt. portal vein and lt hepatic artery. however, rt ha invasion was not definite in this ct scan and can save it surgically.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;3  Months later, the main tumor size and portocaval LN decreased, but remained invasion of Lt. portal vein and Lt hepatic artery. However, Rt HA invasion was not definite in this CT scan and can save it surgically.    &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>HCCA, CCRT
+3 months later</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="1702" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.4100003"/>
+			</animationSteps>
+			<notes>So, after consultation with a surgeon, performed curative surgical resection without remnant lesion. This patient is under observation over 2 years without recurrence.</notes>
+			<notesNormalized>so, after consultation with a surgeon, performed curative surgical resection without remnant lesion. this patient is under observation over 2 years without recurrence.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;So, after consultation with a surgeon, performed curative surgical resection without remnant lesion. This patient is under observation over 2 years without recurrence.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Left hemihepatectomy c S1 segmentectomy, bile duct reconstruction, cholecystectomy
+
+Residual cholangiocarcinoma with extensive mucinous change, extrahepatic nodular type Adenocarcinoma, moderately differentiated, 3.0x2.0x1.0cm, left hepatic duct and liver parenchyme
+ with 1) depth of invasion : invasion to adjacent hepatic parenchyma 
+	2) lymphatic invasion : not identified 
+	3) vascular invasion : not identified 
+	4) perineural invasion : not identified 
+	5) surgical margins : free of tumor
+ (safety margin : right hepatic duct 1.0cm; common bile duct, 3.0cm)
+	6) lymph node : no metastasis in 2 lymph nodes (0/2)</text>
+		</slide>
+		<slide index="6" title="Improving Patency and Survival" titleNormalized="improving patency and survival" src="slide7.swf" size="2402" advanceOnTime="1" framesCount="528" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="527" playTime="21.9583333" pauseTime="13.6116664"/>
+			</animationSteps>
+			<notes>Like this case, various local ablation therapies including RFA can be used as an additional local therapy before surgery or palliative care. To prolong stent patency or survival, these local therapies, as well as chemoradiotherapies have been introduced. 
+	Role of these local ablation therapies are minimally invasive, and may prolong stent patency or survival by decreasing tumor burden in surgically inoperable or unsuitable patients. 
+</notes>
+			<notesNormalized>like this case, various local ablation therapies including rfa can be used as an additional local therapy before surgery or palliative care. to prolong stent patency or survival, these local therapies, as well as chemoradiotherapies have been introduced. 
+	role of these local ablation therapies are minimally invasive, and may prolong stent patency or survival by decreasing tumor burden in surgically inoperable or unsuitable patients. 
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Like this case, various local ablation therapies including RFA can be used as an additional local therapy before surgery or palliative care. To prolong stent patency or survival, these local therapies, as well as chemoradiotherapies have been introduced. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;	Role of these local ablation therapies are minimally invasive, and may prolong stent patency or survival by decreasing tumor burden in surgically inoperable or unsuitable patients. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Local ablation therapy
+Hyperthermic injury
+Radiofrequency ablation (RFA)
+Microwave ablation
+High intensity focused ultrasound (HIFU)
+Laser ablation
+Cryoablation
+Photodynamic therapy (PDT)
+Irreversible electroporation (IRE)
+Brachytherapy
+Role of ablation therapy
+Minimally invasive 
+Early stage  cure
+Unresectable lesion location 
+ Tumor burden ↓↓
+Poor surgical candidate
+
+Improving Patency and Survival</text>
+		</slide>
+		<slide index="7" title="PDT in unresectable HCCA" titleNormalized="pdt in unresectable hcca" src="slide8.swf" size="64504" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.6790003"/>
+			</animationSteps>
+			<notes>	Among them, PDT is now a well-known local therapy, and worldwide PDT trial is on-going.
+	Some Korean study also showed that the benefit of PDT for stent patency or survival in malig hilar obstruction. 
+
+
+
+
+
+
+</notes>
+			<notesNormalized>	among them, pdt is now a well-known local therapy, and worldwide pdt trial is on-going.
+	some korean study also showed that the benefit of pdt for stent patency or survival in malig hilar obstruction. 
+
+
+
+
+
+
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;	Among them, PDT is now a well-known local therapy, and worldwide PDT trial is on-going.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;	Some Korean study also showed that the benefit of PDT for stent patency or survival in malig hilar obstruction. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</notesHtml>
+			<text>PDT, median stent patency, 244 days
+Stent alone, median stent patency, 177 days
+Lee TY, Cheon YK , et al. WJG 2012
+Hong MJ, et al. Gut liver 2014
+PDT in unresectable HCCA</text>
+		</slide>
+		<slide index="8" title="Limitations of PDT" titleNormalized="limitations of pdt" src="slide9.swf" size="224948" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.6790003"/>
+			</animationSteps>
+			<notes>	However there are some limitations in PDT such as Periinterventional photosensitivity, complex procedure requiring highly specialized equipment, and high cost. Also, there are still debates for survival or patency.  </notes>
+			<notesNormalized>	however there are some limitations in pdt such as periinterventional photosensitivity, complex procedure requiring highly specialized equipment, and high cost. also, there are still debates for survival or patency.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;	However there are some limitations in PDT such as Periinterventional photosensitivity, complex procedure requiring highly specialized equipment, and high cost. Also, there are still debates for survival or patency.  &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Phototoxicity
+Complex procedures
+Specialized equipments
+High cost
+Still, debates for survival
+Limitations of PDT</text>
+		</slide>
+		<slide index="9" title="EUS-guided &amp; ERCP-guided RFA" titleNormalized="eus-guided &amp; ercp-guided rfa" src="slide10.swf" size="220018" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.4519991"/>
+			</animationSteps>
+			<notes>So, for another local treatment option, RFA is emerging as a potentially effective and simple treatment option for the treatment of malignant biliary occlusion before insertion of biliary stents, or as a treatment of SEMS occlusion by tumor ingrowth.</notes>
+			<notesNormalized>so, for another local treatment option, rfa is emerging as a potentially effective and simple treatment option for the treatment of malignant biliary occlusion before insertion of biliary stents, or as a treatment of sems occlusion by tumor ingrowth.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;So, for another local treatment option, RFA is emerging as a potentially effective and simple treatment option for the treatment of malignant biliary occlusion before insertion of biliary stents, or as a treatment of SEMS occlusion by tumor ingrowth.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Guidewire
+Bile duct
+EB-RFA catheter
+Bipolar RFA electrodes generates RF energy field to ablate the tumor
+EUS-guided &amp; ERCP-guided RFA
+
+Kim EJ &amp; Cho JH. Korean J Medicine 2017
+
+For the management of malignant biliary obstruction before stenting
+As a treatment of SEMS occlusion</text>
+		</slide>
+		<slide index="10" title="Endobiliary RFA" titleNormalized="endobiliary rfa" src="slide11.swf" size="155977" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="53.1889986"/>
+			</animationSteps>
+			<notes>	There are two types of RFA systems. 
+Lt picture is Habib system. Power setting is 7 to10 watts, 90 seconds duration. Effective ablation length was about 25mm long and 9 mm wide.
+Rt. picture is ELRA system of temperature controlled RFA. RFA automatically turns off, when the tip temperature reaches at presetting temperature. 
+A RFA catheter has two or four electrodes according to the length. Power setting is 7 or 10 watts, 80 degrees, and 120sec duration. 
+Effective ablation length is similar to Habib.
+
+
+
+--------------------------------------------------------------
+effective RFA filed between two neighboring electorode
+	The tip of the catheter is pictured. There are two types of ELRA® RF catheters of 33-mm and 18-mm according to presumptive electric coagulation length. In the 33-mm electrode, after a 9-mm leading tip and 7-mm insulated portion, four 6-mm electrodes are separated by3-mm insulated segments. In the 18-mm electrode, 3-mm electrodes are separated by 2-mm insulated segment</notes>
+			<notesNormalized>	there are two types of rfa systems. 
+lt picture is habib system. power setting is 7 to10 watts, 90 seconds duration. effective ablation length was about 25mm long and 9 mm wide.
+rt. picture is elra system of temperature controlled rfa. rfa automatically turns off, when the tip temperature reaches at presetting temperature. 
+a rfa catheter has two or four electrodes according to the length. power setting is 7 or 10 watts, 80 degrees, and 120sec duration. 
+effective ablation length is similar to habib.
+
+
+
+--------------------------------------------------------------
+effective rfa filed between two neighboring electorode
+	the tip of the catheter is pictured. there are two types of elra® rf catheters of 33-mm and 18-mm according to presumptive electric coagulation length. in the 33-mm electrode, after a 9-mm leading tip and 7-mm insulated portion, four 6-mm electrodes are separated by3-mm insulated segments. in the 18-mm electrode, 3-mm electrodes are separated by 2-mm insulated segment</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;	There are two types of RFA systems. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Lt picture is Habib system. Power setting is 7 to10 watts, 90 seconds duration. Effective ablation length was about 25mm long and 9 mm wide.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Rt. picture is ELRA system of temperature controlled RFA. RFA automatically turns off, when the tip temperature reaches at presetting temperature. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;A RFA catheter has two or four electrodes according to the length. Power setting is 7 or 10 watts, 80 degrees, and 120sec duration. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Effective ablation length is similar to Habib.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;--------------------------------------------------------------&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;effective RFA filed between two neighboring electorode&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;	The tip of the catheter is pictured. There are two types of ELRA® RF catheters of 33-mm and 18-mm according to presumptive electric coagulation length. In the 33-mm electrode, after a 9-mm leading tip and 7-mm insulated portion, four 6-mm electrodes are separated by3-mm insulated segments. In the 18-mm electrode, 3-mm electrodes are separated by 2-mm insulated segment&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>7-10 watts, Effect 8, 90 sec
+8Fr (2.7mm) catheter 180cm length
+Over 0.035” guidewire
+Effective ablation: 25 ± 3mm long by 9 ± 2mm wide
+
+Temperature controlled RFA
+7-10 watts, 80°C, 120 sec
+7Fr catheter
+18 mm, 33 mm (4 electrode); 11, 22 mm (2 electrode)
+Ablation depth in swine model: 1.7~4.3mm
+Endobiliary RFA
+Habib, Boston Sci 
+ELRA, STARmed</text>
+		</slide>
+		<slide index="11" title="Endobiliary RFA c/s stents" titleNormalized="endobiliary rfa c/s stents" src="slide12.swf" size="36677" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.6289992"/>
+			</animationSteps>
+			<notes>Recent RFA study for unresectable hilar CCA except bismuth type III or IV, showed prolonged stent patency and survival in patients underwent RFA with stents.</notes>
+			<notesNormalized>recent rfa study for unresectable hilar cca except bismuth type iii or iv, showed prolonged stent patency and survival in patients underwent rfa with stents.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Recent RFA study for unresectable hilar CCA except bismuth type III or IV, showed prolonged stent patency and survival in patients underwent RFA with stents.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>65 patients with unresectable extrahepatic cholangiocarcinoma
+(except Bismuth type III and IV HCCA)
+Yang Jianfeng et al. Endoscopy 2018
+Endobiliary RFA c/s stents</text>
+		</slide>
+		<slide index="12" title="Hilar RFA" titleNormalized="hilar rfa" src="slide13.swf" size="61709" advanceOnTime="1" framesCount="818" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="817" playTime="34.0416667" pauseTime="17.2783330"/>
+			</animationSteps>
+			<notes>However, RFA studies for hilar lesions are limited and most of them were small number retrospective case series. Also, one thing to keep in mind is concern about procedure related complications and mortality. Tal et al. reported complication rate was 50% and showed two mortality cases after RFA. Other studies also showed serious complications such as liver infarction, hemobilia or sepsis.
+In contrast to the distal obstruction, hilar level should be treated more carefully and differently due to periductal vasculature and ductal wall thickness.
+These serious complications might be due to the early experience of RFA in hilar obstruction.
+Also, most complications reported might be from the ERCP and the biliary stenting themselves.
+</notes>
+			<notesNormalized>however, rfa studies for hilar lesions are limited and most of them were small number retrospective case series. also, one thing to keep in mind is concern about procedure related complications and mortality. tal et al. reported complication rate was 50% and showed two mortality cases after rfa. other studies also showed serious complications such as liver infarction, hemobilia or sepsis.
+in contrast to the distal obstruction, hilar level should be treated more carefully and differently due to periductal vasculature and ductal wall thickness.
+these serious complications might be due to the early experience of rfa in hilar obstruction.
+also, most complications reported might be from the ercp and the biliary stenting themselves.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;However, RFA studies for hilar lesions are limited and most of them were small number retrospective case series. Also, &lt;b&gt;one thing to keep in mind &lt;/b&gt;is concern about procedure related complications and mortality. Tal et al. reported complication rate was 50% and showed two mortality cases after RFA. Other studies also showed serious complications such as liver infarction, hemobilia or sepsis.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In contrast to the distal obstruction, hilar level should be treated more carefully and differently due to periductal vasculature and ductal wall thickness.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;These serious complications might be due to the early experience of RFA in hilar obstruction.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Also, most complications reported might be from the ERCP and the biliary stenting themselves.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Author
+Year
+#
+Tumor site
+Technical success, no.(%)
+Stent
+Median stent patency (d)
+Median 
+survival (m)
+Median no. of RFA sessions
+Complications no. (%)
+Tal
+2013
+12
+Hilar CCa (B-IV) 9
+Others 3
+12 (100%)
+Plastic stent 12
+ 
+6.4
+1.5
+6/12 (50%)
+Hemobilia 3 (Mortality: 2)
+Dolak
+2014
+58
+Hilar CCa. 45
+Others 13
+58 (100%)
+SEMS a 3 
+Plastic stent 19
+No stent 4
+171
+10.6
+1.4
+11/58 (19%)
+Partial liver infarct 1
+Hemobilia 3
+GB empyema 1
+Cholangitis 5
+Sepsis 2
+Hepatic coma 1
+LBBB 1
+Strand
+2014
+16
+CCa (hilar 13)
+10 (100%)
+Plastic stent 15
+Fully covered SMES 5
+Uncovered SEMS 2
+ 
+9.6
+1.19
+ 
+Sharaiha
+2015
+69
+CCa 45
+Pancreatic cancer 19
+GB cancer 2
+Other 4
+69 (100%)
+SEMS 49
+Plastic stent 20 
+ 
+11.5
+1.4
+7/69 (10.1%)
+PEP 1
+Cholecystitis 2
+Hemobilia 2
+Mild abdominal pain 3
+Laquiere
+2015
+12
+12 CCa 
+(Hilar CCa. B-I 4, B-II 3, B-III 2, B-IV 3)
+12 (100%)
+SEMS or plastic stent
+ 
+12.3
+1.63 (1-3)
+2/12 (16.7%)
+ Sepsis: 1
+Cholangitis: 1
+Laleman
+2017
+18
+Pancreatic cancer 7
+Distal CCa 2
+Hilar CCa 9
+(Hilar CCa. B-III 6, B-IV 3)
+ 
+Distal: fully covered SEMS
+Hilar: plastic or uncovered SEMS
+110 days 
+- Distal 187
+- Hilar 139
+7.6
+1
+6/18 (30%)
+Mild cholangitis 4
+Mild PEP 2c
+Hilar RFA
+
+
+
+Hilar obstruction should be treated more carefully due to periductal vasculatures and ductal wall thickness.
+These complications might be due to the early experience of RFA for hilar obstruction or ERCP itself.
+
+</text>
+		</slide>
+		<slide index="13" title="Hilar RFA" titleNormalized="hilar rfa" src="slide14.swf" size="91627" advanceOnTime="1" framesCount="283" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="282" playTime="11.7500000" pauseTime="7.7399998"/>
+			</animationSteps>
+			<notes>We need more data regarding safety issues and efficacy as well as treatment strategy for biliary stents after RFA.
+
+So, I’d like to introduce Our Korean studies regarding these issues based on animal studies.</notes>
+			<notesNormalized>we need more data regarding safety issues and efficacy as well as treatment strategy for biliary stents after rfa.
+
+so, i’d like to introduce our korean studies regarding these issues based on animal studies.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;We need more data regarding safety issues and efficacy as well as treatment strategy for biliary stents after RFA.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;So, I’d like to introduce Our Korean studies regarding these issues based on animal studies.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Safety in hilar obstruction
+Effective mode of setting
+Plastic or Metal stent
+Hilar RFA
+How about Korean experience?</text>
+		</slide>
+		<slide index="14" title="In vivo animal study for Hilar RFA" titleNormalized="in vivo animal study for hilar rfa" src="slide15.swf" size="21945" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="50.2830004"/>
+			</animationSteps>
+			<notes>Based on this background, performed this animal study using mini-pigs for the decision of effective mode of ELRA RFA in the hilar lesion.
+All of different modes showed transmural necrosis, but Only two pigs, which were treated by short RFA catheter, low power and half duration time of conventional RFA, had no bile duct perforations.
+
+In contrast to distal bile duct, Hilar bile duct has a complex structure. So we have to be careful in making the optimal settings of hilar-RFA.
+
+
+</notes>
+			<notesNormalized>based on this background, performed this animal study using mini-pigs for the decision of effective mode of elra rfa in the hilar lesion.
+all of different modes showed transmural necrosis, but only two pigs, which were treated by short rfa catheter, low power and half duration time of conventional rfa, had no bile duct perforations.
+
+in contrast to distal bile duct, hilar bile duct has a complex structure. so we have to be careful in making the optimal settings of hilar-rfa.
+
+
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Based on this background, performed this &lt;u&gt;animal study using mini-pigs for the decision of effective mode of ELRA RFA in the hilar lesion&lt;/u&gt;.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;All of different modes showed transmural necrosis, but Only two pigs, which were treated by short RFA catheter, low power and half duration time of conventional RFA, had no bile duct perforations.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In contrast to distal bile duct, Hilar bile duct has a complex structure. So we have to be careful in making the optimal settings of hilar-RFA.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</notesHtml>
+			<text>In vivo animal study for Hilar RFA
+ID
+RFA 
+RFA 
+RFA 
+ERC
+ERC
+ERC
+Histology
+Histology
+Histology
+Histology
+Histology
+ID
+Length (mm)
+Power (W)
+Duration (sec)
+Site
+Technical success
+Contrast leakage
+Transmural necrosis
+Microscopic BD perforation
+Portal vein injury
+Hepatic artery injury
+Abscess of hilum
+1
+22
+10W
+120
+Hilar-Lt IHD
+-
++
++
++
++
+-
+Focal
+2
+18
+7W
+120
+Hilar-Lt IHD
+-
++
++
++
++
+-
+Large
+3
+18
+7W
+60
+CHD-hilar
+-
++
++
++
++
++
+Large
+4
+11
+7W
+90
+Hilar
+-
++
++
++
++
++
+Large
+5
+11
+7W
+60
+CHD-hilar
++
+-
++
+-
+-
+-
+-
+6
+11
+7W
+60
+Hilar
++
+-
++
+-
+-
+-
+-
+PV injury: intramural hemorrhage, vasculitis, hematoma, etc.
+HA injury: mural neutrophil infiltration, 
+Kim EJ et al. EIO 2019, in press
+Animal study using mini-pigs for the decision of effective mode of ELRA RFA in the Hilar lesion</text>
+		</slide>
+		<slide index="15" title="Hilar RFA Initial human experience" titleNormalized="hilar rfa initial human experience" src="slide16.swf" size="422607" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.0090002"/>
+			</animationSteps>
+			<notes>Based on these animal references, determined setting values of 7 W 60s11mm
+In the long stricture, overlapping of RFA is possible.
+We performed several cases of EB-RFA for hilar cholangiocarcinoma.
+
+</notes>
+			<notesNormalized>based on these animal references, determined setting values of 7 w 60s11mm
+in the long stricture, overlapping of rfa is possible.
+we performed several cases of eb-rfa for hilar cholangiocarcinoma.
+
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Based on these animal references, determined setting values of &lt;b&gt;7 W 60s11mm&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In the long stricture, overlapping of RFA is possible.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We performed several cases of EB-RFA for hilar cholangiocarcinoma.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</notesHtml>
+			<text>7W, 60s, 11mm 
+Hilar RFA
+Initial human experience
+
+Kim EJ et al. EIO 2019, in press</text>
+		</slide>
+		<slide index="16" title="Baseline characteristics" titleNormalized="baseline characteristics" src="slide17.swf" size="13204" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.2389998"/>
+			</animationSteps>
+			<notes>11 patients with malignant hilar obstruction underwent ID-RFA using an 11-mm probe, with a target temperature of 80 °C and an electrical power of 7W. Ablation duration was 60 to 120 seconds.</notes>
+			<notesNormalized>11 patients with malignant hilar obstruction underwent id-rfa using an 11-mm probe, with a target temperature of 80 °c and an electrical power of 7w. ablation duration was 60 to 120 seconds.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;11 patients with malignant hilar obstruction underwent ID-RFA using an 11-mm probe, with a target temperature of 80 °C and an electrical power of 7W. Ablation duration was 60 to 120 seconds.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Baseline characteristics
+Kim EJ et al. EIO 2019, in press</text>
+		</slide>
+		<slide index="17" title="Clinical outcomes" titleNormalized="clinical outcomes" src="slide18.swf" size="13552" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="46.1449999"/>
+			</animationSteps>
+			<notes>TS was 100%.
+Importantly, there were no serious complications. Frequent complications were simple fever, and treated by conservative management. And there was no procedure mortality. 
+Although cannot evaluate the benefit for stent patency or survival from this single-arm and small-sized study, we confirmed the safety and efficacy of hilar RFA setting mode.
+
+
+Actually minipigs have normal bile duct without mass, therefore a human application to hilar cancer is possible to use stronger RFA power or duration on the stricture site.</notes>
+			<notesNormalized>ts was 100%.
+importantly, there were no serious complications. frequent complications were simple fever, and treated by conservative management. and there was no procedure mortality. 
+although cannot evaluate the benefit for stent patency or survival from this single-arm and small-sized study, we confirmed the safety and efficacy of hilar rfa setting mode.
+
+
+actually minipigs have normal bile duct without mass, therefore a human application to hilar cancer is possible to use stronger rfa power or duration on the stricture site.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;TS was 100%.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Importantly, there were no serious complications. Frequent complications were simple fever, and treated by conservative management. And there was no procedure mortality. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Although cannot evaluate the benefit for stent patency or survival from this single-arm and small-sized study, we confirmed the safety and efficacy of hilar RFA setting mode.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Actually minipigs have normal bile duct without mass, therefore a human application to hilar cancer is possible to use stronger RFA power or duration on the stricture site.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Variables
+Patients (n=11)
+Technical success, n (%) 
+11 (100)
+Total bilirubin, median (range), mg/dL
+ 
+ Admission
+ 1 week after RFA 
+ 4 weeks after RFA
+5.8 (2.8-32.1)
+2.4 (0.6-8.0)
+1.1 (0.5-4.7)
+ID-RFA related early adverse events, n (%)
+ perforation / hemobilia / cholangitis 
+ pancreatitis &amp; fever
+ fever only
+
+0 (0) / 0 (0) / 0 (0) 
+1 (9.1)
+5 (45.5)
+Total follow up duration, median (range), d
+98 (30 – 207)
+ 30 days stent patency, n (%)
+11 (100)
+ Stent occlusion*, n (%)
+3 (27.3)
+ Mortality during follow up period*, n (%)
+2 (18.2)
+Clinical outcomes
+* Overall survival was 151 and 191 days for each case.
+Median event-free survival was 91 days.
+Kim EJ et al. EIO 2019, in press</text>
+		</slide>
+		<slide index="18" title="Animal study, RFA setting for Hilar obstruction" titleNormalized="animal study, rfa setting for hilar obstruction" src="slide19.swf" size="150552" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.5190005"/>
+			</animationSteps>
+			<notes>Then, based on this preliminary study, we performed additional animal study for the setting of RFA mode.
+So, in this subsequent animal study, we set a different time duration based on 7 watt, 80 degree and 11mm electrode.</notes>
+			<notesNormalized>then, based on this preliminary study, we performed additional animal study for the setting of rfa mode.
+so, in this subsequent animal study, we set a different time duration based on 7 watt, 80 degree and 11mm electrode.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Then, based on this preliminary study, we performed additional animal study for the setting of RFA mode.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;So, in this subsequent animal study, we set a different time duration based on 7 watt, 80 degree and 11mm electrode.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Animal study, RFA setting for Hilar obstruction
+Mini-Pigs: 2 weeks, survival model
+EB-RFA: “7 watt, 80℃, 11mm” electrode based on the animal study 
+ “Cho JH, Jeong S. J Gastroenterol Hepatol 2017”
+
+Different time duration at same setting: “60, 90, 120 sec.” for Hilar RFA
+
+
+
+</text>
+		</slide>
+		<slide index="19" title="Endo-Hilar RFA" titleNormalized="endo-hilar rfa" src="slide20.swf" size="585778" advanceOnTime="1" framesCount="389" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="388" playTime="16.1666667" pauseTime="7.0233339"/>
+			</animationSteps>
+			<notes>This is endobiliary RFA in a mini-pig bile duct, We performed 60, 90, and 120 seconds duration RFA every two pigs. Following RFA, injected contrast to detect contrast leakage.</notes>
+			<notesNormalized>this is endobiliary rfa in a mini-pig bile duct, we performed 60, 90, and 120 seconds duration rfa every two pigs. following rfa, injected contrast to detect contrast leakage.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is endobiliary RFA in a mini-pig bile duct, We performed 60, 90, and 120 seconds duration RFA every two pigs. Following RFA, injected contrast to detect contrast leakage.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Endo-Hilar RFA
+- 60, 90, and 120 seconds duration RFA every two pigs. 
+- Following RFA, injected contrast to detect contrast leakage.</text>
+		</slide>
+		<slide index="20" title="Abdomen CT: FU 1 day" titleNormalized="abdomen ct: fu 1 day" src="slide21.swf" size="4818404" advanceOnTime="1" framesCount="239" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="238" playTime="9.9166667" pauseTime="1.9623330"/>
+			</animationSteps>
+			<notes>The next day, we took an abdominal CT for the detection of any procedure related complication such as perforation or liver infarction.</notes>
+			<notesNormalized>the next day, we took an abdominal ct for the detection of any procedure related complication such as perforation or liver infarction.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The next day, we took an abdominal CT for the detection of any procedure related complication such as perforation or liver infarction.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Abdomen CT: FU 1 day</text>
+		</slide>
+		<slide index="21" title="Gross findings" titleNormalized="gross findings" src="slide22.swf" size="612649" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.4819998"/>
+			</animationSteps>
+			<notes>Then, 2 weeks later, grossly checked procedure-related complications on the autopsy.</notes>
+			<notesNormalized>then, 2 weeks later, grossly checked procedure-related complications on the autopsy.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Then, 2 weeks later, grossly checked procedure-related complications on the autopsy.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Gross findings</text>
+		</slide>
+		<slide index="22" title="Pathologic findings" titleNormalized="pathologic findings" src="slide23.swf" size="676098" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.7719998"/>
+			</animationSteps>
+			<notes>And pathologically, evaluated the degree of bile duct Inflammation, necrosis and fibrosis.</notes>
+			<notesNormalized>and pathologically, evaluated the degree of bile duct inflammation, necrosis and fibrosis.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;And pathologically, evaluated the degree of bile duct Inflammation, necrosis and fibrosis.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Pathologic findings
+X12.5
+X40</text>
+		</slide>
+		<slide index="23" title="Summary of animal study" titleNormalized="summary of animal study" src="slide24.swf" size="9845" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.7189993"/>
+			</animationSteps>
+			<notes>From this animal study, this setting mode was safe and effective especially in the duration of 120 seconds. 120 seconds duration made severe duct necrosis without definite perforation or liver infarction. So in the human hilar lesion, this setting mode even in the overlapping method may be safe and feasible. </notes>
+			<notesNormalized>from this animal study, this setting mode was safe and effective especially in the duration of 120 seconds. 120 seconds duration made severe duct necrosis without definite perforation or liver infarction. so in the human hilar lesion, this setting mode even in the overlapping method may be safe and feasible.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;From this animal study, this setting mode was safe and effective especially in the duration of 120 seconds. 120 seconds duration made severe duct necrosis without definite perforation or liver infarction. &lt;b&gt;So in the human hilar lesion, this setting mode even in the overlapping method may be safe and feasible&lt;/b&gt;. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Summary of animal study
+Normal Hilar lesion: RFA setting mode 7 watt, 80℃, 11mm electrode  Safe and effective in 120 sec duration, but minimal effect in 60 sec duration
+
+ 
+FU CT images
+Bile duct wall
+Liver abscess
+Bile duct perforation
+Procedure related
+Adverse events
+MP 1 60/ KS-1
+negative
+Moderate transmural inflammation
+X
+X
+X
+MP 2 60/ KS-5
+negative
+Mild transmural inflammation
+X
+X
+X
+MP 3 90/ KS-2
+negative
+Severe duct necrosis
+X
+X
+X
+MP 4 90/ KS-6
+negative
+Moderate transmural inflammation
+X
+X
+X
+MP 5 120/ KS-3
+negative
+Severe duct necrosis
+X
+X
+X
+MP 6 120/ KS-4
+negative
+Severe duct necrosis
+Multi focal 
+Microperforation
+X</text>
+		</slide>
+		<slide index="24" title="Perspective arms" titleNormalized="perspective arms" src="slide25.swf" size="29608" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.2890009"/>
+			</animationSteps>
+			<notes>Therefore, based on preliminary human study and new animal model study for the setup mode,
+We need more large scaled comparative study according to therapeutic plan including the policy of stent placement.</notes>
+			<notesNormalized>therefore, based on preliminary human study and new animal model study for the setup mode,
+we need more large scaled comparative study according to therapeutic plan including the policy of stent placement.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Therefore, based on preliminary human study and new animal model study for the setup mode,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We need more large scaled comparative study according to therapeutic plan including the policy of stent placement.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Drain liver vol. ≥ 50%
+B-type II~IV
+Bilateral stents, Plastic/ Metal initial 
+Prefer Endoscopic
+Bilateral stents, Plastic
+Prefer Endoscopic
+RFA w/o Chemo/RT
+Palliative only w/o Chemo/RT
+Scheduled exchange with bilateral
+ SEMS
+Scheduled exchange with bilateral SEMS w/o add on RFA
+Efficacy &amp; safety study of RFA in advanced hilar obstruction
+Initial multiple plastic stent after RFA  scheduled exchange with SEMS w/o RFA
+Perspective arms</text>
+		</slide>
+		<slide index="25" title="Summary" titleNormalized="summary" src="slide26.swf" size="67914" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.7580008"/>
+			</animationSteps>
+			<notes>Summarizing my presentation,</notes>
+			<notesNormalized>summarizing my presentation,</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Summarizing my presentation,&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Summary
+Intraductal (ID)-RFA is now widely performed for palliation of malignant biliary obstruction: simple, low-cost, &amp; no phototoxicity
+The efficacy and safety of ID-RFA for hilar malignancy may differ from a distal bile duct obstruction: efficacy is still a matter of debate.
+Optimal settings of ID-RFA for treatment of hilar malignant obstruction remain to be defined. 
+Temperature-controlled ID-RFA is also theoretically different from impedance-controlled ID-RFA; specific data are needed to determine optimal settings for each ID-RFA.
+</text>
+		</slide>
+		<slide index="26" title="Thank you for kind attention~" titleNormalized="thank you for kind attention~" src="slide27.swf" size="473113" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.5390000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for kind attention~
+
+Special thanks to 
+Jae Hee Cho, Gacheon University 
+&amp; Seok Jeong, Inha University</text>
+		</slide>
+	</slides>
+</presentation>

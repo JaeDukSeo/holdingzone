@@ -1,0 +1,5 @@
+(function(){var loadHandler=window['sl_{31D5DFE0-0AD4-4192-A7B3-CC2FCD4AAB43}'];loadHandler&&loadHandler(8, '<div id="spr0_698667"><div id="spr1_698667" class="kern"><img id="img2_698667" src="data/img45.png" width="959px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_698667" class="kern"><div id="spr3_698667" style="left:53px;top:181px;"><img id="img0_698667" src="data/img48.png" width="277" height="187" alt="Phototoxicity\
+Complex procedures\
+Specialized equipments\
+High cost\
+Still, debates for survival"/></div><div id="spr4_698667" style="left:89.906px;top:21.715px;"><div style="width:0px;"><span id="txt0_698667" class="relpos" style="left:230.114px;top:17.872px;">Limitations of PDT</span></div></div><div id="spr5_698667" style="left:377.534px;top:145.291px;"><img id="img1_698667" src="data/img49.png" width="558" height="283" alt="" style="left:0.117px;top:0.215px;"/></div></div></div>');})();
