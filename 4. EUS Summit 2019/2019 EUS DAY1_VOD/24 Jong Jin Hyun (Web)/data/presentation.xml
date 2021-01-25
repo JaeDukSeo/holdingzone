@@ -1,0 +1,779 @@
+<?xml version="1.0"?>
+<presentation title="24 Jong Jin Hyun" width="720.0000000" height="405.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{DBC61BEE-0AFF-461C-9E1D-F4454E30B4B8}">
+	<presenters>
+		<presenter name="Jong Jin Hyun" title="Korea" email="" web="" phone="" photoAssetId="">
+			<bio>Debates on Endoscopic Intervention 
+in Biliopancreatic Disease 
+&lt;Suspected CBD stone(s)&gt;</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="474011" duration="16928"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="1176182" duration="42006"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="433051" duration="15466"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="430125" duration="15361"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="704411" duration="25157"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="740251" duration="26437"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="403062" duration="14395"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="550811" duration="19671"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="637119" duration="22754"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="187291" duration="6688"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="316754" duration="11312"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="907016" duration="32393"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="262628" duration="9379"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="353325" duration="12618"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="171199" duration="6114"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="121462" duration="4337"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="197531" duration="7054"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="540571" duration="19306"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="223131" duration="7968"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="365759" duration="13062"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="790719" duration="28239"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="252388" duration="9013"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="156571" duration="5591"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="16.8840000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="41.9749985"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="15.4150000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="15.3149996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="25.1250000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="26.3929996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="14.3479996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="19.6200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="22.7229996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="6.6399999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="4" timeOffset="11.2739999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="32.3660000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="9.3430000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="12.5790000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="6.0730000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="4.3040000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="7.0070000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="19.2530000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="7.9410000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="13.0129995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="28.1949997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="8.9759998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="5.5390000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Debates on Endoscopic Intervention in Biliopancreatic Disease &lt;Suspected CBD stone(s)&gt;" titleNormalized="debates on endoscopic intervention in biliopancreatic disease &lt;suspected cbd stone(s)&gt;" src="slide1.swf" size="195126" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.8830008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Debates on Endoscopic Intervention in Biliopancreatic Disease &lt;Suspected CBD stone(s)&gt;
+Jong Jin Hyun
+Korea University Ansan Hospital</text>
+		</slide>
+		<slide index="1" title="Case #1 (F/61)" titleNormalized="case #1 (f/61)" src="slide2.swf" size="1744" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="41.9739985"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Case #1 (F/61)
+Chief Complaint
+: Abdominal pain(3DA), LFT abnormality
+
+Present Illness
+: The patient had been admitted to a nursing home after having been managed for ICH (Lt. frontotemporal) and SAH (MCA bifurcation Ant. Lt.) in February 2014.
+ Has been bed-ridden state ever since
+ The patient looked agitated, showed excessive sweating, and developed fever
+ Lab finding showed LFT abnormality
+</text>
+		</slide>
+		<slide index="2" title="Case #1 (F/61)" titleNormalized="case #1 (f/61)" src="slide3.swf" size="2441" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.4140000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Case #1 (F/61)
+History
+Past Medical History
+DM/HTN/Tbc/Hepatitis( + / + / - / - )
+Admission &amp; OP Hx.( + )
+Rt.lobectomy with isthmusectomy of thyroid d/t follicular carcinoma [’08.09.11]
+Lt.lobectomy of thyroid d/t nodular hyperplasia [‘08.10.09]
+D/Cr Lt. &amp; A/C [‘14.02.09]
+Revision &amp; H/R [‘14.02.11]
+Cranioplasty Lt.F-T-P c autobone [‘14.03.26]
+Rt. PCN insertion d/t APN with hyrdroneprosis [‘17.02.28]
+Admission d/t perirenal abscess [‘18.12]
+Social History
+Alcohol / Smoking ( - / - )
+
+Initial vital sign
+106/65 mmHg – 37.1℃ – 77/min – 20/min
+</text>
+		</slide>
+		<slide index="3" title="Review of System" titleNormalized="review of system" src="slide4.swf" size="4463" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.3139996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Review of System
+General
+Fever/chilling (-/-) Diaphoresis (+)
+General weakness/Fatigue (-/-) Weight loss (-)
+Head and Neck
+ Tracheostomy state
+
+Headache/ Dizziness (-/-)
+Tinnitus/visual defect (-/-)
+Sore throat /hoarseness (-/-)
+Cardio pulmonary system
+Cough/Sputum/Rhinorrhea (-/-/-) 
+Chest pain/Dyspnea/Palpitation (-/-/-)
+Gastrointestinal system
+Anorexia/Nausea/Vomiting/Constipation/Diarrhea (-/-/-/-/-)
+Hematochezia/Melena (-/-)
+Abd. Pain (+) : RUQ &amp; epigastric area
+Genitourinary system
+Urinary frequency/Urgency/Dysuria/Hematuria (-/-/-/-) 
+Musculoskeletal system
+Arthralgia (-) Joint swelling (-/-)</text>
+		</slide>
+		<slide index="4" title="Physical Examination" titleNormalized="physical examination" src="slide5.swf" size="2781" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.1240000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Physical Examination
+General appearance
+Acute ill looking
+
+HEENT
+Anemic / Icteric ( - / - )
+Tongue dehydration ( - )
+Engorged neck vein ( - )
+LN enlargement ( - )
+
+Chest
+CBS c crackle on RLL
+RHB s murmur
+Abdomen
+Normoactive bowel sound
+Palpable mass ( - )
+Td / RT ( + / - )  Upper Abd
+Murphy’s sign ( ? )
+
+Extremities/Skin
+Coccyx sore (+)
+Upper ext. motor: Rt./Lt. ( + / - )
+Lower ext. motor: Rt./Lt. ( - / - )
+Pitting edema ( - / - )</text>
+		</slide>
+		<slide index="5" title="Initial Laboratory Findings" titleNormalized="initial laboratory findings" src="slide6.swf" size="2437" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.3919996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Initial Laboratory Findings
+CBC: 5720(Neut:68.3%)–13.1 g/dL–164K			CRP: 13.250 mg/dL
+PT: 12.0 sec (INR: 1.06)		aPTT: 36.5 sec
+Protein/Albumin: 6.9/4.0 g/dL	Bilirubin(total/direct): 5.65/4.93 mg/dL
+AST/ALT: 52/180 IU/L		ALP/GGT: 469/706 IU/L
+Amylase/Lipase: 357/2439 IU/L
+Cholesterol: 150 mg/dL		Triglyceride: 133 mg/dL
+BUN/Cr: 18.6/0.55 mg/dL		Na/K/Cl: 142/3.9/106 mmol/L		Ca: 8.8 mg/dL
+Glucose: 77 mg/dL			HbA1c: 4.9%
+CA 19-9: 33.0 IU/mL			CEA: 0.3 ng/mL
+HBsAg/Ab ( - / - )			HCV Ab ( - )			HAV Ab IgG/IgM ( + / - )
+</text>
+		</slide>
+		<slide index="6" title="Chest and Abdomen X-ray" titleNormalized="chest and abdomen x-ray" src="slide7.swf" size="152099" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.3469996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Chest and Abdomen X-ray</text>
+		</slide>
+		<slide index="7" title="Abdominal CT scan" titleNormalized="abdominal ct scan" src="slide8.swf" size="6884975" advanceOnTime="1" framesCount="332" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="331" playTime="13.7916667" pauseTime="5.8283342"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Abdominal CT scan</text>
+		</slide>
+		<slide index="8" title="Abdominal CT scan" titleNormalized="abdominal ct scan" src="slide9.swf" size="2982138" advanceOnTime="1" framesCount="529" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="528" playTime="22.0000000" pauseTime="0.7229996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Abdominal CT scan</text>
+		</slide>
+		<slide index="9" title="Abdominal sonography" titleNormalized="abdominal sonography" src="slide10.swf" size="94514" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.6389999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Abdominal sonography</text>
+		</slide>
+		<slide index="10" title="What would you do next?" titleNormalized="what would you do next?" src="slide11.swf" size="1404" advanceOnTime="1" framesCount="5" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="1" playTime="0.0010000"/>
+				<step start="2" end="2" playTime="0.0010000"/>
+				<step start="3" end="3" playTime="0.0010000"/>
+				<step start="4" end="4" playTime="0.0010000" pauseTime="11.2729999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What would you do next?
+ERCP
+EUS
+MRCP
+Antibiotics</text>
+		</slide>
+		<slide index="11" title="ERCP" titleNormalized="ercp" src="slide12.swf" size="2799816" advanceOnTime="1" framesCount="721" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="720" playTime="30.0000000" pauseTime="2.3660011"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ERCP</text>
+		</slide>
+		<slide index="12" title="Case #2 (F/36)" titleNormalized="case #2 (f/36)" src="slide13.swf" size="1771" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.3420004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Case #2 (F/36)
+Chief Complaint
+: Abdominal pain, Jaundice
+
+Present Illness
+ 2018.12.08: Underwent cholecystectomy for calculous cholecytitis
+ 2018.12.09: Discharged in the morning
+ 2018.12.09: Visited the ER because of severe epigastric pain after having dinner
+ 2018.12.10: Discharged from ER
+ 2018.12.14: Admitted again due to jaundice and continuing abdominal pain</text>
+		</slide>
+		<slide index="13" title="Case #2 (F/36)" titleNormalized="case #2 (f/36)" src="slide14.swf" size="1802" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.5780005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Case #2 (F/36)
+History
+Past Medical History
+DM/HTN/Tbc/Hepatitis( + / + / - / - )
+Admission &amp; OP Hx.( + )
+Robotic cholecystectomy [’18.12.08]
+Social History
+Alcohol / Smoking ( +: social drinking / - )
+
+Initial vital sign
+116/68 mmHg – 36.3℃ – 82/min – 18/min
+</text>
+		</slide>
+		<slide index="14" title="Review of System" titleNormalized="review of system" src="slide15.swf" size="4320" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.0720000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Review of System
+General
+Fever/chilling (-/-) 
+General weakness/Fatigue (-/-) Weight loss (-)
+Head and Neck
+
+Headache/ Dizziness (-/-)
+Tinnitus/visual defect (-/-)
+Sore throat /hoarseness (-/-)
+Cardio pulmonary system
+Cough/Sputum/Rhinorrhea (-/-/-) 
+Chest pain/Dyspnea/Palpitation (-/-/-)
+Gastrointestinal system
+Anorexia/Nausea/Vomiting/Constipation/Diarrhea (-/-/-/-/-)
+Hematochezia/Melena (-/-)
+Abd. Pain (+) : RUQ &amp; epigastric area (VAS &gt;7)
+Genitourinary system
+Urinary frequency/Urgency/Dysuria/Hematuria (-/-/-/-) 
+Musculoskeletal system
+Arthralgia (-) Joint swelling (-/-)</text>
+		</slide>
+		<slide index="15" title="Physical Examination" titleNormalized="physical examination" src="slide16.swf" size="2513" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Physical Examination
+General appearance
+Acute ill looking
+
+HEENT
+Anemic / Icteric ( - / + )
+Tongue dehydration ( - )
+Engorged neck vein ( - )
+LN enlargement ( - )
+
+Chest
+SBS s crackle or wheezing
+RHB s murmur
+Abdomen
+Normoactive bowel sound
+Palpable mass ( - )
+Td / RT ( + / - )
+  Epigastric and RUQ area
+
+Extremities/Skin
+Grossly free
+Pitting edema ( - / - )</text>
+		</slide>
+		<slide index="16" title="Initial Laboratory Findings" titleNormalized="initial laboratory findings" src="slide17.swf" size="2266" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.0060000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Initial Laboratory Findings
+CBC: 44390(Neut:58.4%)–14.9 g/dL–308K			ESR: 50 mm/hr
+PT: 11.7 sec (INR: 1.03)			aPTT: 33.3 sec
+Protein/Albumin: 8.3/5.0 g/dL		Bilirubin(total/direct): 5.03/4.17 mg/dL
+AST/ALT: 589/884 IU/L			ALP/GGT: 269/972 IU/L
+Amylase/Lipase: 26 IU/L
+BUN/Cr: 8.1/0.71 mg/dL		Na/K/Cl: 138/3.8/96 mmol/L
+CK-MB: 0.68 ng/mL			Troponin T: 0.003 ng/mL			
+HBsAg/Ab ( - / + )		HBcAb IgM ( - )		HCV Ab ( - )
+HAV Ab IgG/IgM ( + / - )		HEV Ab IgG/IgM ( - / - )
+</text>
+		</slide>
+		<slide index="17" title="Abdominal CT scan" titleNormalized="abdominal ct scan" src="slide18.swf" size="6144119" advanceOnTime="1" framesCount="383" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="382" playTime="15.9166667" pauseTime="3.3363336"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Abdominal CT scan</text>
+		</slide>
+		<slide index="18" title="Abdominal CT scan" titleNormalized="abdominal ct scan" src="slide19.swf" size="1916975" advanceOnTime="1" framesCount="73" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="72" playTime="3.0000000" pauseTime="4.9410000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Abdominal CT scan</text>
+		</slide>
+		<slide index="19" title="What would you do next?" titleNormalized="what would you do next?" src="slide20.swf" size="1352" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.0119995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What would you do next?
+ERCP
+EUS
+MRCP
+Evaluate other causes of LFT elevation</text>
+		</slide>
+		<slide index="20" title="Abdominal CT scan" titleNormalized="abdominal ct scan" src="slide21.swf" size="2546317" advanceOnTime="1" framesCount="577" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="576" playTime="24.0000000" pauseTime="4.1949997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Abdominal CT scan
+2018.12.07
+2018.12.14</text>
+		</slide>
+		<slide index="21" title="ERCP" titleNormalized="ercp" src="slide22.swf" size="2172182" advanceOnTime="1" framesCount="193" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="192" playTime="8.0000000" pauseTime="0.9759998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ERCP</text>
+		</slide>
+		<slide index="22" title="" titleNormalized="" src="slide23.swf" size="680543" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.5380000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>THANK YOU
+FOR
+YOUR ATTENTION</text>
+		</slide>
+	</slides>
+</presentation>
