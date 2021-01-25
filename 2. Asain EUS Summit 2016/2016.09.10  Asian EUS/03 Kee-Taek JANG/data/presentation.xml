@@ -1,0 +1,1215 @@
+<?xml version="1.0"?>
+<presentation title="03 Kee-Taek JANG" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{7669E6C3-8EA4-4812-82D2-9E0EEBF1F155}">
+	<presenters>
+		<presenter name="Kee-Taek JANG" title="Sugkyunkwan University" email="" web="" phone="" photoAssetId="">
+			<bio>Pathologist Advice for Endoscopist to make Accurate Diagnosis in EUS-FNA</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="245805" duration="8777"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="1143999" duration="40856"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="2877485" duration="102766"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="878491" duration="31373"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="484251" duration="17293"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="446948" duration="15961"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="490834" duration="17528"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="854354" duration="30511"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="272136" duration="9718"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="433782" duration="15491"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="174856" duration="6243"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="606399" duration="21656"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="615176" duration="21969"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="1538971" duration="54962"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="822171" duration="29362"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="1280045" duration="45714"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="153645" duration="5486"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="1182034" duration="42214"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="689051" duration="24607"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="376731" duration="13453"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="317485" duration="11337"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="680274" duration="24294"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="771702" duration="27559"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="1263954" duration="45140"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="868982" duration="31033"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="1039405" duration="37120"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="1000639" duration="35736"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="779016" duration="27820"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="961874" duration="34351"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="1256639" duration="44878"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="865325" duration="30903"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="2949896" duration="105352"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="1590171" duration="56790"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="1194468" duration="42658"/>
+		<soundAsset id="sndAsset34" src="sound35.mp3" embedded="0" size="620296" duration="22152"/>
+		<soundAsset id="sndAsset35" src="sound36.mp3" embedded="0" size="1219336" duration="43546"/>
+		<soundAsset id="sndAsset36" src="sound37.mp3" embedded="0" size="942125" duration="33646"/>
+		<soundAsset id="sndAsset37" src="sound38.mp3" embedded="0" size="1590171" duration="56790"/>
+		<soundAsset id="sndAsset38" src="sound39.mp3" embedded="0" size="208502" duration="7445"/>
+		<soundAsset id="sndAsset39" src="sound40.mp3" embedded="0" size="196068" duration="7001"/>
+		<soundAsset id="sndAsset40" src="sound41.mp3" embedded="0" size="1043062" duration="37251"/>
+		<soundAsset id="sndAsset41" src="sound42.mp3" embedded="0" size="506925" duration="18103"/>
+		<soundAsset id="sndAsset42" src="sound43.mp3" embedded="0" size="958948" duration="34247"/>
+		<soundAsset id="sndAsset43" src="sound44.mp3" embedded="0" size="912136" duration="32575"/>
+		<soundAsset id="sndAsset44" src="sound45.mp3" embedded="0" size="649554" duration="23197"/>
+		<soundAsset id="sndAsset45" src="sound46.mp3" embedded="0" size="70994" duration="2534"/>
+		<soundAsset id="sndAsset46" src="sound47.mp3" embedded="0" size="43931" duration="1567"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb36.swf" embedded="0"/>
+		<graphicAsset id="imgAsset36" src="thmb37.swf" embedded="0"/>
+		<graphicAsset id="imgAsset37" src="thmb38.swf" embedded="0"/>
+		<graphicAsset id="imgAsset38" src="thmb39.swf" embedded="0"/>
+		<graphicAsset id="imgAsset39" src="thmb40.swf" embedded="0"/>
+		<graphicAsset id="imgAsset40" src="thmb41.swf" embedded="0"/>
+		<graphicAsset id="imgAsset41" src="thmb42.swf" embedded="0"/>
+		<graphicAsset id="imgAsset42" src="thmb43.swf" embedded="0"/>
+		<graphicAsset id="imgAsset43" src="thmb44.swf" embedded="0"/>
+		<graphicAsset id="imgAsset44" src="thmb45.swf" embedded="0"/>
+		<graphicAsset id="imgAsset45" src="thmb46.swf" embedded="0"/>
+		<graphicAsset id="imgAsset46" src="thmb47.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="8.7419996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="40.8069992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="102.7360000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="31.3309994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="17.2509995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="15.9160000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="17.4839993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="30.4640000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="9.6759996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="15.4490000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="6.2059999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="21.6219997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="21.9220000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="54.9220000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="29.3290000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="45.6790000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="5.4390000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="42.1749992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="24.5580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="13.4130000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="11.3109999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="24.2579994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="27.5279999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="45.1119995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="30.9979992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="37.0699997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="35.7019997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="27.7940000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="34.3009987"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="44.8450000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="30.8640000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="105.3050000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="56.7570000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="42.6090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset34">
+				<startTimestamp slideIndex="34" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="34" stepIndex="0" timeOffset="22.1219997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset35">
+				<startTimestamp slideIndex="35" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="35" stepIndex="0" timeOffset="43.5099983"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset36">
+				<startTimestamp slideIndex="36" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="36" stepIndex="0" timeOffset="33.5999985"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset37">
+				<startTimestamp slideIndex="37" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="37" stepIndex="0" timeOffset="56.7570000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset38">
+				<startTimestamp slideIndex="38" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="38" stepIndex="0" timeOffset="7.4070000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset39">
+				<startTimestamp slideIndex="39" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="39" stepIndex="0" timeOffset="6.9740000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset40">
+				<startTimestamp slideIndex="40" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="40" stepIndex="0" timeOffset="37.2039986"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset41">
+				<startTimestamp slideIndex="41" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="41" stepIndex="0" timeOffset="18.0510000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset42">
+				<startTimestamp slideIndex="42" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="42" stepIndex="0" timeOffset="34.2010000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset43">
+				<startTimestamp slideIndex="43" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="43" stepIndex="0" timeOffset="32.5320000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset44">
+				<startTimestamp slideIndex="44" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="44" stepIndex="0" timeOffset="23.1560000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset45">
+				<startTimestamp slideIndex="45" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="45" stepIndex="0" timeOffset="2.5030000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset46">
+				<startTimestamp slideIndex="46" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="46" stepIndex="0" timeOffset="1.5350000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Pathologist Advice for Endoscopist to make Accurate Diagnosis in EUS-FNA" titleNormalized="pathologist advice for endoscopist to make accurate diagnosis in eus-fna" src="slide1.swf" size="461285" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="8.2419996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pathologist Advice for Endoscopist to make Accurate Diagnosis in EUS-FNA
+Kee-Taek JANG
+Department of Pathology, Samsung Medical Center, 
+Sungkyunkwan University School of Medicine</text>
+		</slide>
+		<slide index="1" title="Pathologist Advices in EUS-FNA" titleNormalized="pathologist advices in eus-fna" src="slide2.swf" size="11776" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="40.3069992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pathologist Advices in EUS-FNA 
+What are the limitations of EUS-FNA sample of pancreatobiliary tract for cyto- or histopathologic diagnosis?
+What kinds of ancillary test can we apply to EUS-FNA cytologic specimen? 
+What kind of pre-analytic variables should we consider in EUS-FNA pathologic diagnosis?
+Can you understand tumor heterogeneity and discrepancy between biopsy (or cytology) and resected specimen?
+</text>
+		</slide>
+		<slide index="2" title="Cytologic Diagnosis" titleNormalized="cytologic diagnosis" src="slide3.swf" size="13057" advanceOnTime="1" framesCount="155" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="154" playTime="6.4166667" pauseTime="96.3193334"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cytologic Diagnosis
+How many cell or tissue do you need for diagnosis?
+The more cell or tissue pathologist has, the more information clinician can get from the sample (多多益善).
+Requirements for accurate cytologic diagnosis 
+ adequate specimen: enough cellularity, less artifact or degeneration
+ consistency and reproducibility; atypical category 
+ cytology-histopathology correlation (feedback)
+</text>
+		</slide>
+		<slide index="3" title="Problems in EUS-FNA from pancreatobiliary tract" titleNormalized="problems in eus-fna from pancreatobiliary tract" src="slide4.swf" size="11519" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="30.8309994"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Problems in EUS-FNA from pancreatobiliary tract
+Low-cellularity (than conventional cytologic smear from other organs)
+Contamination of normal intestinal mucosa and blood cells
+Reactive atypia of ductal cells</text>
+		</slide>
+		<slide index="4" title="Conventional cytology" titleNormalized="conventional cytology" src="slide5.swf" size="414093" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.2499995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conventional cytology
+Breast aspiration 
+Thyroid aspiration</text>
+		</slide>
+		<slide index="5" title="Uterine cervix cytology" titleNormalized="uterine cervix cytology" src="slide6.swf" size="386197" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.9150004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Uterine cervix cytology
+Conventional prep.
+Liquid-based prep.
+Diagn Cytopathol 2013;41:257-278</text>
+		</slide>
+		<slide index="6" title="EUS-FNA cytology of pancreas" titleNormalized="eus-fna cytology of pancreas" src="slide7.swf" size="436320" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.4829993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA cytology of pancreas
+Low-cellularity
+High-cellularity</text>
+		</slide>
+		<slide index="7" title="EUS-FNA biopsy" titleNormalized="eus-fna biopsy" src="slide8.swf" size="424405" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.4630007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA biopsy
+Inadequate for evaluation
+Adequate for evaluation</text>
+		</slide>
+		<slide index="8" title="EUS-FNA cytology: Ductal adenocarcinoma" titleNormalized="eus-fna cytology: ductal adenocarcinoma" src="slide9.swf" size="516283" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.6749996"/>
+			</animationSteps>
+			<notes>P14-12012</notes>
+			<notesNormalized>p14-12012</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;P14-12012&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-FNA cytology: Ductal adenocarcinoma</text>
+		</slide>
+		<slide index="9" title="EUS guided biopsy" titleNormalized="eus guided biopsy" src="slide10.swf" size="506532" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.4480004"/>
+			</animationSteps>
+			<notes>D14-08006</notes>
+			<notesNormalized>d14-08006</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;D14-08006&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS guided biopsy
+Invasive carcinoma
+Inv ca within stroma</text>
+		</slide>
+		<slide index="10" title="EUS biopsy-cytology correlation" titleNormalized="eus biopsy-cytology correlation" src="slide11.swf" size="496632" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.2049999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS biopsy-cytology correlation
+EUS guided biopsy
+EUS guided cytology</text>
+		</slide>
+		<slide index="11" title="Normal intestinal or gastric mucosa in EUS-FNA" titleNormalized="normal intestinal or gastric mucosa in eus-fna" src="slide12.swf" size="387881" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.6209997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Normal intestinal or gastric mucosa in EUS-FNA</text>
+		</slide>
+		<slide index="12" title="Liquid-based cytology (LBC)" titleNormalized="liquid-based cytology (lbc)" src="slide13.swf" size="185847" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.9210009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Liquid-based cytology (LBC)
+LBC may reduce contaminated normal intestinal mucosa &amp; RBCs
+LBC also reduce tumor cellularity: 
+ minimally optimal specimen 
+ → suboptimal specimen</text>
+		</slide>
+		<slide index="13" title="Cellularity of Cytology (Conventional Smear vs. LBC)" titleNormalized="cellularity of cytology (conventional smear vs. lbc)" src="slide14.swf" size="16366" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="54.4220009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cellularity of Cytology (Conventional Smear vs. LBC)</text>
+		</slide>
+		<slide index="14" title="Cytologic Atypia in pancreatobiliary ductal cells" titleNormalized="cytologic atypia in pancreatobiliary ductal cells" src="slide15.swf" size="274572" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="28.8290005"/>
+			</animationSteps>
+			<notes>Fig. 1. Three “atypical” categories utilized during the study period. A: Benign ductal cells are often arranged in flat, cohesive sheets of evenly spaced, round-to-oval, and uniform nuclei (Papanicolaou stain, 603); (B) The category of “atypical, favor reactive” shows enlarged nuclei with prominent nucleoli but without significant anisocytosis and retains architecture (Papanicolaou stain, 603); (C) “Atypical, suspicious for malignancy” cases show one or few rare groups of markedly atypical cells with nuclear enlargement, pleomorphism, anisocytosis, irregular nuclear membranes, loosely cohesive, and disordered architecture (Papanicolaou stain, 603). Most cases turned out to be high-grade carcinomas, which may account for the strikingly malignant morphology of these rare groups of cells in the original bile duct brushings; and (D) Similarly, in “atypical, NOS” cases, one or few rare groups of ductal cells are crowded with some architectural disarray and nuclear atypia but cohesive, often accompanied by inflammatory infiltrate</notes>
+			<notesNormalized>fig. 1. three “atypical” categories utilized during the study period. a: benign ductal cells are often arranged in flat, cohesive sheets of evenly spaced, round-to-oval, and uniform nuclei (papanicolaou stain, 603); (b) the category of “atypical, favor reactive” shows enlarged nuclei with prominent nucleoli but without significant anisocytosis and retains architecture (papanicolaou stain, 603); (c) “atypical, suspicious for malignancy” cases show one or few rare groups of markedly atypical cells with nuclear enlargement, pleomorphism, anisocytosis, irregular nuclear membranes, loosely cohesive, and disordered architecture (papanicolaou stain, 603). most cases turned out to be high-grade carcinomas, which may account for the strikingly malignant morphology of these rare groups of cells in the original bile duct brushings; and (d) similarly, in “atypical, nos” cases, one or few rare groups of ductal cells are crowded with some architectural disarray and nuclear atypia but cohesive, often accompanied by inflammatory infiltrate</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Fig. 1. Three “atypical” categories utilized during the study period. A: Benign ductal cells are often arranged in flat, cohesive sheets of evenly spaced, round-to-oval, and uniform nuclei (Papanicolaou stain, 603); (B) The category of “atypical, favor reactive” shows enlarged nuclei with prominent nucleoli but without significant anisocytosis and retains architecture (Papanicolaou stain, 603); (C) “Atypical, suspicious for malignancy” cases show one or few rare groups of markedly atypical cells with nuclear enlargement, pleomorphism, anisocytosis, irregular nuclear membranes, loosely cohesive, and disordered architecture (Papanicolaou stain, 603). Most cases turned out to be high-grade carcinomas, which may account for the strikingly malignant morphology of these rare groups of cells in the original bile duct brushings; and (D) Similarly, in “atypical, NOS” cases, one or few rare groups of ductal cells are crowded with some architectural disarray and nuclear atypia but cohesive, often accompanied by inflammatory infiltrate&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Cytologic Atypia in pancreatobiliary ductal cells
+Diagn Cytopathol 2015;43:885-891
+Benign ductal cells
+Atypical, favor reactive
+Atypical, NOS
+Atypical, suspicious for malignancy</text>
+		</slide>
+		<slide index="15" title="" titleNormalized="" src="slide16.swf" size="1072935" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="45.6780009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>2
+4
+3
+1</text>
+		</slide>
+		<slide index="16" title="Ancillary tests for EUS-FNA" titleNormalized="ancillary tests for eus-fna" src="slide17.swf" size="997" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.4390001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ancillary tests for EUS-FNA</text>
+		</slide>
+		<slide index="17" title="Targets and ancillary tests" titleNormalized="targets and ancillary tests" src="slide18.swf" size="13407" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="41.6749992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Targets and ancillary tests</text>
+		</slide>
+		<slide index="18" title="Immunostain on cytology" titleNormalized="immunostain on cytology" src="slide19.swf" size="317499" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.5570006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Immunostain on cytology</text>
+		</slide>
+		<slide index="19" title="IHC stain on cell-block" titleNormalized="ihc stain on cell-block" src="slide20.swf" size="390228" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.4120001"/>
+			</animationSteps>
+			<notes>Fig. 2. Tissue fragments from needle rinsings or clotted tissue worms as illustrated in Fig. 1 should be processed as a cellblock, which provides readily available tissue for ancillary testing. This example of a well-differentiated neuroendocrine tumor resembles a solid-pseudopapillary neoplasm.
+Fig. 3. The example of a well-differentiated neuroendocrine tumor resembling a solid-pseudopapillary neoplasm illustrated in Fig. 2 is tested with an immunohistochemical stain for synaptophysin, which shows diffuse strong staining supporting the diagnosis of a neuroendocrine tumor (peroxidase-anti-peroxidase).</notes>
+			<notesNormalized>fig. 2. tissue fragments from needle rinsings or clotted tissue worms as illustrated in fig. 1 should be processed as a cellblock, which provides readily available tissue for ancillary testing. this example of a well-differentiated neuroendocrine tumor resembles a solid-pseudopapillary neoplasm.
+fig. 3. the example of a well-differentiated neuroendocrine tumor resembling a solid-pseudopapillary neoplasm illustrated in fig. 2 is tested with an immunohistochemical stain for synaptophysin, which shows diffuse strong staining supporting the diagnosis of a neuroendocrine tumor (peroxidase-anti-peroxidase).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Fig. 2. Tissue fragments from needle rinsings or clotted tissue worms as illustrated in Fig. 1 should be processed as a cellblock, which provides readily available tissue for ancillary testing. This example of a well-differentiated neuroendocrine tumor resembles a solid-pseudopapillary neoplasm.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Fig. 3. The example of a well-differentiated neuroendocrine tumor resembling a solid-pseudopapillary neoplasm illustrated in Fig. 2 is tested with an immunohistochemical stain for synaptophysin, which shows diffuse strong staining supporting the diagnosis of a neuroendocrine tumor (peroxidase-anti-peroxidase).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>IHC stain on cell-block
+J Pathol Trans Med 2015;49:364-372</text>
+		</slide>
+		<slide index="20" title="IHC stain on biopsy" titleNormalized="ihc stain on biopsy" src="slide21.swf" size="568853" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.3099999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>IHC stain on biopsy 
+MUC 1
+MUC5AC</text>
+		</slide>
+		<slide index="21" title="FISH in EUS-FNA of pancreas tumor" titleNormalized="fish in eus-fna of pancreas tumor" src="slide22.swf" size="340422" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="23.7579994"/>
+			</animationSteps>
+			<notes>FIGURE 1. Endoscopic ultrasoundYFNA cytology: (A) atypical; arrow points to cell cluster with enlarged nuclei and nuclear crowding, (B) benign, (C) malignant. The scale bar is the same for all panels.
+FIGURE 2. Positive FISH assay. EGFR amplification (A), p53 deletion (B), MALT1 deletion (C).</notes>
+			<notesNormalized>figure 1. endoscopic ultrasoundyfna cytology: (a) atypical; arrow points to cell cluster with enlarged nuclei and nuclear crowding, (b) benign, (c) malignant. the scale bar is the same for all panels.
+figure 2. positive fish assay. egfr amplification (a), p53 deletion (b), malt1 deletion (c).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;FIGURE 1. Endoscopic ultrasoundYFNA cytology: (A) atypical; arrow points to cell cluster with enlarged nuclei and nuclear crowding, (B) benign, (C) malignant. The scale bar is the same for all panels.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;FIGURE 2. Positive FISH assay. EGFR amplification (A), p53 deletion (B), MALT1 deletion (C).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>FISH in EUS-FNA of pancreas tumor
+Pancreas 2011;40:1057-1062</text>
+		</slide>
+		<slide index="22" title="FISH in EUS-FNA" titleNormalized="fish in eus-fna" src="slide23.swf" size="69596" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.5269999"/>
+			</animationSteps>
+			<notes>Figure 1. A, Benign FISH analysis. Nuclear content with two signals for chromosome 3 (red), 7 (green), 17 (blue), and 9p21 (gold), representing a normal diploid state. B, Malignant FISH analysis. Abnormal nuclear content with aneuploidy of chromosome 3 (red), chromosome 7 (green), chromosome 17 (blue), and homozygous deletion of 9p21 (absence of gold). FISH, fluorescence in situ hybridization.</notes>
+			<notesNormalized>figure 1. a, benign fish analysis. nuclear content with two signals for chromosome 3 (red), 7 (green), 17 (blue), and 9p21 (gold), representing a normal diploid state. b, malignant fish analysis. abnormal nuclear content with aneuploidy of chromosome 3 (red), chromosome 7 (green), chromosome 17 (blue), and homozygous deletion of 9p21 (absence of gold). fish, fluorescence in situ hybridization.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;&lt;b&gt;Figure 1. A, &lt;/b&gt;Benign FISH analysis. Nuclear content with two signals for chromosome 3 (&lt;i&gt;red&lt;/i&gt;), 7 (&lt;i&gt;green&lt;/i&gt;), 17 (&lt;i&gt;blue&lt;/i&gt;), and 9p21 (&lt;i&gt;gold&lt;/i&gt;), representing a normal diploid state. &lt;b&gt;B, &lt;/b&gt;Malignant FISH analysis. Abnormal nuclear content with aneuploidy of chromosome 3 (&lt;i&gt;red&lt;/i&gt;), chromosome 7 (&lt;i&gt;green&lt;/i&gt;), chromosome 17 (&lt;i&gt;blue&lt;/i&gt;), and homozygous deletion of 9p21 (&lt;i&gt;absence of gold&lt;/i&gt;). &lt;i&gt;FISH, &lt;/i&gt;fluorescence in situ hybridization.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>FISH in EUS-FNA
+FISH
+Cytology &amp; FISH
+Gastrointest Endo 2011;74:541-547
+Abnormal nuclear content with aneuploidy of chromosome 3 (red), chromosome 7 (green), chromosome 17 (blue), and homozygous deletion of 9p21 (absence of gold).</text>
+		</slide>
+		<slide index="23" title="NGS in EUS-FNA specimen" titleNormalized="ngs in eus-fna specimen" src="slide24.swf" size="94441" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="45.1109995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>NGS in EUS-FNA specimen
+Mutant KRAS 
+&gt; 90% of PDAC
+30~45% of IPMN
+Not detected in PanNET &amp; SPN
+Mostly studied on exon 2
+KRAS mutation analysis
+Sanger sequencing
+Allelic specific Locked Nucleic Acid PCR
+454 Next Generation Sequencing
+
+PLoS One 2014;9(2):e87652</text>
+		</slide>
+		<slide index="24" title="NGS platforms" titleNormalized="ngs platforms" src="slide25.swf" size="134453" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="30.4979992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>NGS platforms</text>
+		</slide>
+		<slide index="25" title="Ion Torrent" titleNormalized="ion torrent" src="slide26.swf" size="109549" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.0689997"/>
+			</animationSteps>
+			<notes>Figure 3 Examples of mutations detected using the IT-PGM platform and confirmed by alternate sequencing platforms. A: A BRAF substitution mutation
+(c.1799A&gt;T, p.V600E) was identified in a melanoma, which resulted from a GTG&gt;GAG (valine to glutamic acid) change at codon 600. The mutation was
+evident in the forward (þ strand, red in IGV) and reverse ( strand, blue in IGV) strands and was confirmed by Sequenom MassARRAY by the appearance of
+a peak corresponding to nucleotide A and indicated by the arrow. B: A PIK3CA mutation (c.1624G&gt;A, p.E542K) was identified by IT-PGM in a squamous cell
+carcinoma sample resulting in GAA&gt;AAA (glutamic acid to lysine) at codon 542, which was confirmed by Sanger sequencing (as indicated by the arrow).</notes>
+			<notesNormalized>figure 3 examples of mutations detected using the it-pgm platform and confirmed by alternate sequencing platforms. a: a braf substitution mutation
+(c.1799a&gt;t, p.v600e) was identified in a melanoma, which resulted from a gtg&gt;gag (valine to glutamic acid) change at codon 600. the mutation was
+evident in the forward (þ strand, red in igv) and reverse ( strand, blue in igv) strands and was confirmed by sequenom massarray by the appearance of
+a peak corresponding to nucleotide a and indicated by the arrow. b: a pik3ca mutation (c.1624g&gt;a, p.e542k) was identified by it-pgm in a squamous cell
+carcinoma sample resulting in gaa&gt;aaa (glutamic acid to lysine) at codon 542, which was confirmed by sanger sequencing (as indicated by the arrow).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Figure 3 Examples of mutations detected using the IT-PGM platform and confirmed by alternate sequencing platforms. A: A BRAF substitution mutation&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;(c.1799A&amp;gt;T, p.V600E) was identified in a melanoma, which resulted from a GTG&amp;gt;GAG (valine to glutamic acid) change at codon 600. The mutation was&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;evident in the forward (þ strand, red in IGV) and reverse ( strand, blue in IGV) strands and was confirmed by Sequenom MassARRAY by the appearance of&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;a peak corresponding to nucleotide A and indicated by the arrow. B: A PIK3CA mutation (c.1624G&amp;gt;A, p.E542K) was identified by IT-PGM in a squamous cell&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;carcinoma sample resulting in GAA&amp;gt;AAA (glutamic acid to lysine) at codon 542, which was confirmed by Sanger sequencing (as indicated by the arrow).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ion Torrent
+J Mol Diagn 2013 Sep;15(5):607-22.</text>
+		</slide>
+		<slide index="26" title="EUS-FNA sample FNA vs. Cell Block vs. FFPE" titleNormalized="eus-fna sample fna vs. cell block vs. ffpe" src="slide27.swf" size="268366" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.7009997"/>
+			</animationSteps>
+			<notes>Figure 1 Representative image of the FNA smears and cell blocks used for the study. The amount of available material was variable, but these cases had sufficient DNA for analysis.
+Figure 2 (a) Filtered AQ20 reads of the fine needle aspirate smears (blue, left) and cell blocks (green, right) used in our study. All samples (except case 20, cell block) demonstrated an AQ20 read of over the minimum set at 300 000. (b) Comparable average filtered AQ20 reads from fine needle aspirate (FNA) smears, cell blocks and FFPE material retrieved from excisional biopsies. (c) Representative heat map of wells, ISP, of a representative sample run that included five excisional biopsies (FFPE material), one FNA smear and one cell block; (d) Filtered AQ20 reads from the same run that included five excisional biopsies (FFPE material), one FNA smear (sample 3) and one cell block (sample 4).</notes>
+			<notesNormalized>figure 1 representative image of the fna smears and cell blocks used for the study. the amount of available material was variable, but these cases had sufficient dna for analysis.
+figure 2 (a) filtered aq20 reads of the fine needle aspirate smears (blue, left) and cell blocks (green, right) used in our study. all samples (except case 20, cell block) demonstrated an aq20 read of over the minimum set at 300 000. (b) comparable average filtered aq20 reads from fine needle aspirate (fna) smears, cell blocks and ffpe material retrieved from excisional biopsies. (c) representative heat map of wells, isp, of a representative sample run that included five excisional biopsies (ffpe material), one fna smear and one cell block; (d) filtered aq20 reads from the same run that included five excisional biopsies (ffpe material), one fna smear (sample 3) and one cell block (sample 4).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Figure 1 Representative image of the FNA smears and cell blocks used for the study. The amount of available material was variable, but these cases had sufficient DNA for analysis.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Figure 2 (a) Filtered AQ20 reads of the fine needle aspirate smears (blue, left) and cell blocks (green, right) used in our study. All samples (except case 20, cell block) demonstrated an AQ20 read of over the minimum set at 300 000. (b) Comparable average filtered AQ20 reads from fine needle aspirate (FNA) smears, cell blocks and FFPE material retrieved from excisional biopsies. (c) Representative heat map of wells, ISP, of a representative sample run that included five excisional biopsies (FFPE material), one FNA smear and one cell block; (d) Filtered AQ20 reads from the same run that included five excisional biopsies (FFPE material), one FNA smear (sample 3) and one cell block (sample 4).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-FNA sample FNA vs. Cell Block vs. FFPE
+Mod Pathol 2014;27:314-327</text>
+		</slide>
+		<slide index="27" title="NGS (Ion Torrent) mutation profiling in EUS-FNA sample" titleNormalized="ngs (ion torrent) mutation profiling in eus-fna sample" src="slide28.swf" size="163491" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.7930006"/>
+			</animationSteps>
+			<notes>Figure 3 (a) Illustration of a mutation detected in FNA smear by the Ion Torrent next-generation sequencing platform as visualized in IGV (a case of papillary thyroid carcinoma, NM_004333.4(BRAF):c.1799T4A p.V600E); (b) Same mutation identified by pyrosequencing. 
+Figure 4 (a) Illustration of a 15-bp deletion in EGFR gene detected by Ion Torrent next-generation sequencing platform as visualized in IGV (a case of lung adenocarcinoma). (b) Same mutation identified by Sanger sequencing.</notes>
+			<notesNormalized>figure 3 (a) illustration of a mutation detected in fna smear by the ion torrent next-generation sequencing platform as visualized in igv (a case of papillary thyroid carcinoma, nm_004333.4(braf):c.1799t4a p.v600e); (b) same mutation identified by pyrosequencing. 
+figure 4 (a) illustration of a 15-bp deletion in egfr gene detected by ion torrent next-generation sequencing platform as visualized in igv (a case of lung adenocarcinoma). (b) same mutation identified by sanger sequencing.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Figure 3 (a) Illustration of a mutation detected in FNA smear by the Ion Torrent next-generation sequencing platform as visualized in IGV (a case of papillary thyroid carcinoma, NM_004333.4(BRAF):c.1799T4A p.V600E); (b) Same mutation identified by pyrosequencing. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Figure 4 (a) Illustration of a 15-bp deletion in EGFR gene detected by Ion Torrent next-generation sequencing platform as visualized in IGV (a case of lung adenocarcinoma). (b) Same mutation identified by Sanger sequencing.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>NGS (Ion Torrent) mutation profiling in EUS-FNA sample
+Mod Pathol 2014;27:314-327
+NM_004333.4(BRAF):c.1799T4A p.V600E in papillary thyroid carcinoma
+15-bp deletion in EGFR gene (lung cancer)</text>
+		</slide>
+		<slide index="28" title="Optimized workflow of cytologic specimen for NGS analysis" titleNormalized="optimized workflow of cytologic specimen for ngs analysis" src="slide29.swf" size="54246" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="33.8009987"/>
+			</animationSteps>
+			<notes>Figure 5 Illustration of optimized workflow of cytological specimens for next-generation sequencing technique in our clinical laboratory. </notes>
+			<notesNormalized>figure 5 illustration of optimized workflow of cytological specimens for next-generation sequencing technique in our clinical laboratory.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Figure 5 Illustration of optimized workflow of cytological specimens for next-generation sequencing technique in our clinical laboratory. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Optimized workflow of cytologic specimen for NGS analysis
+Mod Pathol 2014;27:314-327</text>
+		</slide>
+		<slide index="29" title="Workflow algorithm with EUS-FNA sample for NGS analysis" titleNormalized="workflow algorithm with eus-fna sample for ngs analysis" src="slide30.swf" size="109426" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="44.3450012"/>
+			</animationSteps>
+			<notes>Figure 1. Specimen acquisition, processing, and next-generation sequencing (NGS) workflow algorithm. Abbreviations: CB, cell block; CNB, core needle biopsy; CS, cytospin; CT, computed tomography; EBUS, endobronchial ultrasound; EUS, endoscopic ultrasound; FNA, fine-needle aspiration; MRI, magnetic resonance imaging; ROSE, rapid on-site evaluation; US, ultrasound.</notes>
+			<notesNormalized>figure 1. specimen acquisition, processing, and next-generation sequencing (ngs) workflow algorithm. abbreviations: cb, cell block; cnb, core needle biopsy; cs, cytospin; ct, computed tomography; ebus, endobronchial ultrasound; eus, endoscopic ultrasound; fna, fine-needle aspiration; mri, magnetic resonance imaging; rose, rapid on-site evaluation; us, ultrasound.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Figure 1. Specimen acquisition, processing, and next-generation sequencing (NGS) workflow algorithm. Abbreviations: CB, cell block; CNB, core needle biopsy; CS, cytospin; CT, computed tomography; EBUS, endobronchial ultrasound; EUS, endoscopic ultrasound; FNA, fine-needle aspiration; MRI, magnetic resonance imaging; ROSE, rapid on-site evaluation; US, ultrasound.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Workflow algorithm with EUS-FNA sample for NGS analysis
+Arch Pathol Lab Med 2016 doi:10.5858</text>
+		</slide>
+		<slide index="30" title="NGS success rate" titleNormalized="ngs success rate" src="slide31.swf" size="147898" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="30.3640003"/>
+			</animationSteps>
+			<notes>Figure 5. Next-generation sequencing (NGS) success rates on image-guided procedures, including cases with (1) core needle biopsy (CNB) samples only; (2) fine-needle aspiration (FNA) samples only; and (3) concurrent CNB and FNA samples. Abbreviation: IR, interventional radiology.</notes>
+			<notesNormalized>figure 5. next-generation sequencing (ngs) success rates on image-guided procedures, including cases with (1) core needle biopsy (cnb) samples only; (2) fine-needle aspiration (fna) samples only; and (3) concurrent cnb and fna samples. abbreviation: ir, interventional radiology.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Figure 5. Next-generation sequencing (NGS) success rates on image-guided procedures, including cases with (1) core needle biopsy (CNB) samples only; (2) fine-needle aspiration (FNA) samples only; and (3) concurrent CNB and FNA samples. Abbreviation: IR, interventional radiology.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>NGS success rate
+Arch Pathol Lab Med 2016 doi:10.5858</text>
+		</slide>
+		<slide index="31" title="Cytology for Molecular Tests" titleNormalized="cytology for molecular tests" src="slide32.swf" size="127974" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="104.8050003"/>
+			</animationSteps>
+			<notes>a Direct smear, smear preparations (air dried or alcohol fixed) usually prepared from aspirates.
+b Liquid-based cytology, similar to processing of gynecologic samples, collecting needle rinse in an alcohol-based proprietary fixative and preparing a cell monolayer slide.
+c Cell block, prepared from the needle rinse of aspirates or residual fluid from body cavity fluid collections/effusions, usually by fixing in 10% formalin and embedding in paraffin, akin to surgical pathology tissue block.</notes>
+			<notesNormalized>a direct smear, smear preparations (air dried or alcohol fixed) usually prepared from aspirates.
+b liquid-based cytology, similar to processing of gynecologic samples, collecting needle rinse in an alcohol-based proprietary fixative and preparing a cell monolayer slide.
+c cell block, prepared from the needle rinse of aspirates or residual fluid from body cavity fluid collections/effusions, usually by fixing in 10% formalin and embedding in paraffin, akin to surgical pathology tissue block.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;a Direct smear, smear preparations (air dried or alcohol fixed) usually prepared from aspirates.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;b Liquid-based cytology, similar to processing of gynecologic samples, collecting needle rinse in an alcohol-based proprietary fixative and preparing a cell monolayer slide.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;c Cell block, prepared from the needle rinse of aspirates or residual fluid from body cavity fluid collections/effusions, usually by fixing in 10% formalin and embedding in paraffin, akin to surgical pathology tissue block.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Cytology for Molecular Tests
+Arch Pathol Lab Med 2016 doi:10.5858</text>
+		</slide>
+		<slide index="32" title="Cytology specimen triaging for NGS by cellularity &amp; tumor fraction" titleNormalized="cytology specimen triaging for ngs by cellularity &amp; tumor fraction" src="slide33.swf" size="284394" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="56.2570000"/>
+			</animationSteps>
+			<notes>Figure 2. Specimen triaging for next-generation sequencing (NGS) based on cellularity and tumor fraction. Low-cellularity samples (left) have an increased risk of test failure (insufficient DNA/polymerase chain reaction failure), whereas low–tumor fraction samples (bottom) have an increased risk of false-negative results. Tumor mapping increases the tumor fraction above the analytic threshold (shown in red horizontal line). Tumor mapping always decreases the cellularity and DNA yield, which is not a problem provided the circled areas contain a sufficient amount of cells to meet the DNA input threshold (shown in blue vertical line).</notes>
+			<notesNormalized>figure 2. specimen triaging for next-generation sequencing (ngs) based on cellularity and tumor fraction. low-cellularity samples (left) have an increased risk of test failure (insufficient dna/polymerase chain reaction failure), whereas low–tumor fraction samples (bottom) have an increased risk of false-negative results. tumor mapping increases the tumor fraction above the analytic threshold (shown in red horizontal line). tumor mapping always decreases the cellularity and dna yield, which is not a problem provided the circled areas contain a sufficient amount of cells to meet the dna input threshold (shown in blue vertical line).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Figure 2. Specimen triaging for next-generation sequencing (NGS) based on cellularity and tumor fraction. Low-cellularity samples (left) have an increased risk of test failure (insufficient DNA/polymerase chain reaction failure), whereas low–tumor fraction samples (bottom) have an increased risk of false-negative results. Tumor mapping increases the tumor fraction above the analytic threshold (shown in red horizontal line). Tumor mapping always decreases the cellularity and DNA yield, which is not a problem provided the circled areas contain a sufficient amount of cells to meet the DNA input threshold (shown in blue vertical line).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Cytology specimen triaging for NGS by cellularity &amp; tumor fraction
+Arch Pathol Lab Med 2016 doi:10.5858</text>
+		</slide>
+		<slide index="33" title="Guideline for tissue extraction from cytology cell blocks and smears" titleNormalized="guideline for tissue extraction from cytology cell blocks and smears" src="slide34.swf" size="245808" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="42.1090012"/>
+			</animationSteps>
+			<notes>Figure 6. Guideline for tissue extraction from cytology cell blocks and smears based on tissue size and cellularity.</notes>
+			<notesNormalized>figure 6. guideline for tissue extraction from cytology cell blocks and smears based on tissue size and cellularity.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Figure 6. Guideline for tissue extraction from cytology cell blocks and smears based on tissue size and cellularity.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Guideline for tissue extraction from cytology cell blocks and smears
+Arch Pathol Lab Med 2016 doi:10.5858</text>
+		</slide>
+		<slide index="34" title="NGS success in cytology" titleNormalized="ngs success in cytology" src="slide35.swf" size="95121" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.1209997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>NGS success in cytology
+Cancer Cytopathol 2015;123:659-668</text>
+		</slide>
+		<slide index="35" title="NGS for cytology" titleNormalized="ngs for cytology" src="slide36.swf" size="52980" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset35" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="43.5089983"/>
+			</animationSteps>
+			<notes>Figure 2. DNA yield by cytologic preparation and slide type. The DNA yields from FT slides were higher than those from FF slides. CB indicates cell block; COMBO, combination of slides; FF, fully frosted; FT, frosted-tip.
+Figure 3. Next-generation sequencing success rates before and after the lowering of the minimum requirement of input DNA. The next-generation sequencing success rates show a marked increase after the lower input DNA threshold.</notes>
+			<notesNormalized>figure 2. dna yield by cytologic preparation and slide type. the dna yields from ft slides were higher than those from ff slides. cb indicates cell block; combo, combination of slides; ff, fully frosted; ft, frosted-tip.
+figure 3. next-generation sequencing success rates before and after the lowering of the minimum requirement of input dna. the next-generation sequencing success rates show a marked increase after the lower input dna threshold.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Figure 2. DNA yield by cytologic preparation and slide type. The DNA yields from FT slides were higher than those from FF slides. CB indicates cell block; COMBO, combination of slides; FF, fully frosted; FT, frosted-tip.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Figure 3. Next-generation sequencing success rates before and after the lowering of the minimum requirement of input DNA. The next-generation sequencing success rates show a marked increase after the lower input DNA threshold.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>NGS for cytology
+Cancer Cytopathol 2015;123:659-668
+CB: cell block 
+COMBO: combination of slides 
+FF: fully frosted 
+FT: frosted-tip</text>
+		</slide>
+		<slide index="36" title="Algorithm for ancillay test (MGH)" titleNormalized="algorithm for ancillay test (mgh)" src="slide37.swf" size="102337" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset36" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="33.0999985"/>
+			</animationSteps>
+			<notes>Fig. 4. Algorithm for PCF triage and ancillary testing at the Massachusetts General Hospital. CEA, carcinoembryonic antigen.</notes>
+			<notesNormalized>fig. 4. algorithm for pcf triage and ancillary testing at the massachusetts general hospital. cea, carcinoembryonic antigen.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Fig. 4. Algorithm for PCF triage and ancillary testing at the Massachusetts General Hospital. CEA, carcinoembryonic antigen.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Algorithm for ancillay test (MGH)
+J Pathol Trans Med 2015;49:364-372</text>
+		</slide>
+		<slide index="37" title="Standardized Report for EUS-FNA" titleNormalized="standardized report for eus-fna" src="slide38.swf" size="79733" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset37" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="56.2570000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Standardized Report for EUS-FNA
+J Pathol Trans Med 2015;49:364-372</text>
+		</slide>
+		<slide index="38" title="Discrepancy between cytology or biopsy and resected specimen" titleNormalized="discrepancy between cytology or biopsy and resected specimen" src="slide39.swf" size="1041" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset38" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.4089998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Discrepancy between cytology or biopsy and resected specimen</text>
+		</slide>
+		<slide index="39" title="Biological and clinical consequences of tumor heterogenity" titleNormalized="biological and clinical consequences of tumor heterogenity" src="slide40.swf" size="146425" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset39" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="6.4740000"/>
+			</animationSteps>
+			<notes>Figure 1 Biological and clinical consequences of tumor heterogeneity. (a) Sequential accumulation of somatic events by the malignant clone drives disease progression and metastasis. (b) The presence of genetically heterogeneous subclones with inherent differences in drug sensitivity can also affect response to treatment and cause clinical resistance. Further evolution of the dominant clone in response to chemotherapy may lead to relapse after initial treatment response. (c) Finally, the communication between diverse subclones within the tumor, for example, through direct cell-cell interaction and/or instigation of non–cell-autonomous effects, can affect the biology of the bulk tumor. </notes>
+			<notesNormalized>figure 1 biological and clinical consequences of tumor heterogeneity. (a) sequential accumulation of somatic events by the malignant clone drives disease progression and metastasis. (b) the presence of genetically heterogeneous subclones with inherent differences in drug sensitivity can also affect response to treatment and cause clinical resistance. further evolution of the dominant clone in response to chemotherapy may lead to relapse after initial treatment response. (c) finally, the communication between diverse subclones within the tumor, for example, through direct cell-cell interaction and/or instigation of non–cell-autonomous effects, can affect the biology of the bulk tumor.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;&lt;b&gt;Figure 1 &lt;/b&gt;Biological and clinical consequences of tumor heterogeneity. (&lt;b&gt;a&lt;/b&gt;) Sequential accumulation of somatic events by the malignant clone drives disease progression and metastasis. (&lt;b&gt;b&lt;/b&gt;) The presence of genetically heterogeneous subclones with inherent differences in drug sensitivity can also affect response to treatment and cause clinical resistance. Further evolution of the dominant clone in response to chemotherapy may lead to relapse after initial treatment response. (&lt;b&gt;c&lt;/b&gt;) Finally, the communication between diverse subclones within the tumor, for example, through direct cell-cell interaction and/or instigation of non–cell-autonomous effects, can affect the biology of the bulk tumor. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Biological and clinical consequences of tumor heterogenity
+Nature Medicine 2014;20:342-344</text>
+		</slide>
+		<slide index="40" title="Discordancy of BRAF mutation" titleNormalized="discordancy of braf mutation" src="slide41.swf" size="161805" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset40" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.2029986"/>
+			</animationSteps>
+			<notes>Figure 2 Mechanisms of discordant results in BRAF mutation analysis. (a) Intratumoral heterogeneity may show a wild-type primary analysis, yet the metastatic lesions may arise from the mutated cells. The reverse findings may also be seen (ie, a mutated primary analysis and wild-type metastasis). (b) Two separate primary melanomas may yield discordant results if the first primary is tested while the second gives rise to metastasis. (c) Melanoma cells may acquire BRAF mutations over time, evident in metastatic lesions but not present in the primary. At the time of primary excision, already metastatic melanocytes may acquire BRAF mutations after analysis of the primary lesion.</notes>
+			<notesNormalized>figure 2 mechanisms of discordant results in braf mutation analysis. (a) intratumoral heterogeneity may show a wild-type primary analysis, yet the metastatic lesions may arise from the mutated cells. the reverse findings may also be seen (ie, a mutated primary analysis and wild-type metastasis). (b) two separate primary melanomas may yield discordant results if the first primary is tested while the second gives rise to metastasis. (c) melanoma cells may acquire braf mutations over time, evident in metastatic lesions but not present in the primary. at the time of primary excision, already metastatic melanocytes may acquire braf mutations after analysis of the primary lesion.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Figure 2 Mechanisms of discordant results in BRAF mutation analysis. (a) Intratumoral heterogeneity may show a wild-type primary analysis, yet the metastatic lesions may arise from the mutated cells. The reverse findings may also be seen (ie, a mutated primary analysis and wild-type metastasis). (b) Two separate primary melanomas may yield discordant results if the first primary is tested while the second gives rise to metastasis. (c) Melanoma cells may acquire BRAF mutations over time, evident in metastatic lesions but not present in the primary. At the time of primary excision, already metastatic melanocytes may acquire BRAF mutations after analysis of the primary lesion.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Discordancy of BRAF mutation
+Mod Pathol 2015;28:480-486
+4%</text>
+		</slide>
+		<slide index="41" title="Intratumoral heterogeneity of BRAF mutation" titleNormalized="intratumoral heterogeneity of braf mutation" src="slide42.swf" size="208160" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset41" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="17.5510006"/>
+			</animationSteps>
+			<notes>Figure 1. Representative Laser microdissection of a primary melanoma demonstrating intratumor heterogeneity of BRAF mutations. (A) Hematoxylin and Eosin stained primary melanoma with 5 areas to be microdissected marked by squares; (B–F) Higher magnification of microdissected areas demonstrating removal of tumor cells; (G–K) Sequencing electropherograms of the region of BRAF exon 15 in which the T1799A mutation is found. Each sequence is derived from the microdissected tumor region immediately above it. Note the predominant green peak of the mutant allele (A) in panels G &amp; H, but the absence of the mutant allele in panels I, J and K; (L–P) Electropheogram peaks from the BRAF SNaPshot analysis corresponding to the same microdissected tumor areas as the sequencing electropherograms directly above. Note the prominent green mutant peaks in panels L &amp; M, and the smaller but detectable mutant peaks in panels N, O and P. SNaPshot peak heights were used to estimate percentages of mutant alleles in each microdissected sample. In this example the mutant percentages were L = 81%, M = 78%, N = 5%, O = 19% and P = 14%. See Methods for additional details</notes>
+			<notesNormalized>figure 1. representative laser microdissection of a primary melanoma demonstrating intratumor heterogeneity of braf mutations. (a) hematoxylin and eosin stained primary melanoma with 5 areas to be microdissected marked by squares; (b–f) higher magnification of microdissected areas demonstrating removal of tumor cells; (g–k) sequencing electropherograms of the region of braf exon 15 in which the t1799a mutation is found. each sequence is derived from the microdissected tumor region immediately above it. note the predominant green peak of the mutant allele (a) in panels g &amp; h, but the absence of the mutant allele in panels i, j and k; (l–p) electropheogram peaks from the braf snapshot analysis corresponding to the same microdissected tumor areas as the sequencing electropherograms directly above. note the prominent green mutant peaks in panels l &amp; m, and the smaller but detectable mutant peaks in panels n, o and p. snapshot peak heights were used to estimate percentages of mutant alleles in each microdissected sample. in this example the mutant percentages were l = 81%, m = 78%, n = 5%, o = 19% and p = 14%. see methods for additional details</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Figure 1. Representative Laser microdissection of a primary melanoma demonstrating intratumor heterogeneity of BRAF mutations. (A) Hematoxylin and Eosin stained primary melanoma with 5 areas to be microdissected marked by squares; (B–F) Higher magnification of microdissected areas demonstrating removal of tumor cells; (G–K) Sequencing electropherograms of the region of BRAF exon 15 in which the T1799A mutation is found. Each sequence is derived from the microdissected tumor region immediately above it. Note the predominant green peak of the mutant allele (A) in panels G &amp;amp; H, but the absence of the mutant allele in panels I, J and K; (L–P) Electropheogram peaks from the BRAF SNaPshot analysis corresponding to the same microdissected tumor areas as the sequencing electropherograms directly above. Note the prominent green mutant peaks in panels L &amp;amp; M, and the smaller but detectable mutant peaks in panels N, O and P. SNaPshot peak heights were used to estimate percentages of mutant alleles in each microdissected sample. In this example the mutant percentages were L = 81%, M = 78%, N = 5%, O = 19% and P = 14%. See Methods for additional details&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Intratumoral heterogeneity of BRAF mutation
+PLoS One 2012;7:e29336</text>
+		</slide>
+		<slide index="42" title="PD-L1 expression btw surgical specimen &amp; matched biopsy" titleNormalized="pd-l1 expression btw surgical specimen &amp; matched biopsy" src="slide43.swf" size="269140" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset42" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.2000002"/>
+			</animationSteps>
+			<notes>Figure 1. Distribution (%) of 160 NSCLC patients included in the study according to the expression of PD-L1 in tumor cells (TC) and immune cells (IC) in either surgical specimens or matched biopsy specimens.
+Figure 2. Representative images of IHC grey (brown online) staining for PD-L1 in resected tumors from patients with lung adenocarcinoma. (A) PDL1-
+positive TC3 tumor. (B) PD-L1-positive IC3. (C) PD-L1-positive TC2 tumor. (D) PD-L1-positive IC2 tumor. (E) PD-L1-positive TC1 tumor. (F)
+PD-L1-positive IC1 tumor. (G) PD-L1-negative TC0 tumor. (H) PD-L1-negative IC0 tumor. (I) Positive control on tonsil tissue. (J) Negative SP142
+antibody control. All images are at ×10 magnification.</notes>
+			<notesNormalized>figure 1. distribution (%) of 160 nsclc patients included in the study according to the expression of pd-l1 in tumor cells (tc) and immune cells (ic) in either surgical specimens or matched biopsy specimens.
+figure 2. representative images of ihc grey (brown online) staining for pd-l1 in resected tumors from patients with lung adenocarcinoma. (a) pdl1-
+positive tc3 tumor. (b) pd-l1-positive ic3. (c) pd-l1-positive tc2 tumor. (d) pd-l1-positive ic2 tumor. (e) pd-l1-positive tc1 tumor. (f)
+pd-l1-positive ic1 tumor. (g) pd-l1-negative tc0 tumor. (h) pd-l1-negative ic0 tumor. (i) positive control on tonsil tissue. (j) negative sp142
+antibody control. all images are at ×10 magnification.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Figure 1. Distribution (%) of 160 NSCLC patients included in the study according to the expression of PD-L1 in tumor cells (TC) and immune cells (IC) in either surgical specimens or matched biopsy specimens.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Figure 2. Representative images of IHC grey (brown online) staining for PD-L1 in resected tumors from patients with lung adenocarcinoma. (A) PDL1-&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;positive TC3 tumor. (B) PD-L1-positive IC3. (C) PD-L1-positive TC2 tumor. (D) PD-L1-positive IC2 tumor. (E) PD-L1-positive TC1 tumor. (F)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;PD-L1-positive IC1 tumor. (G) PD-L1-negative TC0 tumor. (H) PD-L1-negative IC0 tumor. (I) Positive control on tonsil tissue. (J) Negative SP142&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;antibody control. All images are at ×10 magnification.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>PD-L1 expression btw surgical specimen &amp; matched biopsy
+Ann oncol 2016;27:147-153</text>
+		</slide>
+		<slide index="43" title="Heterogeneity &amp; False interpretation" titleNormalized="heterogeneity &amp; false interpretation" src="slide44.swf" size="530836" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset43" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.5310015"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Heterogeneity &amp; False interpretation</text>
+		</slide>
+		<slide index="44" title="Summary of EUS-FNA in pancreas" titleNormalized="summary of eus-fna in pancreas" src="slide45.swf" size="11642" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset44" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="22.6560001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Summary of EUS-FNA in pancreas
+Gold standard for cell or tissue acquisition from pancreatobilary lesion
+Weak point: low-cellularity, reactive atypia of ductal cells
+Increase diagnostic accuracy with ancillary tests; IHC, FISH, DNA or RNA, NGS
+Understanding of pre-analytic factors</text>
+		</slide>
+		<slide index="45" title="Key References" titleNormalized="key references" src="slide46.swf" size="135099" advanceOnTime="1" framesCount="35" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset45" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="34" playTime="1.4166667" pauseTime="1.0863334"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Key References
+Cytology Specimen Management, Triage and Standardized Reporting of Fine Needle Aspiration Biopsies of the Pancreas. J Pathol Trans Med 2015;49:364-372
+Next-generation sequencing-based multi-gene mutation profiling of solid tumors using fine needle aspiration samples: promises and challenges for routine clinical diagnostics. Mod Pathol 2014;27:314-327
+Preanalytic Variables in Cytology Lessons Learned From Next-Generation Sequencing-The MD Anderson Experience. Arch Pathol Lab Med (Epub ahead of print doi:10.5858/arpa. 2016-0117-RA)
+Factors Affecting the Success of Next-Generation Sequencing in Cytology Specimens. Cancer Cytopathol 2015;123:659-668
+
+</text>
+		</slide>
+		<slide index="46" title="Thanks for your attention!!!" titleNormalized="thanks for your attention!!!" src="slide47.swf" size="359066" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset46" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="1.0350000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thanks for your attention!!!</text>
+		</slide>
+	</slides>
+</presentation>
