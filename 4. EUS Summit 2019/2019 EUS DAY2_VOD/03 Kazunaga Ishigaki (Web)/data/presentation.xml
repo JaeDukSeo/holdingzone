@@ -1,0 +1,901 @@
+<?xml version="1.0"?>
+<presentation title="03 Kazunaga Ishigaki" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{200C5D48-BD32-4F79-84D9-C96007CBDA5D}">
+	<presenters>
+		<presenter name="Kazunaga Ishigaki" title="Japan" email="" web="" phone="" photoAssetId="">
+			<bio>Comparative Study Between 22G Franseen FNB Needle and 22G Standard FNA Needle in EUS-guided Tissue Acquisition of Pancreatic Solid lesions</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="490102" duration="17503"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="701485" duration="25053"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="448411" duration="16014"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="569828" duration="20351"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="421348" duration="15048"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="293348" duration="10476"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="273599" duration="9771"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="309439" duration="11051"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="2013668" duration="71916"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="607131" duration="21683"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="1034285" duration="36938"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="665645" duration="23773"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="660525" duration="23590"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="495954" duration="17712"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="754879" duration="26959"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="994056" duration="35502"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="632731" duration="22597"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="17.4510000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="25.0249996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="15.9829998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="20.3199997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="15.0150000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="10.4440000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="9.7430000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="11.0109997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="71.8720000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="21.6550000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="36.9039993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="23.7240000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="23.5570000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="17.6840000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="26.9270000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="35.4690000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="22.5559998"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Comparative Study Between 22G Franseen FNB Needle and 22G Standard FNA Needle in EUS-guided Tissue Acquisition of Pancreatic Solid lesions" titleNormalized="comparative study between 22g franseen fnb needle and 22g standard fna needle in eus-guided tissue acquisition of pancreatic solid lesions" src="slide1.swf" size="24414" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.4500002"/>
+			</animationSteps>
+			<notes>Good morning everyone. My name is Kazunaga Ishigaki from Tokyo University. It’s great honor to be here, and I’d like to thank the chairman for giving me the opportunity to speak today. This presentation focused on the tissue acquisition of EUS-FNB.</notes>
+			<notesNormalized>good morning everyone. my name is kazunaga ishigaki from tokyo university. it’s great honor to be here, and i’d like to thank the chairman for giving me the opportunity to speak today. this presentation focused on the tissue acquisition of eus-fnb.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="20"&gt;Good morning everyone. My name is Kazunaga Ishigaki from Tokyo University. It’s great honor to be here, and I’d like to thank the chairman for giving me the opportunity to speak today. &lt;/font&gt;&lt;font size="12"&gt;This presentation focused on the tissue acquisition of EUS-FNB.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Kazunaga Ishigaki1), Yousuke Nakai1), Akiyuki Inokuma1), Yukari Suzuki1), Hiroki Oyama1), Sachiko Kanai1) , Tatsunori Suzuki1), Tomoka Nakamura1), Tatsuya Sato1), Ryunosuke Hakuta1) Kei Saito1), Tomotaka Saito1), Naminatsu Takahara1), Tsuyoshi Hamada1), Suguru Mizuno1), Hirofumi Kogure1), Minoru Tada1) , Hiroyuki Isayama2), Kazuhiko Koike1)
+ 
+Department of Gastroenterology, Graduate School of Medicine, The University of Tokyo1)
+Department of Gastroenterology, Graduate School of Medicine, Juntendo University2)
+Comparative Study Between 22G Franseen FNB Needle and 22G Standard FNA Needle in EUS-guided Tissue Acquisition of Pancreatic Solid lesions
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="1" title="Background" titleNormalized="background" src="slide2.swf" size="61534" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.0239996"/>
+			</animationSteps>
+			<notes>EUS-FNA is an established procedure to obtain a pathological specimen and get the definitive diagnosis of pancreatic solid lesions. But, histological tissue acquisition of EUS-FNA is not necessarily sufficient. To overcome this disadvantage of EUS-FNA, several novel needles such as Franseen, ProCore and Fork-tip needle, have been designed for performing EUS-FNB. </notes>
+			<notesNormalized>eus-fna is an established procedure to obtain a pathological specimen and get the definitive diagnosis of pancreatic solid lesions. but, histological tissue acquisition of eus-fna is not necessarily sufficient. to overcome this disadvantage of eus-fna, several novel needles such as franseen, procore and fork-tip needle, have been designed for performing eus-fnb.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;EUS-FNA is an established procedure to obtain a pathological specimen and get the definitive diagnosis of pancreatic solid lesions. But, histological tissue acquisition of EUS-FNA is not necessarily sufficient. To overcome this disadvantage of EUS-FNA, several novel needles such as Franseen, ProCore and Fork-tip needle, have been designed for performing EUS-FNB. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Background
+Endoscopic ultrasound-guided fine needle aspiration (EUS-FNA) is an established procedure to obtain a pathological specimen
+
+However, histological tissue acquisition of EUS-FNA is not necessarily sufficient
+
+Recently, a newly designed needle has been developed for performing EUS-guided fine-needle biopsy (EUS-FNB) 
+Franseen needle
+(Acquire™, Boston Scientific)
+Fork-tip needle
+(SharkCore™, Medtronic Inc)
+ProCore needle
+(EchoTip ProCore®, COOK Medical) 
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="2" title="Aim" titleNormalized="aim" src="slide3.swf" size="1341" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.9819998"/>
+			</animationSteps>
+			<notes>The aim of this study is to compare tissue acquisition rates between 22G Franseen FNB needle and 22G standard FNA needle in patients undergoing EUS-guided tissue acquisition of pancreatic solid lesions.</notes>
+			<notesNormalized>the aim of this study is to compare tissue acquisition rates between 22g franseen fnb needle and 22g standard fna needle in patients undergoing eus-guided tissue acquisition of pancreatic solid lesions.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The aim of this study is to compare tissue acquisition rates between 22G Franseen FNB needle and 22G standard FNA needle in patients undergoing EUS-guided tissue acquisition of pancreatic solid lesions.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Aim
+To compare tissue acquisition rates between 22G Franseen FNB needle and 22G standard FNA needle in patients undergoing EUS-guided tissue acquisition of pancreatic solid lesions
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="3" title="Patients" titleNormalized="patients" src="slide4.swf" size="1813" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.3189997"/>
+			</animationSteps>
+			<notes>Data on consecutive patients who underwent EUS-FNA between October 2014 and September 2016 or EUS-FNB between October 2016 and March 2018 at the University of Tokyo Hospital were retrospectively studied.</notes>
+			<notesNormalized>data on consecutive patients who underwent eus-fna between october 2014 and september 2016 or eus-fnb between october 2016 and march 2018 at the university of tokyo hospital were retrospectively studied.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Data on consecutive patients who underwent EUS-FNA between October 2014 and September 2016 or EUS-FNB between October 2016 and March 2018 at the University of Tokyo Hospital were retrospectively studied.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Patients
+Consecutive patients who underwent 
+　 -EUS-FNA between Oct 2014 and Sep 2016　(n = 83)
+　 -EUS-FNB between Oct 2016 and Mar 2018 (n = 71)
+　 for pancreatic solid lesions at the University of Tokyo Hospital 　
+　 were retrospectively studied
+
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="4" title="Methods" titleNormalized="methods" src="slide5.swf" size="39781" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.0190005"/>
+			</animationSteps>
+			<notes>This is a single center, retrospective study. Inclusion criteria were patients who underwent FNA using 22G Expect or FNB using a 22G Acquire for pancreatic solid lesions. The tissue acquisition rate and the diagnostic yield of malignancy per session, per pass, and at a first pass were compared. A multivariate logistic regression analysis for tissue acquisition rate at a first pass was performed.</notes>
+			<notesNormalized>this is a single center, retrospective study. inclusion criteria were patients who underwent fna using 22g expect or fnb using a 22g acquire for pancreatic solid lesions. the tissue acquisition rate and the diagnostic yield of malignancy per session, per pass, and at a first pass were compared. a multivariate logistic regression analysis for tissue acquisition rate at a first pass was performed.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is a single center, retrospective study. Inclusion criteria were patients who underwent FNA using 22G Expect or FNB using a 22G Acquire for pancreatic solid lesions. The tissue acquisition rate and the diagnostic yield of malignancy per session, per pass, and at a first pass were compared. A multivariate logistic regression analysis for tissue acquisition rate at a first pass was performed.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>A retrospective comparative study
+
+
+
+
+
+
+
+The tissue acquisition rate and the diagnostic yield of malignancy per session, per pass and at a first pass were compared between FNB and FNA needle
+Multivariate analysis for prognostic factors for tissue acquisition rate and diagnostic accuracy of malignancy at a first pass was performed
+Methods
+Franseen needle
+(Acquire™, Boston Scientific Corporation)
+FNB
+FNA
+Standard bevel needle
+(Expect™, Boston Scientific Corporation)
+VS
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="5" title="Tissue acquisition rate" titleNormalized="tissue acquisition rate" src="slide6.swf" size="254874" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.4430002"/>
+			</animationSteps>
+			<notes>The definition of “Tissue acquisition rate” is that the acquisition rate of the sufficient material for adequate histological interpretation.</notes>
+			<notesNormalized>the definition of “tissue acquisition rate” is that the acquisition rate of the sufficient material for adequate histological interpretation.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#0000ff"&gt;The definition of “Tissue acquisition rate” is that &lt;/font&gt;&lt;font size="12" color="#000000"&gt;the acquisition rate of the sufficient material for adequate histological interpretation.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Tissue acquisition rate
+The acquisition rate of the sufficient material for adequate histological interpretation
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="6" title="Patient characteristics and EUS-guided tissue acquisition (n = 154)" titleNormalized="patient characteristics and eus-guided tissue acquisition (n = 154)" src="slide7.swf" size="7705" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.7420000"/>
+			</animationSteps>
+			<notes>This is patient characteristics and the details of EUS-guided tissue acquisition. No significant baseline difference was observed between the two groups, except for the rate of endoscopists, experts or trainees. A median number of passes was four in both groups.</notes>
+			<notesNormalized>this is patient characteristics and the details of eus-guided tissue acquisition. no significant baseline difference was observed between the two groups, except for the rate of endoscopists, experts or trainees. a median number of passes was four in both groups.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000000"&gt;This is &lt;/font&gt;&lt;font size="12" color="#0000ff"&gt;patient characteristics and the details of EUS-guided tissue acquisition&lt;/font&gt;&lt;font size="12" color="#000000"&gt;. No significant baseline difference was observed between the two groups, except for the rate of endoscopists, experts or trainees. A median number of passes was four in both groups.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Patient characteristics and EUS-guided tissue acquisition
+ (n = 154)
+FNB
+(n = 71)
+FNA
+(n = 83)
+P value
+Age, years
+68 (26-85)
+70 (32-93)
+0.65
+Sex, Male
+46 (65)
+49 (59)
+0.51
+Tumor size, mm
+25 (5-66)
+24 (7-67)
+0.65
+Tumor location, head/body/tail
+29(41)/31(44)/11(15)
+36(43)/36(43)/11(13)
+0.90
+Puncture site, stomach/bulb/D2
+39 (55)/25 (35)/7 (10)
+51 (61)/22 (27)/10 (12)
+0.50
+Number of passes, median (range)
+4 (2-8)
+4 (1-8)
+0.29
+Procedures, Experts/Trainee
+32/39
+56/27
+0.01
+D2, the second portion of the duodenum
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="7" title="Final diagnosis (n = 154)" titleNormalized="final diagnosis (n = 154)" src="slide8.swf" size="4916" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.0099997"/>
+			</animationSteps>
+			<notes>The final diagnoses were pancreatic cancer in 111, neuroendocrine tumor in 11, metastatic pancratic tumor in 7,  autoimmune pancreatitis in 10 cases, respectively. There was no significant difference in the rate of final diagnosis between the two groups.</notes>
+			<notesNormalized>the final diagnoses were pancreatic cancer in 111, neuroendocrine tumor in 11, metastatic pancratic tumor in 7, autoimmune pancreatitis in 10 cases, respectively. there was no significant difference in the rate of final diagnosis between the two groups.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The final diagnoses were pancreatic cancer in 111, neuroendocrine tumor in 11, metastatic pancratic tumor in 7,  autoimmune pancreatitis in 10 cases, respectively. There was no significant difference in the rate of final diagnosis between the two groups.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Final diagnosis (n = 154)
+FNB
+(n = 71)
+FNA
+(n = 83)
+Total
+(n = 154)
+Final diagnosis
+ 
+ 
+Malignant
+57 (80)
+72 (87)
+129 (84)
+　　Pancreatic cancer
+51 (72)
+60 (72)
+111 (72)
+　　 Neuroendocrine tumor
+3 (4)
+8 (10)
+11 (7)
+Metastatic pancreatic tumor
+3 (4)
+4 (5)
+7 (5)
+Benign
+14 (20)
+11 (13)
+25 (16)
+Autoimmune pancreatitis
+5 (7)
+5 (6)
+10 (6)
+Chronic pancreatitis
+3 (4)
+2 (2)
+5 (3)
+　 Non-specific inflammation
+3 (4)
+2 (2)
+5 (3)
+ Serous cyst neoplasm
+1 (1)
+1 (1)
+2 (2)
+Pancreatic abscess
+1 (1)
+1 (1)
+2 (2)
+ Schwannoma
+1 (1)
+0 (0)
+1 (1)
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="8" title="Tissue acquisition rate" titleNormalized="tissue acquisition rate" src="slide9.swf" size="24271" advanceOnTime="1" framesCount="1544" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="1543" playTime="64.2916667" pauseTime="7.5803350"/>
+			</animationSteps>
+			<notes>This is the main result of this study. The tissue acquisition rate per session were 100% and 95 % in the FNB and FNA groups. The tissue acquisition rate at a first pass were 87% and 69 % in the FNB and FNA groups. While tissue acquisition rate reached a plateau after 4th pass with FNA, it reaced a pleateau after 2nd pass with FNB.</notes>
+			<notesNormalized>this is the main result of this study. the tissue acquisition rate per session were 100% and 95 % in the fnb and fna groups. the tissue acquisition rate at a first pass were 87% and 69 % in the fnb and fna groups. while tissue acquisition rate reached a plateau after 4th pass with fna, it reaced a pleateau after 2nd pass with fnb.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is the main result of this study. The tissue acquisition rate per session were 100% and 95 % in the FNB and FNA groups. The tissue acquisition rate at a first pass were 87% and 69 % in the FNB and FNA groups. While tissue acquisition rate reached a plateau after 4th pass with FNA, it reaced a pleateau after 2nd pass with FNB.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>6th
+2nd
+4th
+3rd
+1st
+5th
+100
+90
+80
+70
+%
+Number of passes
+ FNA 
+FNB
+60
+FNB　
+(n = 71)
+FNA
+　(n = 83)
+P value
+Tissue acquisition rate at a first pass, n (%)
+62/71 (87)
+57/83 (69)
+0.01
+Tissue acquisition rate per session, n (%)
+71/71 (100)
+79/83 (95)
+0.13
+Tissue acquisition rate
+While tissue acquisition rate reached a plateau after 4th pass with FNA, 
+it reaced a pleateau after 2nd pass with FNB
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="9" title="Prognostic factors of first pass tissue acquisition" titleNormalized="prognostic factors of first pass tissue acquisition" src="slide10.swf" size="4332" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.6589998"/>
+			</animationSteps>
+			<notes>Univariate and multivariate analyses of prognostic factors of first pass tissue acquisition are shown in this table. In the multivariate analysis, the transgastric access to the lesion and FNB were the significant factors associated with higher tissue acquisition rate at a first pass. </notes>
+			<notesNormalized>univariate and multivariate analyses of prognostic factors of first pass tissue acquisition are shown in this table. in the multivariate analysis, the transgastric access to the lesion and fnb were the significant factors associated with higher tissue acquisition rate at a first pass.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Univariate and multivariate analyses of prognostic factors of first pass tissue acquisition are shown in this table. In the multivariate analysis, the transgastric access to the lesion and FNB were the significant factors associated with higher tissue acquisition rate at a first pass. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Prognostic factors of first pass 
+tissue acquisition
+FNB needle can potentially increase the tissue acquisition rate at a first pass 
+compared with FNA needle
+Univariate
+Univariate
+Multivariate
+Multivariate
+OR (95%CI)
+P
+OR (95%CI)
+P
+Age ≥70
+1.09 (0.51-2.33)
+0.82
+Male
+0.97 (0.45-2.12)
+0.94
+Pancreatic cancer
+1.75 (0.79-3.90)
+0.17
+Tumor size ≥20 mm
+1.81 (0.82-3.99)
+0.14
+Puncture site, stomach
+0.40 (0.17-0.93)
+0.03
+0.42 (0.18-0.98)
+0.04
+Needle type, FNB needle
+3.14 (1.36-7.27)
+0.01
+3.07 (1.31-7.17)
+0.01
+Endoscopists, Experts
+1.16 (0.54-2.48)
+0.70
+ 
+ 
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="10" title="The diagnostic performance of cytological specimen" titleNormalized="the diagnostic performance of cytological specimen" src="slide11.swf" size="4712" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.9029993"/>
+			</animationSteps>
+			<notes>This is the diagnostic performance of cytological specimen alone. A total of 663 passes were performed in 154 patients during the study period.
+FNB demonstrated higher NPV of cytology alone per pass. But, the accuracy, sensitivity, specificity and PPV were similar between the two groups. There was no extra effect of FNB with regard to cytology.</notes>
+			<notesNormalized>this is the diagnostic performance of cytological specimen alone. a total of 663 passes were performed in 154 patients during the study period.
+fnb demonstrated higher npv of cytology alone per pass. but, the accuracy, sensitivity, specificity and ppv were similar between the two groups. there was no extra effect of fnb with regard to cytology.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000000"&gt;This is &lt;/font&gt;&lt;font size="12" color="#0000ff"&gt;the diagnostic performance of cytological specimen alone. &lt;/font&gt;&lt;font size="12" color="#000000"&gt;A total of 663 passes were performed in 154 patients during the study period.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;FNB demonstrated higher NPV of cytology alone per pass. But, the accuracy, sensitivity, specificity and PPV were similar between the two groups. There was no extra effect of FNB with regard to cytology.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>The diagnostic performance of cytological specimen
+*PPV, positive predictive value; NPV, negative predictive value.
+Per session
+Per session
+Per session
+Per pass
+Per pass
+Per pass
+FNB
+n = 71
+FNA
+n = 83
+P
+FNB
+n = 300
+FNA
+n = 363
+P
+Accuracy
+79%
+74%
+0.46
+64%
+56%
+0.06
+Sensitivity
+74%
+69%
+0.70
+55%
+49%
+0.20
+Specificity
+100%
+100%
+1
+100%
+100%
+1
+PPV
+100%
+100%
+1
+100%
+100%
+1
+NPV
+48%
+33%
+0.30
+35%
+24%
+0.02
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="11" title="The diagnostic performance of EUS-FNB and EUS-FNA per session, per pass and at a first pass (n = 129)" titleNormalized="the diagnostic performance of eus-fnb and eus-fna per session, per pass and at a first pass (n = 129)" src="slide12.swf" size="9005" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.7230009"/>
+			</animationSteps>
+			<notes>The diagnostic performance of FNB and FNA per session, per pass and at a first pass only in malignant cases are shown in this table. 
+Histological sensitivity and the combined histological and cytological sensitivity were significantly higher in the FNB group. However, cytological sensitivity alone were similar between the two groups.</notes>
+			<notesNormalized>the diagnostic performance of fnb and fna per session, per pass and at a first pass only in malignant cases are shown in this table. 
+histological sensitivity and the combined histological and cytological sensitivity were significantly higher in the fnb group. however, cytological sensitivity alone were similar between the two groups.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000000"&gt;The &lt;/font&gt;&lt;font size="12" color="#0000ff"&gt;diagnostic performance of FNB and FNA per session, per pass and at a first pass only in malignant cases are shown in this table. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#0000ff"&gt;Histological &lt;/font&gt;&lt;font size="12" color="#000000"&gt;sensitivity and the combined histological and cytological sensitivity were significantly higher in the FNB group. However, cytological sensitivity alone were similar between the two groups.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>The diagnostic performance of EUS-FNB and EUS-FNA per session, per pass and at a first pass
+(n = 129)
+*PPV, positive predictive value; NPV, negative predictive value.
+Per session
+Per session
+Per session
+Per pass
+Per pass
+Per pass
+First pass
+First pass
+First pass
+FNB
+n = 57
+FNA
+n = 72
+P
+FNB
+n = 241
+FNA
+n = 312
+P
+FNB
+n = 57
+FNA
+n = 72
+P
+Histological tissue acquisition
+100%
+94%
+0.13
+89%
+73%
+&lt;0.01
+88%
+69%
+0.02
+Histology positive for malignancy
+93%
+73%
+&lt;0.01
+70%
+46%
+&lt;0.01
+63%
+43%
+0.03
+Cytology positive for malignancy
+74%
+69%
+0.70
+ 55%
+49%
+0.20
+47%
+46%
+1.00
+Histology or cytology positive　for malignancy
+97%
+85%
+0.04
+79%
+64%
+&lt;0.01
+72%
+58%
+0.14
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="12" title="Cellularity and blood contamination on cytological specimen" titleNormalized="cellularity and blood contamination on cytological specimen" src="slide13.swf" size="6347" advanceOnTime="1" framesCount="264" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="263" playTime="10.9583333" pauseTime="12.6016661"/>
+			</animationSteps>
+			<notes>Cellularity and blood contamination for each slide of cytological specimen were evaluated based on the semi-quantified scores as follows. FNB needle showed almost the same scores in cellularity but blood contamination scores were higher.</notes>
+			<notesNormalized>cellularity and blood contamination for each slide of cytological specimen were evaluated based on the semi-quantified scores as follows. fnb needle showed almost the same scores in cellularity but blood contamination scores were higher.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Cellularity and blood contamination for each slide of cytological specimen were evaluated based on the semi-quantified scores as follows. FNB needle showed almost the same scores in cellularity but blood contamination scores were higher.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Cellularity and blood contamination on cytological specimen
+FNB
+n = 277
+FNA
+n = 339
+p-value
+Evaluation of cytological specimen
+Cellularity score ≥2
+160/277 (58%)
+181/339 (53%)
+0.29
+Blood contamination score ≥2
+199/277 (72%)
+189/339 (56%)
+&lt;0.01
+Score
+Cellularity
+0
+none
+1
+few aggregates
+2
+fair cellularity
+3
+abundant cellularity
+Blood contamination
+0
+none
+1
+few
+2
+moderate
+3
+High
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="13" title="Adverse events" titleNormalized="adverse events" src="slide14.swf" size="175108" advanceOnTime="1" framesCount="180" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="179" playTime="7.4583333" pauseTime="10.2256667"/>
+			</animationSteps>
+			<notes>Two cases (4%) in the FNB group developed mild pancreatitis. Doppler signal was often seen on the needle tract after FNB but there were no clinical significant bleeding.</notes>
+			<notesNormalized>two cases (4%) in the fnb group developed mild pancreatitis. doppler signal was often seen on the needle tract after fnb but there were no clinical significant bleeding.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Two cases (4%) in the FNB group developed mild pancreatitis. Doppler signal was often seen on the needle tract after FNB but there were no clinical significant bleeding.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Adverse events
+Two cases (4%) in the FNB group developed mild pancreatitis.
+Doppler signal was often seen on the needle tract after EUS-FNB but there were no clinical significant bleeding.
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="14" title="Prognostic factors of first pass diagnostic yield of malignancy" titleNormalized="prognostic factors of first pass diagnostic yield of malignancy" src="slide15.swf" size="4026" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.9290003"/>
+			</animationSteps>
+			<notes>The prognostic factors of first pass diagnostic yield of malignancy are shown in this table. In the multivariate analysis, there were no statistically significant prognostic factors of first pass histological diagnostic sensitivity. However, FNB and the tumor size of ≥20 mm had a tendency toward positive malignancy at a first pass, though not statistically significant.</notes>
+			<notesNormalized>the prognostic factors of first pass diagnostic yield of malignancy are shown in this table. in the multivariate analysis, there were no statistically significant prognostic factors of first pass histological diagnostic sensitivity. however, fnb and the tumor size of ≥20 mm had a tendency toward positive malignancy at a first pass, though not statistically significant.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#0000ff"&gt;The prognostic factors of first pass diagnostic yield of malignancy are shown in this table&lt;/font&gt;&lt;font size="12" color="#000000"&gt;. In the multivariate analysis, there were no statistically significant prognostic factors of first pass histological diagnostic sensitivity. However, FNB and the tumor size of ≥20 mm had a tendency toward positive malignancy at a first pass, though not statistically significant.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Prognostic factors of first pass diagnostic yield of malignancy
+FNB needle can not potentially increase the diagnostic yield of malignancy 
+compared with FNA needle
+Univariate
+Univariate
+Multivariate
+Multivariate
+OR (95%CI)
+P
+OR (95%CI)
+P
+Age ≥70 
+0.90 (0.44-1.84)
+0.76
+Gender, male
+1.01 (0.49-2.11)
+0.97
+Tumor size ≥20 mm
+2.23 (0.99-5.05)
+0.053
+2.15 (0.95-4.91)
+0.07
+Puncture site, stomach
+0.77 (0.37-1.60)
+0.48
+Needle type, FNB needle
+1.83 (0.87-3.85)
+0.11
+1.76 (0.83-3.74)
+0.14
+Endoscopists, Experts
+0.86 (0.43-1.72)
+0.67
+ 
+ 
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="15" title="Limitations" titleNormalized="limitations" src="slide16.swf" size="1798" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.4690012"/>
+			</animationSteps>
+			<notes>These are the limitations of this study. First, this was a single center, retrospective study with a relatively small study population. However, consecutive patients were included in the analysis and the needle selection was solely based on the chronological order, which we believe reduces the risk of selection bias. Second, no ROSE was performed. Third, the uniform criteria for quality and quantity in the histological specimen were lacking.</notes>
+			<notesNormalized>these are the limitations of this study. first, this was a single center, retrospective study with a relatively small study population. however, consecutive patients were included in the analysis and the needle selection was solely based on the chronological order, which we believe reduces the risk of selection bias. second, no rose was performed. third, the uniform criteria for quality and quantity in the histological specimen were lacking.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;These are the limitations of this study. First, this was a single center, retrospective study with a relatively small study population. However, consecutive patients were included in the analysis and the needle selection was solely based on the chronological order, which we believe reduces the risk of selection bias. Second, no ROSE was performed. Third, the uniform criteria for quality and quantity in the histological specimen were lacking.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Limitations
+Limitations
+Retrospective study
+No ROSE was performed
+Lack of the uniform criteria for quality and quantity in the histological specimen
+
+Accepted in Gut and Liver</text>
+		</slide>
+		<slide index="16" title="Conclusion" titleNormalized="conclusion" src="slide17.swf" size="1480" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.5549998"/>
+			</animationSteps>
+			<notes>This is conclusion. FNB needle was associated with a higher tissue acquisition rate at a first pass compared with FNA needle in EUS-guided tissue acquisition of pancreatic solid lesions. Prospective randomized controlled trials are needed to confirm our study results.</notes>
+			<notesNormalized>this is conclusion. fnb needle was associated with a higher tissue acquisition rate at a first pass compared with fna needle in eus-guided tissue acquisition of pancreatic solid lesions. prospective randomized controlled trials are needed to confirm our study results.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is conclusion. FNB needle was associated with a higher tissue acquisition rate at a first pass compared with FNA needle in EUS-guided tissue acquisition of pancreatic solid lesions. Prospective randomized controlled trials are needed to confirm our study results.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Conclusion
+FNB needle was associated with a higher tissue acquisition rate at a first pass compared with FNA needle in EUS-guided tissue acquisition of pancreatic solid lesions
+
+Prospective randomized controlled trials are needed to confirm our study results
+Accepted in Gut and Liver</text>
+		</slide>
+	</slides>
+</presentation>
