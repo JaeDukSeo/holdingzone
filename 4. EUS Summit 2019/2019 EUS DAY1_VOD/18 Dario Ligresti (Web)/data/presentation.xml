@@ -1,0 +1,1386 @@
+<?xml version="1.0"?>
+<presentation title="18 Dario Ligresti" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{F0AC388F-0014-4B24-90E7-8B98869090CE}">
+	<presenters>
+		<presenter name="Dario Ligresti" title="Italy" email="" web="" phone="" photoAssetId="">
+			<bio>Tissue diagnosis in indeterminate biliary stricture
+CASE DISCUSSION</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="279451" duration="9980"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="220936" duration="7890"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="579336" duration="20690"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="528868" duration="18888"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="708068" duration="25288"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="2936731" duration="104883"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="558856" duration="19959"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="264822" duration="9457"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="743176" duration="26542"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="326994" duration="11678"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="608594" duration="21735"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="108296" duration="3867"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="886536" duration="31662"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="103908" duration="3711"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="147794" duration="5278"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="414765" duration="14813"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="144136" duration="5147"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="379656" duration="13559"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="1534582" duration="54806"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="453531" duration="16197"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="220936" duration="7890"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="460114" duration="16432"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="902628" duration="32236"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="415496" duration="14839"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="322605" duration="11521"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="1053302" duration="37617"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="427199" duration="15257"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="351131" duration="12540"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="633462" duration="22623"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="266285" duration="9510"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="245074" duration="8752"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="405988" duration="14499"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="181439" duration="6479"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="639314" duration="22832"/>
+		<soundAsset id="sndAsset34" src="sound35.mp3" embedded="0" size="571291" duration="20403"/>
+		<soundAsset id="sndAsset35" src="sound36.mp3" embedded="0" size="970651" duration="34666"/>
+		<soundAsset id="sndAsset36" src="sound37.mp3" embedded="0" size="201188" duration="7185"/>
+		<soundAsset id="sndAsset37" src="sound38.mp3" embedded="0" size="415496" duration="14839"/>
+		<soundAsset id="sndAsset38" src="sound39.mp3" embedded="0" size="473279" duration="16902"/>
+		<soundAsset id="sndAsset39" src="sound40.mp3" embedded="0" size="476936" duration="17033"/>
+		<soundAsset id="sndAsset40" src="sound41.mp3" embedded="0" size="262628" duration="9379"/>
+		<soundAsset id="sndAsset41" src="sound42.mp3" embedded="0" size="185828" duration="6636"/>
+		<soundAsset id="sndAsset42" src="sound43.mp3" embedded="0" size="328456" duration="11730"/>
+		<soundAsset id="sndAsset43" src="sound44.mp3" embedded="0" size="50514" duration="1804"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb36.swf" embedded="0"/>
+		<graphicAsset id="imgAsset36" src="thmb37.swf" embedded="0"/>
+		<graphicAsset id="imgAsset37" src="thmb38.swf" embedded="0"/>
+		<graphicAsset id="imgAsset38" src="thmb39.swf" embedded="0"/>
+		<graphicAsset id="imgAsset39" src="thmb40.swf" embedded="0"/>
+		<graphicAsset id="imgAsset40" src="thmb41.swf" embedded="0"/>
+		<graphicAsset id="imgAsset41" src="thmb42.swf" embedded="0"/>
+		<graphicAsset id="imgAsset42" src="thmb43.swf" embedded="0"/>
+		<graphicAsset id="imgAsset43" src="thmb44.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="9.9399996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="7.8410000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="20.6539993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="18.8500000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="25.2590000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="104.8380000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="19.9200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="9.4090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="26.4899998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="11.6450000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="21.6880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="3.8370000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="31.6299992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="3.6700000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="5.2390000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="14.7799997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="5.1050000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="13.5100000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="54.7550000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="16.1490000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="7.8410000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="16.3799992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="32.1990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="14.8100000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="11.4780000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="37.5699997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="15.2150000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="12.5120000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="22.5890000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="9.4760000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="8.7090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="14.4480000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="6.4400000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="22.7890000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset34">
+				<startTimestamp slideIndex="34" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="34" stepIndex="0" timeOffset="20.3500000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset35">
+				<startTimestamp slideIndex="35" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="35" stepIndex="0" timeOffset="34.6300000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset36">
+				<startTimestamp slideIndex="36" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="36" stepIndex="0" timeOffset="7.1399999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset37">
+				<startTimestamp slideIndex="37" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="37" stepIndex="0" timeOffset="14.8100000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset38">
+				<startTimestamp slideIndex="38" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="38" stepIndex="0" timeOffset="16.8500000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset39">
+				<startTimestamp slideIndex="39" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="39" stepIndex="0" timeOffset="16.9799995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset40">
+				<startTimestamp slideIndex="40" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="40" stepIndex="0" timeOffset="9.3400000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset41">
+				<startTimestamp slideIndex="41" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="41" stepIndex="0" timeOffset="6.6070000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset42">
+				<startTimestamp slideIndex="42" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="42" stepIndex="0" timeOffset="11.6780000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset43">
+				<startTimestamp slideIndex="43" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="43" stepIndex="0" timeOffset="1.7680000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Tissue diagnosis in indeterminate biliary stricture CASE DISCUSSION" titleNormalized="tissue diagnosis in indeterminate biliary stricture case discussion" src="slide1.swf" size="397322" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.9389996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tissue diagnosis in indeterminate biliary stricture
+
+CASE DISCUSSION
+Endoscopy Unit
+Department of Diagnostic and Therapeutic Services
+ISMETT - UPMC 
+Palermo, Italy
+Dario Ligresti</text>
+		</slide>
+		<slide index="1" title="Tissue diagnosis in indeterminate biliary stricture" titleNormalized="tissue diagnosis in indeterminate biliary stricture" src="slide2.swf" size="68058" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.8400001"/>
+			</animationSteps>
+			<notes>Two cases: the one about a proximal, the other about a distal biliary stricture</notes>
+			<notesNormalized>two cases: the one about a proximal, the other about a distal biliary stricture</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Two cases: the one about a proximal, the other about a distal biliary stricture&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Tissue diagnosis in indeterminate biliary stricture
+CASE 1
+CASE 2</text>
+		</slide>
+		<slide index="2" title="Case 1" titleNormalized="case 1" src="slide3.swf" size="10131" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.6529993"/>
+			</animationSteps>
+			<notes>First case is about a 72 years
+Bilirubin was normal with a slightly obstructive pattern of LFTs
+
+Paziente in trattamento chemioterapico con Doxorubicina per carcinoma della mammella metastatico. Noi facciamo FNB della lesione biliare per diagnosi di esclusione di colangiocarcinoma vs. Metastasi da mammella di nuova insorgenza per cui si cambierebbe farmaco di chemioterapia passando da doxorubicina a gemcitabina. La gemcitabina abbraccia sia il colangiocarcinoma che il k mammella. Allora mi chiedo...ma allora potevamo anche non pungerla...NO! Perche anche se fosse una metastasi da k mammella con l’istologico potremmo scoprire una mutazione genotipica di un tumore che non viene caratterizzato istologicamente da anni... La prognosi del carcinoma mammario metastatico è buona...la prognosi del colangiocarcinoma invece no...</notes>
+			<notesNormalized>first case is about a 72 years
+bilirubin was normal with a slightly obstructive pattern of lfts
+
+paziente in trattamento chemioterapico con doxorubicina per carcinoma della mammella metastatico. noi facciamo fnb della lesione biliare per diagnosi di esclusione di colangiocarcinoma vs. metastasi da mammella di nuova insorgenza per cui si cambierebbe farmaco di chemioterapia passando da doxorubicina a gemcitabina. la gemcitabina abbraccia sia il colangiocarcinoma che il k mammella. allora mi chiedo...ma allora potevamo anche non pungerla...no! perche anche se fosse una metastasi da k mammella con l’istologico potremmo scoprire una mutazione genotipica di un tumore che non viene caratterizzato istologicamente da anni... la prognosi del carcinoma mammario metastatico è buona...la prognosi del colangiocarcinoma invece no...</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;First case is about a 72 years&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Bilirubin was normal with a slightly obstructive pattern of LFTs&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Paziente in trattamento chemioterapico con Doxorubicina per carcinoma della mammella metastatico. Noi facciamo FNB della lesione biliare per diagnosi di esclusione di colangiocarcinoma vs. Metastasi da mammella di nuova insorgenza per cui si cambierebbe farmaco di chemioterapia passando da doxorubicina a gemcitabina. La gemcitabina abbraccia sia il colangiocarcinoma che il k mammella. Allora mi chiedo...ma allora potevamo anche non pungerla...NO! Perche anche se fosse una metastasi da k mammella con l’istologico potremmo scoprire una mutazione genotipica di un tumore che non viene caratterizzato istologicamente da anni... La prognosi del carcinoma mammario metastatico è buona...la prognosi del colangiocarcinoma invece no...&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>
+72-year-old woman
+
+Metastatic breast cancer in effective treatment with Doxorubicin
+ 
+Incidental CT finding of biliary stenosis during follow-up
+
+Normal bilirubin levels; GGT (x5 N); FA (x2 N)
+
+Good general conditions
+
+Case 1</text>
+		</slide>
+		<slide index="3" title="CT scan" titleNormalized="ct scan" src="slide4.swf" size="4424438" advanceOnTime="1" framesCount="385" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="384" playTime="16.0000000" pauseTime="2.8500004"/>
+			</animationSteps>
+			<notes>This is the contrast enhanced CT scan showing a mild dilatation of the intraepatic billiary tree with some liver metastases from breast cancer</notes>
+			<notesNormalized>this is the contrast enhanced ct scan showing a mild dilatation of the intraepatic billiary tree with some liver metastases from breast cancer</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is the contrast enhanced CT scan showing a mild dilatation of the intraepatic billiary tree with some liver metastases from breast cancer&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CT scan</text>
+		</slide>
+		<slide index="4" title="What is your next investigation?" titleNormalized="what is your next investigation?" src="slide5.swf" size="2272" advanceOnTime="1" framesCount="553" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="552" playTime="23.0000000" pauseTime="2.2600002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What is your next investigation?
+MRI
+EUS
+ERCP</text>
+		</slide>
+		<slide index="5" title="EUS" titleNormalized="eus" src="slide6.swf" size="187854" advanceOnTime="1" framesCount="3225" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_2778a750.spr0_22151984" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2778a750.spr2_22151984" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="3224" playTime="104.8399963" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>From the GE junction a liver metastasis of the segment 2 is visible with associated intraephatic biliary dilatation.
+From the duodeal bulb CBD and PD are visible joining togheter into the papilla. From here with a counterclockwise rotation we can follow the two structures up to the hilum of the liver. Here’s the head of the pancreas with the portal confluence below. If we keep on torqueing counterclockwise with the CBD into view we find a solid lesion into that, close to the proper hepatic artery and the PV. We then procede with contrast enhanced EUS with SonoVue. You can see the counter running in the upper left angle of the video. Now the contrast is visible into the hepatic artery and the lesion is showing a slow progessive enhancement that is diffuse and inhomogeneous</notes>
+			<notesNormalized>from the ge junction a liver metastasis of the segment 2 is visible with associated intraephatic biliary dilatation.
+from the duodeal bulb cbd and pd are visible joining togheter into the papilla. from here with a counterclockwise rotation we can follow the two structures up to the hilum of the liver. here’s the head of the pancreas with the portal confluence below. if we keep on torqueing counterclockwise with the cbd into view we find a solid lesion into that, close to the proper hepatic artery and the pv. we then procede with contrast enhanced eus with sonovue. you can see the counter running in the upper left angle of the video. now the contrast is visible into the hepatic artery and the lesion is showing a slow progessive enhancement that is diffuse and inhomogeneous</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;From the GE junction a liver metastasis of the segment 2 is visible with associated intraephatic biliary dilatation.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;From the duodeal bulb CBD and PD are visible joining togheter into the papilla. From here with a counterclockwise rotation we can follow the two structures up to the hilum of the liver. Here’s the head of the pancreas with the portal confluence below. If we keep on torqueing counterclockwise with the CBD into view we find a solid lesion into that, close to the proper hepatic artery and the PV. We then procede with contrast enhanced EUS with SonoVue. You can see the counter running in the upper left angle of the video. Now the contrast is visible into the hepatic artery and the lesion is showing a slow progessive enhancement that is diffuse and inhomogeneous&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS</text>
+		</slide>
+		<slide index="6" title="What would you do next?" titleNormalized="what would you do next?" src="slide7.swf" size="2162" advanceOnTime="1" framesCount="439" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="438" playTime="18.2500000" pauseTime="1.6700001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What would you do next?
+EUS – FNA/B
+ERCP</text>
+		</slide>
+		<slide index="7" title="EUS" titleNormalized="eus" src="slide8.swf" size="212461" advanceOnTime="1" framesCount="546" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_27788450.spr0_22161828" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_27788450.spr2_22161828" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="545" playTime="9.4099998" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>22 G 
+Aquire
+
+3 passes
+
+FNB
+EUS</text>
+		</slide>
+		<slide index="8" title="What would you do then?" titleNormalized="what would you do then?" src="slide9.swf" size="1903" advanceOnTime="1" framesCount="593" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="592" playTime="24.6666667" pauseTime="1.8233331"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What would you do then?
+Same-session ERCP
+
+
+ERCP in case of EUS-FNA inadequate results</text>
+		</slide>
+		<slide index="9" title="ERCP" titleNormalized="ercp" src="slide10.swf" size="373450" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.6489996"/>
+			</animationSteps>
+			<notes>The cholangiography showed in the upper third of the cbd a stricture about 10 mm long with apple core appearance</notes>
+			<notesNormalized>the cholangiography showed in the upper third of the cbd a stricture about 10 mm long with apple core appearance</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The cholangiography showed in the upper third of the cbd a stricture about 10 mm long with apple core appearance&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>ERCP
+ERCP
+Biliary stricture
+
+10 mm lenght
+«Apple core» appearance</text>
+		</slide>
+		<slide index="10" title="ERCP" titleNormalized="ercp" src="slide11.swf" size="2529" advanceOnTime="1" framesCount="496" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="495" playTime="20.6250000" pauseTime="1.0650005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ERCP
+Which of these following techniques would you use for further tissue acquisition?
+Cholangioscopy
+Brushing 
++
+ biopsies</text>
+		</slide>
+		<slide index="11" title="ERCP" titleNormalized="ercp" src="slide12.swf" size="475914" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.8389999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Brushing
+ERCP</text>
+		</slide>
+		<slide index="12" title="ERCP" titleNormalized="ercp" src="slide13.swf" size="325091" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.6289992"/>
+			</animationSteps>
+			<notes>After that We performed IDA, a technique we reported in 2012. After standard brushing, to perform IDA, we removed the brush from its catheter and used
+the tip of the catheter as a scraping device. The tip was scraped back and forth across the stricture at least 10 times.
+The catheter and a suction line were connected to a specimen trap to obtain intraductal aspiration of fluids and
+Samplings for cytodiagnosis.</notes>
+			<notesNormalized>after that we performed ida, a technique we reported in 2012. after standard brushing, to perform ida, we removed the brush from its catheter and used
+the tip of the catheter as a scraping device. the tip was scraped back and forth across the stricture at least 10 times.
+the catheter and a suction line were connected to a specimen trap to obtain intraductal aspiration of fluids and
+samplings for cytodiagnosis.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;After that We performed IDA, a technique we reported in 2012. After standard brushing, to perform IDA, we removed the brush from its catheter and used&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;the tip of the catheter as a scraping device. The tip was scraped back and forth across the stricture at least 10 times.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The catheter and a suction line were connected to a specimen trap to obtain intraductal aspiration of fluids and&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Samplings for cytodiagnosis.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>IDA – Intraductal aspiration
+ERCP
+Curcio et al. Gastroint Endosc. 2012; 75: 798-804</text>
+		</slide>
+		<slide index="13" title="ERCP" titleNormalized="ercp" src="slide14.swf" size="397658" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.6690001"/>
+			</animationSteps>
+			<notes>We also performed biopsies of the stricture with a standard forceps</notes>
+			<notesNormalized>we also performed biopsies of the stricture with a standard forceps</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;We also performed biopsies of the stricture with a standard forceps&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Biopsies
+ERCP</text>
+		</slide>
+		<slide index="14" title="ERCP" titleNormalized="ercp" src="slide15.swf" size="495228" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.2389998"/>
+			</animationSteps>
+			<notes>And finally placed an uncovered metal stent</notes>
+			<notesNormalized>and finally placed an uncovered metal stent</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;And finally placed an uncovered metal stent&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>ERCP
+SEMS
+
+Uncovered
+8 cm x 10 mm</text>
+		</slide>
+		<slide index="15" title="Pathologic assessment" titleNormalized="pathologic assessment" src="slide16.swf" size="92540" advanceOnTime="1" framesCount="247" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="246" playTime="10.2500000" pauseTime="4.5299997"/>
+			</animationSteps>
+			<notes>Pathologic assessment revealed suboptimal material from FNB only showing fbrosis. Brushing was inadequate</notes>
+			<notesNormalized>pathologic assessment revealed suboptimal material from fnb only showing fbrosis. brushing was inadequate</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Pathologic assessment revealed suboptimal material from FNB only showing fbrosis. Brushing was inadequate&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Suboptimal (fibrosis)
+22 G 
+Aquire
+
+FNB
+EUS
+ERCP
+Brushing
+Inadequate
+Biopsies
+Diagnostic
+Diagnostic
+ Intraductal aspiration
+(IDA)
+Pathologic assessment</text>
+		</slide>
+		<slide index="16" title="Pathologic assessment" titleNormalized="pathologic assessment" src="slide17.swf" size="374897" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.1090001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pathologic assessment
+(Papaniculau stain) cluster of ADENOCARCINOMA cells appearing as nested epithelial cells with significantly enlarged nuclei and irregular nuclear margins.
+Biopsies
+ Intraductal aspiration
+(IDA)
+(H&amp;E) Moderately differentiated components of ADENOCARCINOMA</text>
+		</slide>
+		<slide index="17" title="Intraductal aspiration (IDA)" titleNormalized="intraductal aspiration (ida)" src="slide18.swf" size="78916" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.5090002"/>
+			</animationSteps>
+			<notes>According to our data IDA provides a significantly higher sensitivity and specificity than brushin even if it was calculated in a small cohort of 42 patients. 
+
+ In our 42 patients, IDA provided a significantly higher
+sensitivity than brushing (89% vs 78% for adequate samples
+and 89% vs 37% for all samples), providing a significantly
+superior cellular adequacy (92.8% vs 35.7%) (Fig.
+2). Cellular adequacy was evaluated on site for brushing
+and IDA.</notes>
+			<notesNormalized>according to our data ida provides a significantly higher sensitivity and specificity than brushin even if it was calculated in a small cohort of 42 patients. 
+
+ in our 42 patients, ida provided a significantly higher
+sensitivity than brushing (89% vs 78% for adequate samples
+and 89% vs 37% for all samples), providing a significantly
+superior cellular adequacy (92.8% vs 35.7%) (fig.
+2). cellular adequacy was evaluated on site for brushing
+and ida.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;According to our data IDA provides a significantly higher sensitivity and specificity than brushin even if it was calculated in a small cohort of 42 patients. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; In our 42 patients, IDA provided a significantly higher&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;sensitivity than brushing (89% vs 78% for adequate samples&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;and 89% vs 37% for all samples), providing a significantly&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;superior cellular adequacy (92.8% vs 35.7%) (Fig.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;2). Cellular adequacy was evaluated on site for brushing&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;and IDA.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Intraductal aspiration (IDA)
+Curcio et al. Gastroint Endosc. 2012; 75: 798-804</text>
+		</slide>
+		<slide index="18" title="Final Diagnosis" titleNormalized="final diagnosis" src="slide19.swf" size="2966" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="54.7589983"/>
+			</animationSteps>
+			<notes>Final diagnosis was cholangiocarcinoma and the patient started proper chemoterapy</notes>
+			<notesNormalized>final diagnosis was cholangiocarcinoma and the patient started proper chemoterapy</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Final diagnosis was cholangiocarcinoma and the patient started proper chemoterapy&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Final Diagnosis
+Cholangiocarcinoma
+Is there room for EUS-FNA/B based cito-histological diagnosis in patients with biliary stenosis of the upper third of the CBD?</text>
+		</slide>
+		<slide index="19" title="Case 2" titleNormalized="case 2" src="slide20.swf" size="9888" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.1480002"/>
+			</animationSteps>
+			<notes>Second case is about a 63 year old woman with no history of alchool abuse or smoke, complaining recurrent upper quadrant abdominal pain and a weight loss of about 10 kg in the last 4 months</notes>
+			<notesNormalized>second case is about a 63 year old woman with no history of alchool abuse or smoke, complaining recurrent upper quadrant abdominal pain and a weight loss of about 10 kg in the last 4 months</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Second case is about a 63 year old woman with no history of alchool abuse or smoke, complaining recurrent upper quadrant abdominal pain and a weight loss of about 10 kg in the last 4 months&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Case 2
+
+63-year-old woman (no alchool abuse, no smoke)
+
+Recurrent upper quadrant abdominal pain
+
+Weight loss: 10 Kg in the last 4 months
+
+
+</text>
+		</slide>
+		<slide index="20" title="Laboratory findings" titleNormalized="laboratory findings" src="slide21.swf" size="1550" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.8400001"/>
+			</animationSteps>
+			<notes>She presented with an obstructivce pattern of liver function tests and normal amilase and lipase</notes>
+			<notesNormalized>she presented with an obstructivce pattern of liver function tests and normal amilase and lipase</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;She presented with an obstructivce pattern of liver function tests and normal amilase and lipase&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Laboratory findings
+
+
+Total/direct bilirubin 2.05/1.61 mg/dl
+
+ AST/ALT 152/345 mU/ml
+
+ɣ-GT 47 mU/ml, ALP 302 mU/ml
+
+Amylase/lipase within normal limits.
+
+</text>
+		</slide>
+		<slide index="21" title="Abdominal US" titleNormalized="abdominal us" src="slide22.swf" size="1502" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.3789992"/>
+			</animationSteps>
+			<notes>An abdominal ultrasonography revealed distended gallbladder with sludge and associated intrahepatic dilatation. CBD was also dilated up to 9 mm. </notes>
+			<notesNormalized>an abdominal ultrasonography revealed distended gallbladder with sludge and associated intrahepatic dilatation. cbd was also dilated up to 9 mm.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;An abdominal ultrasonography revealed distended gallbladder with sludge and associated intrahepatic dilatation. CBD was also dilated up to 9 mm. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Distended gallbladder with sludge;
+
+Intrahepatic biliary dilatation; 
+
+CBD diameter 9 mm; 
+
+Head of the pancreas not well visualized due to gastric gas
+Abdominal US</text>
+		</slide>
+		<slide index="22" title="What would you do next?" titleNormalized="what would you do next?" src="slide23.swf" size="2554" advanceOnTime="1" framesCount="741" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="740" playTime="30.8333333" pauseTime="1.3666674"/>
+			</animationSteps>
+			<notes>What would you do next?
+EUS and eventual ERCP for Suspected CBD stones/sludge ?</notes>
+			<notesNormalized>what would you do next?
+eus and eventual ercp for suspected cbd stones/sludge ?</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;What would you do next?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;EUS and eventual ERCP for Suspected CBD stones/sludge ?&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>What would you do next?
+EUS
+ERCP
+CE-CT scan
++/-
+MRI</text>
+		</slide>
+		<slide index="23" title="CT scan" titleNormalized="ct scan" src="slide24.swf" size="195606" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.8090004"/>
+			</animationSteps>
+			<notes>We performed a CT scan that revealed the presence of some hypervascular areas in the body-tail of the pancreas that were diffusely enlarged, with featureless borders and a low-density capsule-like rim
+
+TC addome con mdc: pancreas aumentato di volume 
+diffusamente (DT coda 22 mm, DT testa 35 mm), con perdita delle lobulazioni. In fase arteriosa lesione ipervascolare alla testa di 12 mm e altre due alla coda con dilatazione del dotto di Wirsung a monte. Discreta dilazione vie biliari intraepatiche. Il dotto epatico comune, subito sotto l’ilo, presenta ispessimento concentrico delle pareti (4-6 mm) e restringimento del lume. Pareti del coledoco intrapancreatico caratterizzate da enhancement.</notes>
+			<notesNormalized>we performed a ct scan that revealed the presence of some hypervascular areas in the body-tail of the pancreas that were diffusely enlarged, with featureless borders and a low-density capsule-like rim
+
+tc addome con mdc: pancreas aumentato di volume 
+diffusamente (dt coda 22 mm, dt testa 35 mm), con perdita delle lobulazioni. in fase arteriosa lesione ipervascolare alla testa di 12 mm e altre due alla coda con dilatazione del dotto di wirsung a monte. discreta dilazione vie biliari intraepatiche. il dotto epatico comune, subito sotto l’ilo, presenta ispessimento concentrico delle pareti (4-6 mm) e restringimento del lume. pareti del coledoco intrapancreatico caratterizzate da enhancement.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#072a5e"&gt;We performed a CT scan that revealed the presence of some hypervascular areas in the body-tail of the pancreas that were diffusely enlarged, with featureless borders and a low-density capsule-like rim&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#072a5e"&gt;&lt;b&gt;TC addome con mdc: &lt;/b&gt;pancreas aumentato di volume &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#072a5e"&gt;diffusamente (DT coda 22 mm, DT testa 35 mm), con perdita delle lobulazioni. In fase arteriosa lesione ipervascolare alla testa di 12 mm e altre due alla coda con dilatazione del dotto di Wirsung a monte. Discreta dilazione vie biliari intraepatiche. Il dotto epatico comune, subito sotto l’ilo, presenta ispessimento concentrico delle pareti (4-6 mm) e restringimento del lume. Pareti del coledoco intrapancreatico caratterizzate da enhancement.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CT scan
+Featureless 
+borders
+Capsule-like rim
+Hypervascular areas
+Diffuse
+Enlargement</text>
+		</slide>
+		<slide index="24" title="CT scan" titleNormalized="ct scan" src="slide25.swf" size="206253" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.4789995"/>
+			</animationSteps>
+			<notes>A concentric wall thickening of the CBD was reveled with associated mild intrahepatic biliary dilatation and an enlarged head of the pancreas. </notes>
+			<notesNormalized>a concentric wall thickening of the cbd was reveled with associated mild intrahepatic biliary dilatation and an enlarged head of the pancreas.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#072a5e"&gt;&lt;b&gt;A concentric wall thickening of the CBD was reveled with associated mild intrahepatic biliary dilatation and an enlarged head of the pancreas. &lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CT scan
+Concentric wall thickening 
+of the CBD
+Enlarged head of
+the pancreas</text>
+		</slide>
+		<slide index="25" title="What would you do next?" titleNormalized="what would you do next?" src="slide26.swf" size="2276" advanceOnTime="1" framesCount="792" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="791" playTime="32.9583333" pauseTime="4.6116664"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What would you do next?
+MRI
+EUS
+ERCP</text>
+		</slide>
+		<slide index="26" title="MRCP" titleNormalized="mrcp" src="slide27.swf" size="111673" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.2190003"/>
+			</animationSteps>
+			<notes>To better define the biliary tree and the PD we performed an MRI showing a loss of signal in the distal third of the CBD with upstread dilatation and no dilatation of the PD
+
+RMN addome superiore+colangio-pancreatoRMN: 
+  esame inficiato da crisi claustrofobica. Per quanto visibile  
+  inserzione bassa e mediale del cistico. Lieve dilatazione del 
+  coledoco. Non visibile in tratto intrapancreatico del 
+  coledoco e il tratto del Wirsung in corrispondenza della 
+  testa del pancreas che e’ poco valutabile.  </notes>
+			<notesNormalized>to better define the biliary tree and the pd we performed an mri showing a loss of signal in the distal third of the cbd with upstread dilatation and no dilatation of the pd
+
+rmn addome superiore+colangio-pancreatormn: 
+ esame inficiato da crisi claustrofobica. per quanto visibile 
+ inserzione bassa e mediale del cistico. lieve dilatazione del 
+ coledoco. non visibile in tratto intrapancreatico del 
+ coledoco e il tratto del wirsung in corrispondenza della 
+ testa del pancreas che e’ poco valutabile.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#072a5e"&gt;&lt;b&gt;To better define the biliary tree and the PD we performed an MRI showing a loss of signal in the distal third of the CBD with upstread dilatation and no dilatation of the PD&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#072a5e"&gt;&lt;b&gt;RMN addome superiore+colangio-pancreatoRMN: &lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#072a5e"&gt;&lt;b&gt;  &lt;/b&gt;esame inficiato da crisi claustrofobica. Per quanto visibile  &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#072a5e"&gt;  inserzione bassa e mediale del cistico. Lieve dilatazione del &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#072a5e"&gt;  coledoco. Non visibile in tratto intrapancreatico del &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#072a5e"&gt;  coledoco e il tratto del Wirsung in corrispondenza della &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#072a5e"&gt;  testa del pancreas che e’ poco valutabile.  &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>MRCP
+Loss of signal 
+
+Distal third of the CBD
+No Pancreatic Duct dilatation</text>
+		</slide>
+		<slide index="27" title="What would you do first?" titleNormalized="what would you do first?" src="slide28.swf" size="2124" advanceOnTime="1" framesCount="302" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="301" playTime="12.5400000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What would you do first?
+EUS
+ERCP</text>
+		</slide>
+		<slide index="28" title="EUS" titleNormalized="eus" src="slide29.swf" size="395365" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.5890002"/>
+			</animationSteps>
+			<notes>We went for an EUS showing a sandiwich-like CBD wall thickening up to 4 mm. In particular CBD stops in the pancreas head that is enlarged with inhomogeneous echogenicity, and hyperechoic strends and dots</notes>
+			<notesNormalized>we went for an eus showing a sandiwich-like cbd wall thickening up to 4 mm. in particular cbd stops in the pancreas head that is enlarged with inhomogeneous echogenicity, and hyperechoic strends and dots</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;We went for an EUS showing a sandiwich-like CBD wall thickening up to 4 mm. In particular CBD stops in the pancreas head that is enlarged with inhomogeneous echogenicity, and hyperechoic strends and dots&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS
+Pancreas 
+Head
+CBD
+A
+B
+C
+«Sandwich-like»
+CBD wall thickening
+
+up to 4 mm
+A
+B
+C</text>
+		</slide>
+		<slide index="29" title="EUS" titleNormalized="eus" src="slide30.swf" size="199786" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.4789995"/>
+			</animationSteps>
+			<notes>We then performed an FNB with a 22G Pro Core needle aiming the head of te pancreas and the cbd wall</notes>
+			<notesNormalized>we then performed an fnb with a 22g pro core needle aiming the head of te pancreas and the cbd wall</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;We then performed an FNB with a 22G Pro Core needle aiming the head of te pancreas and the cbd wall&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS
+22 G 
+Pro Core
+FNA/B
+Pancreas head
+CBD wall</text>
+		</slide>
+		<slide index="30" title="ERCP" titleNormalized="ercp" src="slide31.swf" size="114350" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.7090000"/>
+			</animationSteps>
+			<notes>The following ERCP showed an irregular biliary stricture of the distal third of the CBD about 30 mm long</notes>
+			<notesNormalized>the following ercp showed an irregular biliary stricture of the distal third of the cbd about 30 mm long</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The following ERCP showed an irregular biliary stricture of the distal third of the CBD about 30 mm long&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>ERCP
+Biliary stricture
+
+Lower third of the CBD
+30 mm lenght
+Irregular appearance</text>
+		</slide>
+		<slide index="31" title="ERCP" titleNormalized="ercp" src="slide32.swf" size="2460" advanceOnTime="1" framesCount="345" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="344" playTime="14.3333333" pauseTime="0.1166665"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ERCP
+What would you do now?
+Cholangioscopy
+Brushing 
++
+ biopsies</text>
+		</slide>
+		<slide index="32" title="ERCP" titleNormalized="ercp" src="slide33.swf" size="120491" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.4390001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ERCP
+Brushing
+Biopsies
+IDA – Intraductal aspiration
+Biopsies of major papilla</text>
+		</slide>
+		<slide index="33" title="Waiting for the pathologic assessement..." titleNormalized="waiting for the pathologic assessement..." src="slide34.swf" size="12665" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.7890009"/>
+			</animationSteps>
+			<notes>•	Waiting for the pathologic assesment we found that CEA and CA 19.9 were normale; antinuclear antibodies and rheumatoid factor were negative and Serum IgG4 were elevated five times the upper limit
+
+•	 Ca 19.9-CEA: negativi
+•	ANA: negativo 
+•	Gammaglobuline: nei limiti
+•	Fattore reumatoide: normale</notes>
+			<notesNormalized>•	waiting for the pathologic assesment we found that cea and ca 19.9 were normale; antinuclear antibodies and rheumatoid factor were negative and serum igg4 were elevated five times the upper limit
+
+•	 ca 19.9-cea: negativi
+•	ana: negativo 
+•	gammaglobuline: nei limiti
+•	fattore reumatoide: normale</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	Waiting for the pathologic assesment we found that CEA and CA 19.9 were normale; antinuclear antibodies and rheumatoid factor were negative and Serum IgG4 were elevated five times the upper limit&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	 Ca 19.9-CEA: negativi&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	ANA: negativo &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Gammaglobuline: nei limiti&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Fattore reumatoide: normale&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Waiting for the pathologic assessement... 
+Serum IgG4
+5,74 g/L
+(range 0.08-1,4) 
+Ca 19.9 
+CEA
+Within normal limits
+Antinuclear antibodies
+Rheumatoid 
+Factor
+Negative</text>
+		</slide>
+		<slide index="34" title="Pathologic assessment" titleNormalized="pathologic assessment" src="slide35.swf" size="85036" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.3490004"/>
+			</animationSteps>
+			<notes>Pathology evaluation found that the FNB of the head of the pancreas was adequate and showed fibrosis, a lymphoplasmacytic infiltrate and abundant IgG4+ plasmacells.
+FNB of the CBD  wal was found inadequate</notes>
+			<notesNormalized>pathology evaluation found that the fnb of the head of the pancreas was adequate and showed fibrosis, a lymphoplasmacytic infiltrate and abundant igg4+ plasmacells.
+fnb of the cbd wal was found inadequate</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Pathology evaluation found that the FNB of the head of the pancreas was adequate and showed fibrosis, a lymphoplasmacytic infiltrate and abundant IgG4+ plasmacells.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;FNB of the CBD  wal was found inadequate&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS
+Pathologic assessment
+FNA/B
+Head of the pancreas
+CBD Wall
+Fibrosis 
+Lymphoplasmacytic infiltrate
+IgG4+ plasmacells (&gt; 10 HFP)
+Adequate
+Inadequate</text>
+		</slide>
+		<slide index="35" title="Pathologic assessment" titleNormalized="pathologic assessment" src="slide36.swf" size="121717" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset35" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.6290011"/>
+			</animationSteps>
+			<notes>Brushing and IDA were also inadequate but biopsies were dagnostic. In particular intraductal biopsies showed storiform fibrosis, lymphoplasmacytic infiltrate and abundant IgG4 components. Biopsies of the major papilla were also positive showing lymphoplasmacytic infiltrate and IgG4 positive plasmacells
+
+BIOPSIE BILIARI: Spesso coinvolta dal processo infiammatorio in quanto punto di congiunzione tra via biliare e Wirsung.
+Semplici, sicure, con una sensibilità tra il 52 e 80% e una specificità tra 89 e 100%.
+Non riportati casi di sanguinamento o pancreatite.</notes>
+			<notesNormalized>brushing and ida were also inadequate but biopsies were dagnostic. in particular intraductal biopsies showed storiform fibrosis, lymphoplasmacytic infiltrate and abundant igg4 components. biopsies of the major papilla were also positive showing lymphoplasmacytic infiltrate and igg4 positive plasmacells
+
+biopsie biliari: spesso coinvolta dal processo infiammatorio in quanto punto di congiunzione tra via biliare e wirsung.
+semplici, sicure, con una sensibilità tra il 52 e 80% e una specificità tra 89 e 100%.
+non riportati casi di sanguinamento o pancreatite.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Brushing and IDA were also inadequate but biopsies were dagnostic. In particular intraductal biopsies showed storiform fibrosis, lymphoplasmacytic infiltrate and abundant IgG4 components. Biopsies of the major papilla were also positive showing lymphoplasmacytic infiltrate and IgG4 positive plasmacells&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;BIOPSIE BILIARI: Spesso coinvolta dal processo infiammatorio in quanto punto di congiunzione tra via biliare e Wirsung.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Semplici, sicure, con una sensibilità tra il 52 e 80% e una specificità tra 89 e 100%.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Non riportati casi di sanguinamento o pancreatite.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>ERCP
+Pathologic assessment
+Brushing
+Inadequate
+ Intraductal aspiration
+(IDA)
+Inadequate
+Biopsies
+Diagnostic
+Diagnostic
+Storiform fibrosis
+Lymphoplasmacytic infiltrate
+IgG4+ plasmacells (&gt; 10 HFP)
+
+Lymphoplasmacytic infiltrate
+IgG4+ plasmacells (&gt; 10 HFP)</text>
+		</slide>
+		<slide index="36" title="Intraductal biopsies" titleNormalized="intraductal biopsies" src="slide37.swf" size="494948" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset36" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.1389999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Intraductal biopsies
+ERCP
+H&amp;E. Infiltration of plasmacells and lymphocytes with storiform fibrosis
+Immunostaining for IgG4 showing infiltration of IgG4-positive plasmacells</text>
+		</slide>
+		<slide index="37" title="Final Diagnosis" titleNormalized="final diagnosis" src="slide38.swf" size="29864" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset37" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.8090004"/>
+			</animationSteps>
+			<notes>Considering all of this the final diagnosis was Type 1 autoimmune pancreatitis with associated IgG4 cholangiopathy accordingly with the  ICDC guidelines included response to steroid therapy.</notes>
+			<notesNormalized>considering all of this the final diagnosis was type 1 autoimmune pancreatitis with associated igg4 cholangiopathy accordingly with the icdc guidelines included response to steroid therapy.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Considering all of this the final diagnosis was Type 1 autoimmune pancreatitis with associated IgG4 cholangiopathy accordingly with the  ICDC guidelines included response to steroid therapy.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Final Diagnosis
+Pancreas 2011 Apr;40(3):352-8.
+Type 1 Autoimmune Pancreatitis 
+and associated IgG4 cholangiopathy
+Parenchimal Imaging
+Ductal Imaging (ERP)
+Serology
+Other Organ Involvement
+Histology of the pancreas
+Response to steroid</text>
+		</slide>
+		<slide index="38" title="Treatment" titleNormalized="treatment" src="slide39.swf" size="1389" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset38" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.8490004"/>
+			</animationSteps>
+			<notes>In fact the patient was treated with point 6 mg per kilograms per day for 4 weeks with subsequent tapering of 5 mg every two weeks until a maintenance dose of 5 mg per day</notes>
+			<notesNormalized>in fact the patient was treated with point 6 mg per kilograms per day for 4 weeks with subsequent tapering of 5 mg every two weeks until a maintenance dose of 5 mg per day</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In fact the patient was treated with point 6 mg per kilograms per day for 4 weeks with subsequent tapering of 5 mg every two weeks until a maintenance dose of 5 mg per day&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Treatment
+Prednisolone 0.6 mg/Kg/die for 4 weeks
+
+Tapering of 5 mg every two weeks until maintenance dose (5 mg/day)</text>
+		</slide>
+		<slide index="39" title="Follow up" titleNormalized="follow up" src="slide40.swf" size="2540" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset39" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.9789995"/>
+			</animationSteps>
+			<notes>During follow up the patient turned to be asymptomatic and we observed a progressive weight regain with a decrease of IgG4 levels until normal values at one year</notes>
+			<notesNormalized>during follow up the patient turned to be asymptomatic and we observed a progressive weight regain with a decrease of igg4 levels until normal values at one year</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;During follow up the patient turned to be asymptomatic and we observed a progressive weight regain with a decrease of IgG4 levels until normal values at one year&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Follow up
+Start of
+therapy
+No abdominal pain
+Weight regain (partial)
+Normal blood test
+2 months
+Asymptomatic
+Weight regain (complete)
+Serum IgG4 2.65 g/L
+CT scan 
+4 weeks
+6 months
+Asymptomatic
+Serum IgG4 1.72 g/L
+CT scan
+1 year
+Asymptomatic
+IgG4 normal</text>
+		</slide>
+		<slide index="40" title="Follow up" titleNormalized="follow up" src="slide41.swf" size="223543" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset40" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.3390002"/>
+			</animationSteps>
+			<notes>Here you can see follow-up ct scans showing progressive volume reduction of the body-tail
+
+Deltacortene 0.6 mg/Kg/die per 4 settimane poi 
+riduzione di 5 mg ogni 7 giorni fino a raggiungere dose di 
+mantenimento tra 2.5 e 10 mg/die.</notes>
+			<notesNormalized>here you can see follow-up ct scans showing progressive volume reduction of the body-tail
+
+deltacortene 0.6 mg/kg/die per 4 settimane poi 
+riduzione di 5 mg ogni 7 giorni fino a raggiungere dose di 
+mantenimento tra 2.5 e 10 mg/die.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Here you can see follow-up ct scans showing progressive volume reduction of the body-tail&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Deltacortene 0.6 mg/Kg/die per 4 settimane poi &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;riduzione di 5 mg ogni 7 giorni fino a raggiungere dose di &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;mantenimento tra 2.5 e 10 mg/die.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Follow up
+41
+At diagnosis
+2 months later
+6 months later
+Body-tail
+ volume reduction</text>
+		</slide>
+		<slide index="41" title="Follow up" titleNormalized="follow up" src="slide42.swf" size="224611" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset41" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.6090001"/>
+			</animationSteps>
+			<notes>As well as of the head of the pancreas
+
+Deltacortene 0.6 mg/Kg/die per 4 settimane poi 
+riduzione di 5 mg ogni 7 giorni fino a raggiungere dose di 
+mantenimento tra 2.5 e 10 mg/die.</notes>
+			<notesNormalized>as well as of the head of the pancreas
+
+deltacortene 0.6 mg/kg/die per 4 settimane poi 
+riduzione di 5 mg ogni 7 giorni fino a raggiungere dose di 
+mantenimento tra 2.5 e 10 mg/die.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;As well as of the head of the pancreas&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Deltacortene 0.6 mg/Kg/die per 4 settimane poi &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;riduzione di 5 mg ogni 7 giorni fino a raggiungere dose di &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;mantenimento tra 2.5 e 10 mg/die.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Follow up
+At diagnosis
+2 months later
+6 months later
+Pancreas head
+volume reduction</text>
+		</slide>
+		<slide index="42" title="Follow up" titleNormalized="follow up" src="slide43.swf" size="341944" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset42" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.6790003"/>
+			</animationSteps>
+			<notes>CBD wall thickness reduced too as you ca see in this EUS picures
+
+Deltacortene 0.6 mg/Kg/die per 4 settimane poi 
+riduzione di 5 mg ogni 7 giorni fino a raggiungere dose di 
+mantenimento tra 2.5 e 10 mg/die.</notes>
+			<notesNormalized>cbd wall thickness reduced too as you ca see in this eus picures
+
+deltacortene 0.6 mg/kg/die per 4 settimane poi 
+riduzione di 5 mg ogni 7 giorni fino a raggiungere dose di 
+mantenimento tra 2.5 e 10 mg/die.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;CBD wall thickness reduced too as you ca see in this EUS picures&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Deltacortene 0.6 mg/Kg/die per 4 settimane poi &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;riduzione di 5 mg ogni 7 giorni fino a raggiungere dose di &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;mantenimento tra 2.5 e 10 mg/die.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Follow up
+At diagnosis
+(4.2 mm)
+2 months later
+(2 mm)
+6 months later
+(1.4 mm)
+CBD wall
+thickness reduction</text>
+		</slide>
+		<slide index="43" title="Thank you!" titleNormalized="thank you!" src="slide44.swf" size="1168" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset43" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.7690000"/>
+			</animationSteps>
+			<notes>CBD wall thickness reduced too as you ca see in this EUS picures
+
+Deltacortene 0.6 mg/Kg/die per 4 settimane poi 
+riduzione di 5 mg ogni 7 giorni fino a raggiungere dose di 
+mantenimento tra 2.5 e 10 mg/die.</notes>
+			<notesNormalized>cbd wall thickness reduced too as you ca see in this eus picures
+
+deltacortene 0.6 mg/kg/die per 4 settimane poi 
+riduzione di 5 mg ogni 7 giorni fino a raggiungere dose di 
+mantenimento tra 2.5 e 10 mg/die.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;CBD wall thickness reduced too as you ca see in this EUS picures&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Deltacortene 0.6 mg/Kg/die per 4 settimane poi &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;riduzione di 5 mg ogni 7 giorni fino a raggiungere dose di &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;mantenimento tra 2.5 e 10 mg/die.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Thank you!
+
+(Gamsa habnida)</text>
+		</slide>
+	</slides>
+</presentation>

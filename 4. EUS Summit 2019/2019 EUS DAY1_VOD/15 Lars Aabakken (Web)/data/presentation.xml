@@ -1,0 +1,761 @@
+<?xml version="1.0"?>
+<presentation title="15 Lars Aabakken" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{0B9C370E-FAB8-4548-AE20-55F3A2C87198}">
+	<presenters>
+		<presenter name="Lars Aabakken" title="Norway" email="" web="" phone="" photoAssetId="">
+			<bio>TISSUE DIAGNOSIS FOR INDETERMINATE BILIARY STRICTURES – ERCP FIRST</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="623222" duration="22257"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="730742" duration="26097"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="1666971" duration="59534"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="1161554" duration="41484"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="710994" duration="25392"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="668571" duration="23877"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="647359" duration="23119"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="343816" duration="12279"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="1040136" duration="37147"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="875565" duration="31270"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="623222" duration="22257"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="1098651" duration="39237"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="766582" duration="27377"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="147062" duration="5252"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="443291" duration="15831"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="330651" duration="11808"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="802422" duration="28657"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="84891" duration="3031"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="1592365" duration="56870"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="1805942" duration="64497"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="541302" duration="19332"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="726354" duration="25941"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="977234" duration="34901"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="1064274" duration="38009"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="68068" duration="2431"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="22.2220000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="26.0590000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="59.4930000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="41.4410000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="25.3589993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="23.8239994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="23.0900000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="12.2460000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="37.1040000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="31.2310000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="22.2220000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="39.2060000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="27.3269997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="5.2049999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="15.7819996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="11.7779999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="28.6289997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="3.0030000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="56.8230000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="64.4639969"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="19.2859993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="25.8929996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="34.8680000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="37.9710000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="2.4020000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Tissue diagnosis for indeterminate biliary strictures – ercp first" titleNormalized="tissue diagnosis for indeterminate biliary strictures – ercp first" src="slide1.swf" size="15938" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.2210001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tissue diagnosis for indeterminate biliary strictures – ercp first
+Lars Aabakken, chief of GI Endoscopy
+OUS-Rikshospitalet, Oslo Norway</text>
+		</slide>
+		<slide index="1" title="Biliary strictures – issues at hand" titleNormalized="biliary strictures – issues at hand" src="slide2.swf" size="3263" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.0580000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Biliary strictures – issues at hand
+Type of stricture
+Intrinsic/extrinsic
+Fibrotic/inflammatory
+Temporary/permanent
+Symptomatic/asymptomatic
+Benign/Malignant</text>
+		</slide>
+		<slide index="2" title="Diagnostic workup" titleNormalized="diagnostic workup" src="slide3.swf" size="3534" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="59.4920000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Diagnostic workup
+Case history
+Other malignancy – metastatic disease?
+Other diseases predisposing strictures (autoimmunity, ulcerative colitis, IgG4-disease)
+Temporal development
+Accompanying biochemical alterations
+General signs of malignant disease
+Non-interventional imaging
+CT, MRI, MRCP, PET
+ERCP…
+</text>
+		</slide>
+		<slide index="3" title="Ductographic features of malignancy" titleNormalized="ductographic features of malignancy" src="slide4.swf" size="3160" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="41.4400019"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ductographic features of malignancy
+Long, fixated, irregular, hard strictures
+Asymmetrical, edgy limitations
+Strictures in a context of increased suspicion
+Strictures for no apparent reason</text>
+		</slide>
+		<slide index="4" title="Ductographic features of malignancy" titleNormalized="ductographic features of malignancy" src="slide5.swf" size="186593" advanceOnTime="1" framesCount="115" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="114" playTime="4.7500000" pauseTime="20.6089993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ductographic features of malignancy</text>
+		</slide>
+		<slide index="5" title="But then…" titleNormalized="but then…" src="slide6.swf" size="207933" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.8229994"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>But then…</text>
+		</slide>
+		<slide index="6" title="So, utility beyond imaging..?" titleNormalized="so, utility beyond imaging..?" src="slide7.swf" size="3431" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.0890002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>So, utility beyond imaging..?
+Ductal sampling
+Brush cytology++
+Forceps biopsy
+Bile aspiration
+Ductal imaging
+Cholangioscopy
+Confocal laser microscopy
+Intraductal ultrasound
+Therapy!</text>
+		</slide>
+		<slide index="7" title="Brush cytology" titleNormalized="brush cytology" src="slide8.swf" size="98201" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.2450003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Brush cytology</text>
+		</slide>
+		<slide index="8" title="Brush cytology" titleNormalized="brush cytology" src="slide9.swf" size="33909" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.1030001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Brush cytology
+Generally poor sensitivity
+Specificity issues in inflammatory tissue
+Sampling technique may matter</text>
+		</slide>
+		<slide index="9" title="Biliary brush cytology in PSC patients (n = 61)" titleNormalized="biliary brush cytology in psc patients (n = 61)" src="slide10.swf" size="17158" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.2300009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Biliary brush cytology in PSC patients (n = 61)
+Boberg et al, J Hepatol 2006</text>
+		</slide>
+		<slide index="10" title="Brush cytology – ancillary techniques" titleNormalized="brush cytology – ancillary techniques" src="slide11.swf" size="3153" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.2210001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Brush cytology – ancillary techniques
+Fluorescence in-situ hybridization (FISH)
+DNA ploidy analysis
+Single mutation analysis
+Next generation sequenzing (NGS)</text>
+		</slide>
+		<slide index="11" title="" titleNormalized="" src="slide12.swf" size="180224" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="39.2050013"/>
+			</animationSteps>
+			<notes>FISH is a cytogenetic technique that detects and localizes
+the presence or absence of specific DNA sequences on chromosomes by using
+fluorescently labeled DNA probes. The DNA probes bind to the area of sequence
+complementarity on chromosomes.23 FISH has been shown to detect malignancy in
+cytology specimens obtained from the bladder,24 breast,25 and lung.26 DIA quantifies
+the microscopic images of a cell by digital conversion and computer analysis,27 and
+can be used to quantify nuclear DNA content and evaluate nuclear features</notes>
+			<notesNormalized>fish is a cytogenetic technique that detects and localizes
+the presence or absence of specific dna sequences on chromosomes by using
+fluorescently labeled dna probes. the dna probes bind to the area of sequence
+complementarity on chromosomes.23 fish has been shown to detect malignancy in
+cytology specimens obtained from the bladder,24 breast,25 and lung.26 dia quantifies
+the microscopic images of a cell by digital conversion and computer analysis,27 and
+can be used to quantify nuclear dna content and evaluate nuclear features</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;FISH is a cytogenetic technique that detects and localizes&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;the presence or absence of specific DNA sequences on chromosomes by using&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;fluorescently labeled DNA probes. The DNA probes bind to the area of sequence&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;complementarity on chromosomes.23 FISH has been shown to detect malignancy in&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;cytology specimens obtained from the bladder,24 breast,25 and lung.26 DIA quantifies&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;the microscopic images of a cell by digital conversion and computer analysis,27 and&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;can be used to quantify nuclear DNA content and evaluate nuclear features&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Selection of 4 probes, retrospective analysis of 272 biliary brush samples
+2 y f/u for gold standard of malignancy
+Sensitivity 65% v. 19% (!) for routine cytology
+Specificity 92% v. 100%</text>
+		</slide>
+		<slide index="12" title="Transpapillary forceps biopsy" titleNormalized="transpapillary forceps biopsy" src="slide13.swf" size="148392" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.3259997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Transpapillary forceps biopsy
+Sensitivity: 43-81%
+Specificity: 90-100%
+
+Combine with brush cytology: Sensitivity 73% (?)</text>
+		</slide>
+		<slide index="13" title="Cholangioscopy" titleNormalized="cholangioscopy" src="slide14.swf" size="5613" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.2039999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cholangioscopy</text>
+		</slide>
+		<slide index="14" title="SpyGlass™ DS System Components" titleNormalized="spyglass™ ds system components" src="slide15.swf" size="168314" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.7809996"/>
+			</animationSteps>
+			<notes>Image Source: BSC Marketing</notes>
+			<notesNormalized>image source: bsc marketing</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;&lt;b&gt;Image Source: &lt;/b&gt;BSC Marketing&lt;b&gt;&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>SpyGlass™ DS System Components
+SpyGlass DS ™ Digital Controller
+SpyScope™ DS Access and Delivery Catheter
+Digital, integrated, simplified
+Robust construction
+Standardized image orientation and accessory channel location
+Improved image
+DS2: Even more…</text>
+		</slide>
+		<slide index="15" title="Cholangioscopy diagnostics" titleNormalized="cholangioscopy diagnostics" src="slide16.swf" size="3250" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.7769999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cholangioscopy diagnostics
+Appearance of stricture
+Irregular surface
+«Tumor vessels»
+Absent patterns
+Directed sampling of stricture
+Visual forceps biopsies</text>
+		</slide>
+		<slide index="16" title="" titleNormalized="" src="slide17.swf" size="123535" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="28.6279997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>1333 articles -&gt; 10 studies (456 patients)
+Indeterminate after imaging and/or ERCP w/wo brushing/biopsies
+Spybite biopsies (all comers)
+Sensitivity: 60.1%
+Specificity: 98%
+Visual assessment (6 studies)
+Sensitivity 85%
+Specificity 83%</text>
+		</slide>
+		<slide index="17" title="PSC strictures: Added value of spyglass?" titleNormalized="psc strictures: added value of spyglass?" src="slide18.swf" size="14536" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.0020000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>PSC strictures: Added value of spyglass?
+Majeed et al Scand J Gastroenterol 2018</text>
+		</slide>
+		<slide index="18" title="Klatskin tumor distribution" titleNormalized="klatskin tumor distribution" src="slide19.swf" size="164520" advanceOnTime="1" framesCount="2269" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_201661c0.spr0_20266000" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_201661c0.spr2_20266000" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2268" playTime="56.8230019" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Klatskin tumor distribution</text>
+		</slide>
+		<slide index="19" title="" titleNormalized="" src="slide20.swf" size="129046" advanceOnTime="1" framesCount="1305" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_20165740.spr0_20301296" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_20165740.spr2_20301296" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1304" playTime="54.3333333" pauseTime="10.1306636"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="20" title="Intraductal ultrasound" titleNormalized="intraductal ultrasound" src="slide21.swf" size="96790" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.2849993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Intraductal ultrasound
+Probe-based high frequency intraductal imaging
+Excellent performance in expert hands
+Does not obviate need for sampling
+Probe placement may be cumbersome</text>
+		</slide>
+		<slide index="21" title="Confocal laser microscopy" titleNormalized="confocal laser microscopy" src="slide22.swf" size="80212" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.8919996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Confocal laser microscopy
+Probe based cellular imaging – in-vivo histology
+Variable but generally high sensitivity, moderate specificity, moderate inter-observer consistency</text>
+		</slide>
+		<slide index="22" title="So – ERCP or EUS? Or both?" titleNormalized="so – ercp or eus? or both?" src="slide23.swf" size="92883" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.8670000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>So – ERCP or EUS? Or both?
+263 pts with suspected malignancy
+
+Journal of Gastroenterology and Hepatology 34 (2019) 799–805
+Method
+Sensitivity
+Accuracy
+EUS
+74
+76
+ERCP
+57
+61
+EUS + ERCP
+86
+87</text>
+		</slide>
+		<slide index="23" title="Conclusions" titleNormalized="conclusions" src="slide24.swf" size="3301" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.9700007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conclusions
+ERCP imaging is excellent to diagnose indeterminate strictures but moderately accurate in characterizing them
+The utility of sampling is vital
+The addition of cholangioscopy is increasing accuracy (and cost)
+The option of therapy adds to the justification of risk</text>
+		</slide>
+		<slide index="24" title="To summarize…" titleNormalized="to summarize…" src="slide25.swf" size="135207" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.4010000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>To summarize…
+Yoon et al. Gastrointest Endosc Clin N Amer 2013</text>
+		</slide>
+	</slides>
+</presentation>
