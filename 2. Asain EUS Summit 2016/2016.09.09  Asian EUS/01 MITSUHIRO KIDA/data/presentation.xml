@@ -1,0 +1,1127 @@
+<?xml version="1.0"?>
+<presentation title="01 MITSUHIRO KIDA" width="810.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="52.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{9059C9AE-3281-48E3-8276-3B88C170184C}">
+	<presenters>
+		<presenter name="MITSUHIRO KIDA" title="Kitasato University" email="" web="" phone="" photoAssetId="">
+			<bio>EUS Diagnosis of Submucosal Lesions</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="719771" duration="25704"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="369416" duration="13192"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="319679" duration="11416"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="659794" duration="23562"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="424274" duration="15151"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="518628" duration="18521"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="593234" duration="21185"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="585188" duration="20898"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="163885" duration="5851"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="204114" duration="7288"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="191679" duration="6844"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="403062" duration="14393"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="601279" duration="21473"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="492296" duration="17580"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="306514" duration="10945"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="384776" duration="13740"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="970651" duration="34664"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="232639" duration="8307"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="736594" duration="26305"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="736594" duration="26305"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="375999" duration="13427"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="1358308" duration="48509"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="349668" duration="12487"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="390628" duration="13949"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="1263222" duration="45113"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="269942" duration="9639"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="667108" duration="23824"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="474011" duration="16927"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="1143999" duration="40856"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="928228" duration="33149"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="426468" duration="15229"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="730011" duration="26070"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="709531" duration="25339"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="737325" duration="26331"/>
+		<soundAsset id="sndAsset34" src="sound35.mp3" embedded="0" size="446948" duration="15961"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="25.6590000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="13.1460000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="11.3780000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="23.5200005"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="15.1099997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="18.4850000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="21.1499996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="20.8500004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="5.8060000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="7.2399998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="6.8070000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="14.3480000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="21.4200001"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="17.5499992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="10.9099998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="13.7100000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="34.6300011"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="8.2700005"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="26.2600000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="26.2600000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="13.3800000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="48.4799995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="12.4460000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="13.9099998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="45.0780000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="9.6099997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="23.7900000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="16.8799992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="40.8070000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="33.0999985"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="15.1800003"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="26.0260000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="25.2900009"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="26.2900009"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset34">
+				<startTimestamp slideIndex="34" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="34" stepIndex="0" timeOffset="15.9160000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS Diagnosis of Submucosal Lesions" titleNormalized="eus diagnosis of submucosal lesions" src="slide1.swf" size="1107270" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.6589998"/>
+			</animationSteps>
+			<notes>Thank you chairman and distinguish guests. Frist of all I would like to express my sincere appreciation to my old friend prof Dong Wan seo and organize comittiie. It is great honor to have my presentation in front of you</notes>
+			<notesNormalized>thank you chairman and distinguish guests. frist of all i would like to express my sincere appreciation to my old friend prof dong wan seo and organize comittiie. it is great honor to have my presentation in front of you</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Thank you chairman and distinguish guests. Frist of all I would like to express my sincere appreciation to my old friend prof Dong Wan seo and organize comittiie. It is great honor to have my presentation in front of you&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS Diagnosis of Submucosal Lesions
+EUS Summit, September 9th, 2016 
+MITSUHIRO KIDA, MD, PhD
+Dept. of Gastroenterology
+Kitasato University 
+Sagamihara, JAPAN</text>
+		</slide>
+		<slide index="1" title="Visualizing method for UGI" titleNormalized="visualizing method for ugi" src="slide2.swf" size="4532" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.1489996"/>
+			</animationSteps>
+			<notes>There are several visualizing method for Upper Gastrointestinal lesions such as water filling method , balloon method , conitinuous water filling method and jelly method </notes>
+			<notesNormalized>there are several visualizing method for upper gastrointestinal lesions such as water filling method , balloon method , conitinuous water filling method and jelly method</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;There are several visualizing method for Upper Gastrointestinal lesions such as water filling method , balloon method , conitinuous water filling method and jelly method &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Visualizing method for UGI
+　１、Water filling method　　　　　
+　　　　for conventional EUS
+　　　　for probe with T-shaped connector
+　２、Balloon method 　　　　	
+　　　　for conventional EUS
+　　　　for lesions around cardia &amp; fornix
+　３、Continuous water filling 
+ for Esophageal &amp; duodenal lesions
+　　　　for probe with T-shaped connector
+　４、Jelly method
+　　　　for Esophageal lesions
+　　　　for probe with 2 channel endoscope</text>
+		</slide>
+		<slide index="2" title="Water filling method" titleNormalized="water filling method" src="slide3.swf" size="349135" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.3790001"/>
+			</animationSteps>
+			<notes>This is water filling device, which is made by ourselves with pump. Dereaeted water should be warmed to 37 degree, otherwise cold water sitimulates perstalisis.
+ </notes>
+			<notesNormalized>this is water filling device, which is made by ourselves with pump. dereaeted water should be warmed to 37 degree, otherwise cold water sitimulates perstalisis.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is water filling device, which is made by ourselves with pump. Dereaeted water should be warmed to 37 degree, otherwise cold water sitimulates perstalisis.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Water filling method</text>
+		</slide>
+		<slide index="3" title="Water filling &amp; Continuous water filling method With T-shaped connector" titleNormalized="water filling &amp; continuous water filling method with t-shaped connector" src="slide4.swf" size="383881" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.5190005"/>
+			</animationSteps>
+			<notes>Using forward viewing endoscope with bigger channel such as 3.7 mm in diameter. We can insert probe and fill water too !</notes>
+			<notesNormalized>using forward viewing endoscope with bigger channel such as 3.7 mm in diameter. we can insert probe and fill water too !</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Using forward viewing endoscope with bigger channel such as 3.7 mm in diameter. We can insert probe and fill water too !&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Water filling &amp; Continuous water filling method With T-shaped connector</text>
+		</slide>
+		<slide index="4" title="Rinse inside of the stomach at least one time !" titleNormalized="rinse inside of the stomach at least one time !" src="slide5.swf" size="214862" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.1089997"/>
+			</animationSteps>
+			<notes>In order to avoid the artifact of mucous, You should rinse with 100 – 200 ml of water inside of the stomach at least one time </notes>
+			<notesNormalized>in order to avoid the artifact of mucous, you should rinse with 100 – 200 ml of water inside of the stomach at least one time</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In order to avoid the artifact of mucous, You should rinse with 100 – 200 ml of water inside of the stomach at least one time &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Rinse inside of the stomach at least one time !
+Before rinse
+After rinse</text>
+		</slide>
+		<slide index="5" title="Normal stomach wall by EUS" titleNormalized="normal stomach wall by eus" src="slide6.swf" size="3975" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.4889998"/>
+			</animationSteps>
+			<notes>Using lower frequency, GI wall is detected 5 layer structure 1st &amp; 2nd layer means mucosa, 3rd layer submucosa 4th proper muscle layer and 5th subserosa and serosa. Using high frequency, wecan detect muscularis mucosae and boder of inner and outer muscle</notes>
+			<notesNormalized>using lower frequency, gi wall is detected 5 layer structure 1st &amp; 2nd layer means mucosa, 3rd layer submucosa 4th proper muscle layer and 5th subserosa and serosa. using high frequency, wecan detect muscularis mucosae and boder of inner and outer muscle</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Using lower frequency, GI wall is detected 5 layer structure 1st &amp;amp; 2nd layer means mucosa, 3rd layer submucosa 4th proper muscle layer and 5th subserosa and serosa. Using high frequency, wecan detect muscularis mucosae and boder of inner and outer muscle&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Normal stomach wall by EUS
+First layer （border echo）
+Second Layer
+Fourth Layer
+Third Layer
+Fifth Layer (border echo)
+{
+Mucosa
+Submucosa
+Proper Muscle
+Subserosa, Serosa
+}
+Third layer（border e.）
+Fourth layer
+Fifth Layer
+Sixth Layer
+Seventh layer (border e.)
+Eighth Layer
+Ninth layer (border echo
+Proper mucosa
+Musclaris mucosae
+Submucosa
+Inner muscle
+Connective tissue
+Subserosa, Serosa
+Outer Muscle
+First layer （border echo）
+Second Layer
+7.5-12 MHz
+12-20 MHz</text>
+		</slide>
+		<slide index="6" title="How to diagnose the originating layer" titleNormalized="how to diagnose the originating layer" src="slide7.swf" size="207470" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.1489996"/>
+			</animationSteps>
+			<notes>In order to diagnose originating layer, It is practicable to evaluate connection between SMT and normal structure</notes>
+			<notesNormalized>in order to diagnose originating layer, it is practicable to evaluate connection between smt and normal structure</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In order to diagnose originating layer, It is practicable to evaluate connection between SMT and normal structure&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>How to diagnose the originating layer</text>
+		</slide>
+		<slide index="7" title="How to diagnose SMT by originating layer" titleNormalized="how to diagnose smt by originating layer" src="slide8.swf" size="4996" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.8490004"/>
+			</animationSteps>
+			<notes>Leiomyoma originate from 2nd layer , From 3rd layer Lipoma Lymphangioma, fibroma, From 4th layer GIST Leiomyoma, and schwannoma
+Ectopic pancreas and Glomus tumor originated from 3rd and 4th layer </notes>
+			<notesNormalized>leiomyoma originate from 2nd layer , from 3rd layer lipoma lymphangioma, fibroma, from 4th layer gist leiomyoma, and schwannoma
+ectopic pancreas and glomus tumor originated from 3rd and 4th layer</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Leiomyoma originate from 2nd layer , From 3rd layer Lipoma Lymphangioma, fibroma, From 4th layer GIST Leiomyoma, and schwannoma&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Ectopic pancreas and Glomus tumor originated from 3rd and 4th layer &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>4-Layer
+2-Layer
+3-Layer
+Brunnerioma
+Lympｈangioma
+Fibroma
+Cyst
+Leiomyoma
+GIST
+Leiomyoma
+Leiomyosarcoma
+Ectopic Pancreas
+Glomus Tumor
+How to diagnose SMT by originating layer
+Lipoma
+Carcinoid tumor
+Schwanｎoma
+Invasion</text>
+		</slide>
+		<slide index="8" title="Lipoma originated from 3rd layer" titleNormalized="lipoma originated from 3rd layer" src="slide9.swf" size="300946" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.8089999"/>
+			</animationSteps>
+			<notes>This is Lipoma originated from third layer</notes>
+			<notesNormalized>this is lipoma originated from third layer</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is Lipoma originated from third layer&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Lipoma originated from 3rd layer
+Radial EUS</text>
+		</slide>
+		<slide index="9" title="GIST originated from 4th layer" titleNormalized="gist originated from 4th layer" src="slide10.swf" size="311734" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.2389998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>GIST originated from 4th layer</text>
+		</slide>
+		<slide index="10" title="What is your diagnosis ?" titleNormalized="what is your diagnosis ?" src="slide11.swf" size="356852" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.8089999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What is your diagnosis ?</text>
+		</slide>
+		<slide index="11" title="Extraluminal Impression" titleNormalized="extraluminal impression" src="slide12.swf" size="327001" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.3490004"/>
+			</animationSteps>
+			<notes>This is extraluminal Impression due to Liver cyst
+ </notes>
+			<notesNormalized>this is extraluminal impression due to liver cyst
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is extraluminal Impression due to Liver cyst&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Extraluminal Impression</text>
+		</slide>
+		<slide index="12" title="Attention!!! You have to scan all area of the lesion" titleNormalized="attention!!! you have to scan all area of the lesion" src="slide13.swf" size="4932" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.4190001"/>
+			</animationSteps>
+			<notes>In order to evaluate the originating layer, you should scan all area of SMT, otherwise you may make misdiagnosis like this</notes>
+			<notesNormalized>in order to evaluate the originating layer, you should scan all area of smt, otherwise you may make misdiagnosis like this</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In order to evaluate the originating layer, you should scan all area of SMT, otherwise you may make misdiagnosis like this&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Attention!!! You have to scan all area of the lesion</text>
+		</slide>
+		<slide index="13" title="How to diagnose SMT by echo level" titleNormalized="how to diagnose smt by echo level" src="slide14.swf" size="5170" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.5489992"/>
+			</animationSteps>
+			<notes>Cyst Lymphangioma looks Anechoic , Lipoma looks hyperwchoic and another are in between</notes>
+			<notesNormalized>cyst lymphangioma looks anechoic , lipoma looks hyperwchoic and another are in between</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Cyst Lymphangioma looks Anechoic , Lipoma looks hyperwchoic and another are in between&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Hyperechoic (sm)
+Anechoic (Fluid)
+Hypoechoic (pm)
+Isoechoic (Liver &amp; Spleen)
+Fibroma
+Cyst
+Lipoma
+GIST
+Leiomyosarcoma
+Ectopic Pancreas
+Glomus Tumor
+Lymphangioma
+Leiomyoma
+Schwannoma
+Brunnerioma
+Carcinoid tumor
+How to diagnose SMT by echo level</text>
+		</slide>
+		<slide index="14" title="Lipoma is detected as hyperechoic tumor" titleNormalized="lipoma is detected as hyperechoic tumor" src="slide15.swf" size="284745" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.9089998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Lipoma is detected as hyperechoic tumor</text>
+		</slide>
+		<slide index="15" title="Lymphangioma is hypoechoic and originated from 3rd layer" titleNormalized="lymphangioma is hypoechoic and originated from 3rd layer" src="slide16.swf" size="581208" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.7090000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Lymphangioma is hypoechoic and originated from 3rd layer</text>
+		</slide>
+		<slide index="16" title="Ectopic Pancreas" titleNormalized="ectopic pancreas" src="slide17.swf" size="448220" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.6290011"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ectopic Pancreas
+Originate from 3rd &amp; 4th layer
+(thickening of 4th layer)
+And hypoechoic</text>
+		</slide>
+		<slide index="17" title="Which one is the GIST ?" titleNormalized="which one is the gist ?" src="slide18.swf" size="1629" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.2690005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Which one is the GIST ?</text>
+		</slide>
+		<slide index="18" title="Leiomyoma GIST Schwanoma" titleNormalized="leiomyoma gist schwanoma" src="slide19.swf" size="2578" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.2590002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Leiomyoma
+GIST
+Schwanoma
+Using EUS, it is almost impossible to diagnose SMT originated from 4th layer
+Then we have to obtain tissue from these SMTs by means of EUS-FNA.</text>
+		</slide>
+		<slide index="19" title="Malignant scoring system for SMT originated from 4th layer" titleNormalized="malignant scoring system for smt originated from 4th layer" src="slide20.swf" size="3821" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.2590002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Malignant scoring system for SMT originated from 4th layer
+① ≧３cm
+② Ｎｏｄｕｌｌａｒ
+③ Ｈｅｔｅｒｏｇｅｎｕｏｕｓ
+④ Ａｎｅｃｈｏｉｃ　ａｒｅａ
+⑤ Ｕｌｃｅｒａｔｉｏｎ
+Sensitivity 100%
+Specificity 51 - 74%
+SMT with 3 or more findings suspected to be malignant
+Yamada, Kida et al DEN 1992</text>
+		</slide>
+		<slide index="20" title="What is this SMT ?" titleNormalized="what is this smt ?" src="slide21.swf" size="284502" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.3790001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What is this SMT ?</text>
+		</slide>
+		<slide index="21" title="EUS-FNA" titleNormalized="eus-fna" src="slide22.swf" size="171761" advanceOnTime="1" framesCount="1973" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_1b627ca0.spr0_12933418" slides="0" repeat="1" volume="0.5000000" posterFrameId="ispring.resources_1b627ca0.spr2_12933418" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1972" playTime="48.4799995" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA</text>
+		</slide>
+		<slide index="22" title="EUS-FNA Specimen" titleNormalized="eus-fna specimen" src="slide23.swf" size="516666" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.4489998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA Specimen
+HE
+Cromogranin A
+Synapt
+Other immunostain: Trypsine (-), c-kit (-), CD34 (-), S-100 (-)</text>
+		</slide>
+		<slide index="23" title="What is this SMT ?" titleNormalized="what is this smt ?" src="slide24.swf" size="264854" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.9089998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What is this SMT ?</text>
+		</slide>
+		<slide index="24" title="EUS-FNA" titleNormalized="eus-fna" src="slide25.swf" size="146269" advanceOnTime="1" framesCount="2045" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_1b627bd0.spr0_12950735" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1b627bd0.spr2_12950735" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2044" playTime="45.0800018" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA</text>
+		</slide>
+		<slide index="25" title="EUS-FNA Specimen" titleNormalized="eus-fna specimen" src="slide26.swf" size="428689" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.6089997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA Specimen
+HE
+αSMA
+Other immunostain: Desmin (-), c-kit (-), CD34 (-), S-100 (-)</text>
+		</slide>
+		<slide index="26" title="Optimal Puncture Route of EUS-FNA for SMT" titleNormalized="optimal puncture route of eus-fna for smt" src="slide27.swf" size="3915" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.7890009"/>
+			</animationSteps>
+			<notes>SMT is movable therefore you should puncture center or below of the tumor </notes>
+			<notesNormalized>smt is movable therefore you should puncture center or below of the tumor</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;SMT is movable therefore you should puncture center or below of the tumor &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>×
+〇
+△
+Optimal Puncture Route of EUS-FNA for SMT</text>
+		</slide>
+		<slide index="27" title="Food attached Forward viewing Echoendoscope for SMT" titleNormalized="food attached forward viewing echoendoscope for smt" src="slide28.swf" size="241567" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.8789992"/>
+			</animationSteps>
+			<notes>In case of EUS-FNA of SMT especially small one, It is very useful to perform EUS-FNA with food attached forward-viewing echo endoscope</notes>
+			<notesNormalized>in case of eus-fna of smt especially small one, it is very useful to perform eus-fna with food attached forward-viewing echo endoscope</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In case of EUS-FNA of SMT especially small one, It is very useful to perform EUS-FNA with food attached forward-viewing echo endoscope&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Food attached Forward viewing Echoendoscope for SMT</text>
+		</slide>
+		<slide index="28" title="EUS-FNA for SMT with Foward-viewing Echoendoscope" titleNormalized="eus-fna for smt with foward-viewing echoendoscope" src="slide29.swf" size="58137" advanceOnTime="1" framesCount="924" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_1cff5320.spr0_12961031" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1cff5320.spr2_12961031" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="923" playTime="38.4583333" pauseTime="2.3516680"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA for SMT with Foward-viewing Echoendoscope
+Forward</text>
+		</slide>
+		<slide index="29" title="Sampling and accuracy rate of FV-ES" titleNormalized="sampling and accuracy rate of fv-es" src="slide30.swf" size="23868" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.0989985"/>
+			</animationSteps>
+			<notes>This is a table of sampling and accuracy rate of FV-ES. There were 4 incomplete cases in pancreatic tumor. Tumor did not detected in 2 cases in pancreatic head and vessels could not be avoided also in two cases. The sampling rate and accuracy rate for subelpithelial tumor were almost the same as the conventional OV-ES. We could not show the advantage of attaching a transient hood to fix the target. 
+There were one adverse event of spurting bleeding in gastric GIST case.
+ </notes>
+			<notesNormalized>this is a table of sampling and accuracy rate of fv-es. there were 4 incomplete cases in pancreatic tumor. tumor did not detected in 2 cases in pancreatic head and vessels could not be avoided also in two cases. the sampling rate and accuracy rate for subelpithelial tumor were almost the same as the conventional ov-es. we could not show the advantage of attaching a transient hood to fix the target. 
+there were one adverse event of spurting bleeding in gastric gist case.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is a table of sampling and accuracy rate of FV-ES. There were 4 incomplete cases in pancreatic tumor. Tumor did not detected in 2 cases in pancreatic head and vessels could not be avoided also in two cases. The sampling rate and accuracy rate for subelpithelial tumor were almost the same as the conventional OV-ES. We could not show the advantage of attaching a transient hood to fix the target. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;There were one adverse event of spurting bleeding in gastric GIST case.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Sampling rate
+Accuracy rate
+Pancreatic tumor　（n=36）
+80.6%（29/36)*
+84.3%（27/32）
+Submucosal tumor　（n=34）
+82.4%（28/34）
+73.5%（25/34）
+Lymph adenopathy　（n=10）
+90%（9/10）
+90%（9/10）
+Others　（n=7）
+
+85.7%（6/7）
+57.1%（4/7）
+Sampling and accuracy rate of FV-ES
+Adverse event bleeding 		1.1% （1/87） 
+Incomplete cases* tumor is undetected 	5.6% (2/36)
+ vessel is unavoidable 	5.6% (2/36) 
+Retroperitneal tumor 4, Gastric tumor 2, Biliary tumor 1
+Our data 2016</text>
+		</slide>
+		<slide index="30" title="Patient and characteristics of SMT" titleNormalized="patient and characteristics of smt" src="slide31.swf" size="11354" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.1790003"/>
+			</animationSteps>
+			<notes>This is a table of sampling and accuracy rate of FV-ES. There were 4 incomplete cases in pancreatic tumor. Tumor did not detected in 2 cases in pancreatic head and vessels could not be avoided also in two cases. Except those, Accuracy rate was 84.3%. The sampling rate and accuracy rate for subelpithelial tumor were almost the same as the conventional OV-ES. We could not show the advantage of attaching a transient hood to fix the target. 
+There were one adverse event of spurting bleeding in gastric GIST case.
+ </notes>
+			<notesNormalized>this is a table of sampling and accuracy rate of fv-es. there were 4 incomplete cases in pancreatic tumor. tumor did not detected in 2 cases in pancreatic head and vessels could not be avoided also in two cases. except those, accuracy rate was 84.3%. the sampling rate and accuracy rate for subelpithelial tumor were almost the same as the conventional ov-es. we could not show the advantage of attaching a transient hood to fix the target. 
+there were one adverse event of spurting bleeding in gastric gist case.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is a table of sampling and accuracy rate of FV-ES. There were 4 incomplete cases in pancreatic tumor. Tumor did not detected in 2 cases in pancreatic head and vessels could not be avoided also in two cases. Except those, Accuracy rate was 84.3%. The sampling rate and accuracy rate for subelpithelial tumor were almost the same as the conventional OV-ES. We could not show the advantage of attaching a transient hood to fix the target. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;There were one adverse event of spurting bleeding in gastric GIST case.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Patient and characteristics of SMT
+Ages (yrs)
+ Median (range)
+
+57.7 (35-78)
+Sex (%)
+ Male : Female
+
+14 : 20 (41.2 :58.8)
+Tumor location (%)
+ Esophagus
+ Stomach
+ Cardia
+ Body
+ Antrum
+ Duodenum bulb
+ 2 (5.9)
+ 29 (85.3)
+ 6 (20.7)
+ 19 (65.5)
+ 4 (13.8)
+ 3 (8.8)
+Tumor size on EUS (mm)
+ Median (range)
+
+23.6 (9-40) 
+Needle size (gauge)
+ 19
+ 22
+ 25
+ 
+ 9 (26.5) 
+19 (55.9)
+ 6 (17.6)</text>
+		</slide>
+		<slide index="31" title="Sampling and accuracy rate for SMT" titleNormalized="sampling and accuracy rate for smt" src="slide32.swf" size="12777" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.0290007"/>
+			</animationSteps>
+			<notes>There is no significant difference on sampling late between small SMT less than 2cm and larger group, however 
+Concerning about Histological diagnosis, Smaller group is not satisfied on diagnostic rate with significant difference 
+ </notes>
+			<notesNormalized>there is no significant difference on sampling late between small smt less than 2cm and larger group, however 
+concerning about histological diagnosis, smaller group is not satisfied on diagnostic rate with significant difference 
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;There is no significant difference on sampling late between small SMT less than 2cm and larger group, however &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Concerning about Histological diagnosis, Smaller group is not satisfied on diagnostic rate with significant difference &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Tumors
+ GIST
+ NET
+ Leiomyoma
+ Glomus tumor
+ Lipoma
+ Schwannoma
+ Ectopic pancreas
+ SCC
+ Nondiagnositic
+
+16 (47.1)
+2 (5.9)
+2 (5.9)
+1 (2.9)
+1 (2.9)
+1 (2.9)
+1 (2.9)
+1 (2.9)
+9 (26.5)
+
+16 (47.1)
+2 (5.9)
+2 (5.9)
+1 (2.9)
+1 (2.9)
+1 (2.9)
+1 (2.9)
+1 (2.9)
+9 (26.5)
+Sampling rate
+Histology positive
+Tumor　size　
+ 9-20mm, n=16 (%)
+ 21-40mm, n=18 (%)
+ Total, n=34 (%)
+
+12 (75)
+16 (88.9)
+28 (82.4)
+
+9 (56.2)
+16 (88.9)
+25 (73.5)
+Sampling and accuracy rate for SMT 
+p=0.387
+p=0.052
+Fisher’s exact test</text>
+		</slide>
+		<slide index="32" title="Adequate Sampling Rate for Subepithelial Tumor with Conventional Oblique or Forward-viewing Echoendoscope" titleNormalized="adequate sampling rate for subepithelial tumor with conventional oblique or forward-viewing echoendoscope" src="slide33.swf" size="43808" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.2890009"/>
+			</animationSteps>
+			<notes>According to the literature, This slide shows sampling rate of SMT by means of Oblique and forward viewing echoendoscope
+We can not compare these data directly, however forward viewing suspect to be better  </notes>
+			<notesNormalized>according to the literature, this slide shows sampling rate of smt by means of oblique and forward viewing echoendoscope
+we can not compare these data directly, however forward viewing suspect to be better</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;According to the literature, This slide shows sampling rate of SMT by means of Oblique and forward viewing echoendoscope&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We can not compare these data directly, however forward viewing suspect to be better  &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Adequate Sampling Rate for Subepithelial Tumor
+with Conventional Oblique or Forward-viewing Echoendoscope</text>
+		</slide>
+		<slide index="33" title="RCT of Forward- vs Oblique-viewing Echoendoscope for Diagnosing Submucosal Tumor" titleNormalized="rct of forward- vs oblique-viewing echoendoscope for diagnosing submucosal tumor" src="slide34.swf" size="16814" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.2890009"/>
+			</animationSteps>
+			<notes>There is only one randomized study between Olique and forward viewing echoendoscope
+Dx accuracy is of the same, however tissue sampling size procedure time is superior with forward viewing echoendoiscope</notes>
+			<notesNormalized>there is only one randomized study between olique and forward viewing echoendoscope
+dx accuracy is of the same, however tissue sampling size procedure time is superior with forward viewing echoendoiscope</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;There is only one randomized study between Olique and forward viewing echoendoscope&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Dx accuracy is of the same, however tissue sampling size procedure time is superior with forward viewing echoendoiscope&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Forward-V
+Oblique-V
+P value
+Dx yield for Total (%)
+33/41 (80.5)
+30/41 (73.2)
+0.453
+Dx for &lt; 20 mm (%)
+12/15 (80.0)
+11/15 (73.3)
+1.000
+Dx Accuracy (%)
+17/22 (77.2)
+16/22 (72.7)
+1.000
+Tissue sample area ㎟
+2.46 (0.908-8.095)
+1.00 (0.477-4.764)
+0.046
+No of Passes (IQR)
+2 (2-3)
+2 (1-3)
+0.21
+Procedure time (IQR) min
+21 (15-30)
+27 (17-35)
+0.009
+Procedure time 19G min
+17 (13-31)
+25 (16-33)
+0.004
+RCT of Forward- vs Oblique-viewing Echoendoscope for Diagnosing Submucosal Tumor
+Matsuzaki et al: GIE, 82;287, 2015</text>
+		</slide>
+		<slide index="34" title="Thank you for your attention !!!" titleNormalized="thank you for your attention !!!" src="slide35.swf" size="967197" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.9190001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for your attention !!!
+
+Mt. Fuji from Enoshima</text>
+		</slide>
+	</slides>
+</presentation>

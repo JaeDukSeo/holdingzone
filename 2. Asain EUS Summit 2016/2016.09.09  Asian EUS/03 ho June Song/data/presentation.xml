@@ -1,0 +1,894 @@
+<?xml version="1.0"?>
+<presentation title="03 ho June Song" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{90707E6A-93DA-4FB1-AB4A-C1FBC5384BE4}">
+	<presenters>
+		<presenter name="ho June Song" title="University of Ulsan" email="" web="" phone="" photoAssetId="">
+			<bio>EUS for Cancer Staging in Upper GI Tract</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="414034" duration="14785"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="596891" duration="21316"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="1362696" duration="48666"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="400868" duration="14315"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="1596022" duration="56999"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="1789119" duration="63896"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="332845" duration="11886"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="784136" duration="28003"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="791451" duration="28264"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="264822" duration="9456"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="1794239" duration="64078"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="541302" duration="19331"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="1062811" duration="37956"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="1333439" duration="47621"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="2567359" duration="91690"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="917988" duration="32784"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="290422" duration="10371"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="740982" duration="26462"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="873371" duration="31190"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="218011" duration="7784"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="1635519" duration="58410"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="520822" duration="18599"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="734399" duration="26227"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="532525" duration="19017"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="1694034" duration="60500"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="14.7480000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="21.2880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="48.6150000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="14.2799997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="56.9570000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="63.8600006"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="11.8450000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="27.9599991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="28.2280000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="9.4090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="64.0299988"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="19.2860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="37.9000015"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="47.5800018"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="91.6580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="32.7330000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="10.3439999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="26.4260000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="31.1639996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="7.7399998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="58.3580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="18.5520000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="26.1900005"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="18.9860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="60.4599991"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS for Cancer Staging in Upper GI Tract" titleNormalized="eus for cancer staging in upper gi tract" src="slide1.swf" size="1261" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.7470001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS for Cancer Staging in Upper GI Tract
+Song, Ho June
+
+University of Ulsan College of Medicine, 
+Asan Medical Center, 
+Seoul, Korea</text>
+		</slide>
+		<slide index="1" title="EUS, upper GI cancers &amp; staging" titleNormalized="eus, upper gi cancers &amp; staging" src="slide2.swf" size="1484" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.2870001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS, upper GI cancers &amp; staging
+1. Esophageal cancer 
+T &amp; N staging
+
+2. Gastric malignancies
+MALT lymphoma: depth of invasion
+Early gastric cancer: mucosal from submucosal cancer
+Gastric neuroendocrine tumors</text>
+		</slide>
+		<slide index="2" title="NCCN treatment guideline for esophageal cancer" titleNormalized="nccn treatment guideline for esophageal cancer" src="slide3.swf" size="1820" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="48.6189989"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>NCCN treatment guideline for esophageal cancer
+	1) Tis, Ta : endoscopic resection, ablation, esophagectomy
+	2) T1b, N0 : esophagectomy
+	
+	 Selection of those with mucosa-confined cancer
+
+	3) T1b, N+ &amp; T2-T4a, N0-N+
+ - preoperative CRT (non-cervical) : RT, 41.4-50.4 Gy, concurrently
+	 - definitive CRT (rec. for cervical) : RT, 50-50.4 Gy, concurrently
+	 - esophagectomy (non-cervical) 
+	4) T4b
+	 - definitive CRT : RT, 50-50.4 Gy, concurrently
+</text>
+		</slide>
+		<slide index="3" title="EUS with high-frequency catheter probe (20 or 30 MHz)" titleNormalized="eus with high-frequency catheter probe (20 or 30 mhz)" src="slide4.swf" size="374625" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.2789997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS with high-frequency catheter probe (20 or 30 MHz)
+Epithelium
+Lamina propria
+Muscularis mucosa
+Submucosa
+20 MHz</text>
+		</slide>
+		<slide index="4" title="" titleNormalized="" src="slide5.swf" size="797184" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="56.9560007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>T2
+T3
+T3
+Regional LN
+Inf. pulm. vein
+sm
+sm3</text>
+		</slide>
+		<slide index="5" title="Risk of nodal metastasis in esophageal cancer" titleNormalized="risk of nodal metastasis in esophageal cancer" src="slide6.swf" size="71662" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="63.8590006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Kodama M. Surgery 1998
+Depth of invasion
+Tumor size
+Choi JY. Gastrointestinal Endosc 2011
+Risk of nodal metastasis in esophageal cancer</text>
+		</slide>
+		<slide index="6" title="mucosa" titleNormalized="mucosa" src="slide7.swf" size="495392" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.8490004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>mucosa</text>
+		</slide>
+		<slide index="7" title="submucosa" titleNormalized="submucosa" src="slide8.swf" size="550468" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.9589991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>submucosa</text>
+		</slide>
+		<slide index="8" title="Esophagectomy or chemoradiotherapy" titleNormalized="esophagectomy or chemoradiotherapy" src="slide9.swf" size="564778" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="28.2289995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Esophagectomy or chemoradiotherapy</text>
+		</slide>
+		<slide index="9" title="Peri-tumoral metastatic LN" titleNormalized="peri-tumoral metastatic ln" src="slide10.swf" size="605727" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.4089998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tumor
+sm
+Peri-tumoral metastatic LN</text>
+		</slide>
+		<slide index="10" title="Malignant" titleNormalized="malignant" src="slide11.swf" size="196864" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="64.0289988"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+ 
+ 
+Assessment of LNs status 
+ celiac node 
+ Lt gastric node 
+ paracardial, diaphragmatic node 
+ lower paraesophageal node 
+ middle paraesophageal node 
+ subcarinal node 
+ subaortic node 
+ upper paraesophageal node
+Malignant LN : at least three of four
+ 1. min. diameter(width) &gt; 5 mm
+ 2. round shape
+ 3. smooth border
+ 4. hypoechoic pattern
+Malignant 
+Benign</text>
+		</slide>
+		<slide index="11" title="Diagnostic yields of EUS in SEC" titleNormalized="diagnostic yields of eus in sec" src="slide12.swf" size="2611" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.2890009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Diagnostic yields of EUS in SEC
+EC protocol in AMC 
+	- T1N0M0 : surgery only or EMR/ESD 
+	- T2-3N0M0 &amp; TanyN1M0 : pre-op CCRT
+ 
+2000.1 – 2007.4, Asan Medical Center, uT1N0 (- uT1N1)
+Primary curative resection for EC : 237 surgery &amp; 33 EMR/ESD
+Exclusion : 25 surgery (technical failure)
+ 7 EMR/ESD (initial CIS or severe dysplasia) 
+
+Total 238 cases : 212 surgical &amp; 26 EMR/ESD
+T stage : 20 MHz catheter probe
+N stage : 5 or 7.5 MHz radial echoendoscope (≥ 3/4)
+	short Ø &gt; 5 mm, round shape, smooth border, hypoechoic
+
+
+Asan Medical Center 2007</text>
+		</slide>
+		<slide index="12" title="EUS for T (mucosa) stage" titleNormalized="eus for t (mucosa) stage" src="slide13.swf" size="3448" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.8990015"/>
+			</animationSteps>
+			<notes>Overall accuracy : 68.1% (162/238)
+M-cancer에 대한 분석에서 … </notes>
+			<notesNormalized>overall accuracy : 68.1% (162/238)
+m-cancer에 대한 분석에서 …</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Overall accuracy : 68.1% (162/238)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;M-cancer에 대한 분석에서 … &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Pathology 
+Pathology 
+Pathology 
+Pathology 
+mucosa
+submucosa
+proper muscle
+≥ adventitia
+EUS_T
+mucosa
+54
+12
+1
+0
+submucosa
+26
+65
+10
+4
+proper muscle
+2
+5
+11
+10
+≥ adventitia
+0
+2
+4
+32
+Pathology
+Pathology
+mucosa
+&gt; mucosa
+EUS_T
+mucosa
+54
+13
+&gt; mucosa
+28
+143
+EUS – mucosal stage of SEC
+Sensitivity : 65.9% (54/82)
+Specificity : 91.7% (143/156)
+PPV : 80.6% (54/67)
+NPV : 83.6% (143/171)
+(Accuracy : 82.8%)
+EUS for T (mucosa) stage</text>
+		</slide>
+		<slide index="13" title="EUS for N1 stage" titleNormalized="eus for n1 stage" src="slide14.swf" size="2676" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="47.5790018"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pathology
+Pathology
+N0
+N1
+EUS_N
+N0
+122
+34
+N1
+19
+27
+Nx
+5
+5
+EUS – N1 stage of SEC
+Sensitivity : 41.0% (27/66)
+Specificity : 83.6% (122/146)
+PPV : 78.2% (122/156)
+NPV : 58.7% (27/46)
+(Accuracy : 62.6%)
+LN metastasis in uT1N0
+Mucosal : 6.3% (4/63)
+Submucosal : 23.4% (18/77)
+EUS for N1 stage
+EUS mucosal staging was unsatisfactory  Diagnostic ESD in small lesions without definite findings of submucosal invasion</text>
+		</slide>
+		<slide index="14" title="EUS for staging of gastric malignancies" titleNormalized="eus for staging of gastric malignancies" src="slide15.swf" size="1965" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="91.6590037"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS for staging of gastric malignancies
+ 1) Discrimination of mucosal from submucosal cancer invasion in terms of treatment &amp; prognosis
+ - Early gastric cancer: ESD
+ - MALT lymphoma: response to H. pylori eradication 
+ - Neuroendocrine tumors: tumor type &amp; ESD
+
+ 2) Presence of ulcer in early gastric cancer (= submucosal change)
+ fan-shaped spread of fibrosis  mucosal cancer 
+ arch-shaped tumor invasion  submucosal cancer
+
+ 3) Depends on other factors including individual experience, tumor location &amp; size, differentiation, and previous biopsy
+
+ 4) Current evidence is unsatisfactory to guide treatment plans in early gastric cancer</text>
+		</slide>
+		<slide index="15" title="" titleNormalized="" src="slide16.swf" size="705221" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.7320017"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="16" title="" titleNormalized="" src="slide17.swf" size="494693" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.3429999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="17" title="" titleNormalized="" src="slide18.swf" size="621128" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.4250006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="18" title="" titleNormalized="" src="slide19.swf" size="701805" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.1629996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="19" title="Staging systems for gastrointestinal lymphomas" titleNormalized="staging systems for gastrointestinal lymphomas" src="slide20.swf" size="2835" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.7389998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Staging systems for gastrointestinal lymphomas
+Modified Ann Arbor system
+Paris staging system
+Spreading of lymphomas
+I1E
+T1N0M0
+Mucosa, submucosa
+I2E
+T2N0M0
+Muscularis propria, subserosa
+I2E
+T3N0M0
+Serosa penetration
+I2E
+T4N0M0
+Per continuitatem infiltration of
+ neighboring organs
+II1E
+T1-4N1M0
+Regional lymph nodes
+ (compartment I+II)
+II2E
+T1-4N2M0
+Intra-abdominal distant lymph nodes
+IIIE
+T1-4N3M0
+Extra-abdominal lymph nodes
+IV
+T1-4N0-3M1
+Diffuse or disseminated infiltration of
+ distant or extra-gastrointestinal organs
+B1
+Bone marrow</text>
+		</slide>
+		<slide index="20" title="Gastric MALT lymphoma" titleNormalized="gastric malt lymphoma" src="slide21.swf" size="564280" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="58.3590006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Gastric MALT lymphoma</text>
+		</slide>
+		<slide index="21" title="" titleNormalized="" src="slide22.swf" size="390273" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.5510000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="22" title="Clinicopathological characteristics of gastric neuroendocrine neoplasms" titleNormalized="clinicopathological characteristics of gastric neuroendocrine neoplasms" src="slide23.swf" size="4579" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.1890005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Clinicopathological characteristics of gastric neuroendocrine neoplasms
+Gastric NETs (gastric carcinoids)
+Gastric NETs (gastric carcinoids)
+Gastric NETs (gastric carcinoids)
+Gastric NETs (gastric carcinoids)
+Type 1
+Type 2
+Type 3
+Type 4 (poorly differentiated)
+Relative frequency
+70%– 80%
+5%–6%
+14%– 25%
+6%–8%
+Features
+Often small (&lt; 10 mm) &amp; multiple
+Often small (&lt; 10 mm) &amp; multiple
+Solitary, often &gt; 20 mm
+Solitary, often ulcerated &gt; 20mm
+Associated conditions
+CAG
+MEN1/ZES*
+No
+No
+Histology*
+Well differentiated G1
+Well differentiated G1
+Well differentiated G1/G2
+Poorly differentiated, G3
+Serum gastrin
+Very high or high
+Very high or high
+Normal
+Mostly normal
+Gastric pH
+Anacidic
+Hyperacidic
+Normal
+Mostly normal
+Metastases
+&lt; 10%
+10%– 30%
+50%– 100%
+80%– 100%
+Tumor-related deaths
+No
+&lt; 10%
+25%– 30%
+&gt;&gt; 50%</text>
+		</slide>
+		<slide index="23" title="Gastric neuroendocrine tumor" titleNormalized="gastric neuroendocrine tumor" src="slide24.swf" size="350134" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.9889998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Gastric neuroendocrine tumor</text>
+		</slide>
+		<slide index="24" title="EUS, upper GI cancers &amp; staging" titleNormalized="eus, upper gi cancers &amp; staging" src="slide25.swf" size="2003" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="60.4589991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS, upper GI cancers &amp; staging
+1. Esophageal cancer 
+T &amp; N staging 
+	 Critical role in planning immediate (surgical or endoscopic) resection or preoperative chemoradiotherapy
+
+2. Gastric malignancies
+MALT lymphoma
+	 Depth of tumor invasion has a prognostic implication on the response to H. pylori eradication
+Early gastric cancer
+	 Data on the discrimination of mucosal from submucosal cancer invasion is unsatisfactory 
+Gastric neuroendocrine tumors</text>
+		</slide>
+	</slides>
+</presentation>
