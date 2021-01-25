@@ -1,0 +1,924 @@
+<?xml version="1.0"?>
+<presentation title="10 Pradermchai Kongkam" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{42DF7C70-959E-4535-A1E5-56CE6364CBCD}">
+	<presenters>
+		<presenter name="Pradermchai Kongkam" title="Chulaongkorn University" email="" web="" phone="" photoAssetId="">
+			<bio>EUS-nCLE for Pancreatic Lesions</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="1181302" duration="42188"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="1650148" duration="58932"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="1805942" duration="64496"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="1191542" duration="42553"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="1708662" duration="61022"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="679542" duration="24268"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="1331245" duration="47543"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="125119" duration="4467"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="1235428" duration="44121"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="453531" duration="16196"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="2862125" duration="102217"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="1952228" duration="69721"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="2754605" duration="98377"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="269211" duration="9613"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="1721828" duration="61492"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="842651" duration="30093"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="348936" duration="12460"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="1228114" duration="43860"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="809005" duration="28891"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="827291" duration="29544"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="739519" duration="26410"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="2455451" duration="87693"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="536182" duration="19148"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="1579931" duration="56424"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="135359" duration="4833"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="262628" duration="9378"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="313096" duration="11180"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="155108" duration="5538"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="140479" duration="5016"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="212891" duration="7602"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="286034" duration="10214"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="1218605" duration="43520"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="130971" duration="4676"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="42.1419983"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="58.8919983"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="64.4639969"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="42.5089989"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="60.9939995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="24.2240000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="47.5139999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="4.4380000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="44.0769997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="16.1490000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="102.1689987"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="69.6699982"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="98.3320000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="9.5760000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="61.4609985"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="30.0629997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="12.4119997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="43.8100000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="28.8619995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="29.4960000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="26.3600000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="87.6539993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="19.1189995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="56.3899994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="4.8049998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="9.3430000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="11.1440000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="5.5060000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="4.9720000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="7.5739999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="10.1770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="43.4770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="4.6380000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS-nCLE for Pancreatic Lesions" titleNormalized="eus-ncle for pancreatic lesions" src="slide1.swf" size="1420" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.1409983"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-nCLE for Pancreatic Lesions
+Pradermchai Kongkam, MD
+Chulalongkorn University, Bangkok
+September 9, 2016: 13.50-14.10
+Asan Medical Center, Seoul, Korea, 
+“Advances in diagnosis and management of solid pancreatic tumors” Asian EUS Summit 2016</text>
+		</slide>
+		<slide index="1" title="Background" titleNormalized="background" src="slide2.swf" size="1766" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="58.8909983"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Background
+Diagnosis of solid pancreatic lesions (SPLs)
+EUS-FNA
+Good specificity
+10% false negative rate, time consuming, onsite cytopathologist
+Diagnosis of cystic pancreatic lesions (CPLs)
+Limited sensitivity 
+Cytology, molecular diagnosis 
+Limited sensitivity and specificity
+Cystic fluid analysis</text>
+		</slide>
+		<slide index="2" title="EUS guided Needle Based Confocal Laser Endomicroscopy" titleNormalized="eus guided needle based confocal laser endomicroscopy" src="slide3.swf" size="201258" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="64.4629969"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS guided Needle Based Confocal Laser Endomicroscopy
+Pros
+1000x magnification
+Cellular level
+Real-time diagnosis
+Cons
+New tools 
+Expensive
+Limited clinical information
+Findings and interpretation
+Diagnostic values</text>
+		</slide>
+		<slide index="3" title="Lessons from Previous Studies of EUS-nCLE for Pancreatic Lesions" titleNormalized="lessons from previous studies of eus-ncle for pancreatic lesions" src="slide4.swf" size="1954" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.5079989"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Lessons from Previous Studies of EUS-nCLE for Pancreatic Lesions
+A study conducted by Konda et al. reported 2 adverse events of acute pancreatitis from 16 EUS-nCLE procedures (12.5%) for pancreatic cysts.* 
+In another multi-center study (INSPECT), the adverse event rate of EUS-nCLE was reported as 9% when the procedure was performed in pancreatic cysts.**
+No reported complication of EUS-nCLE for SPMs
+*Konda VJ, Aslanian HR, Wallace MB, et al. First assessment of needle-based confocal laser endomicroscopy during EUS-FNA procedures of the pancreas. Gastrointest Endosc 2011;74:1049-60.
+**Konda VJ, Meining A, Jamil LH, et al. A pilot study of in vivo identification of pancreatic cystic neoplasms with needle-based confocal laser endomicroscopy under endosonographic guidance. Endoscopy 2013;45:1006-13</text>
+		</slide>
+		<slide index="4" title="Preliminary results" titleNormalized="preliminary results" src="slide5.swf" size="45252" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="60.9929995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Preliminary results
+The CONTACT study: Abstract form 2013 
+The ENES study: Abstract form 2015
+Small case series (4 cases of malignant SPLs)
+
+Endosc Ultrasound. 2012 Jul;1(2):80-3</text>
+		</slide>
+		<slide index="5" title="EUS-nCLE Criteria from Abstract of the CONTACT study" titleNormalized="eus-ncle criteria from abstract of the contact study" src="slide6.swf" size="17265" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.2230009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-nCLE Criteria from Abstract of the CONTACT study</text>
+		</slide>
+		<slide index="6" title="Up-to-Date Full Papers" titleNormalized="up-to-date full papers" src="slide7.swf" size="108571" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="47.5129999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Up-to-Date Full Papers 
+CONTACT Study
+ August 30, 2016
+ENES Study
+ January, 2016</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="107973" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.4370002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="8" title="Patients" titleNormalized="patients" src="slide9.swf" size="48340" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="44.0759997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Patients
+Kongkam P, Pittayanon R, Sampatanukul P, Angsuwatcharakon P, Aniwan S, Prueksapanich P, et al. Endosc Int Open. 2016;4(1):E17-23</text>
+		</slide>
+		<slide index="9" title="EUS-nCLE Criteria from ENES" titleNormalized="eus-ncle criteria from enes" src="slide10.swf" size="14066" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.1480002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-nCLE Criteria from ENES
+Kongkam P, Pittayanon R, Sampatanukul P, Angsuwatcharakon P, Aniwan S, Prueksapanich P, et al. Endosc Int Open. 2016;4(1):E17-23</text>
+		</slide>
+		<slide index="10" title="Pancreatic cancer - ENES" titleNormalized="pancreatic cancer - enes" src="slide11.swf" size="214720" advanceOnTime="1" framesCount="48" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_fd260e0.spr0_15684590" slides="0" repeat="untilNextClick" volume="0.5000000" posterFrameId="ispring.resources_fd260e0.spr2_15684590" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="47" playTime="1.9583333" pauseTime="100.2106654"/>
+			</animationSteps>
+			<notes>71037-56   10 Sep 2013   กิ่งกาญจน์  FNA= Malignant, disease progree til die within 2 months, CT </notes>
+			<notesNormalized>71037-56 10 sep 2013 กิ่งกาญจน์ fna= malignant, disease progree til die within 2 months, ct</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;71037-56   10 Sep 2013   กิ่งกาญจน์  FNA= Malignant, disease progree til die within 2 months, CT &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Pancreatic cancer - ENES
+EUS-FNA = adenocarcinoma
+Die within 2 months from progression of disease
+Confocal = dark clump</text>
+		</slide>
+		<slide index="11" title="Mass-forming CP -ENES" titleNormalized="mass-forming cp -enes" src="slide12.swf" size="324801" advanceOnTime="1" framesCount="1046" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_16dbeba0.spr0_15687678" slides="0" repeat="untilNextClick" volume="0.5000000" posterFrameId="ispring.resources_16dbeba0.spr2_15687678" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1045" playTime="43.5416667" pauseTime="26.1283315"/>
+			</animationSteps>
+			<notes>สมเจตน์ 30346-49 FNA 4 Jul 13  Fine white fibrous band ontop normal acini. MRI 6/2015 showed unchanged p mass from June 13</notes>
+			<notesNormalized>สมเจตน์ 30346-49 fna 4 jul 13 fine white fibrous band ontop normal acini. mri 6/2015 showed unchanged p mass from june 13</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;สมเจตน์ 30346-49 FNA 4 Jul 13  Fine white fibrous band ontop normal acini. MRI 6/2015 showed unchanged p mass from June 13&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Mass-forming CP -ENES
+EUS-FNA = benign cells
+Stable lesion for 2 years
+Confocal = white fibrous bands</text>
+		</slide>
+		<slide index="12" title="Results" titleNormalized="results" src="slide13.swf" size="79804" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="98.3310007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results
+The accuracy rate of EUS-nCLE was 90.9% (20/22).
+The inter-observer agreement was almost perfect (Kappa 0.82).
+Kongkam P, Pittayanon R, Sampatanukul P, Angsuwatcharakon P, Aniwan S, Prueksapanich P, et al. Endosc Int Open. 2016;4(1):E17-23</text>
+		</slide>
+		<slide index="13" title="" titleNormalized="" src="slide14.swf" size="93193" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.5750002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="14" title="Flow" titleNormalized="flow" src="slide15.swf" size="76164" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="61.4599985"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Flow
+Giovannini M, Caillol F, Monges G, Poizat F, Lemaistre AI, Pujol B, et al. Endoscopy. 2016</text>
+		</slide>
+		<slide index="15" title="Results- normal pancreas" titleNormalized="results- normal pancreas" src="slide16.swf" size="237911" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.0619997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results- normal pancreas
+Normal pancreas showed a coffee bean appearance corresponding to the histological structure of acini
+Giovannini M, Caillol F, Monges G, Poizat F, Lemaistre AI, Pujol B, et al. Endoscopy. 2016</text>
+		</slide>
+		<slide index="16" title="Results- normal pancreas" titleNormalized="results- normal pancreas" src="slide17.swf" size="5332" advanceOnTime="1" framesCount="277" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_16db5820.spr0_15689894" slides="0" repeat="untilNextClick" volume="0.5000000" posterFrameId="ispring.resources_16db5820.spr2_15689894" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="276" playTime="11.5000000" pauseTime="0.9119997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results- normal pancreas</text>
+		</slide>
+		<slide index="17" title="Results- pancreatic cancer" titleNormalized="results- pancreatic cancer" src="slide18.swf" size="352606" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="43.8090014"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results- pancreatic cancer
+Irregular dark cell aggregates, irregular vessels with puddles of fluorescein within the tumor. 
+Giovannini M, Caillol F, Monges G, Poizat F, Lemaistre AI, Pujol B, et al. Endoscopy. 2016
+These criteria correlated with the histological structure of these tumors, which is characterized by tumoral cell aggregates surrounded by fibrosis in cases of fibrous stroma tumor</text>
+		</slide>
+		<slide index="18" title="Results- pancreatic cancer" titleNormalized="results- pancreatic cancer" src="slide19.swf" size="5417" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_171a3c80.spr0_15693357" slides="0" repeat="untilNextClick" volume="0.5000000" posterFrameId="ispring.resources_171a3c80.spr2_15693357" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="28.8609995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results- pancreatic cancer</text>
+		</slide>
+		<slide index="19" title="Results- chronic pancreatitis" titleNormalized="results- chronic pancreatitis" src="slide20.swf" size="267967" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.4950003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results- chronic pancreatitis
+Fibrotic tissue (grey background) with some residual regular glandular pancreatic structures, which corresponded histologically to pancreatic regression
+Giovannini M, Caillol F, Monges G, Poizat F, Lemaistre AI, Pujol B, et al. Endoscopy. 2016</text>
+		</slide>
+		<slide index="20" title="Results- chronic pancreatitis" titleNormalized="results- chronic pancreatitis" src="slide21.swf" size="5424" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_171aa070.spr0_15696680" slides="0" repeat="untilNextClick" volume="0.5000000" posterFrameId="ispring.resources_171aa070.spr2_15696680" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.3590006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results- chronic pancreatitis</text>
+		</slide>
+		<slide index="21" title="Results- PNET" titleNormalized="results- pnet" src="slide22.swf" size="288444" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="87.6529993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results- PNET
+Clusters of compact cells on a dark background surrounded by numerous small and irregular vessels and fibrotic areas. 
+This was consistent with the histological structure based on cords of cells surrounded by vessels and fibrotic areas
+Giovannini M, Caillol F, Monges G, Poizat F, Lemaistre AI, Pujol B, et al. Endoscopy. 2016</text>
+		</slide>
+		<slide index="22" title="Results- PNET" titleNormalized="results- pnet" src="slide23.swf" size="5411" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video5" videoClipId="ispring.resources_ff706b0.spr0_15698318" slides="0" repeat="untilNextClick" volume="0.5000000" posterFrameId="ispring.resources_ff706b0.spr2_15698318" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video5" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.1179995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results- PNET</text>
+		</slide>
+		<slide index="23" title="Step 2: retrospective external validation of the criteria" titleNormalized="step 2: retrospective external validation of the criteria" src="slide24.swf" size="1538" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="56.3889994"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Step 2: retrospective external validation of the criteria
+Interobserver agreement was moderate (kappa=0.55, 95% CI 0.28–0.75)
+Satisfied nCLE images = 24/32 (75%) 
+Correct diagnosis by nCLE = 23/24 (95.8%)
+For the remaining eight cases, the nCLE findings were inconclusive.</text>
+		</slide>
+		<slide index="24" title="VDO from ENES Study" titleNormalized="vdo from enes study" src="slide25.swf" size="986" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.8039998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>VDO from ENES Study</text>
+		</slide>
+		<slide index="25" title="1……" titleNormalized="1……" src="slide26.swf" size="83585" advanceOnTime="1" framesCount="124" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video6" videoClipId="ispring.resources_171ca390.spr0_15699425" slides="0" repeat="untilNextClick" volume="0.5000000" posterFrameId="ispring.resources_171ca390.spr2_15699425" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video6" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="123" playTime="5.1250000" pauseTime="4.2180004"/>
+			</animationSteps>
+			<notes>N006 : Dark clumping with epithelial cell			Dx. Cancer	มุจลินทร์</notes>
+			<notesNormalized>n006 : dark clumping with epithelial cell			dx. cancer	มุจลินทร์</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;N006 : Dark clumping with epithelial cell			Dx. Cancer	มุจลินทร์&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>1……</text>
+		</slide>
+		<slide index="26" title="1. Pancreatic Cancer" titleNormalized="1. pancreatic cancer" src="slide27.swf" size="83607" advanceOnTime="1" framesCount="124" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video7" videoClipId="ispring.resources_171cc1a0.spr0_15699800" slides="0" repeat="untilNextClick" volume="0.5000000" posterFrameId="ispring.resources_171cc1a0.spr2_15699800" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video7" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="123" playTime="5.1250000" pauseTime="6.0190001"/>
+			</animationSteps>
+			<notes>N006 : Dark clumping with epithelial cell			Dx. Cancer	มุจลินทร์</notes>
+			<notesNormalized>n006 : dark clumping with epithelial cell			dx. cancer	มุจลินทร์</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;N006 : Dark clumping with epithelial cell			Dx. Cancer	มุจลินทร์&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>1. Pancreatic Cancer</text>
+		</slide>
+		<slide index="27" title="2………" titleNormalized="2………" src="slide28.swf" size="78771" advanceOnTime="1" framesCount="114" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video8" videoClipId="ispring.resources_ff6ac80.spr0_15700471" slides="0" repeat="untilNextClick" volume="0.5000000" posterFrameId="ispring.resources_ff6ac80.spr2_15700471" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video8" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="113" playTime="4.7083333" pauseTime="0.7976667"/>
+			</animationSteps>
+			<notes>N010 : Dark clumping with epithelial cell			Dx. Cancer	นเรศ</notes>
+			<notesNormalized>n010 : dark clumping with epithelial cell			dx. cancer	นเรศ</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;N010 : Dark clumping with epithelial cell			Dx. Cancer	นเรศ&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>2………</text>
+		</slide>
+		<slide index="28" title="2. Pancreatic Cancer" titleNormalized="2. pancreatic cancer" src="slide29.swf" size="78780" advanceOnTime="1" framesCount="114" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video9" videoClipId="ispring.resources_16ff4e70.spr0_15700829" slides="0" repeat="untilNextClick" volume="0.5000000" posterFrameId="ispring.resources_16ff4e70.spr2_15700829" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video9" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="113" playTime="4.7083333" pauseTime="0.2636668"/>
+			</animationSteps>
+			<notes>N010 : Dark clumping with epithelial cell			Dx. Cancer	นเรศ</notes>
+			<notesNormalized>n010 : dark clumping with epithelial cell			dx. cancer	นเรศ</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;N010 : Dark clumping with epithelial cell			Dx. Cancer	นเรศ&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>2. Pancreatic Cancer</text>
+		</slide>
+		<slide index="29" title="3………" titleNormalized="3………" src="slide30.swf" size="81609" advanceOnTime="1" framesCount="412" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video10" videoClipId="ispring.resources_16ff5d10.spr0_15702405" slides="0" repeat="untilNextClick" volume="0.5000000" posterFrameId="ispring.resources_16ff5d10.spr2_15702405" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video10" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="411" playTime="7.5739999" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>N008: White fibrous band  with normal acini			Dx. Benign	ทศพร</notes>
+			<notesNormalized>n008: white fibrous band with normal acini			dx. benign	ทศพร</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;N008: White fibrous band  with normal acini			Dx. Benign	ทศพร&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>3………</text>
+		</slide>
+		<slide index="30" title="3. Mass-forming CP" titleNormalized="3. mass-forming cp" src="slide31.swf" size="115215" advanceOnTime="1" framesCount="412" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video11" videoClipId="ispring.resources_16ff74a0.spr0_15702795" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_16ff74a0.spr2_15702795" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video11" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="411" playTime="10.1770000" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>N008: White fibrous band  with normal acini			Dx. Benign	ทศพร</notes>
+			<notesNormalized>n008: white fibrous band with normal acini			dx. benign	ทศพร</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;N008: White fibrous band  with normal acini			Dx. Benign	ทศพร&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>3. Mass-forming CP</text>
+		</slide>
+		<slide index="31" title="Conclusions" titleNormalized="conclusions" src="slide32.swf" size="1594" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="43.4760012"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conclusions
+EUS-nCLE images of malignant and benign SPLs are different.
+In cases with satisfied nCLE images, it may help diagnosing SPLs. 
+Current information of EUS-nCLE have not covered all varieties of SPLs yet. 
+Larger systematic studies are needed to verify previously described findings and clinical efficacy. 
+</text>
+		</slide>
+		<slide index="32" title="Thank you" titleNormalized="thank you" src="slide33.swf" size="381452" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.6370000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you</text>
+		</slide>
+	</slides>
+</presentation>
