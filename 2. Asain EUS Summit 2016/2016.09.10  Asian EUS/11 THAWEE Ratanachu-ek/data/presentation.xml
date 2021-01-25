@@ -1,0 +1,1072 @@
+<?xml version="1.0"?>
+<presentation title="11 THAWEE Ratanachu-ek" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{015F5F92-A91D-40F3-98A4-1DE70CCC6F1F}">
+	<presenters>
+		<presenter name="THAWEE Ratanachu-ek" title="Rajavithi Hospital" email="" web="" phone="" photoAssetId="">
+			<bio>Linear EUS: Pancreatobiliary
+Anatomy &amp; Lesions</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="1051108" duration="37538"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="680274" duration="24294"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="3158354" duration="112797"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="761462" duration="27193"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="316022" duration="11285"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="913599" duration="32627"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="703679" duration="25130"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="1838125" duration="65646"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="907748" duration="32418"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="2350856" duration="83958"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="783405" duration="27977"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="141211" duration="5042"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="1529462" duration="54622"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="1052571" duration="37590"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="945051" duration="33750"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="1144731" duration="40882"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="817782" duration="29205"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="1194468" duration="42658"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="700022" duration="24999"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="185828" duration="6635"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="1738651" duration="62093"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="2197256" duration="78472"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="1068662" duration="38165"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="740982" duration="26462"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="2789714" duration="99631"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="612982" duration="21891"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="1939062" duration="69251"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="1545554" duration="55197"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="1253714" duration="44774"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="79039" duration="2821"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="37.5000000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="24.2580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="112.7460000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="27.1599998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="11.2399998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="32.5990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="25.0919991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="65.5990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="32.3660000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="83.9170000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="27.9280000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="5.0050000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="54.5880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="37.5380000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="33.7000000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="40.8400002"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="29.1599998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="42.6090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="24.9580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="6.6069999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="62.0620000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="78.4449997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="38.1380000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="26.4260000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="99.5999985"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="21.8500004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="69.1999969"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="55.1500015"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="44.7400017"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="2.7690000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Linear EUS: Pancreatobiliary Anatomy &amp; Lesions" titleNormalized="linear eus: pancreatobiliary anatomy &amp; lesions" src="slide1.swf" size="1045896" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.4990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>THAWEE Ratanachu-ek, M.D
+ Surgical Endoscopy Unit, 
+Department of Surgery 
+Rajavithi Hospital, Rangsit College of Medicine,
+Bangkok, THAILAND
+Linear EUS: Pancreatobiliary
+Anatomy &amp; Lesions
+Session 7
+EUS Anatomy
+13:50-14:10, September 10th, 2016
+Asan Medical Center, Seoul, Korea</text>
+		</slide>
+		<slide index="1" title="Linear EUS: Pancreatobiliary System" titleNormalized="linear eus: pancreatobiliary system" src="slide2.swf" size="1391" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.2590002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Linear EUS:
+Pancreatobiliary System
+
+Outline
+: Introduction
+: Learning Process &amp; Resources
+: Technique &amp; Anatomy
+: Lesions</text>
+		</slide>
+		<slide index="2" title="Endoscopic ultrasound" titleNormalized="endoscopic ultrasound" src="slide3.swf" size="193651" advanceOnTime="1" framesCount="2691" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_17fa7880.spr0_7658666" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_17fa7880.spr2_7658666" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2690" playTime="112.0833333" pauseTime="0.6666667"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="3" title="EUS: Indication" titleNormalized="eus: indication" src="slide4.swf" size="1883" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.1589998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>: HBP lesions
+: Retroperitoneal lesions
+: Cancer staging (T,N,M?)
+: Lung cancer, GI cancer
+: Giant Gastric folds (FNA)
+: Subepithelial tumor (FNA) 
+: Colon &amp; Rectum (FNA)
+: Others…
+
+EUS: Indication
+Diagnosis &amp; Intervention
+ : PFC drainage
+ : CPN/CPB
+ : Biliary-enteric bypass
+ : Drainage of collection
+ : Vascular and Oncologic 
+ intervention
+ : Others…
+Introduction</text>
+		</slide>
+		<slide index="4" title="EUS: Indication" titleNormalized="eus: indication" src="slide5.swf" size="1905" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.2389998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>: HBP lesions
+: Biliary 
+ Stone
+ Stricture-intra/extra
+ Portobiliopathy
+ APBU
+: Pancreas 
+ Solid/Cystic
+ CP/Divisum
+EUS: Indication
+HPB-Diagnosis &amp; Intervention
+ : PFC drainage
+ : CPN/CPB
+ : Biliary-enteric bypass
+ : Drainage of collection
+ : Vascular and Oncologic 
+ intervention
+ : Others…
+Introduction</text>
+		</slide>
+		<slide index="5" title="Learning process and resource" titleNormalized="learning process and resource" src="slide6.swf" size="850815" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.5989985"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS:
+Learning process and resource</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="550141" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.0909991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="7" title="EUS" titleNormalized="eus" src="slide8.swf" size="1356" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="65.5989985"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Learning process and resource
+EUS:
+My recommendation for beginner
+Please do not try to understand BUT just make your
+
+Memory 
+Memory 
+Memory
+</text>
+		</slide>
+		<slide index="8" title="Technique &amp; Anatomy" titleNormalized="technique &amp; anatomy" src="slide9.swf" size="352449" advanceOnTime="1" framesCount="568" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="567" playTime="23.6250000" pauseTime="8.7449989"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS examination
+Station-Based
+Systematic approach
+1
+mediastinum
+2
+gastric
+3
+duodenal
+Technique &amp; Anatomy</text>
+		</slide>
+		<slide index="9" title="Linear EUS: Mediastinal Station" titleNormalized="linear eus: mediastinal station" src="slide10.swf" size="2762" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="83.9189982"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Linear EUS: Mediastinal Station 
+LA
+PA
+AA
+aV
+LV
+mV
+subcarina
+30+ cm
+Probe in Anterior
+Probe in Posterior
+1800</text>
+		</slide>
+		<slide index="10" title="AP window" titleNormalized="ap window" src="slide11.swf" size="64619" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.9290003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>LA
+PA
+AA
+aV
+LV
+mV
+arch
+PA
+subcarina
+AP window
+30+ cm
+20+cm
+Probe in Anterior
+Probe in Posterior
+1800
+Pull back &amp;
+Counter clockwise rotation
+LN
+Mass</text>
+		</slide>
+		<slide index="11" title="Linear EUS: Mediastinal Station" titleNormalized="linear eus: mediastinal station" src="slide12.swf" size="2442" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.0090002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Linear EUS: Mediastinal Station 
+LA
+PA
+AA
+aV
+LV
+mV
+subcarina
+30+ cm
+Probe in Anterior
+1800</text>
+		</slide>
+		<slide index="12" title="subcarina" titleNormalized="subcarina" src="slide13.swf" size="151897" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="54.5890002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>LA
+PA
+AA
+aV
+LV
+mV
+IVC
+SVC
+RA
+LV
+subcarina
+30+ cm
+Probe in Anterior
+more 900 to right
+Clockwise rotation</text>
+		</slide>
+		<slide index="13" title="Linear EUS: Gastric Station" titleNormalized="linear eus: gastric station" src="slide14.swf" size="472160" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.5390009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Diaphragm
+Liver
+Ascitis
+Linear EUS: 
+Gastric Station 
+Location of Probe
+Anterior
+S2
+S3
+S4
+S8/5
+S7/6
+S1
+Bhatia V, Hijioka S, Hara K, et al. Dig Endosc 2014;26:482-490
+S2
+S3
+S4
+S1
+S1</text>
+		</slide>
+		<slide index="14" title="Linear EUS: Gastric Station" titleNormalized="linear eus: gastric station" src="slide15.swf" size="421171" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.6990008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>90o 
+clockwise rotation
+ 
+CHD
+PV
+Liver
+Hilar
+Hepatoduodenal
+LN
+Periportal
+Hepatoduodenal
+
+Linear EUS: 
+Gastric Station</text>
+		</slide>
+		<slide index="15" title="Linear EUS: Gastric Station" titleNormalized="linear eus: gastric station" src="slide16.swf" size="422137" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="40.8390002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ab A
+Celiac A.
+SMA
+Celiac: 
+LN
+ganglia
+More 90o 
+clockwise rotation
+ 
+Diaphragm
+Location of Probe
+Posterior
+Linear EUS: 
+Gastric Station</text>
+		</slide>
+		<slide index="16" title="Linear EUS: Gastric Station" titleNormalized="linear eus: gastric station" src="slide17.swf" size="600996" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.1589998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ab A
+Celiac A.
+SMA
+L.GA
+HA
+SA
+L.GA
+SA
+HA
+Tumor invasion
+LN
+Aneurysm
+Pancreas
+Linear EUS: 
+Gastric Station</text>
+		</slide>
+		<slide index="17" title="" titleNormalized="" src="slide18.swf" size="7362" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.6080012"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pancreas
+SA
+clockwise rotation
+and 
+pull back slowly 
+SV, confluence
+Kidney, left
+Adrenal, left
+Spleen
+Panc. tail
+Panc. body
+PD</text>
+		</slide>
+		<slide index="18" title="Linear EUS: Gastric Station" titleNormalized="linear eus: gastric station" src="slide19.swf" size="297486" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.9589991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Counter clockwise rotation
+Linear EUS: 
+Gastric Station 
+Liver to spleen</text>
+		</slide>
+		<slide index="19" title="" titleNormalized="" src="slide20.swf" size="5999" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.6059999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pancreas
+SA
+Counter clockwise rotation
+and 
+Push in slowly 
+SV, confluence
+Kidney, left
+Adrenal, left
+Spleen
+Panc. tail
+Panc. body
+PD</text>
+		</slide>
+		<slide index="20" title="" titleNormalized="" src="slide21.swf" size="6939" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="62.0610003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pancreas
+SA
+Counter clockwise rotation
+and 
+push slowly 
+SV, confluence
+Kidney, left
+Adrenal, left
+Spleen
+Panc. tail
+Panc. body
+PD
+PD
+CBD
+SMV
+PV
+SV
+Hilum</text>
+		</slide>
+		<slide index="21" title="" titleNormalized="" src="slide22.swf" size="169064" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="78.4439997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SA
+couterclockwise rotation
+
+and 
+Push, slowly 
+PV
+SMV
+Pancreas
+CBD
+PD
+PV
+Kidney, left
+clockwise rotation
+and 
+pull back slowly 
+Adrenal, left
+Spleen
+Panc. tail
+uncinate
+SV
+SV</text>
+		</slide>
+		<slide index="22" title="" titleNormalized="" src="slide23.swf" size="123865" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="38.1370005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>couterclockwise rotation
+
+and 
+Push, slowly 
+PV
+CBD
+PD
+CBD
+PV
+PV</text>
+		</slide>
+		<slide index="23" title="" titleNormalized="" src="slide24.swf" size="288838" advanceOnTime="1" framesCount="489" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_19528f80.spr0_7675171" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_19528f80.spr2_7675171" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="488" playTime="20.3333333" pauseTime="6.0926673"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="24" title="Linear EUS: Duodenal Station" titleNormalized="linear eus: duodenal station" src="slide25.swf" size="6096" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="99.5989985"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>@ bulb
+clockwise rotation
+and 
+Push down 
+CBD
+PV
+PD
+SMV
+SV
+CBD
+PD
+PD
+Linear EUS: 
+Duodenal Station 
+CBD
+MPD
+PV
+SMV
+SV</text>
+		</slide>
+		<slide index="25" title="Linear EUS: Duodenal Station" titleNormalized="linear eus: duodenal station" src="slide26.swf" size="89393" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.8490004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>@ bulb
+couterclockwise rotation
+and 
+Pullback
+CBD
+PV
+PD
+GB
+Liver
+PV
+Linear EUS: 
+Duodenal Station</text>
+		</slide>
+		<slide index="26" title="Linear EUS: Duodenal Station" titleNormalized="linear eus: duodenal station" src="slide27.swf" size="6093" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="69.1989969"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>@ bulb
+clockwise rotation
+and 
+Push down 
+CBD
+PV
+PD
+SMV
+SV
+CBD
+PD
+PD
+Linear EUS: 
+Duodenal Station 
+CBD
+MPD
+PV
+SMV
+SV</text>
+		</slide>
+		<slide index="27" title="Linear EUS: Duodenal Station" titleNormalized="linear eus: duodenal station" src="slide28.swf" size="475150" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="55.1490015"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>@ D2
+Ampulla
+GB
+PV
+CBD
+PD
+Linear EUS: 
+Duodenal Station</text>
+		</slide>
+		<slide index="28" title="EUS: Tips &amp; Tricks" titleNormalized="eus: tips &amp; tricks" src="slide29.swf" size="1555" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="44.7390017"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>: Keep big wheel up (contact wall)
+ and suction (minimize air)
+ : Move slowly, 
+ clockwise &amp; counterclockwise
+ move in &amp; out
+ : Systematic maneuver
+ start with station-base image 
+ : Practice Practice Practice!
+ 
+EUS: Tips &amp; Tricks
+Technique &amp; Anatomy</text>
+		</slide>
+		<slide index="29" title="Thank you for your attention" titleNormalized="thank you for your attention" src="slide30.swf" size="974092" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.7690000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for your attention</text>
+		</slide>
+	</slides>
+</presentation>

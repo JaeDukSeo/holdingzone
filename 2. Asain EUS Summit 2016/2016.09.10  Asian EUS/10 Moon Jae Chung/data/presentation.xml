@@ -1,0 +1,1306 @@
+<?xml version="1.0"?>
+<presentation title="10 Moon Jae Chung" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{47BB1865-BD49-47E3-888A-8BBB61F16FDC}">
+	<presenters>
+		<presenter name="Moon Jae Chung" title="Yonsei University" email="" web="" phone="" photoAssetId="">
+			<bio>Radial EUS anatomy in pancreatobiliary system</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="226056" duration="8072"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="898971" duration="32104"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="1084022" duration="38713"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="1248594" duration="44591"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="1416822" duration="50599"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="1037942" duration="37068"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="2017325" duration="72046"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="436708" duration="15595"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="487176" duration="17398"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="299931" duration="10710"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="548616" duration="19592"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="915794" duration="32705"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="1417554" duration="50625"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="928959" duration="33176"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="891656" duration="31843"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="470354" duration="16797"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="628342" duration="22439"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="940662" duration="33593"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="414034" duration="14785"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="1010148" duration="36075"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="1579931" duration="56424"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="1133759" duration="40490"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="945051" duration="33750"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="549348" duration="19618"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="846308" duration="30224"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="736594" duration="26305"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="416959" duration="14890"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="546422" duration="19513"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="495954" duration="17711"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="838262" duration="29936"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="1447542" duration="51696"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="1587245" duration="56686"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="275794" duration="9848"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="862399" duration="30798"/>
+		<soundAsset id="sndAsset34" src="sound35.mp3" embedded="0" size="612982" duration="21891"/>
+		<soundAsset id="sndAsset35" src="sound36.mp3" embedded="0" size="527405" duration="18834"/>
+		<soundAsset id="sndAsset36" src="sound37.mp3" embedded="0" size="1073051" duration="38322"/>
+		<soundAsset id="sndAsset37" src="sound38.mp3" embedded="0" size="925302" duration="33045"/>
+		<soundAsset id="sndAsset38" src="sound39.mp3" embedded="0" size="354056" duration="12643"/>
+		<soundAsset id="sndAsset39" src="sound40.mp3" embedded="0" size="431588" duration="15412"/>
+		<soundAsset id="sndAsset40" src="sound41.mp3" embedded="0" size="817051" duration="29179"/>
+		<soundAsset id="sndAsset41" src="sound42.mp3" embedded="0" size="97325" duration="3474"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb36.swf" embedded="0"/>
+		<graphicAsset id="imgAsset36" src="thmb37.swf" embedded="0"/>
+		<graphicAsset id="imgAsset37" src="thmb38.swf" embedded="0"/>
+		<graphicAsset id="imgAsset38" src="thmb39.swf" embedded="0"/>
+		<graphicAsset id="imgAsset39" src="thmb40.swf" embedded="0"/>
+		<graphicAsset id="imgAsset40" src="thmb41.swf" embedded="0"/>
+		<graphicAsset id="imgAsset41" src="thmb42.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="8.0410000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="32.0600014"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="38.6699982"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="44.5400009"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="50.5499992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="37.0370000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="72.0000000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="15.5490000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="17.3500004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="10.6770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="19.5499992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="32.6660000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="50.5800018"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="33.1300011"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="31.7980000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="16.7500000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="22.3890000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="33.5670000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="14.7480000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="36.0360000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="1" timeOffset="56.3889994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="40.4399986"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="33.7000000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="19.5860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="30.1970000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="26.2600000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="14.8480000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="19.4860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="17.6800003"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="29.8970000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="51.6500015"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="56.6570000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="9.8100000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="30.7600002"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset34">
+				<startTimestamp slideIndex="34" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="34" stepIndex="0" timeOffset="21.8500004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset35">
+				<startTimestamp slideIndex="35" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="35" stepIndex="0" timeOffset="18.7800007"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset36">
+				<startTimestamp slideIndex="36" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="36" stepIndex="0" timeOffset="38.2700005"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset37">
+				<startTimestamp slideIndex="37" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="37" stepIndex="0" timeOffset="33.0000000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset38">
+				<startTimestamp slideIndex="38" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="38" stepIndex="0" timeOffset="12.6099997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset39">
+				<startTimestamp slideIndex="39" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="39" stepIndex="0" timeOffset="15.3800001"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset40">
+				<startTimestamp slideIndex="40" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="40" stepIndex="0" timeOffset="29.1290000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset41">
+				<startTimestamp slideIndex="41" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="41" stepIndex="0" timeOffset="3.4370000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Radial EUS anatomy in pancreatobiliary system" titleNormalized="radial eus anatomy in pancreatobiliary system" src="slide1.swf" size="60118" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.0400004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Radial EUS anatomy in pancreatobiliary system
+Moon Jae Chung
+Yonsei University</text>
+		</slide>
+		<slide index="1" title="Contents" titleNormalized="contents" src="slide2.swf" size="1538" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.0590014"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Contents	
+Introduction
+Standard imaging techniques according to scanning position 	1) Scanning from Stomach 	2) Scanning in 2nd portion of duodenum 
+	3) Scanning in bulb of duodenum 3. Landmark in EUS Phantom</text>
+		</slide>
+		<slide index="2" title="Current EUS system" titleNormalized="current eus system" src="slide3.swf" size="327510" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="38.6689982"/>
+			</animationSteps>
+			<notes>.</notes>
+			<notesNormalized>.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;.&lt;/font&gt;&lt;font size="32"&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Current EUS system
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+360°Electronic Radial Scanning Scope</text>
+		</slide>
+		<slide index="3" title="The potential benefits of EUS in PB diseases" titleNormalized="the potential benefits of eus in pb diseases" src="slide4.swf" size="2970" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="44.5390009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The potential benefits of EUS in PB diseases
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Advantages
+ - Higher resolution without blind spots d/t the use of high-	frequency ultrasonic waves emitted inside the body (vs. 	transabdomen sono)
+ - Real-time observation (vs. MRCP)
+ - Less invasive (vs. ERCP)
+Disadvantages
+- Highly operator-dependent
+- difficult to learn how to operate the 	equipment and how to 	analyze the images 
+Phantom landmark</text>
+		</slide>
+		<slide index="4" title="Three Basic scanning positions" titleNormalized="three basic scanning positions" src="slide5.swf" size="267602" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="50.5489992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Three Basic scanning positions
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="5" title="Standard scanning methods" titleNormalized="standard scanning methods" src="slide6.swf" size="64187" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.0390009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Standard scanning methods
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Position of the endoscopist and orientation of the handle of the scope</text>
+		</slide>
+		<slide index="6" title="Scanning from the stomach (A-CT)" titleNormalized="scanning from the stomach (a-ct)" src="slide7.swf" size="194286" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="71.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach (A-CT)
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="7" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide8.swf" size="250600" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.5490002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Insert the scope up to the gastric antrum
+After aspirating the air in the stomach, inflate the balloon 
+Start scanning while slowly withdrawing the scope</text>
+		</slide>
+		<slide index="8" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide9.swf" size="243288" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.3490004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Structures that we can observe at this scanning position are pancreatic body, tail and other organs such as spleen, kidney, vessels including splenic vein, splenic artery, and renal vessel.</text>
+		</slide>
+		<slide index="9" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide10.swf" size="335941" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.6790003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach 
+SA
+SV
+PC
+Portal confluence &amp; SV
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+At this scanning position, you can see portal confluence that SMV and SV are joined.</text>
+		</slide>
+		<slide index="10" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide11.swf" size="531906" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.5489992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach 
+PC
+SV
+SMA
+Portal confluence &amp; splenic vein
+Digital Human Anatomy and Endoscopic Ultrasonography, 2005
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+golf club-head appearance</text>
+		</slide>
+		<slide index="11" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide12.swf" size="471110" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.6689982"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach 
+Celiac trunk &amp; Lt adrenal gland
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+“whale’s tail” 
+“seagull”</text>
+		</slide>
+		<slide index="12" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide13.swf" size="357836" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_197ae8a0.spr0_7311174" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_197ae8a0.spr2_7311174" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="50.5790018"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach 
+CA
+Ao
+SP
+SV
+Tail
+Body
+Genu
+Lt Kidney
++
++
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Courtesy of Sung Hoon Kim</text>
+		</slide>
+		<slide index="13" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide14.swf" size="566116" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.1290011"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach 
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="14" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide15.swf" size="277887" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.7989992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach 
+Step 1:
+Search for the splenic artery/vein and SMA in order to identify the pancreatic parenchyma.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="15" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide16.swf" size="296959" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.7490000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach 
+Step 2:
+Withdraw the scope until the splenic artery/vein, left kidney, and spleen are visualized.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="16" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide17.swf" size="281324" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.3889994"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach 
+Step 3:
+The main PD will be visualized with back-and-forth movement of the scope.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="17" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide18.swf" size="284312" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.5689997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach 
+Step 4:
+Try to scan the pancreatic tail. As pancreatic tail usually extends toward the head of the patient, withdraw the scope and visualize the left kidney and splenic hilum from the upper part of stomach. The bifurcation of the splenic vein is the index of the splenic hilum. The pancreatic tail will be visualized between the scope and these structures.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="18" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide19.swf" size="287651" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.7490000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach 
+Step 5:
+Fine back-and-forth movement of the scope will allow visualization of the pancreatic tail.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="19" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide20.swf" size="292278" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.0390009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach 
+Step 6:
+After locating the pancreatic body by scanning from the gastric body, withdraw the scope slightly and image the celiac, splenic, and common hepatic arteries. Check the lymph nodes.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+“whale’s tail”</text>
+		</slide>
+		<slide index="20" title="Scanning from the stomach" titleNormalized="scanning from the stomach" src="slide21.swf" size="233386" advanceOnTime="1" framesCount="948" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_197aebe0.spr0_7325229" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_197aebe0.spr2_7325229" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="1" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="0.0000000"/>
+				<step start="1" end="947" playTime="39.4166667" pauseTime="16.9723327"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the stomach 
+Courtesy of Sung Hoon Kim
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="21" title="Scanning from the duodenum" titleNormalized="scanning from the duodenum" src="slide22.swf" size="65631" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="40.4389986"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the duodenum
+Visualized structures according to the each station
+
+Station I (Inferior duodenal angle)
+Uncinate process, AoV, CBD, MPD
+
+Station II (Descending duodenum)
+ Pancreatic head, PV, HA, CBD, GB
+
+Station III (Duodenum bulb)
+ Proximal biliary tree, GB
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="22" title="Scanning from the duodenum" titleNormalized="scanning from the duodenum" src="slide23.swf" size="305884" advanceOnTime="1" framesCount="1059" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_1bf02900.spr0_7333388" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1bf02900.spr2_7333388" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video3" videoClipId="ispring.resources_1c0dc790.spr0_7341516" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1c0dc790.spr2_7341516" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="76" videoId="video2" startPos="0.0000000"/>
+				<playVideo frameIndex="481" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1058" playTime="33.7000008" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the duodenum
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Courtesy of Sung Hoon Kim
+Advance the tip of the scope to the apex of the duodenal bulb. 
+Then, rotate the ‘‘right/left’’ knob to the right, and pull the scope back to obtain the short scope position as in ERCP (stretch technique). 
+Then the scope will reach the descending part of the duodenum.</text>
+		</slide>
+		<slide index="23" title="Scanning from the descending duodenum" titleNormalized="scanning from the descending duodenum" src="slide24.swf" size="199409" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.5890002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the descending duodenum
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Digital Human Anatomy and Endoscopic Ultrasonography, 2005
+Structures that we can from the descending duodenum are two echo free structures which is aorta and IVC and next to right side of two vessels are pancreas head.</text>
+		</slide>
+		<slide index="24" title="Scanning from the descending duodenum" titleNormalized="scanning from the descending duodenum" src="slide25.swf" size="291219" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.1990008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the descending duodenum
+Step 1:
+Start scanning when the transducer reaches the inferior duodenal angle
+When the ‘‘up/down’’ knob is in the neutral position, the IVC and aorta should be observed as circular cross-sectional images.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="25" title="Scanning from the descending duodenum" titleNormalized="scanning from the descending duodenum" src="slide26.swf" size="291599" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.2590002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the descending duodenum
+Step 2:
+Rotate the ‘‘up/down’’ knob in the ‘‘up’’ direction and perform scanning while withdrawing the scope until the longitudinal view of the aorta, IVC and the head of pancreas is obtained.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="26" title="Scanning from the descending duodenum" titleNormalized="scanning from the descending duodenum" src="slide27.swf" size="296068" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.8490004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the descending duodenum
+Step 3:
+Withdrawal will allow visualization of a trianglar region with even lower echogenicity near to the scope. This transverse view is the level of the major papilla.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="27" title="Scanning from the descending duodenum" titleNormalized="scanning from the descending duodenum" src="slide28.swf" size="291033" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.4889998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the descending duodenum
+Step 4:
+Further withdraw the scope slightly to image the bile and pancreatic duct terminals as tubular structures in the low-echoic region. The major papilla can be visualized more clearly with injection of deaerated water from the scope channel.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="28" title="Scanning from the descending duodenum" titleNormalized="scanning from the descending duodenum" src="slide29.swf" size="289960" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.6790003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the descending duodenum
+Step 5:
+Withdraw the scope a little more to obtain the longitudinal view of the bile and pancreatic ducts. The ductal structure closer to the scope is the bile duct and the other is the pancreatic duct (Wirsung’s duct).
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="29" title="Scanning from the descending duodenum" titleNormalized="scanning from the descending duodenum" src="slide30.swf" size="142402" advanceOnTime="1" framesCount="894" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_1c0dc930.spr0_7354713" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1c0dc930.spr2_7354713" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="893" playTime="29.8999996" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning from the descending duodenum
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Courtesy of Sung Hoon Kim</text>
+		</slide>
+		<slide index="30" title="Scanning in bulb of duodenum" titleNormalized="scanning in bulb of duodenum" src="slide31.swf" size="280032" advanceOnTime="1" framesCount="175" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="174" playTime="7.2500000" pauseTime="44.4000015"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Scanning in bulb of duodenum 
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="31" title="Duodenum bulb (or the gastric antrum)" titleNormalized="duodenum bulb (or the gastric antrum)" src="slide32.swf" size="246174" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="56.6589998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Duodenum bulb (or the gastric antrum) Pull Method 
+Step 1:
+Insert the scope into the duodenal bulb. Inflate the balloon and start scanning while slowly withdrawing the scope . After observing the pancreatic head, clockwise rotation of the scope will enable visualization of the junction of the superior mesenteric, portal, and splenic veins.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="32" title="Duodenum bulb (or the gastric antrum)" titleNormalized="duodenum bulb (or the gastric antrum)" src="slide33.swf" size="286921" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.8090004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Step 2:
+Withdraw the scope slowly and scan the bile duct and gallbladder. The neck of the gallbladder will appear on the left side of the image and the fundus will be on the right.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Duodenum bulb (or the gastric antrum) Pull Method</text>
+		</slide>
+		<slide index="33" title="Duodenum bulb (or the gastric antrum)" titleNormalized="duodenum bulb (or the gastric antrum)" src="slide34.swf" size="280963" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.7590002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Step 1:
+Reinsert the scope into the duodenal bulb, aspirate the air, inﬂate the balloon, and start scanning. The GB will be visualized between the scope and liver. At this position, scan the gallbladder thoroughly, which can be achieved with careful back-and-forth movement of the scope.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Duodenum bulb (or the gastric antrum) Push Method</text>
+		</slide>
+		<slide index="34" title="Duodenum bulb (or the gastric antrum)" titleNormalized="duodenum bulb (or the gastric antrum)" src="slide35.swf" size="293056" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.8490004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Step 2:
+Advance the scope to the SDA. When the scope enters the descending part of the duodenum, the PV is imaged on the left side of the image and the BD is visualized as a tubular structure between the PV and scope. This area may include images of the cystic duct of the GB, the BD, the proper hepatic artery, and the PD as tubular structures.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Duodenum bulb (or the gastric antrum) Push Method</text>
+		</slide>
+		<slide index="35" title="Duodenum bulb (or the gastric antrum)" titleNormalized="duodenum bulb (or the gastric antrum)" src="slide36.swf" size="250763" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset35" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.7790007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Step 3:
+After the bile duct is visualized, trace it and push the scope with the fine tuning of the ‘‘up/down’’ and ‘‘right/left’’ knobs. This makes it possible to image the area near the major papilla. If you feel resistance, stop advancing the scope to avoid perforation.
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Duodenum bulb (or the gastric antrum) Push Method</text>
+		</slide>
+		<slide index="36" title="Gallbladder" titleNormalized="gallbladder" src="slide37.swf" size="321822" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset36" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="38.2690005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Gallbladder 
+Pull method
+Push method</text>
+		</slide>
+		<slide index="37" title="Organs inside the EUS phantom" titleNormalized="organs inside the eus phantom" src="slide38.swf" size="214719" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset37" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark
+Organs inside the EUS phantom
+● Aim of the training using the phantom
+1. Understand how to delineate 2-3 major landmarks
+2. Delineate the following 2-3 major landmarks from stomach for
+ observation of pancreatic body and tail.</text>
+		</slide>
+		<slide index="38" title="Pancreatobiliary Phantom - Radial Scope (Olympus)" titleNormalized="pancreatobiliary phantom - radial scope (olympus)" src="slide39.swf" size="221276" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset38" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.6089997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pancreatobiliary Phantom - Radial Scope (Olympus)
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="39" title="Pancreatobiliary Phantom - Radial Scope (Olympus)" titleNormalized="pancreatobiliary phantom - radial scope (olympus)" src="slide40.swf" size="227191" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset39" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.3790001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pancreatobiliary Phantom - Radial Scope (Olympus)
+introduction
+Scanning from stomach
+bulb of duodenum 
+2nd portion of duodenum
+Phantom landmark</text>
+		</slide>
+		<slide index="40" title="Take-home messages" titleNormalized="take-home messages" src="slide41.swf" size="1892" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset40" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.1289992"/>
+			</animationSteps>
+			<notes>We need</notes>
+			<notesNormalized>we need</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;We need&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Take-home messages
+In order to be an expert in radial EUS in pancreatobiliary system? 
+
+1. Understand basic maneuver and a sequence of procedures.
+
+2. Get acquainted with landmark structures according to scanning positions.
+
+3. Observe the expert’s procedure as much as possible.
+
+4. And actually perform yourself !!</text>
+		</slide>
+		<slide index="41" title="Thank you for your attention" titleNormalized="thank you for your attention" src="slide42.swf" size="1085614" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset41" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.4390001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for your attention.</text>
+		</slide>
+	</slides>
+</presentation>
