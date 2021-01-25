@@ -1,0 +1,542 @@
+<?xml version="1.0"?>
+<presentation title="21 Seong-Hun Kim" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{5F9B7AA6-8AA7-4367-9F9D-2B8E4C130485}">
+	<presenters>
+		<presenter name="Seong-Hun Kim" title="Korea" email="" web="" phone="" photoAssetId="">
+			<bio>Session 4. Case 1
+Acute cholecystitis</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="198994" duration="7106"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="945051" duration="33751"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="997714" duration="35632"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="920182" duration="32863"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="7525714" duration="268775"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="1182034" duration="42215"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="501074" duration="17895"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="574948" duration="20533"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="1419016" duration="50679"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="568365" duration="20298"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="367222" duration="13115"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="277988" duration="9928"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="386239" duration="13794"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="596159" duration="21291"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="1135954" duration="40569"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="62948" duration="2248"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="7.0739999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="33.7000000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="35.6020000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="32.8330000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="268.7349854"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="42.1749992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="17.8509998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="20.4869995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="50.6510000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="20.2539997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="13.0799999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="9.8769999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="13.7469997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="21.2549992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="40.5400000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="2.2019999"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Session 4. Case 1 Acute cholecystitis" titleNormalized="session 4. case 1 acute cholecystitis" src="slide1.swf" size="375287" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.0729999"/>
+			</animationSteps>
+			<notes>Good afternoon. 
+Thanks for the kind introduction. 
+Let me start my case presentation. </notes>
+			<notesNormalized>good afternoon. 
+thanks for the kind introduction. 
+let me start my case presentation.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Good afternoon. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Thanks for the kind introduction. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Let me start my case presentation. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Seong-Hun Kim
+Department of Internal Medicine, 
+Chonbuk National University Hospital and Medical School Jeonju, Korea
+Session 4. Case 1
+	Acute cholecystitis</text>
+		</slide>
+		<slide index="1" title="Case presentation" titleNormalized="case presentation" src="slide2.swf" size="2154" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.6990008"/>
+			</animationSteps>
+			<notes>An 80-year-old male was transferred to our tertiary hospital after abdominal CT scan due to abdominal pain on the right upper quadrant and epigastric area.
+The patient underwent subtotal gastrectomy for gastric cancer, was taking medication for hypothyroidism, and blinded for macular degeneration.
+Family History was unremarkable.
+</notes>
+			<notesNormalized>an 80-year-old male was transferred to our tertiary hospital after abdominal ct scan due to abdominal pain on the right upper quadrant and epigastric area.
+the patient underwent subtotal gastrectomy for gastric cancer, was taking medication for hypothyroidism, and blinded for macular degeneration.
+family history was unremarkable.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;An 80-year-old male was transferred to our tertiary hospital after abdominal CT scan due to abdominal pain on the right upper quadrant and epigastric area.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The patient underwent &lt;u&gt;subtotal gastrectomy&lt;/u&gt; for &lt;u&gt;gastric cancer&lt;/u&gt;, was taking medication for &lt;u&gt;hypothyroidism&lt;/u&gt;, and &lt;u&gt;blinded&lt;/u&gt; for macular degeneration.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Family History was unremarkable.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Case presentation
+A/S: 80-year-old male 
+C/C: Abdominal pain on the right upper quadrant and epigastric area
+Present Illness: 
+The patient was transferred to our tertiary hospital after abdominal CT scan due to abdominal pain. 
+Past History: 
+The patient underwent subtotal gastrectomy 15 years ago for gastric cancer, was taking medication for hypothyroidism 1 year ago, and blinded for macular degeneration 1 year ago. 
+Family History: unremarkable</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="3194" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.6010012"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Physical Examination: 
+The patient's pain score was NRS 6. 
+The patient had deep tenderness, rebound tenderness on the Right upper quadrant. Murphy sign was positive 
+Vital signs:
+BP (90/70 mmHg), HR (95/min), RR (17/min), Body temperature (38.5℃)
+ Laboratory Findings:
+WBC 18,120 /μl, Hemoglobin 11.2 g/dl, PLT 91,000/μl
+PT 13.7 sec (9.2-12.6), PT 71% (79-120), PT INR 1.29 (0.88-1.19), aPTT 31.8 (24.8-36.1)
+ALP 206 IU/L (45-129), GGT 214 IU/L (8-48), AST 161 IU/L, ALT 173 IU/L, T-bilirubin 3.08 mg/dL, 
+hs-CRP 150 mg/dL (0-5)
+Amylase 71 IU/L (54-168), Lipase 47 U/L (13-60)
+CEA 3.86 ng/mL (&lt;5.0), CA19-9 30.7 U/mL (&lt;37)</text>
+		</slide>
+		<slide index="3" title="Abdominal CT (HD#1) at another clinic" titleNormalized="abdominal ct (hd#1) at another clinic" src="slide4.swf" size="332187" advanceOnTime="1" framesCount="597" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_1baab8c0.spr0_2447765" slides="0" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1baab8c0.spr2_2447765" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video1" videoClipId="ispring.resources_1baab8c0.spr0_2452203" slides="0" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1baab8c0.spr2_2452203" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="596" playTime="24.8333333" pauseTime="7.9996668"/>
+			</animationSteps>
+			<notes>An abdominal CT scan showed distend Gallbladder and Pericholecystic fluid. We also can observe dilated CBD. However definite CBD stone was not noted. </notes>
+			<notesNormalized>an abdominal ct scan showed distend gallbladder and pericholecystic fluid. we also can observe dilated cbd. however definite cbd stone was not noted.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;An abdominal CT scan showed distend Gallbladder and Pericholecystic fluid. We also can observe dilated CBD. However definite CBD stone was not noted. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Abdominal CT (HD#1) at another clinic</text>
+		</slide>
+		<slide index="4" title="Q1. What should we do next?" titleNormalized="q1. what should we do next?" src="slide5.swf" size="60512" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="268.7339854"/>
+			</animationSteps>
+			<notes>His diagnosis is Severe acute cholecystitis with perforation, peri-cholecystic fluid, and cholangitis. 
+His condition was not good for emergent cholecystectomy. And then we thought the endoscopic procedure was not suitable at that time.</notes>
+			<notesNormalized>his diagnosis is severe acute cholecystitis with perforation, peri-cholecystic fluid, and cholangitis. 
+his condition was not good for emergent cholecystectomy. and then we thought the endoscopic procedure was not suitable at that time.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;His diagnosis is Severe acute cholecystitis with perforation, peri-cholecystic fluid, and cholangitis. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;His condition was not good for emergent cholecystectomy. And then we thought the endoscopic procedure was not suitable at that time.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Q1. What should we do next?
+1) Cholecystectomy
+2) PTGBD (with/without percutaneous drainage)
+3) ERCP with endoscopic transpapillary gallbladder drainage
+4) EUS-gallbladder drainage</text>
+		</slide>
+		<slide index="5" title="PTGBD (HD#1)" titleNormalized="ptgbd (hd#1)" src="slide6.swf" size="205095" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.1739992"/>
+			</animationSteps>
+			<notes>So we performed PTGBD.
+Fortunately, definite leakage was not observed on the tubogram. 
+When we injected contrast media additionally, the patency of the cystic duct was noted, and the filling defect was noted at distal CBD. It was stone which we didn't notice that at first. </notes>
+			<notesNormalized>so we performed ptgbd.
+fortunately, definite leakage was not observed on the tubogram. 
+when we injected contrast media additionally, the patency of the cystic duct was noted, and the filling defect was noted at distal cbd. it was stone which we didn't notice that at first.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;So we performed PTGBD.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Fortunately, definite leakage was not observed on the tubogram. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;When we injected contrast media additionally, the patency of the cystic duct was noted, and the filling defect was noted at distal CBD. It was stone which we didn&amp;apos;t notice that at first. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>PTGBD (HD#1)</text>
+		</slide>
+		<slide index="6" title="HD#1 (after PTGBD) Mental change (drowsy), more lowered BP  Atrial fibrillation, old lacunar infarction" titleNormalized="hd#1 (after ptgbd) mental change (drowsy), more lowered bp  atrial fibrillation, old lacunar infarction" src="slide7.swf" size="245058" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.8499998"/>
+			</animationSteps>
+			<notes>After PTGBD, his mental status was changed to drowsy, and BP was more lowered. Atrial fibrillation was newly detected. Old lacunar infarction was noted, but active infarction was not detected.</notes>
+			<notesNormalized>after ptgbd, his mental status was changed to drowsy, and bp was more lowered. atrial fibrillation was newly detected. old lacunar infarction was noted, but active infarction was not detected.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;After PTGBD, his mental status was changed to drowsy, and BP was more lowered. Atrial fibrillation was newly detected. Old lacunar infarction was noted, but active infarction was not detected.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>HD#1 (after PTGBD) 	Mental change (drowsy), more lowered BP 		 Atrial fibrillation, old lacunar infarction</text>
+		</slide>
+		<slide index="7" title="MRCP T2 (HD#2)" titleNormalized="mrcp t2 (hd#2)" src="slide8.swf" size="511455" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.4859995"/>
+			</animationSteps>
+			<notes>We checked MRCP for the checking of pericholecystic fluid and CBD lesion.
+We were able to watch the large GB stone, and CBD stone. However pericholecystic fluid was slightly improved.</notes>
+			<notesNormalized>we checked mrcp for the checking of pericholecystic fluid and cbd lesion.
+we were able to watch the large gb stone, and cbd stone. however pericholecystic fluid was slightly improved.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;We checked MRCP for the checking of pericholecystic fluid and CBD lesion.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We were able to watch the large GB stone, and CBD stone. However pericholecystic fluid was slightly improved.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>MRCP T2 (HD#2)</text>
+		</slide>
+		<slide index="8" title="Q2. What should we do next?" titleNormalized="q2. what should we do next?" src="slide9.swf" size="153713" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="50.6500010"/>
+			</animationSteps>
+			<notes>Honestly, I like EUS-GBD more.
+And most of us are expecting EUS-GBD cases today.
+However, sometimes ETGBD is more useful.</notes>
+			<notesNormalized>honestly, i like eus-gbd more.
+and most of us are expecting eus-gbd cases today.
+however, sometimes etgbd is more useful.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Honestly, I like EUS-GBD more.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;And most of us are expecting EUS-GBD cases today.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;However, sometimes ETGBD is more useful.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Q2. What should we do next?
+1) Cholecystectomy
+2) Keep PTGBD
+3) ERCP with endoscopic transpapillary gallbladder drainage
+4) ERCP with EUS-gallbladder drainage
+5) Only EUS-gallbladder drainage
+</text>
+		</slide>
+		<slide index="9" title="ERCP (HD#10)" titleNormalized="ercp (hd#10)" src="slide10.swf" size="426857" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.2529997"/>
+			</animationSteps>
+			<notes>We decided to choice ERCP with endoscopic gallbladder stenting. The reasons were that he has CBD stone, a relatively wide cystic duct in cholecystogram.
+I was concerned about the lack of space for the stent in the gallbladder.</notes>
+			<notesNormalized>we decided to choice ercp with endoscopic gallbladder stenting. the reasons were that he has cbd stone, a relatively wide cystic duct in cholecystogram.
+i was concerned about the lack of space for the stent in the gallbladder.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;We decided to choice ERCP with endoscopic gallbladder stenting. The reasons were that he has CBD stone, a relatively wide cystic duct in cholecystogram.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;I was concerned about the lack of space for the stent in the gallbladder.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>ERCP (HD#10)</text>
+		</slide>
+		<slide index="10" title="ERCP (HD#10)" titleNormalized="ercp (hd#10)" src="slide11.swf" size="494522" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.0789999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ERCP (HD#10)</text>
+		</slide>
+		<slide index="11" title="ERCP with ETGBD (HD#10)" titleNormalized="ercp with etgbd (hd#10)" src="slide12.swf" size="528095" advanceOnTime="1" framesCount="145" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="144" playTime="6.0000000" pauseTime="3.8769999"/>
+			</animationSteps>
+			<notes>7Fr, 10cm</notes>
+			<notesNormalized>7fr, 10cm</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;7Fr, 10cm&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>ERCP with ETGBD (HD#10)</text>
+		</slide>
+		<slide index="12" title="Cholecystogram by PTGBD (on 17th days after ETGBD)" titleNormalized="cholecystogram by ptgbd (on 17th days after etgbd)" src="slide13.swf" size="461011" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.7459997"/>
+			</animationSteps>
+			<notes>On 17th days after ETGBD, cholecystogram showed good function of a plastic stent.</notes>
+			<notesNormalized>on 17th days after etgbd, cholecystogram showed good function of a plastic stent.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;On 17th days after ETGBD, cholecystogram showed good function of a plastic stent.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Cholecystogram by PTGBD (on 17th days after ETGBD)</text>
+		</slide>
+		<slide index="13" title="Q3. What should we do next?" titleNormalized="q3. what should we do next?" src="slide14.swf" size="85001" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.2539992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Q3. What should we do next?
+1) Cholecystectomy
+2) Keep PTGBD
+3) Remove PTGBD
+4) Convert to EUS-gallbladder drainage</text>
+		</slide>
+		<slide index="14" title="Removal of PTGBD (at OPD)" titleNormalized="removal of ptgbd (at opd)" src="slide15.swf" size="543399" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_22d70910.spr0_2465515" slides="1" repeat="1" volume="0.0000000" posterFrameId="ispring.resources_22d70910.spr2_2465515" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="40.5390009"/>
+			</animationSteps>
+			<notes>We decided to remove the PTGBD. So we clamp the tube of PTGBD for 7days. And then removed the PTGBD. He has beens doing well without the recurrence of cholecystitis for about 1year.</notes>
+			<notesNormalized>we decided to remove the ptgbd. so we clamp the tube of ptgbd for 7days. and then removed the ptgbd. he has beens doing well without the recurrence of cholecystitis for about 1year.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;We decided to remove the PTGBD. So we clamp the tube of PTGBD for 7days. And then removed the PTGBD. He has beens doing well without the recurrence of cholecystitis for about 1year.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Removal of PTGBD (at OPD)</text>
+		</slide>
+		<slide index="15" title="Thank you for your attention!" titleNormalized="thank you for your attention!" src="slide16.swf" size="77335" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.2009999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+Thank you for your attention!
+
+
+</text>
+		</slide>
+	</slides>
+</presentation>
