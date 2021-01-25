@@ -1,0 +1,890 @@
+<?xml version="1.0"?>
+<presentation title="13 Hiroyuki Isayama" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{95E1BEEB-F09F-45AD-952C-441D2D154419}">
+	<presenters>
+		<presenter name="Hiroyuki Isayama" title="Japan" email="" web="" phone="" photoAssetId="">
+			<bio>EUS First</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="367954" duration="13141"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="76845" duration="2744"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="860936" duration="30747"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="381119" duration="13611"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="1342948" duration="47962"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="1394879" duration="49817"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="848502" duration="30303"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="329188" duration="11756"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="652479" duration="23302"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="1650148" duration="58933"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="950171" duration="33934"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="872639" duration="31165"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="661988" duration="23642"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="1296136" duration="46290"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="751222" duration="26829"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="1024045" duration="36573"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="212159" duration="7577"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="1192274" duration="42581"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="844845" duration="30173"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="589576" duration="21056"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="957485" duration="34195"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="645165" duration="23041"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="704411" duration="25157"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="594696" duration="21239"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="3615496" duration="129124"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="921645" duration="32915"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="228251" duration="8151"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="13.1099997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="2.7030000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="30.6970000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="13.5799999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="47.9150000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="49.7830000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="30.2639999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="11.7119999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="1" timeOffset="23.2560000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="58.8919983"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="33.9000000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="31.1299992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="23.5900000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="46.2459984"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="26.7929993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="36.5369987"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="7.5409999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="42.5400000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="1" timeOffset="30.1289992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="21.0209999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="34.1670000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="22.9899998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="25.1250000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="21.1879997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="129.0959930"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="32.8660000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="8.1080000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS First" titleNormalized="eus first" src="slide1.swf" size="1684" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.1089997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Session 3. Debate on Endoscopic Intervention in Biliary Disease
+Drainage in malignant biliary obstruction
+ 
+Hiroyuki Isayama MD., PhD.
+Department of Gastroenterology, Graduate School of Medicine, Juntendo University.
+EUS First</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="1695" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.7020001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Session 3. Debate on Endoscopic Intervention in Biliary Disease
+Drainage in malignant biliary obstruction
+ 
+Hiroyuki Isayama MD., PhD.
+Department of Gastroenterology, Graduate School of Medicine, Juntendo University.
+EUS First ?</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="114632" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.6960005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>J Hepatobiliary Pancreat Sci. 2019;26:249-269
+Collaboration of 
+ Japan Biliary Association (JBA), Japan Gastroenterological Endoscopic Society (JGES), 
+ Japanese Society of Gastroenterology (JSGE) and Japan Pancreas Society</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="283474" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.5789999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-CDS
+(Choledochoduodenostomy)
+EUS-HGS
+(Hepaticogastrostomy)</text>
+		</slide>
+		<slide index="4" title="Advantage of EUS-BD" titleNormalized="advantage of eus-bd" src="slide5.swf" size="1773" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="47.9140009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Advantage of EUS-BD
+Procedure: 
+Easier biliary access: Puncture the dilated bile duct
+Easier insertion of stent: Do not pass the stricture
+
+Complication 
+No pancreatitis and very few cholecystitis
+
+Long term results
+Longer time of recurrent biliary obstruction
+
+</text>
+		</slide>
+		<slide index="5" title="Disadvantage of EUS-BD" titleNormalized="disadvantage of eus-bd" src="slide6.swf" size="1961" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="49.7820009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Disadvantage of EUS-BD
+Limitation of procedure
+Drainage of right-side branch
+EUS window
+
+Not established Procedure
+Lack of dedicated devices
+Re-intervention
+Trouble shooting
+
+
+
+Severe complications 
+Perforation
+Peritonitis
+Bleeding
+</text>
+		</slide>
+		<slide index="6" title="EUS-BD as primary drainage procedure" titleNormalized="eus-bd as primary drainage procedure" src="slide7.swf" size="1886" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.2629999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-BD as primary drainage procedure
+Requirements
+Required devices
+High technical success rate
+Acceptable complication rate 
+Establishment of re-intervention
+Establishment of trouble shooting
+
+Dedicated devices
+All-in-one devices
+Good stents with effective anchoring function
+</text>
+		</slide>
+		<slide index="7" title="Japanese Multicenter experience of EUS-BD" titleNormalized="japanese multicenter experience of eus-bd" src="slide8.swf" size="45332" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.7109999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Japanese Multicenter experience of EUS-BD
+Enrollment period: November 2006～March 2011	
+Hiroyuki Isayama, 	The University of Tokyo.
+Hironori Kato, 	Okayama University Graduate School of Medicine. 
+Takao Itoi, 	Tokyo Medical University.
+Hiroshi Kawakami, 	Hokkaido University Graduate School of Medicine.
+Keiji Hanada, 	Onomichi General Hospital, Onomichi.
+Hirotoshi Ishiwatari, 	Sapporo Medical University School of Medicine.
+Ichiro Yasuda, 	Gifu University Hospital. 
+
+
+Kawakubo K, Isayama H, et al. JHBPS 2014 May;21(5):328-34
+	Cases	Success 	Complications
+CDS	44	95%	14%
+HGS	20	95%	30%
+Covered SEMS			12%
+Plastic stent 			20%
+</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="212346" advanceOnTime="1" framesCount="14" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="13" playTime="0.5000000" pauseTime="22.7560000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Gastrointest Endosc 2012;76:1133-41.)
+		Technical success rate 	Complication rate
+HGS	64.7%	29%
+CDS	86.3%	15.3%
+RV	68.3%	21.6%
+PD	40%	20%</text>
+		</slide>
+		<slide index="9" title="EUS-CDS with fully-covered Wallflex" titleNormalized="eus-cds with fully-covered wallflex" src="slide10.swf" size="126004" advanceOnTime="1" framesCount="1634" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_2a1bdc90.spr0_19232781" slides="1" repeat="1" volume="0.0000000" posterFrameId="ispring.resources_2a1bdc90.spr2_19232781" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1633" playTime="58.8919983" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-CDS with fully-covered Wallflex</text>
+		</slide>
+		<slide index="10" title="EUS-CDS as primary biliary drainage" titleNormalized="eus-cds as primary biliary drainage" src="slide11.swf" size="404441" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.8990015"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Technical success rate &gt; 90%
+Early complications　≃ 10％
+ Reported by Prof. Hara K 
+EUS-CDS as primary biliary drainage</text>
+		</slide>
+		<slide index="11" title="CDS as primary drainage: Japanese prospective multicenter study" titleNormalized="cds as primary drainage: japanese prospective multicenter study" src="slide12.swf" size="263540" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.1289992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CDS as primary drainage: Japanese prospective multicenter study
+EUS-CDS for unresectable distal MBO (n=36)
+Primary biliary drainage
+Fully-covered WallFlex
+10 Japanese centers
+Technical success rate: 97%
+Early complication: 12%
+Nakai Y, Isayama H, et al. JGH Accepted</text>
+		</slide>
+		<slide index="12" title="" titleNormalized="" src="slide13.swf" size="95173" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.5890002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>	EUS-CDS	ETS	P value
+	n=26	n=56
+Clinical success rates,%	96.2 	98.2 	P=0.54
+The mean procedure time, min	19.7	30.2	P&lt;0.01
+Reintervention at 1year, %	16.6	13.6 	P=0.50
+
+Complications, n (%) 	7 (26.9) 	20 (35.7) 	0.46
+Severe/Moderate/Mild, n 	0/5/2 	0/4/16
+Cholecystitis, n 	3 	3 	0.38
+Pancreatitis, n 	0 	9 	0.03
+Liver abscess, n 	2 	0 	0.10
+Fever, n 	0 	3	0.55
+Abdominal pain, n 	0 	5 	0.30
+Peritonitis, n 	1 	0 	0.32
+Cholangitis, n 	1 	1 	0.54
+Conclusions: EUS-CDS performed by expert endoscopists was associated with a short procedure time and no risk of pancreatitis, and would therefore be feasible as a first-line treatment for patients with distal malignant biliary obstruction.
+Kawakubo, Kawakami, et al. Endoscopy 2016; 48: 164-169</text>
+		</slide>
+		<slide index="13" title="EUS-CDS with Hot AXIOS" titleNormalized="eus-cds with hot axios" src="slide14.swf" size="228493" advanceOnTime="1" framesCount="1438" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_3052a3c0.spr0_19278859" slides="1" repeat="1" volume="0.0000000" posterFrameId="ispring.resources_3052a3c0.spr2_19278859" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1437" playTime="46.2459984" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-CDS with Hot AXIOS</text>
+		</slide>
+		<slide index="14" title="EUS-CDS with Axios stent" titleNormalized="eus-cds with axios stent" src="slide15.swf" size="143072" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.7919993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-CDS with Axios stent
+Methods 
+Study design: Prospective, multicenter, data collection
+Patients: Unresectable malignant biliary obstruction
+Institutions: 5 tertiary referral centers.
+Procedures: EUS-CDS with Hot Axios
+
+Results
+N=19 (mean age, 70.6 years; 12 men) 
+Technical success rate: 100% without any adverse event
+Jaundice improved in 79% (&lt;7 days) , 95% (Finally)
+Median follow-up period: 184 days (12-819 days)
+The overall AE: 36.8% (7/19) mostly with mild severity.
+Stent obstruction
+food residue 2, kinking 1, tumor ingrowth 1, spontaneous dislodgement 1
+Tsuchiya T, Bun Teoh AY, Itoi T, Yamao K, Hara K, Nakai Y, Isayama H, Kitano M.
+Gastrointest Endosc. 2017 online published</text>
+		</slide>
+		<slide index="15" title="EUS-HGS" titleNormalized="eus-hgs" src="slide16.swf" size="151358" advanceOnTime="1" framesCount="1863" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_304a8980.spr0_19292968" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_304a8980.spr2_19292968" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1862" playTime="36.5369987" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-HGS</text>
+		</slide>
+		<slide index="16" title="Causes of peritonitis" titleNormalized="causes of peritonitis" src="slide17.swf" size="345387" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.5399999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Causes of peritonitis
+Leakage during the procedure
+　→Rapid procedure, minimum dilation of fistula
+Leakage along the stent
+　→Covered SEMS
+Stent misplacement 
+　→Intra-scope deployment
+Stent migration
+　→Anti-migration system
+　→very long stent
+Courtesy of Prof. Kazuo Hara</text>
+		</slide>
+		<slide index="17" title="Dedicated SEMS for EUS-BD" titleNormalized="dedicated sems for eus-bd" src="slide18.swf" size="357529" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.5390009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Dedicated SEMS for EUS-BD</text>
+		</slide>
+		<slide index="18" title="Results of HGS with long C-SEMS" titleNormalized="results of hgs with long c-sems" src="slide19.swf" size="252164" advanceOnTime="1" framesCount="14" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000"/>
+				<step start="1" end="13" playTime="0.5000000" pauseTime="29.6289992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results of HGS with long C-SEMS
+Cases: 33 (Aug 2011 ~Aug 2015: Panc ca. 52%)
+Reason (GOO76%, altered anatomy 15%, ERCP related complications 9%) 
+Puncture site: B3 (94%), B2 (3%) , LHD (3%)
+Stent length 10 cm (76%), 12cm (24%), 
+Technical success: 100% 
+Procedure-related (&lt;24hr) complications (19%)
+Median stent length in stomach: 54mm
+Complication
+Abd. pain 2, bleeding 1 segmental cholangitis 1, abscess 1
+Recurrent biliary obstruction 24% (hyperplasia 18%, sludge 6%.)
+A median cumulative time to recurrent biliary obstruction 8.5 months.
+Nakai Y, Isayama H, et al. Endoscopy online published</text>
+		</slide>
+		<slide index="19" title="" titleNormalized="" src="slide20.swf" size="685199" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.0199999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="20" title="ClipFlap technique" titleNormalized="clipflap technique" src="slide21.swf" size="645886" advanceOnTime="1" framesCount="498" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_308d59a0.spr0_19315000" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_308d59a0.spr2_19315000" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="497" playTime="20.7083333" pauseTime="13.4616648"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>ClipFlap technique
+Toshio Fujisawa</text>
+		</slide>
+		<slide index="21" title="Re-interventions of EUS-HGS" titleNormalized="re-interventions of eus-hgs" src="slide22.swf" size="545443" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.9889998"/>
+			</animationSteps>
+			<notes>RI時の画像を提示します。左は処置前の内視鏡像で胃内にSEMSが長く突出しているのがわかります。これはHGS施行後のSEMSの腹腔内への迷入を予防するためには有効ですが、RI時にはSEMS胃側端からのアプローチが難しくなる一因となります。そこで本症例ではAPCを用いて、SEMSを切断し、短くなったSEMS内にPSを挿入しました。</notes>
+			<notesNormalized>ri時の画像を提示します。左は処置前の内視鏡像で胃内にsemsが長く突出しているのがわかります。これはhgs施行後のsemsの腹腔内への迷入を予防するためには有効ですが、ri時にはsems胃側端からのアプローチが難しくなる一因となります。そこで本症例ではapcを用いて、semsを切断し、短くなったsems内にpsを挿入しました。</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;RI時の画像を提示します。左は処置前の内視鏡像で胃内にSEMSが長く突出しているのがわかります。これはHGS施行後のSEMSの腹腔内への迷入を予防するためには有効ですが、RI時にはSEMS胃側端からのアプローチが難しくなる一因となります。そこで本症例ではAPCを用いて、SEMSを切断し、短くなったSEMS内にPSを挿入しました。&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Re-interventions of EUS-HGS
+Through the mesh 
+stent insertion
+Exchange of plastic stent
+Stent in stent
+Cut the SEMS with APC and stent in stent
+Akinori Suzuki</text>
+		</slide>
+		<slide index="22" title="" titleNormalized="" src="slide23.swf" size="265645" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.1240000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Clinical Gastroenterology and Hepatology 2016;14:1011–1019
+Efficacy: EUS-BD ≒ PTBD
+Safety &amp; QOL: EUS-BD &gt; PTBD</text>
+		</slide>
+		<slide index="23" title="" titleNormalized="" src="slide24.swf" size="87177" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.1869997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>RCT:EUS-BD or ERCP 
+Unresectable MBO, N=125
+			EUS-BD 	ERCP 
+Technical success 	93.8% 	90.2% 	P = 0.003 (Noninferiority)
+Clinical success 	90.0% 	94.5% 	P = 0.49
+Stent patency at 6M	85.1% 	48.9% 	P = 0.0001
+Adverse events 	6.3% 	19.7%	P = 0.03
+	Pancreatitis	0 	14.8%	P = 0.0001
+
+Technical feasibility: 	EUS-BD = ERCP 
+Stent patency: 	EUS-BD &gt; ERCP
+Patients’ QOL:	EUS-BD &gt; ERCP
+Adverse event: 	EUS-BD &gt; ERCP
+</text>
+		</slide>
+		<slide index="24" title="Removal of migrated SEMS into abd. cavity" titleNormalized="removal of migrated sems into abd. cavity" src="slide25.swf" size="166287" advanceOnTime="1" framesCount="2856" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_30e5d340.spr0_19409562" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_30e5d340.spr2_19409562" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2855" playTime="118.9583333" pauseTime="10.1376597"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Removal of migrated SEMS into abd. cavity</text>
+		</slide>
+		<slide index="25" title="Conclusion" titleNormalized="conclusion" src="slide26.swf" size="1665" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.8650011"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conclusion 
+Expert: OK for EUS first!
+
+Requirements for establishment of EUS-BD procedure
+Dedicated and/or All-in-one device
+
+Establishment of following procedures are mandatory
+Trouble shooting 
+Re-intervention 
+
+
+
+
+</text>
+		</slide>
+		<slide index="26" title="EUS first !" titleNormalized="eus first !" src="slide27.swf" size="1694" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.1089997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Session 3. Debate on Endoscopic Intervention in Biliary Disease
+Drainage in malignant biliary obstruction
+ 
+Hiroyuki Isayama MD., PhD.
+Department of Gastroenterology, Graduate School of Medicine, Juntendo University.
+EUS first !</text>
+		</slide>
+	</slides>
+</presentation>

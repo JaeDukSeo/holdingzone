@@ -1,0 +1,824 @@
+<?xml version="1.0"?>
+<presentation title="12 Jong Kyun Lee" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{C6DEFA30-7612-4C19-8C71-E1939E05EB9B}">
+	<presenters>
+		<presenter name="Jong Kyun Lee" title="Korea" email="" web="" phone="" photoAssetId="">
+			<bio>Drainage in Malignant Biliary Obstruction
+- ERCP first</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="286034" duration="10215"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="879954" duration="31426"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="830948" duration="29676"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="882148" duration="31505"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="528868" duration="18888"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="768776" duration="27456"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="868251" duration="31008"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="264822" duration="9457"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="434514" duration="15518"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="1440959" duration="51462"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="390628" duration="13951"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="540571" duration="19306"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="841188" duration="30042"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="433782" duration="15492"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="422811" duration="15100"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="512045" duration="18287"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="710994" duration="25392"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="601279" duration="21474"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="737325" duration="26333"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="555931" duration="19854"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="374536" duration="13376"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="676616" duration="24164"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="683199" duration="24399"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="484982" duration="17320"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="422811" duration="15100"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="46856" duration="1673"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="10.1770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="31.3980000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="29.6299992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="31.4650000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="18.8519993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="27.4270000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="30.9640000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="9.4090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="15.4820000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="51.4179993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="13.9139996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="19.2530000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="29.9970000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="15.4490000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="15.0480000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="18.2520000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="25.3589993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="21.4209995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="26.2929993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="19.8199997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="13.3470000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="24.1240000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="24.3579998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="17.2840000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="15.0480000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="1.6350000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Drainage in Malignant Biliary Obstruction - ERCP First" titleNormalized="drainage in malignant biliary obstruction - ercp first" src="slide1.swf" size="65394" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.1760000"/>
+			</animationSteps>
+			<notes>too clear to explain for</notes>
+			<notesNormalized>too clear to explain for</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;too clear to explain for&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Drainage in Malignant Biliary Obstruction	 - ERCP First	 
+EUS Summit 2019
+Jong-Kyun Lee, M.D., Ph.D.
+Department of Medicine, Samsung Medical Center Sungkyunkwan University School of Medicine Seoul, Korea</text>
+		</slide>
+		<slide index="1" title="ERCP vs. EUS for malignant biliary obstruction" titleNormalized="ercp vs. eus for malignant biliary obstruction" src="slide2.swf" size="22006" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.3970007"/>
+			</animationSteps>
+			<notes>Agree with 
+will not cover this issue in detail</notes>
+			<notesNormalized>agree with 
+will not cover this issue in detail</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Agree with &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;will not cover this issue in detail&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>ERCP vs. EUS for malignant biliary obstruction 
+The last published guidelines accept the following indications for EUS-BD drainage
+Failed ERCP performed by a referral center with high expertise
+Inaccessible papilla due to altered anatomy or duodenal obstruction precluding papillary access
+contraindication to percutaneous access such as large volume ascites
+
+
+Teoh AYB, Asian EUS group, Gut 2018
+Dumonceau JM, ESGE Guideline, Endoscopy 2018
+Mukai S, Tokyo Guidelines, JHPS 2017
+Kahaleh M, consortium meeting, WJG 2013</text>
+		</slide>
+		<slide index="2" title="Surgically altered anatomy" titleNormalized="surgically altered anatomy" src="slide3.swf" size="158479" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.6289992"/>
+			</animationSteps>
+			<notes>Both ~ are good option for surgically altered anatomy</notes>
+			<notesNormalized>both ~ are good option for surgically altered anatomy</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Both ~ are good option for surgically altered anatomy&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Surgically altered anatomy 
+&gt;
+nonrandomized cohort study 
+The rate of adverse events was significantly higher in EUS-BD group
+e-ERCP is still standard technique 
+EUS-BD is good option in pt. with malignant biliary obstruction and RY reconstruction</text>
+		</slide>
+		<slide index="3" title="Combined malignant biliary and duodenal obstruction" titleNormalized="combined malignant biliary and duodenal obstruction" src="slide4.swf" size="76425" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.4640002"/>
+			</animationSteps>
+			<notes>~ is also troublesome condition 
+Such as HGS</notes>
+			<notesNormalized>~ is also troublesome condition 
+such as hgs</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;~ is also troublesome condition &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Such as HGS&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Combined malignant biliary and duodenal obstruction 
+In type 2, double stenting is successful less than 50%, so combined duodenal stent and EUS-BD would be a good option
+In type 1, 3 duod obst, duodeal stent and ERCP are usually succeeded 
+Nakai Y, Isayama H, et al. Dig Endosc 2017</text>
+		</slide>
+		<slide index="4" title="Issues on ERCP vs. EUS-BD for MBO" titleNormalized="issues on ercp vs. eus-bd for mbo" src="slide5.swf" size="12389" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.8509993"/>
+			</animationSteps>
+			<notes>These issues may be today’s discussion point</notes>
+			<notesNormalized>these issues may be today’s discussion point</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;These issues may be today’s discussion point&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Issues on ERCP vs. EUS-BD for MBO
+Primary drainage 
+Difficult cannulation
+Preoperative vs Palliative 
+Distal vs. Hilar obstruction 
+Uncertain malignant obstruction</text>
+		</slide>
+		<slide index="5" title="Is Primary EUS-BD prime time?" titleNormalized="is primary eus-bd prime time?" src="slide6.swf" size="171191" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.4260000"/>
+			</animationSteps>
+			<notes>The first issue is ~
+There are several meta-analysis comparing ERCP and EUS-BD for the primary drainage of MBO 
+analyzed 5 studies including 3 RCTs. 2 from Korea and 1 from USA.
+Study populations are relatively small 
+Most etiologies ~</notes>
+			<notesNormalized>the first issue is ~
+there are several meta-analysis comparing ercp and eus-bd for the primary drainage of mbo 
+analyzed 5 studies including 3 rcts. 2 from korea and 1 from usa.
+study populations are relatively small 
+most etiologies ~</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The first issue is ~&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;There are several meta-analysis comparing ERCP and EUS-BD for the primary drainage of MBO &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;analyzed 5 studies including 3 RCTs. 2 from Korea and 1 from USA.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Study populations are relatively small &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Most etiologies ~&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Is Primary EUS-BD prime time? 
+Endoscopy 2019</text>
+		</slide>
+		<slide index="6" title="" titleNormalized="" src="slide7.swf" size="169757" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.9630007"/>
+			</animationSteps>
+			<notes>Overall technical ~
+Regarding the stent occlusion, ~</notes>
+			<notesNormalized>overall technical ~
+regarding the stent occlusion, ~</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Overall technical ~&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Regarding the stent occlusion, ~&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Technical and clinical success, procedure time were not different
+EUS-BD showed less tumor ingrowth, but food impaction and migration rate were higher so that overall stent dysfunction rates were similar
+There was no significant difference in overall adverse events
+</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="157609" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.4080004"/>
+			</animationSteps>
+			<notes>However. there was ~
+In particular, Pancreatitis rate ~ This result is fully expected</notes>
+			<notesNormalized>however. there was ~
+in particular, pancreatitis rate ~ this result is fully expected</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;However. there was ~&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In particular, Pancreatitis rate ~ This result is fully expected&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>There was a substantial difference regarding the types of adverse events
+Pancreatitis rate was lower with EUS-BD approach compared to ERCP 
+</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="141082" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.4810004"/>
+			</animationSteps>
+			<notes>On the other hand, there were trends ~
+In terms of severe adverse events, two perforations ~</notes>
+			<notesNormalized>on the other hand, there were trends ~
+in terms of severe adverse events, two perforations ~</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;On the other hand, there were trends ~&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In terms of severe adverse events, two perforations ~&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>There were trends toward increased rates of bile peritonitis, stent migration with the EUS-BD 
+Two perforations were reported only within the EUS-BD group</text>
+		</slide>
+		<slide index="9" title="Primary EUS-BD for malignant biliary obstruction" titleNormalized="primary eus-bd for malignant biliary obstruction" src="slide10.swf" size="31097" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="51.4169993"/>
+			</animationSteps>
+			<notes>Although Primary EUS-BD showed comparable outcome and AEs to ERCP </notes>
+			<notesNormalized>although primary eus-bd showed comparable outcome and aes to ercp</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Although Primary EUS-BD showed comparable outcome and AEs to ERCP &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>All studies were conducted at tertiary care centers with high level of endoscopic expertise 
+Success rate may be lower and AEs higher as the procedure is widely adopted and performed at average-volume centers
+Although EUS-BD may avoid post-ERCP pancreatitis, complications associated with EUS-BD are more severe
+RCTs included mostly PC with distal obstruction, and the results would be different if more BD ca and hilar obst. are included 
+Longitudinal tumor spread may induce tumor ingrowth of CDS stent
+Hilar obstruction is more complicated with EUS-BD
+Primary EUS-BD for malignant biliary obstruction 
+Not yet prime time!</text>
+		</slide>
+		<slide index="10" title="Accessible papilla , but difficult biliary cannulation" titleNormalized="accessible papilla , but difficult biliary cannulation" src="slide11.swf" size="9097" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.9129996"/>
+			</animationSteps>
+			<notes>Next issue  
+We have 4 options </notes>
+			<notesNormalized>next issue 
+we have 4 options</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Next issue  &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We have 4 options &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Precut sphincterotomy 
+Second ERCP 
+EUS-BD
+PTBD 
+Accessible papilla , but difficult biliary cannulation</text>
+		</slide>
+		<slide index="11" title="Precut sphincterotomy" titleNormalized="precut sphincterotomy" src="slide12.swf" size="59598" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.2520003"/>
+			</animationSteps>
+			<notes>~ defined as ~</notes>
+			<notesNormalized>~ defined as ~</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;~ defined as ~&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Precut sphincterotomy 
+Precut is most frequently performed in high volume center
+Early precut sphincterotomy (≤5 attempts, ≤ 5 min, ≤ 3 PD cannulations)
+Improve cannulation success rate by 32%
+
+
+
+Reduce post-ERCP pancreatitis up to 50%
+
+Cennamo V. et al. Endoscopy 2010
+Sundaralingam P. et al. Clin Gastro &amp; Hepatol 2015</text>
+		</slide>
+		<slide index="12" title="Repeat ERCP attempt following failed ERCP" titleNormalized="repeat ercp attempt following failed ercp" src="slide13.swf" size="79408" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.9990000"/>
+			</animationSteps>
+			<notes>Second ERCP attempt after a few days later, is another good option
+In 9 studies, ~</notes>
+			<notesNormalized>second ercp attempt after a few days later, is another good option
+in 9 studies, ~</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Second ERCP attempt after a few days later, is another good option&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In 9 studies, ~&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Repeat ERCP attempt following failed ERCP
+Dumonceau JM, et al. Endoscopy 2018 
+82%
+Repeat ERCP was successful in 442 of 537 patients (82 %)
+Repeat ERCP was more successful if it was repeated at least 2 days after 1st attempt, better patient sedation or referral to experienced endoscopists
+The morbidity associated with the first and subsequent ERCPs was similar 
+</text>
+		</slide>
+		<slide index="13" title="EUS-BD for difficult biliary cannulation" titleNormalized="eus-bd for difficult biliary cannulation" src="slide14.swf" size="91770" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.4480004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>0.6% 
+EUS-BD for difficult biliary cannulation 
+GIE 2016
+EUS-BD might be considered as a substitute for ERCP in a tertiary-care center
+EUS-BD was required in only 0.6% of native papilla ERCPs</text>
+		</slide>
+		<slide index="14" title="EUS-BD for difficult biliary cannulation" titleNormalized="eus-bd for difficult biliary cannulation" src="slide15.swf" size="94954" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.0470003"/>
+			</animationSteps>
+			<notes>In this another study ~
+ </notes>
+			<notesNormalized>in this another study ~
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In this another study ~&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Tonozuka R. et al. GIE 2016 
+EUS-BD for difficult biliary cannulation 
+EUS-BD was required in only 0.5% of accessible papilla, and 3% with inclusion of inaccessible papilla and failed drainage after successful cannulation</text>
+		</slide>
+		<slide index="15" title="Accessible papilla, but difficult biliary cannulation" titleNormalized="accessible papilla, but difficult biliary cannulation" src="slide16.swf" size="17088" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.2510008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Most of difficult biliary cannulation could be solved at high volume center with precut or 2nd attempt of ERCP with high success rate and without increasing AEs rate 
+
+EUS-BD might be used as a substitute for ERCP, but should be considered as a 3rd option in selected cases 
+Accessible papilla, but difficult biliary cannulation</text>
+		</slide>
+		<slide index="16" title="Malignant hilar obstruction" titleNormalized="malignant hilar obstruction" src="slide17.swf" size="138881" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.3579993"/>
+			</animationSteps>
+			<notes>In patients with unresectable malig hilar obstruction, 
+There are ~
+</notes>
+			<notesNormalized>in patients with unresectable malig hilar obstruction, 
+there are ~
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In patients with unresectable malig hilar obstruction, &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;There are ~&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Bilateral biliary drainages are frequently required for the drainage of &gt; 50% of liver volume in order to achieve successful outcome 
+
+
+
+
+
+
+55-60%
+30-35%
+Several established options of bilateral drainage by ERCP	
+Multiple plastic 
+Malignant hilar obstruction 
+SEMS, stent-by-stent
+SEMS, stent-in-stent</text>
+		</slide>
+		<slide index="17" title="EUS-BD for Malignant hilar obstruction" titleNormalized="eus-bd for malignant hilar obstruction" src="slide18.swf" size="49403" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.4199995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-BD for Malignant hilar obstruction 
+Data on EUS-BD for malignant hilar obstruction are limited
+EUS-HGS usually enables drainage of left IHD alone 
+Bilateral drainage by EUS-BD is complicated and performed only in a few expert centers
+Nakai Y, Isayama H, et al. Clin Endosc 2019</text>
+		</slide>
+		<slide index="18" title="Uncertain malignant biliary obstruction" titleNormalized="uncertain malignant biliary obstruction" src="slide19.swf" size="186822" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.2919993"/>
+			</animationSteps>
+			<notes>Sometimes, the cause of obstruction is uncertain before drainage
+Detailed evaluation is possible with ~</notes>
+			<notesNormalized>sometimes, the cause of obstruction is uncertain before drainage
+detailed evaluation is possible with ~</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Sometimes, the cause of obstruction is uncertain before drainage&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Detailed evaluation is possible with ~&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Uncertain malignant biliary obstruction 
+Evaluation of obstructive cause during the same session of drainage by ERCP 
+Detailed cholangiogram
+ERCP with cytology/biopsy 
+Intraductal ultrasonography (IDUS)
+Cholangioscopy 
+Probe-based confocal laser endomicroscopy (p-CLE)</text>
+		</slide>
+		<slide index="19" title="Various options of ERCP stents" titleNormalized="various options of ercp stents" src="slide20.swf" size="299325" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.8189997"/>
+			</animationSteps>
+			<notes>EUS-BD with LAMS ; decrease bile leak, stent migration, and procedure time with one action system, but may increase food impaction   </notes>
+			<notesNormalized>eus-bd with lams ; decrease bile leak, stent migration, and procedure time with one action system, but may increase food impaction</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;EUS-BD with LAMS ; decrease bile leak, stent migration, and procedure time with one action system, but may increase food impaction   &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Various options of ERCP stents
+Plastic, pcSEMS, fcSEMS
+1~3 stents 
+Preoperative vs. palliative 
+Anti-reflux
+Anti-migrating
+Drug-eluting stent</text>
+		</slide>
+		<slide index="20" title="Adjunctive therapy : PDT, RFA" titleNormalized="adjunctive therapy : pdt, rfa" src="slide21.swf" size="263095" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.3460001"/>
+			</animationSteps>
+			<notes>Can be applied easily through ERCP  for ~ </notes>
+			<notesNormalized>can be applied easily through ercp for ~</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Can be applied easily through ERCP  for ~ &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Adjunctive therapy : PDT, RFA
+Can be applied through ERCP for the palliation of cholestasis or improvement of stent patency and quality of life
+
+Monga A, GE 2011;74:935-7</text>
+		</slide>
+		<slide index="21" title="Summary - Why ERCP First" titleNormalized="summary - why ercp first" src="slide22.swf" size="20500" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.1230005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Summary - Why ERCP First 
+Standardized technique and dedicated accessories 
+High success rate by average-experienced endoscopists 
+Detailed evaluation and tissue confirm at the same session of drainage 
+Provision of additional diagnostic modalities such as IDUS, cholangioscopy, pCLE
+Various stents 
+Adjunctive therapy : RFA, PDT</text>
+		</slide>
+		<slide index="22" title="Summary - Why not EUS first" titleNormalized="summary - why not eus first" src="slide23.swf" size="21718" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.3569998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Summary - Why not EUS first
+EUS-BD approach in the primary setting is still at an early stage in terms of limited expertise, procedural volumes, and available evidence
+
+Little is known about the potential variability in EUS-BD success rates and AEs between low- and high-volume EUS centers
+
+Until recently, EUS-BD was reserved for cases of inaccessible papilla or failed ERCP
+</text>
+		</slide>
+		<slide index="23" title="Issues for future strategy" titleNormalized="issues for future strategy" src="slide24.swf" size="17549" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.2830004"/>
+			</animationSteps>
+			<notes>Additional issues for ~ are as follows </notes>
+			<notesNormalized>additional issues for ~ are as follows</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Additional issues for ~ are as follows &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Issues for future strategy 
+High quality studies directly comparing the two methods in large numbers of patients to identify potential differences in ~
+Particular subgroups : PC vs. CCA
+Distal vs. proximal
+Risk of specific adverse events 
+Cost-effectiveness 
+Re-intervention rate 
+Long-term outcome</text>
+		</slide>
+		<slide index="24" title="Conclusion" titleNormalized="conclusion" src="slide25.swf" size="19094" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.0470003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conclusion 
+ERCP should be the first modality for MBO because it provide more established methods and various options, and probably higher success rate at average volume endoscopy centers 
+
+Primary EUS-BD can not be generalized yet until more evidences, dedicated devices and safer techniques are established 
+</text>
+		</slide>
+		<slide index="25" title="Thank you for your kind attention" titleNormalized="thank you for your kind attention" src="slide26.swf" size="932219" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="1.6340000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for your kind attention</text>
+		</slide>
+	</slides>
+</presentation>
