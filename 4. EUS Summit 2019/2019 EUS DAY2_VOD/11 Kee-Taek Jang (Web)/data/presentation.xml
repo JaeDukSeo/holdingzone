@@ -1,0 +1,1004 @@
+<?xml version="1.0"?>
+<presentation title="11 Kee-Taek Jang" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{07577339-214E-45D2-8349-B551DFC3D55F}">
+	<presenters>
+		<presenter name="Kee-Taek Jang" title="Korea" email="" web="" phone="" photoAssetId="">
+			<bio>A pathologist’s advices for endoscopists to make more accurate diagnosis</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="462308" duration="16511"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="1511908" duration="53996"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="1488502" duration="53160"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="1744502" duration="62303"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="827291" duration="29546"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="850696" duration="30382"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="1699885" duration="60710"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="653211" duration="23328"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="1209096" duration="43182"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="710994" duration="25392"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="366491" duration="13088"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="689051" duration="24608"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="294811" duration="10528"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="174125" duration="6218"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="145599" duration="5199"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="599816" duration="21422"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="163885" duration="5853"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="623954" duration="22284"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="509119" duration="18182"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="443291" duration="15831"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="672959" duration="24034"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="444754" duration="15884"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="730742" duration="26097"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="1518491" duration="54231"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="871908" duration="31139"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="1297599" duration="46342"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="1437302" duration="51332"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="1175451" duration="41980"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="1683062" duration="60109"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="987474" duration="35266"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="952365" duration="34013"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="330651" duration="11808"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="798765" duration="28527"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="948708" duration="33882"/>
+		<soundAsset id="sndAsset34" src="sound35.mp3" embedded="0" size="84159" duration="3005"/>
+		<soundAsset id="sndAsset35" src="sound36.mp3" embedded="0" size="82696" duration="2953"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb36.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="16.4829998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="53.9539986"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="53.1199989"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="62.2620000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="29.4960000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="30.3299999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="60.6609993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="23.2900000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="43.1430000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="25.3589993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="13.0459995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="24.5580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="10.4770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="6.1729999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="5.1719999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="21.3880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="5.8060000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="22.2560000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="18.1509991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="15.7819996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="23.9909992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="15.8490000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="26.0590000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="54.1870000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="31.0979996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="46.3129997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="51.2849998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="41.9420000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="60.0600000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="35.2350000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="33.9669991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="11.7779999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="28.4950000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="33.8339996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset34">
+				<startTimestamp slideIndex="34" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="34" stepIndex="0" timeOffset="2.9700000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset35">
+				<startTimestamp slideIndex="35" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="35" stepIndex="0" timeOffset="2.9030000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="A pathologist’s advices for endoscopists to make more accurate diagnosis" titleNormalized="a pathologist’s advices for endoscopists to make more accurate diagnosis" src="slide1.swf" size="575625" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="15.9829998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>A pathologist’s advices for endoscopists to make more accurate diagnosis 
+WISE 2019 &amp; 19th KSGE EUS Hands-on Workshop 
+(Asan Medical Center, 2019.10.6) 
+Kee-Taek JANG
+Department of Pathology, Samsung Medical Center, 
+Sungkyunkwan University School of Medicine</text>
+		</slide>
+		<slide index="1" title="Contents" titleNormalized="contents" src="slide2.swf" size="12997" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="53.4539986"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Contents
+Limitations of EUS-FNA/B from pancreatobiliary tract lesion
+Parameters that affect pathologic diagnosis of EUS-FNA/B interpretation
+How to make a good smear for pathologic diagnosis of EUS-FNA/B
+Ancillary tests in EUS-FNA/B
+Application of molecular tests (NGS) in EUS-FNA/B</text>
+		</slide>
+		<slide index="2" title="Sample for Pathologic diagnosis of EUS-FNA/B" titleNormalized="sample for pathologic diagnosis of eus-fna/b" src="slide3.swf" size="13396" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="52.6199989"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Sample for Pathologic diagnosis of EUS-FNA/B
+Tumor cell volume: the more the better
+Ideal cytologic smear
+Enough tumor cell volume: accurate targeting
+Little degeneration artifact &amp; obscuring blood: rapid fixation
+Parameters those disturbing pathologic diagnosis
+Smear shape: small oval smear &gt;&gt; wide smear
+Obscuring blood
+Degeneration, mostly due to delayed fixation
+</text>
+		</slide>
+		<slide index="3" title="Problems in EUS-FNA from pancreatobiliary tract lesion" titleNormalized="problems in eus-fna from pancreatobiliary tract lesion" src="slide4.swf" size="14408" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="61.7620010"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Problems in EUS-FNA from pancreatobiliary tract lesion
+Low-cellularity: than conventional cytologic smear from other organs (thyroid, breast)
+Variable artifacts
+Contamination of normal intestinal mucosa and blood cells: inevitable
+Reactive atypia of ductal cells due to inflammation and/or radiation therapy
+	☞ difficulty in differential diagnosis</text>
+		</slide>
+		<slide index="4" title="Cytologic Atypia in PB ductal cells" titleNormalized="cytologic atypia in pb ductal cells" src="slide5.swf" size="393166" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="28.9960003"/>
+			</animationSteps>
+			<notes>Fig. 1. Three “atypical” categories utilized during the study period. A: Benign ductal cells are often arranged in flat, cohesive sheets of evenly spaced, round-to-oval, and uniform nuclei (Papanicolaou stain, 603); (B) The category of “atypical, favor reactive” shows enlarged nuclei with prominent nucleoli but without significant anisocytosis and retains architecture (Papanicolaou stain, 603); (C) “Atypical, suspicious for malignancy” cases show one or few rare groups of markedly atypical cells with nuclear enlargement, pleomorphism, anisocytosis, irregular nuclear membranes, loosely cohesive, and disordered architecture (Papanicolaou stain, 603). Most cases turned out to be high-grade carcinomas, which may account for the strikingly malignant morphology of these rare groups of cells in the original bile duct brushings; and (D) Similarly, in “atypical, NOS” cases, one or few rare groups of ductal cells are crowded with some architectural disarray and nuclear atypia but cohesive, often accompanied by inflammatory infiltrate</notes>
+			<notesNormalized>fig. 1. three “atypical” categories utilized during the study period. a: benign ductal cells are often arranged in flat, cohesive sheets of evenly spaced, round-to-oval, and uniform nuclei (papanicolaou stain, 603); (b) the category of “atypical, favor reactive” shows enlarged nuclei with prominent nucleoli but without significant anisocytosis and retains architecture (papanicolaou stain, 603); (c) “atypical, suspicious for malignancy” cases show one or few rare groups of markedly atypical cells with nuclear enlargement, pleomorphism, anisocytosis, irregular nuclear membranes, loosely cohesive, and disordered architecture (papanicolaou stain, 603). most cases turned out to be high-grade carcinomas, which may account for the strikingly malignant morphology of these rare groups of cells in the original bile duct brushings; and (d) similarly, in “atypical, nos” cases, one or few rare groups of ductal cells are crowded with some architectural disarray and nuclear atypia but cohesive, often accompanied by inflammatory infiltrate</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Fig. 1. Three “atypical” categories utilized during the study period. A: Benign ductal cells are often arranged in flat, cohesive sheets of evenly spaced, round-to-oval, and uniform nuclei (Papanicolaou stain, 603); (B) The category of “atypical, favor reactive” shows enlarged nuclei with prominent nucleoli but without significant anisocytosis and retains architecture (Papanicolaou stain, 603); (C) “Atypical, suspicious for malignancy” cases show one or few rare groups of markedly atypical cells with nuclear enlargement, pleomorphism, anisocytosis, irregular nuclear membranes, loosely cohesive, and disordered architecture (Papanicolaou stain, 603). Most cases turned out to be high-grade carcinomas, which may account for the strikingly malignant morphology of these rare groups of cells in the original bile duct brushings; and (D) Similarly, in “atypical, NOS” cases, one or few rare groups of ductal cells are crowded with some architectural disarray and nuclear atypia but cohesive, often accompanied by inflammatory infiltrate&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Cytologic Atypia in PB ductal cells
+Diagn Cytopathol 2015;43:885-891
+Benign ductal cells
+Atypical, favor reactive
+Atypical, NOS
+Atypical, suspicious for malignancy</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="1077557" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.3289999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>1
+3
+2
+4
+Various microscopic range of reactive atypia of PB cells</text>
+		</slide>
+		<slide index="6" title="What should pathologist consider for pathologic diagnosis of EUS-FNA/B?" titleNormalized="what should pathologist consider for pathologic diagnosis of eus-fna/b?" src="slide7.swf" size="13458" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="60.1609993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What should pathologist consider for pathologic diagnosis of EUS-FNA/B?
+Minimum requirement of tumor volume may depends upon clinical setting &amp; pathologist experience
+Obvious mass with vascular invasion and/or distant metastasis: small volume may be enough
+Indeterminate clinical finding between malignancy &amp; benign stricture: need more large volume of cytology
+Other parameter
+CCRT before procedure may induce more exaggerated cytologic atypia (including normal fibroblast and/or endothelial cells)
+Is it repeated procedure or first one?</text>
+		</slide>
+		<slide index="7" title="Radiation induced atypia by radiation therapy" titleNormalized="radiation induced atypia by radiation therapy" src="slide8.swf" size="734543" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.2890009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Radiation induced atypia by radiation therapy</text>
+		</slide>
+		<slide index="8" title="Artifacts in EUS-FNA cytology" titleNormalized="artifacts in eus-fna cytology" src="slide9.swf" size="12907" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="42.6430016"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Artifacts in EUS-FNA cytology
+Obscuring bloody smear: inevitable, but under-pressure smear may obscure
+Degeneration artifact: more rapid in PB cytology &amp; delayed fixation
+Crushing artifact: over-pressure smear</text>
+		</slide>
+		<slide index="9" title="Artifacts in EUS-FNA" titleNormalized="artifacts in eus-fna" src="slide10.swf" size="440442" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.3579993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Artifacts in EUS-FNA
+Bloody smear
+Degeneration artifact</text>
+		</slide>
+		<slide index="10" title="Pull Technique" titleNormalized="pull technique" src="slide11.swf" size="160764" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.0449995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pull Technique
+Please make a small oval shape smear</text>
+		</slide>
+		<slide index="11" title="Smear is important" titleNormalized="smear is important" src="slide12.swf" size="448934" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.5570006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Smear is important
+Good smear
+Not good smear</text>
+		</slide>
+		<slide index="12" title="How to make a good smear?" titleNormalized="how to make a good smear?" src="slide13.swf" size="447870" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.4760002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How to make a good smear?</text>
+		</slide>
+		<slide index="13" title="How to make a good smear?" titleNormalized="how to make a good smear?" src="slide14.swf" size="395169" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.1719999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How to make a good smear?</text>
+		</slide>
+		<slide index="14" title="Ovoid shape smear" titleNormalized="ovoid shape smear" src="slide15.swf" size="455104" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.1709999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ovoid shape smear</text>
+		</slide>
+		<slide index="15" title="Small ovoid shape smear" titleNormalized="small ovoid shape smear" src="slide16.swf" size="227749" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.3870005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Small ovoid shape smear</text>
+		</slide>
+		<slide index="16" title="Good Cytology Smear" titleNormalized="good cytology smear" src="slide17.swf" size="272038" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.8050002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Good Cytology Smear</text>
+		</slide>
+		<slide index="17" title="Volume &amp; Smear" titleNormalized="volume &amp; smear" src="slide18.swf" size="14708" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="21.7560005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Volume &amp; Smear
+Tumor cell volume &amp; Smear
+Large volume
+Small volume
+Large volume / good smear
+Small volume / good smear
+Large volume / bad smear
+Small volume / bad smear
+Pathologist’s preference for diagnosis</text>
+		</slide>
+		<slide index="18" title="Whole slide searching (Searching the Ocean)" titleNormalized="whole slide searching (searching the ocean)" src="slide19.swf" size="508319" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.1499991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Whole slide searching (Searching the Ocean) 
+Finding cancer cells in a pull tech-smear spread all over the slide is like searching the ocean</text>
+		</slide>
+		<slide index="19" title="Ancillary tests for EUS-FNA Cytology" titleNormalized="ancillary tests for eus-fna cytology" src="slide20.swf" size="250501" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="15.2819996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ancillary tests for EUS-FNA Cytology</text>
+		</slide>
+		<slide index="20" title="Immunostain on cytology smear or cell-block" titleNormalized="immunostain on cytology smear or cell-block" src="slide21.swf" size="654135" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.9899992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Immunostain on cytology smear or cell-block</text>
+		</slide>
+		<slide index="21" title="FISH, CISH in cytology" titleNormalized="fish, cish in cytology" src="slide22.swf" size="413320" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="15.3490000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>FISH, CISH in cytology</text>
+		</slide>
+		<slide index="22" title="EUS-FNA show superior DNA quality than FFPE" titleNormalized="eus-fna show superior dna quality than ffpe" src="slide23.swf" size="233255" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.0580000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA show superior DNA quality than FFPE
+Cancer Cytopathol 2017 Nov;125(11):838-847</text>
+		</slide>
+		<slide index="23" title="Pancreatic Cystic Fluid Analysis" titleNormalized="pancreatic cystic fluid analysis" src="slide24.swf" size="18848" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="53.6870003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pancreatic Cystic Fluid Analysis
+Cancer Cytopathol 2018;126:S8:687</text>
+		</slide>
+		<slide index="24" title="What is already known?" titleNormalized="what is already known?" src="slide25.swf" size="13563" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="30.5979996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What is already known?
+DNA-based testing has emerged as an adjunct to the assessment of pancreatic cysts (PCs).
+Although cellular content and fluid volume of PC aspirates are commonly sub-optimal for routine ancillary studies, such as cytopathology and carcinoembryonic antigen (CEA) quantitation, DNA from lysed or exfoliated cyst epithelial lining shed into the PC fluid can be analyzed for genetic abnormalities.
+Several studies have evaluated DNA-based testing of PCs, but they have largely been retrospective in design, using postoperative specimens, limited in sample size, lack adequate follow-up and/or suffer from insensitive detection strategies.
+Gut 2018;676:2131-2141</text>
+		</slide>
+		<slide index="25" title="Mucinous Cystic Neoplasm" titleNormalized="mucinous cystic neoplasm" src="slide26.swf" size="200452" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="46.3119997"/>
+			</animationSteps>
+			<notes>Fig. 5. DNA-based molecular testing of an MCN. (A) Coronal contrast-enhanced CT imaging shows a 5.5-cm cystic lesion (red arrow) involving the pancreatic body and tail. (B) A corresponding cytology specimen consisted of histiocytes and acute inflammation with a differential diagnosis of a pseudocyst (Pap stain, original magnification 600). (C) Mutational testing for KRAS revealed a missense mutation (black arrow) in codon 12 (electropherogram).
+(D) On resection, the pancreatic cyst correlated with the molecular findings and was consistent with a mucinous cystic neoplasm with low-grade dysplasia (H&amp;E, original magnification 200).</notes>
+			<notesNormalized>fig. 5. dna-based molecular testing of an mcn. (a) coronal contrast-enhanced ct imaging shows a 5.5-cm cystic lesion (red arrow) involving the pancreatic body and tail. (b) a corresponding cytology specimen consisted of histiocytes and acute inflammation with a differential diagnosis of a pseudocyst (pap stain, original magnification 600). (c) mutational testing for kras revealed a missense mutation (black arrow) in codon 12 (electropherogram).
+(d) on resection, the pancreatic cyst correlated with the molecular findings and was consistent with a mucinous cystic neoplasm with low-grade dysplasia (h&amp;e, original magnification 200).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Fig. 5. DNA-based molecular testing of an MCN. (A) Coronal contrast-enhanced CT imaging shows a 5.5-cm cystic lesion (red arrow) involving the pancreatic body and tail. (B) A corresponding cytology specimen consisted of histiocytes and acute inflammation with a differential diagnosis of a pseudocyst (Pap stain, original magnification 600). (C) Mutational testing for KRAS revealed a missense mutation (black arrow) in codon 12 (electropherogram).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;(D) On resection, the pancreatic cyst correlated with the molecular findings and was consistent with a mucinous cystic neoplasm with low-grade dysplasia (H&amp;amp;E, original magnification 200).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Mucinous Cystic Neoplasm
+
+CT: 5.5-cm cystic lesion (red arrow) involving the pancreatic body and tail.
+Cytology: histiocytes and acute inflammation with a differential diagnosis of a pseudocyst 
+Mutational testing for KRAS revealed a missense mutation (black arrow) in codon 12 (electropherogram).
+Histology: the pancreatic cyst correlated with the molecular findings and was consistent with a mucinous cystic neoplasm with low-grade dysplasia
+Surg Pathol Clinc 2016;6:441-456</text>
+		</slide>
+		<slide index="26" title="Intraductal Papillary-Mucinous Neoplasm" titleNormalized="intraductal papillary-mucinous neoplasm" src="slide27.swf" size="200793" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="51.2839998"/>
+			</animationSteps>
+			<notes>Fig. 4. DNA-based molecular testing of an IPMN. (A) Contrast-enhanced computed tomography imaging demonstrated a 3.8-cm cystic lesion (red arrow) involving the tail of the pancreas that was interpreted to be walled off
+necrosis in a patient with a history of chronic pancreatitis. (B) An EUS-FNA was performed and cytology revealed a hypocellular specimen that consisted of macrophages, red blood cells, and debris. Overall, the cytologic and imaging
+findings were not concerning for a neoplasm (Pap stain, original magnification 600). (C) However, molecular analysis of EUS-FNA pancreatic cyst fluid identified missense mutations (black arrows) in codon 61 of KRAS
+and codon 201 GNAS (electropherograms). (D) Consistent with the molecular results, resection of the pancreatic cyst showed a mixed branch duct and main duct IPMN with low-grade dysplasia and of gastric histologic subtype
+(hematoxylin-eosin [H&amp;E], original magnification 200).</notes>
+			<notesNormalized>fig. 4. dna-based molecular testing of an ipmn. (a) contrast-enhanced computed tomography imaging demonstrated a 3.8-cm cystic lesion (red arrow) involving the tail of the pancreas that was interpreted to be walled off
+necrosis in a patient with a history of chronic pancreatitis. (b) an eus-fna was performed and cytology revealed a hypocellular specimen that consisted of macrophages, red blood cells, and debris. overall, the cytologic and imaging
+findings were not concerning for a neoplasm (pap stain, original magnification 600). (c) however, molecular analysis of eus-fna pancreatic cyst fluid identified missense mutations (black arrows) in codon 61 of kras
+and codon 201 gnas (electropherograms). (d) consistent with the molecular results, resection of the pancreatic cyst showed a mixed branch duct and main duct ipmn with low-grade dysplasia and of gastric histologic subtype
+(hematoxylin-eosin [h&amp;e], original magnification 200).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Fig. 4. DNA-based molecular testing of an IPMN. (A) Contrast-enhanced computed tomography imaging demonstrated a 3.8-cm cystic lesion (red arrow) involving the tail of the pancreas that was interpreted to be walled off&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;necrosis in a patient with a history of chronic pancreatitis. (B) An EUS-FNA was performed and cytology revealed a hypocellular specimen that consisted of macrophages, red blood cells, and debris. Overall, the cytologic and imaging&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;findings were not concerning for a neoplasm (Pap stain, original magnification 600). (C) However, molecular analysis of EUS-FNA pancreatic cyst fluid identified missense mutations (black arrows) in codon 61 of KRAS&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;and codon 201 GNAS (electropherograms). (D) Consistent with the molecular results, resection of the pancreatic cyst showed a mixed branch duct and main duct IPMN with low-grade dysplasia and of gastric histologic subtype&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;(hematoxylin-eosin [H&amp;amp;E], original magnification 200).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Intraductal Papillary-Mucinous Neoplasm
+CT: 3.8-cm cystic lesion (red arrow) involving the tail of the pancreas-walled off necrosis in a patient with a history of chronic pancreatitis. 
+An EUS-FNA: hypocellular specimen that consisted of macrophages, red blood cells, and debris. Overall, the cytologic and imaging findings were not concerning for a neoplasm.
+Molecular analysis of EUS-FNA pancreatic cyst fluid: missense mutations (black arrows) in codon 61 of KRAS and codon 201 GNAS (electropherograms).
+Consistent with the molecular results, resection of the pancreatic cyst showed a mixed branch duct and main duct IPMN with low-grade dysplasia and of gastric histologic subtype
+
+Surg Pathol Clinc 2016;6:441-456</text>
+		</slide>
+		<slide index="27" title="Serous cystic neoplasm" titleNormalized="serous cystic neoplasm" src="slide28.swf" size="192043" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="41.9410013"/>
+			</animationSteps>
+			<notes>Fig. 6. DNA-based molecular testing of an SCA. (A) MRI demonstrated a 4.5-cm cyst (red arrow) within the pancreatic body. Comparison with the patient’s prior scan 1 year ago showed an interval increase in cyst size
+by 1 cm. These findings were concerning for an IPMN. (B) Pancreatic cyst cytology revealed a hypocellular specimen with predominantly blood and macrophages (Pap stain, original magnification 600). (C)Molecular analysis
+of the pancreatic cyst fluid detected a missense mutation in codon 30 (black arrow) of VHL (electropherogram). (D) Consistent with the molecular results, the pancreatectomy specimen showed a serous cystadenoma (H&amp;E,
+original magnification 200). An IPMN was not identified.</notes>
+			<notesNormalized>fig. 6. dna-based molecular testing of an sca. (a) mri demonstrated a 4.5-cm cyst (red arrow) within the pancreatic body. comparison with the patient’s prior scan 1 year ago showed an interval increase in cyst size
+by 1 cm. these findings were concerning for an ipmn. (b) pancreatic cyst cytology revealed a hypocellular specimen with predominantly blood and macrophages (pap stain, original magnification 600). (c)molecular analysis
+of the pancreatic cyst fluid detected a missense mutation in codon 30 (black arrow) of vhl (electropherogram). (d) consistent with the molecular results, the pancreatectomy specimen showed a serous cystadenoma (h&amp;e,
+original magnification 200). an ipmn was not identified.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Fig. 6. DNA-based molecular testing of an SCA. (A) MRI demonstrated a 4.5-cm cyst (red arrow) within the pancreatic body. Comparison with the patient’s prior scan 1 year ago showed an interval increase in cyst size&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;by 1 cm. These findings were concerning for an IPMN. (B) Pancreatic cyst cytology revealed a hypocellular specimen with predominantly blood and macrophages (Pap stain, original magnification 600). (C)Molecular analysis&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;of the pancreatic cyst fluid detected a missense mutation in codon 30 (black arrow) of VHL (electropherogram). (D) Consistent with the molecular results, the pancreatectomy specimen showed a serous cystadenoma (H&amp;amp;E,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;original magnification 200). An IPMN was not identified.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Serous cystic neoplasm
+MRI: 4.5-cm cyst (red arrow) within pancreatic body. Comparison with the patient’s prior scan 1 year ago showed an interval increase in cyst size by 1 cm. These findings were concerning for an IPMN. 
+Pancreatic cyst cytology: hypocellular specimen with predominantly blood and macrophages 
+Molecular analysis of cyst fluid: missense mutation in codon 30 (black arrow) of VHL (electropherogram).
+Resected specimen showed a serous cystadenoma
+Surg Pathol Clinc 2016;6:441-456</text>
+		</slide>
+		<slide index="28" title="Retention cyst" titleNormalized="retention cyst" src="slide29.swf" size="257026" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="60.0590014"/>
+			</animationSteps>
+			<notes>Fig. 7. DNA-based molecular testing of a retention cyst. (A) Contrast-enhanced CT imaging demonstrated a 4.2-cm cyst (red arrow) within the pancreatic tail of a patient with a history of chronic pancreatitis. (B) The subsequent
+cytology specimen revealed epithelial cells with marked nuclear enlargement, anisonucleosis and prominent nucleoli that was interpreted as positive for adenocarcinoma (Pap stain, original magnification 600).
+However, molecular analysis detected no mutations in KRAS, GNAS, VHL, TP53, PIK3CA, or PTEN. (C) The surgical resection specimen was consistent with a retention cyst in a background of marked chronic pancreatitis (H&amp;E,
+original magnification 40). (D) Within the retention cyst lining, reactive ductal epithelium similar to the cytologic findings was identified (H&amp;E, original magnification 600).</notes>
+			<notesNormalized>fig. 7. dna-based molecular testing of a retention cyst. (a) contrast-enhanced ct imaging demonstrated a 4.2-cm cyst (red arrow) within the pancreatic tail of a patient with a history of chronic pancreatitis. (b) the subsequent
+cytology specimen revealed epithelial cells with marked nuclear enlargement, anisonucleosis and prominent nucleoli that was interpreted as positive for adenocarcinoma (pap stain, original magnification 600).
+however, molecular analysis detected no mutations in kras, gnas, vhl, tp53, pik3ca, or pten. (c) the surgical resection specimen was consistent with a retention cyst in a background of marked chronic pancreatitis (h&amp;e,
+original magnification 40). (d) within the retention cyst lining, reactive ductal epithelium similar to the cytologic findings was identified (h&amp;e, original magnification 600).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Fig. 7. DNA-based molecular testing of a retention cyst. (A) Contrast-enhanced CT imaging demonstrated a 4.2-cm cyst (red arrow) within the pancreatic tail of a patient with a history of chronic pancreatitis. (B) The subsequent&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;cytology specimen revealed epithelial cells with marked nuclear enlargement, anisonucleosis and prominent nucleoli that was interpreted as positive for adenocarcinoma (Pap stain, original magnification 600).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;However, molecular analysis detected no mutations in KRAS, GNAS, VHL, TP53, PIK3CA, or PTEN. (C) The surgical resection specimen was consistent with a retention cyst in a background of marked chronic pancreatitis (H&amp;amp;E,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;original magnification 40). (D) Within the retention cyst lining, reactive ductal epithelium similar to the cytologic findings was identified (H&amp;amp;E, original magnification 600).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Retention cyst
+CT: 4.2-cm cyst (red arrow) within the pancreatic tail of a patient with a history of chronic pancreatitis. 
+Cytology specimen: epithelial cells with marked nuclear enlargement, anisonucleosis and prominent nucleoli that was interpreted as positive for adenocarcinoma, but molecular analysis: no mutations in KRAS, GNAS, VHL, TP53, PIK3CA, or PTEN. 
+The surgical resection specimen: Retention cyst in a background of marked chronic pancreatitis 
+Within the retention cyst lining, reactive ductal epithelium similar to the cytologic findings 
+Surg Pathol Clinc 2016;6:441-456</text>
+		</slide>
+		<slide index="29" title="IPMN associated with invasive carcinoma" titleNormalized="ipmn associated with invasive carcinoma" src="slide30.swf" size="221306" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.2340006"/>
+			</animationSteps>
+			<notes>Figure 2 DNA-based molecular testing of a pancreatic head cyst. An incidental 3 cm pancreatic head cyst with no associated main duct dilatation or mural nodule by both (A) CT (red arrow) and (B) endoscopic ultrasound. Fine-needle aspiration and subsequent (C) cytopathology showed atypical cells with no definitive mucin. However, DNA analysis identified mutations in GNAS and PIK3CA with MAFs of 51% and 50%, respectively. Follow-up
+surgical resection revealed an (D) invasive moderately differentiated adenocarcinoma (black arrows) arising in an intraductal papillary mucinous neoplasm. MAFs, mutant allele frequencies.</notes>
+			<notesNormalized>figure 2 dna-based molecular testing of a pancreatic head cyst. an incidental 3 cm pancreatic head cyst with no associated main duct dilatation or mural nodule by both (a) ct (red arrow) and (b) endoscopic ultrasound. fine-needle aspiration and subsequent (c) cytopathology showed atypical cells with no definitive mucin. however, dna analysis identified mutations in gnas and pik3ca with mafs of 51% and 50%, respectively. follow-up
+surgical resection revealed an (d) invasive moderately differentiated adenocarcinoma (black arrows) arising in an intraductal papillary mucinous neoplasm. mafs, mutant allele frequencies.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;&lt;b&gt;Figure 2 &lt;/b&gt;DNA-based molecular testing of a pancreatic head cyst. An incidental 3 cm pancreatic head cyst with no associated main duct dilatation or mural nodule by both (A) CT (red arrow) and (B) endoscopic ultrasound. Fine-needle aspiration and subsequent (C) cytopathology showed atypical cells with no definitive mucin. However, DNA analysis identified mutations in &lt;i&gt;GNAS &lt;/i&gt;and &lt;i&gt;PIK3CA &lt;/i&gt;with MAFs of 51% and 50%, respectively. Follow-up&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;surgical resection revealed an (D) invasive moderately differentiated adenocarcinoma (black arrows) arising in an intraductal papillary mucinous neoplasm. MAFs, mutant allele frequencies.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>IPMN associated with invasive carcinoma
+CT: 3 cmm pancreas head cyst without mural nodule 
+EUS : same with above
+cytopathology: some atypical cells with no definitive mucin, but DNA analysis identified mutations in GNAS and PIK3CA with MAFs of 51% and 50%, respectively. 
+Follow-up surgical resection revealed an invasive moderately differentiated adenocarcinoma
+Gut 2018;676:2131-2141</text>
+		</slide>
+		<slide index="30" title="What are the new findings?" titleNormalized="what are the new findings?" src="slide31.swf" size="13717" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="33.4669991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What are the new findings?
+Mutations in KRAS and/or GNAS by next-generation sequencing (NGS) are highly sensitive and specific for intraductal papillary mucinous neoplasms (IPMNs), but not mucinous cystic neoplasms (MCNs).
+The sensitivity of preoperative DNA-based testing for IPMNs and MCNs was lower with Sanger sequencing than NGS.
+The preoperative detection of mutations/deletions in TP53, PIK3CA and/or PTEN with mutant allele frequencies (MAFs) that are equivalent to MAFs for KRAS and/or GNAS mutations was highly sensitive and specific for IPMNs with advanced neoplasia (high-grade dysplasia and invasive adenocarcinoma).
+Gut 2018;676:2131-2141</text>
+		</slide>
+		<slide index="31" title="What are the new findings?" titleNormalized="what are the new findings?" src="slide32.swf" size="13303" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="11.2779999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What are the new findings?
+Low-level mutations in TP53, PIK3CA and/or PTEN were detected in IPMNs with low-grade dysplasia and may represent a subset of IPMNs at risk for malignant transformation.
+Mutant allele frequencies for GNAS mutations &gt;55% correlated with IPMNs with high-grade dysplasia.
+The usage of preoperative NGS result in accurately classifying PCs and the detection of IPMNs harbouring advanced neoplasia.
+
+Gut 2018;676:2131-2141</text>
+		</slide>
+		<slide index="32" title="Summary" titleNormalized="summary" src="slide33.swf" size="13421" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="27.9950008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Summary
+EUS-FNA/B may be remained as gold standard method in evaluation of PB cancer as most PB cancer will be detected at advanced stage
+Understanding of pre-analytic factors: obscuring blood, degeneration
+Reduce artifact by accurate targeting, rapid &amp; proper fixation, adequate smear (small ovoid shape smear)
+Discrepancy between biopsy/cytology &amp; resected specimen is not uncommon due to heterogeneity: not only histopathology but also molecular profiles</text>
+		</slide>
+		<slide index="33" title="Summary" titleNormalized="summary" src="slide34.swf" size="13158" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="33.3339996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Summary
+Ancillary tests can be applied in differential diagnosis of pancreatic cystic neoplasm.
+Multi-panel molecular test may be possible, but practical application may be limited.
+NGS may be useful, but failure rate is around 30% despite of pathologic QC. 
+Most important pre-analytic parameters: endoscopist technique &amp; pathologist’s experience.</text>
+		</slide>
+		<slide index="34" title="Key References" titleNormalized="key references" src="slide35.swf" size="262447" advanceOnTime="1" framesCount="25" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="24" playTime="1.0000000" pauseTime="1.9700000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Key References
+Ancillary tests in the diagnosis of liver and pancreatic neoplasms. Cancer Cytopathol. 2018;126 Suppl 8:672-690.
+Value of adding GNAS testing to pancreatic cyst fluid KRAS and carcinoembryonic antigen analysis for the diagnosis of intraductal papillary mucinous neoplasms. Dig Endosc. 2017;29:111-117.
+DNA testing of pancreatic cyst fluid: is it ready for prime time? Lancet Gastroenterol Hepatol. 2017;2(1):63-72.
+Predicting the Grade of Dysplasia of Pancreatic Cystic Neoplasms Using Cyst Fluid DNA Methylation Markers. Clin Cancer Res. 2017;23(14):3935-3944.
+Preoperative characteristics and cytological features of 136 histologically confirmed pancreatic mucinous cystic neoplasms. Cancer. 2017;125:169-177.</text>
+		</slide>
+		<slide index="35" title="Thanks for your attention!!!" titleNormalized="thanks for your attention!!!" src="slide36.swf" size="359135" advanceOnTime="1" framesCount="13" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset35" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="12" playTime="0.5000000" pauseTime="2.4030001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thanks for your attention!!!</text>
+		</slide>
+	</slides>
+</presentation>

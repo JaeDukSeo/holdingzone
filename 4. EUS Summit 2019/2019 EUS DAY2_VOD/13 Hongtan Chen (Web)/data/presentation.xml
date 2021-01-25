@@ -1,0 +1,705 @@
+<?xml version="1.0"?>
+<presentation title="13 Hongtan Chen" width="1365.0000000" height="768.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{EFCA7CC9-D01F-4889-92A4-3E803D2D77C6}">
+	<presenters>
+		<presenter name="Hongtan Chen" title="China" email="" web="" phone="" photoAssetId="">
+			<bio>Portal Hypertension and Gastric Varix Treatment by EUS</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="774628" duration="27665"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="926034" duration="33072"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="659062" duration="23537"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="574948" duration="20533"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="356251" duration="12723"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="828754" duration="29598"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="561782" duration="20063"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="576411" duration="20586"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="483519" duration="17268"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="362834" duration="12958"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="346011" duration="12357"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="397211" duration="14186"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="400136" duration="14290"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="718308" duration="25653"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="482056" duration="17216"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="2284296" duration="81582"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="515702" duration="18417"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="1684525" duration="60161"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="1154971" duration="41248"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="649554" duration="23198"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="694171" duration="24791"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="423542" duration="15126"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="825828" duration="29493"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="234834" duration="8386"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="27.6280000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="33.0330000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="23.4899998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="20.4869995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="12.6789999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="29.5629997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="20.0200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="20.5540000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="17.2169991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="12.9130000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="12.3120000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="14.1470000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="14.2480000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="25.6259995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="17.1840000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="81.5479965"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="18.3850000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="60.1270000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="41.2080000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="23.1560000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="24.7580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="15.0819998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="29.4629993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="8.3420000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Portal Hypertension and Gastric Varix Treatment by EUS" titleNormalized="portal hypertension and gastric varix treatment by eus" src="slide1.swf" size="247647" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.6270003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Portal Hypertension and Gastric Varix Treatment by EUS
+Hongtan Chen, MD
+ 
+The First Affiliated Hospital of Zhejiang University, School of Medicine
+Hangzhou, China 
+</text>
+		</slide>
+		<slide index="1" title="Portal Hypertension and Gastric Varix" titleNormalized="portal hypertension and gastric varix" src="slide2.swf" size="1800" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.0320009"/>
+			</animationSteps>
+			<notes>Gastric varix are present in approximately 20% of patients with portal hypertension either in isolation or in combination with esophageal varix (EV).
+GV bleeds less frequently than EV.
+ However, bleeding from GV tends to be more severe and lethal.
+ Furthermore, endoscopic treatment for GV is more difficult and challenging..</notes>
+			<notesNormalized>gastric varix are present in approximately 20% of patients with portal hypertension either in isolation or in combination with esophageal varix (ev).
+gv bleeds less frequently than ev.
+ however, bleeding from gv tends to be more severe and lethal.
+ furthermore, endoscopic treatment for gv is more difficult and challenging..</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22" color="#000000"&gt;Gastric varix are present in approximately &lt;/font&gt;&lt;font size="22" color="#ff0000"&gt;20%&lt;/font&gt;&lt;font size="22" color="#000000"&gt; of patients with portal hypertension either in isolation or in combination with esophageal varix (EV).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="22" color="#000000"&gt;GV bleeds less frequently than EV.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="22" color="#000000"&gt; However, bleeding from GV tends to be more severe and lethal.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="22" color="#000000"&gt; Furthermore, endoscopic treatment for GV is more difficult and challenging..&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Portal Hypertension and Gastric Varix
+Gastric varix（GV） are present in approximately 20% of patients with portal hypertension either in isolation or in combination with esophageal varix (EV).
+GV bleeds less frequently than EV.
+ Bleeding from GV tends to be more severe and lethal.
+ Endoscopic treatment for GV is difficult and challenging.
+</text>
+		</slide>
+		<slide index="2" title="Sarin Classification" titleNormalized="sarin classification" src="slide3.swf" size="45418" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.4889998"/>
+			</animationSteps>
+			<notes>Gastric varices are categorized into 4 types based on the relationship with EV, as well as by their location in the stomach: GOV type 1, GOV type 2, isolated gastric varix (IGV) type 1, and IGV type 2. </notes>
+			<notesNormalized>gastric varices are categorized into 4 types based on the relationship with ev, as well as by their location in the stomach: gov type 1, gov type 2, isolated gastric varix (igv) type 1, and igv type 2.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="24"&gt;Gastric varices are categorized into 4 types based on the relationship with EV, as well as by their location in the stomach: GOV type 1, GOV type 2, isolated gastric varix (IGV) type 1, and IGV type 2. &lt;/font&gt;&lt;font size="22"&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Sarin Classification
+GVs are categorized into 4 types based on the relationship with EV, as well as by their location in the stomach: Gastroesophageal Varices (GOV) type 1, GOV type 2, isolated gastric varix (IGV) type 1, and IGV type 2.
+IGV1
+IGV2</text>
+		</slide>
+		<slide index="3" title="IGV1" titleNormalized="igv1" src="slide4.swf" size="891722" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.4859995"/>
+			</animationSteps>
+			<notes>GOV type 1 is the most common type. The incidence of bleeding is highest with IGV type 1 followed by GOV type 2.  And the venous drainage of IGV1 is different from GOV.</notes>
+			<notesNormalized>gov type 1 is the most common type. the incidence of bleeding is highest with igv type 1 followed by gov type 2. and the venous drainage of igv1 is different from gov.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22" color="#000000"&gt;GOV type 1 is the most common type. &lt;/font&gt;&lt;font size="22" color="#ff0000"&gt;The&lt;/font&gt;&lt;font size="22" color="#000000"&gt; &lt;/font&gt;&lt;font size="22" color="#ff0000"&gt;incidence of bleeding is highest &lt;/font&gt;&lt;font size="22" color="#000000"&gt;with IGV type 1 followed by GOV type 2.  And the venous drainage of IGV1 is different from GOV.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>IGV1
+GOV type 1 is the most common type. But, the incidence of bleeding is highest with IGV type 1 followed by GOV type 2. 
+
+And the venous drainage of IGV1 is different from GOV type1 and GOV type 2.
+
+</text>
+		</slide>
+		<slide index="4" title="Anatomic Classification System for Varices" titleNormalized="anatomic classification system for varices" src="slide5.swf" size="117641" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.6779999"/>
+			</animationSteps>
+			<notes>When the pressure of portal vein is rising with varices, the direction of blood flow in portal vein and varices will change.</notes>
+			<notesNormalized>when the pressure of portal vein is rising with varices, the direction of blood flow in portal vein and varices will change.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;When the pressure of portal vein is rising with varices, the direction of blood flow in portal vein and varices will change.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Anatomic Classification System for Varices
+When the pressure of portal vein is rising with varices, the direction of blood flow in portal vein and varices will change.</text>
+		</slide>
+		<slide index="5" title="Classification based on venous drainage" titleNormalized="classification based on venous drainage" src="slide6.swf" size="100998" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.5619997"/>
+			</animationSteps>
+			<notes>Due to these changes, several collateral shunts, including gastrocaval and gastrorenal shunt, commonly exist in IGV cases. </notes>
+			<notesNormalized>due to these changes, several collateral shunts, including gastrocaval and gastrorenal shunt, commonly exist in igv cases.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;Due to these changes, several collateral shunts, including gastrocaval and gastrorenal shunt, commonly exist in IGV cases. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Classification based on venous drainage
+Type A has a shunt with a single draining vein. 
+Type B has a shunt with multiple collateral draining veins. 
+Type C has both a gastrocaval and gastrorenal shunt. 
+Type D has multiple small draining veins and no shunt.
+</text>
+		</slide>
+		<slide index="6" title="Risk of EVO for IGV" titleNormalized="risk of evo for igv" src="slide7.swf" size="92313" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.0190005"/>
+			</animationSteps>
+			<notes>Endoscopic Variceal Obturation (EVO) with tissue glue injection for bleeding GV is effective. While there is a high risk of pulmonary embolism for EVO in either gastrocaval or gastrorenal shunt cases.</notes>
+			<notesNormalized>endoscopic variceal obturation (evo) with tissue glue injection for bleeding gv is effective. while there is a high risk of pulmonary embolism for evo in either gastrocaval or gastrorenal shunt cases.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;Endoscopic Variceal Obturation (EVO) with tissue glue injection for bleeding GV is effective. While there is a high risk of pulmonary embolism for EVO in either gastrocaval or gastrorenal shunt cases.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Risk of EVO for IGV
+Endoscopic Variceal Obturation (EVO) with tissue glue injection for bleeding GV is effective.
+ While there is a high risk of pulmonary embolism for EVO in either gastrocaval or gastrorenal shunt cases.
+Clin Liver Dis 18 (2014) 809–827
+Shiv K. Sarin, Awinash Kumar.</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="84067" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.5530009"/>
+			</animationSteps>
+			<notes>Balloon-occluded retrograde transvenous obliteration (BRTO) is the standard treatment for IGV in Japan. BRTO can occlude GVs while avoiding occurrence of pulmonary embolism.</notes>
+			<notesNormalized>balloon-occluded retrograde transvenous obliteration (brto) is the standard treatment for igv in japan. brto can occlude gvs while avoiding occurrence of pulmonary embolism.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;Balloon-occluded retrograde transvenous obliteration (BRTO) is the standard treatment for IGV in Japan. BRTO can occlude GVs while avoiding occurrence of pulmonary embolism.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Balloon-occluded retrograde transvenous obliteration (BRTO) is the standard treatment for IGV in Japan. 
+BRTO can occlude GVs while avoiding occurrence of pulmonary embolism.
+BRTO for IGV
+Shiv K. Sarin, Awinash Kumar. 
+Clin Liver Dis 18 (2014) 809–827</text>
+		</slide>
+		<slide index="8" title="BRTO Assisted Endoscopic Glue Injection" titleNormalized="brto assisted endoscopic glue injection" src="slide9.swf" size="708720" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.2159991"/>
+			</animationSteps>
+			<notes>BRTO assisted endoscopic glue injection can also avoid pulmonary embolism, but it requires interventional radiology and it is time consuming.</notes>
+			<notesNormalized>brto assisted endoscopic glue injection can also avoid pulmonary embolism, but it requires interventional radiology and it is time consuming.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;BRTO assisted endoscopic glue injection can also avoid pulmonary embolism, but it requires interventional radiology and it is time consuming.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>BRTO Assisted Endoscopic Glue Injection</text>
+		</slide>
+		<slide index="9" title="DMRTO" titleNormalized="dmrto" src="slide10.swf" size="201693" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.9120001"/>
+			</animationSteps>
+			<notes>There is a substitute for BRTO called Dual Microcatheter Retrograde Transvenous Obliteration(DMRTO) with Coil Embolization. </notes>
+			<notesNormalized>there is a substitute for brto called dual microcatheter retrograde transvenous obliteration(dmrto) with coil embolization.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;There is a substitute for BRTO called Dual Microcatheter Retrograde Transvenous Obliteration(DMRTO) with Coil Embolization. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>DMRTO</text>
+		</slide>
+		<slide index="10" title="DMRTO" titleNormalized="dmrto" src="slide11.swf" size="136339" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.3110003"/>
+			</animationSteps>
+			<notes>The function of coils in DMRTO is to catch and filter embolization material that will cause pulmonary embolism. </notes>
+			<notesNormalized>the function of coils in dmrto is to catch and filter embolization material that will cause pulmonary embolism.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;The function of coils in DMRTO is to catch and filter embolization material that will cause pulmonary embolism. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>DMRTO</text>
+		</slide>
+		<slide index="11" title="Structrue of Coil" titleNormalized="structrue of coil" src="slide12.swf" size="603911" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.1460003"/>
+			</animationSteps>
+			<notes>Because glue immediately adheres to the coil fibers when a coil is immersed into blood of varix. </notes>
+			<notesNormalized>because glue immediately adheres to the coil fibers when a coil is immersed into blood of varix.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;Because glue &lt;i&gt;immediately &lt;/i&gt;adheres to the coil fibers when a coil is immersed into blood of varix. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Structrue of Coil
+Glue immediately adheres to the coil fibers when a coil is immersed into blood of varix. 
+
+Surgical Endoscopy. 2016, Volume 30, 1396–1404</text>
+		</slide>
+		<slide index="12" title="EUS-guided Access for IGV1" titleNormalized="eus-guided access for igv1" src="slide13.swf" size="557079" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.2470001"/>
+			</animationSteps>
+			<notes>The coils can be placed into varices via EUS guided approach. IGV1 is usually in the gastric fundus, so the punctrue needle would traverse the angle of His in order to reach the target from the lower esophagus. </notes>
+			<notesNormalized>the coils can be placed into varices via eus guided approach. igv1 is usually in the gastric fundus, so the punctrue needle would traverse the angle of his in order to reach the target from the lower esophagus.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;The coils can be placed into varices via EUS guided approach. IGV1 is usually in the gastric fundus, so the punctrue needle would traverse the angle of His in order to reach the target from the lower esophagus. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Gastrointest. Endosc. 2013; 77: 846–857
+EUS-guided Access for IGV1
+The coils can be placed into varices via EUS guided approach. IGV1 is usually in the gastric fundus, so the punctrue needle would traverse the angle of His in order to reach the target from the lower esophagus.</text>
+		</slide>
+		<slide index="13" title="EUS-guided Access for GV" titleNormalized="eus-guided access for gv" src="slide14.swf" size="536034" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.6249995"/>
+			</animationSteps>
+			<notes>If the gastric varix is close to GE junction, punctrue needle can enter the target directly from the gastric mucosa. </notes>
+			<notesNormalized>if the gastric varix is close to ge junction, punctrue needle can enter the target directly from the gastric mucosa.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;If the gastric varix is close to GE junction, punctrue needle can enter the target directly from the gastric mucosa. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-guided Access for GV
+Scandinavian Journal of Gastroenterology. 2014; 49: 1136–1142
+Gastrointest. Endosc. 2013; 77: 846–857</text>
+		</slide>
+		<slide index="14" title="EUS-guided Combined Coil and Glue Injection" titleNormalized="eus-guided combined coil and glue injection" src="slide15.swf" size="528594" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.1830000"/>
+			</animationSteps>
+			<notes>•	Since the coil fibers act as a scaffold for glue, combining coil and glue injection for treatment of large GV is appealing as it could potentially decrease the risk of ectopic embolism and the volume of glue needed to achieve variceal obliteration. </notes>
+			<notesNormalized>•	since the coil fibers act as a scaffold for glue, combining coil and glue injection for treatment of large gv is appealing as it could potentially decrease the risk of ectopic embolism and the volume of glue needed to achieve variceal obliteration.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="24"&gt;•	Since the coil fibers act as a scaffold for glue, combining coil and glue injection for treatment of large GV is appealing as it could potentially decrease the risk of ectopic embolism and the volume of glue needed to achieve variceal obliteration. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-guided Combined Coil and Glue Injection
+Since the coil fibers act as a scaffold for glue, combining coil and glue injection for treatment of large GV is appealing as it could potentially decrease the risk of ectopic embolism and the volume of glue needed to achieve variceal obliteration.</text>
+		</slide>
+		<slide index="15" title="EUS-guided Combined Coil and Glue Injection" titleNormalized="eus-guided combined coil and glue injection" src="slide16.swf" size="140521" advanceOnTime="1" framesCount="2042" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_2411e740.spr0_87900109" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2411e740.spr2_87900109" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="620" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2041" playTime="81.5479965" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>This Video demonstrated the technique process:
+EUS needle enters the gastric varix, placing a coil with stylet as pusher into the varix, removing the stylet, injecting the glue, and then flushs needle with saline, now we can see the blood flow signal disappeared.</notes>
+			<notesNormalized>this video demonstrated the technique process:
+eus needle enters the gastric varix, placing a coil with stylet as pusher into the varix, removing the stylet, injecting the glue, and then flushs needle with saline, now we can see the blood flow signal disappeared.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;This Video demonstrated the technique process:&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="22"&gt;EUS needle enters the gastric varix, placing a coil with stylet as pusher into the varix, removing the stylet, injecting the glue, and then flushs needle with saline, now we can see the blood flow signal disappeared.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-guided Combined Coil and Glue Injection
+EUS needle enters the gastric varix, placing a coil with stylet as pusher into the varix, removing the stylet, injecting the glue, and then flushs needle with saline, now we can see the blood flow signal disappeared.</text>
+		</slide>
+		<slide index="16" title="2019 DDW Oral Presentation" titleNormalized="2019 ddw oral presentation" src="slide17.swf" size="40313" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.3840002"/>
+			</animationSteps>
+			<notes>Another role of EUS for GV treatment is Endoscopic Ultrasound Guided Selective Variceal Devascularization (EUS-SVD) for Secondary Prophylaxis of Variceal Bleeding from GOV.</notes>
+			<notesNormalized>another role of eus for gv treatment is endoscopic ultrasound guided selective variceal devascularization (eus-svd) for secondary prophylaxis of variceal bleeding from gov.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;Another role of EUS for GV treatment is Endoscopic Ultrasound Guided Selective Variceal Devascularization (EUS-SVD) for Secondary Prophylaxis of Variceal Bleeding from GOV.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>The Role of Endoscopic Ultrasound Guided Selective Variceal Devascularization (EUS-SVD) for Secondary Prophylaxis of Variceal Bleeding from Gastroesophageal Varices (GOV)
+2019 DDW Oral Presentation</text>
+		</slide>
+		<slide index="17" title="Background" titleNormalized="background" src="slide18.swf" size="5570" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="60.1290011"/>
+			</animationSteps>
+			<notes>Patients who survive an episode of acute variceal bleeding of GOV have a very high risk of rebleeding. The key to prevent rebleeding is to obturate the perforating vessel feeding the varix. Endoscopic Variceal Obturation (EVO) with glue injection is performed with increasing frequency for the secondary prophylaxis. EVO is limited by the inability to locate the perforating vessel feeding the varix and difficulty to confirm the complete obturation of varices. Blind injection increases the risk of massive bleeding upon glue extrusion. The modified approach, EUS-SVD provides better visualization.</notes>
+			<notesNormalized>patients who survive an episode of acute variceal bleeding of gov have a very high risk of rebleeding. the key to prevent rebleeding is to obturate the perforating vessel feeding the varix. endoscopic variceal obturation (evo) with glue injection is performed with increasing frequency for the secondary prophylaxis. evo is limited by the inability to locate the perforating vessel feeding the varix and difficulty to confirm the complete obturation of varices. blind injection increases the risk of massive bleeding upon glue extrusion. the modified approach, eus-svd provides better visualization.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="25"&gt;Patients who survive an episode of acute variceal bleeding of GOV have a very high risk of rebleeding. The key to prevent rebleeding is to obturate the perforating vessel feeding the varix. Endoscopic Variceal Obturation (EVO) with glue injection is performed with increasing frequency for the secondary prophylaxis. EVO is limited by the inability to locate the perforating vessel feeding the varix and difficulty to confirm the complete obturation of varices. Blind injection increases the risk of massive bleeding upon glue extrusion. The modified approach, EUS-SVD provides better visualization.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Patients who survive an episode of acute variceal bleeding of GOV have a very high risk of rebleeding. The key to prevent rebleeding is to obturate the perforating vessel feeding the varix.
+EVO with glue is performed with increasing frequency for the secondary prophylaxis of GOV. But it is limited by the inability to locate the perforating vessel feeding the varix and difficulty to confirm the complete obturation of varices. And blind injection increases the risk of massive bleeding upon glue extrusion.
+The modified approach, EUS-SVD provides better visualization.
+Background</text>
+		</slide>
+		<slide index="18" title="" titleNormalized="" src="slide19.swf" size="297891" advanceOnTime="1" framesCount="977" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_24162460.spr0_87905000" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_24162460.spr2_87905000" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="511" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="976" playTime="40.6666667" pauseTime="0.5413335"/>
+			</animationSteps>
+			<notes>For gastric varices greater than 5 mm, millimeter ，EUS guided needle puncture and injection therapy are not technically difficult. After the injection, hyperechoic filling and disappearance of the blood flow are observed.</notes>
+			<notesNormalized>for gastric varices greater than 5 mm, millimeter ，eus guided needle puncture and injection therapy are not technically difficult. after the injection, hyperechoic filling and disappearance of the blood flow are observed.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;For gastric varices greater than 5 mm, &lt;b&gt;&lt;u&gt;millimeter&lt;/u&gt;&lt;/b&gt; ，EUS guided needle &lt;u&gt;puncture&lt;/u&gt; and injection therapy are not technically difficult. After the injection, hyperechoic filling and disappearance of the blood flow are observed.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>For gastric varices greater than 5 mm，EUS guided needle puncture and injection therapy are not technically difficult. After the injection, hyperechoic filling and disappearance of flow signal are observed.</text>
+		</slide>
+		<slide index="19" title="" titleNormalized="" src="slide20.swf" size="239964" advanceOnTime="1" framesCount="1033" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_24166de0.spr0_87910562" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_24166de0.spr2_87910562" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1032" playTime="23.1560001" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>Gastric varices smaller than 3 mm can be challenging for EUS guided puncture. Careful manipulation and adjustment of the tip of the needle is required.</notes>
+			<notesNormalized>gastric varices smaller than 3 mm can be challenging for eus guided puncture. careful manipulation and adjustment of the tip of the needle is required.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;Gastric varices smaller than 3 mm can be challenging for EUS guided puncture. Careful manipulation and adjustment of the tip of the needle is required.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Gastric varices smaller than 3 mm can be challenging for EUS guided puncture. Careful manipulation and adjustment of the needle is required.
+</text>
+		</slide>
+		<slide index="20" title="Results" titleNormalized="results" src="slide21.swf" size="237932" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.7590002"/>
+			</animationSteps>
+			<notes>•	In this two groups, massive bleeding rate is lower, injection sites are fewer, and amount of glue injected are less in the EUS-SVD group.</notes>
+			<notesNormalized>•	in this two groups, massive bleeding rate is lower, injection sites are fewer, and amount of glue injected are less in the eus-svd group.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="23" color="#2c2828"&gt;•	In this two groups, massive bleeding rate is lower, injection sites are fewer, and amount of glue injected are less in the EUS-SVD group.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Results</text>
+		</slide>
+		<slide index="21" title="Results" titleNormalized="results" src="slide22.swf" size="27276" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.0809998"/>
+			</animationSteps>
+			<notes>Kaplan-Meier analysis showed a statistically significant lower risk of major rebleeding in EUS-SVD group with p value of 0.045.</notes>
+			<notesNormalized>kaplan-meier analysis showed a statistically significant lower risk of major rebleeding in eus-svd group with p value of 0.045.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;Kaplan-Meier analysis showed a statistically significant lower risk of major rebleeding in EUS-SVD group with p value of 0.045.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Major bleed occurred in 1 out of 38 patients in the EUS-SVD group, compared to 5 out of 31 patients in EVO group, including 1 patient died from hemorrhagic shock. 
+Kaplan-Meier estimate showed a lower risk of major bleeding in EUS-SVD group (p=0.045).
+Results</text>
+		</slide>
+		<slide index="22" title="Conclusions" titleNormalized="conclusions" src="slide23.swf" size="5210" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.4619993"/>
+			</animationSteps>
+			<notes>To conclude this presentation, </notes>
+			<notesNormalized>to conclude this presentation,</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="22"&gt;To conclude this presentation, &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>
+EUS-SVD provides better visualization and more precise delivery of glue into the varix and feeding vessel. 
+
+EUS-SVD may be a more effective and safer modality than standard EVO in secondary prophylaxis in GOV bleeding.
+Conclusions</text>
+		</slide>
+		<slide index="23" title="THANKS" titleNormalized="thanks" src="slide24.swf" size="5960" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.3410000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>For questions:
+
+chenhongtan@163.com
+ 
+THANKS</text>
+		</slide>
+	</slides>
+</presentation>

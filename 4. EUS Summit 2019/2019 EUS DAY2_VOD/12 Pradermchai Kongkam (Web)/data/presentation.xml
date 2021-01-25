@@ -1,0 +1,772 @@
+<?xml version="1.0"?>
+<presentation title="12 Pradermchai Kongkam" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{FFF29EA5-4F03-4716-9EE8-600908CF6FEC}">
+	<presenters>
+		<presenter name="Pradermchai Kongkam" title="Thailand" email="" web="" phone="" photoAssetId="">
+			<bio>Current Status of EUS-nCLE</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="434514" duration="15518"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="1443885" duration="51567"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="3998034" duration="142786"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="241416" duration="8622"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="2198719" duration="78525"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="959679" duration="34274"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="895314" duration="31975"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="193874" duration="6924"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="1116936" duration="39890"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="566171" duration="20220"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="1081096" duration="38610"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="1177645" duration="42058"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="893119" duration="31897"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="117805" duration="4207"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="462308" duration="16511"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="888731" duration="31740"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="1217874" duration="43495"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="309439" duration="11051"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="525211" duration="18757"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="198262" duration="7080"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="2020251" duration="72151"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="1701348" duration="60762"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="1387565" duration="49555"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="1248594" duration="44592"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="321874" duration="11495"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="996982" duration="35606"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="1326856" duration="47387"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="15.4820000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="51.5180000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="142.7429962"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="8.5749998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="78.4779968"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="34.2340000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="31.9319992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="6.8740000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="39.8400000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="20.1870000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="38.5719986"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="42.0089989"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="31.8649998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="4.1710000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="16.4829998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="31.6980000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="43.4430000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="11.0109997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="18.7189999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="7.0400000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="72.1050000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="60.7270000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="49.5159988"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="44.5439987"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="11.4449997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="35.5690000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="47.3470000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Current status of EUS-nCLE" titleNormalized="current status of eus-ncle" src="slide1.swf" size="78024" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.4810004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Current status of EUS-nCLE
+Pradermchai Kongkam, MD
+President of the TAGE
+Faculty of Medicine, Chulalongkorn University, Bangkok
+EUS Summit 2019, Seoul, South Korea</text>
+		</slide>
+		<slide index="1" title="Why EUS-Ncle for pancreatic lesions" titleNormalized="why eus-ncle for pancreatic lesions" src="slide2.swf" size="1627" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="51.5170016"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Why EUS-Ncle for pancreatic lesions
+Truly needed
+Pancreatic cyst
+Cystic fluid analysis
+Cytology
+Contrast enhancement
+
+Less needed
+Solid pancreatic mass
+Good results of EUS-FNA and FNB</text>
+		</slide>
+		<slide index="2" title="FUN rules for reading EUS-nCLE findings" titleNormalized="fun rules for reading eus-ncle findings" src="slide3.swf" size="91486" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="142.7419962"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>FUN rules for reading EUS-nCLE findings
+FUN Rule
+F: Image shown by fluoresceine
+U: Unusual magnification (1,000X)
+N: Normal length (------ = 20 micron)</text>
+		</slide>
+		<slide index="3" title="Cystic Pancreatic Lesions" titleNormalized="cystic pancreatic lesions" src="slide4.swf" size="988" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.5739998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cystic Pancreatic Lesions</text>
+		</slide>
+		<slide index="4" title="Classification of EUS-nCLE findings in CPLs" titleNormalized="classification of eus-ncle findings in cpls" src="slide5.swf" size="68211" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="78.4769968"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Classification of EUS-nCLE findings in CPLs</text>
+		</slide>
+		<slide index="5" title="Results of EUS-nCLE for CPLs" titleNormalized="results of eus-ncle for cpls" src="slide6.swf" size="88115" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.2330012"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Results of EUS-nCLE for CPLs
+World J Gastrointest Endosc 2018 January 16; 10(1): 1-9</text>
+		</slide>
+		<slide index="6" title="Serous cystadenoma" titleNormalized="serous cystadenoma" src="slide7.swf" size="359458" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.9309992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Serous cystadenoma
+It is a concentrated network of parallel vessels emanating from a central vessel similar to a fern-leaf
+Fern pattern
+World J Gastroenterol 2017 May 14; 23(18): 3338-3348</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="245062" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.8730001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="8" title="Superficial Vascular Network CONTACT Study (2015)" titleNormalized="superficial vascular network contact study (2015)" src="slide9.swf" size="146009" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="39.8390002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Superficial Vascular Network CONTACT Study (2015)
+31 patients with solitary pancreatic cyst
+Prospective study
+Diagnosis of serous cystadenoma
+
+Parameters
+Value
+Sensitivity
+69.0%
+Specificity
+100.0%
+PPV
+100.0%
+NPV
+82.0%
+Accuracy rate
+87.0%
+Napoleon B, Lemaistre AI, Pujol B, Caillol F, Lucidarme D, Bourdariat R, et al. A novel approach to the diagnosis of pancreatic serous cystadenoma: needle-based confocal laser endomicroscopy. Endoscopy. 2015;47(1):26-32.</text>
+		</slide>
+		<slide index="9" title="IPMN" titleNormalized="ipmn" src="slide10.swf" size="505822" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.1860003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>IPMN
+World J Gastroenterol 2017 May 14; 23(18): 3338-3348</text>
+		</slide>
+		<slide index="10" title="" titleNormalized="" src="slide11.swf" size="330567" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="38.5709986"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="11" title="The DETECT Study (2015)" titleNormalized="the detect study (2015)" src="slide12.swf" size="165400" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.0079989"/>
+			</animationSteps>
+			<notes>Nakai, Y., T. Iwashita, et al. (2015). "Diagnosis of pancreatic cysts: EUS-guided, through-the-needle confocal laser-induced endomicroscopy and cystoscopy trial: DETECT study." Gastrointest Endosc 81(5): 1204-1214.
+	BACKGROUND: The diagnosis of pancreatic cystic neoplasms (PCNs), which now depends on morphology, cytology, and fluid analysis, is still challenging. A novel confocal laser endomicroscopy probe that can be inserted through a 19-gauge FNA needle allows needle-based confocal laser endomicroscopy (nCLE), and the feasibility of nCLE has been reported in PCNs. The combination of cystoscopy by using a through-the-needle fiberoptic probe in combination with nCLE under EUS guidance may improve the diagnosis of PCNs. OBJECTIVE: To assess the feasibility, safety, and diagnostic yield of the combination of cystoscopy and nCLE in the clinical diagnosis of PCNs. DESIGN: A prospective feasibility study. SETTING: An academic tertiary referral center. PATIENTS: Thirty patients with PCNs. INTERVENTIONS: EUS-guided dual through-the-needle imaging (cystoscopy and nCLE) for PCNs. MAIN OUTCOME MEASUREMENTS: Technical feasibility and safety. Associations of cystoscopy and nCLE findings with clinical diagnosis of PCNs. RESULTS: The procedure was technically successful with the exception of 1 probe exchange failure. In 2 patients (7%), postprocedure pancreatitis developed. Specific features associated with the clinical diagnosis of mucinous cysts were identified: mucin on cystoscopy and papillary projections and dark rings on nCLE. The sensitivity of cystoscopy was 90% (9/10), and that of nCLE was 80% (8/10), and the combination was 100% (10/10) in 18 high-certainty patients. LIMITATIONS: A single-center study and lack of complete pathologic correlation. CONCLUSION: The combination of dual through-the-needle imaging (cystoscopy and nCLE) of pancreatic cysts appears to have strong concordance with the clinical diagnosis of PCN. ( CLINICAL TRIAL REGISTRATION NUMBER: NCT01447238.).</notes>
+			<notesNormalized>nakai, y., t. iwashita, et al. (2015). "diagnosis of pancreatic cysts: eus-guided, through-the-needle confocal laser-induced endomicroscopy and cystoscopy trial: detect study." gastrointest endosc 81(5): 1204-1214.
+	background: the diagnosis of pancreatic cystic neoplasms (pcns), which now depends on morphology, cytology, and fluid analysis, is still challenging. a novel confocal laser endomicroscopy probe that can be inserted through a 19-gauge fna needle allows needle-based confocal laser endomicroscopy (ncle), and the feasibility of ncle has been reported in pcns. the combination of cystoscopy by using a through-the-needle fiberoptic probe in combination with ncle under eus guidance may improve the diagnosis of pcns. objective: to assess the feasibility, safety, and diagnostic yield of the combination of cystoscopy and ncle in the clinical diagnosis of pcns. design: a prospective feasibility study. setting: an academic tertiary referral center. patients: thirty patients with pcns. interventions: eus-guided dual through-the-needle imaging (cystoscopy and ncle) for pcns. main outcome measurements: technical feasibility and safety. associations of cystoscopy and ncle findings with clinical diagnosis of pcns. results: the procedure was technically successful with the exception of 1 probe exchange failure. in 2 patients (7%), postprocedure pancreatitis developed. specific features associated with the clinical diagnosis of mucinous cysts were identified: mucin on cystoscopy and papillary projections and dark rings on ncle. the sensitivity of cystoscopy was 90% (9/10), and that of ncle was 80% (8/10), and the combination was 100% (10/10) in 18 high-certainty patients. limitations: a single-center study and lack of complete pathologic correlation. conclusion: the combination of dual through-the-needle imaging (cystoscopy and ncle) of pancreatic cysts appears to have strong concordance with the clinical diagnosis of pcn. ( clinical trial registration number: nct01447238.).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="11"&gt;Nakai, Y., T. Iwashita, et al. (2015). &amp;quot;Diagnosis of pancreatic cysts: EUS-guided, through-the-needle confocal laser-induced endomicroscopy and cystoscopy trial: DETECT study.&amp;quot; &lt;u&gt;Gastrointest Endosc &lt;b&gt;81(5): 1204-1214.&lt;/b&gt;&lt;/u&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="11"&gt;	BACKGROUND: The diagnosis of pancreatic cystic neoplasms (PCNs), which now depends on morphology, cytology, and fluid analysis, is still challenging. A novel confocal laser endomicroscopy probe that can be inserted through a 19-gauge FNA needle allows needle-based confocal laser endomicroscopy (nCLE), and the feasibility of nCLE has been reported in PCNs. The combination of cystoscopy by using a through-the-needle fiberoptic probe in combination with nCLE under EUS guidance may improve the diagnosis of PCNs. OBJECTIVE: To assess the feasibility, safety, and diagnostic yield of the combination of cystoscopy and nCLE in the clinical diagnosis of PCNs. DESIGN: A prospective feasibility study. SETTING: An academic tertiary referral center. PATIENTS: Thirty patients with PCNs. INTERVENTIONS: EUS-guided dual through-the-needle imaging (cystoscopy and nCLE) for PCNs. MAIN OUTCOME MEASUREMENTS: Technical feasibility and safety. Associations of cystoscopy and nCLE findings with clinical diagnosis of PCNs. RESULTS: The procedure was technically successful with the exception of 1 probe exchange failure. In 2 patients (7%), postprocedure pancreatitis developed. Specific features associated with the clinical diagnosis of mucinous cysts were identified: mucin on cystoscopy and papillary projections and dark rings on nCLE. The sensitivity of cystoscopy was 90% (9/10), and that of nCLE was 80% (8/10), and the combination was 100% (10/10) in 18 high-certainty patients. LIMITATIONS: A single-center study and lack of complete pathologic correlation. CONCLUSION: The combination of dual through-the-needle imaging (cystoscopy and nCLE) of pancreatic cysts appears to have strong concordance with the clinical diagnosis of PCN. ( CLINICAL TRIAL REGISTRATION NUMBER: NCT01447238.).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>The DETECT Study (2015)
+30 pts with pancreatic cysts 
+18 pts with high-certainty patients
+Prospective studies
+Sensitivity and findings 
+nCLE 80% (8/10): papillary projections and dark rings
+Cystoscopy 90%(9/10): mucin
+Combination: 100% sensitivity
+Nakai Y, Iwashita T, Park do H, Samarasena JB, Lee JG, Chang KJ. Diagnosis of pancreatic cysts: EUS-guided, through-the-needle confocal laser-induced endomicroscopy and cystoscopy trial: DETECT study. Gastrointest Endosc. 2015;81(5):1204-14.
+Papillary projection: IPMN</text>
+		</slide>
+		<slide index="12" title="MCN" titleNormalized="mcn" src="slide13.swf" size="423374" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.8639998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>MCN
+Epithelial bands (single or multiple)
+Rope ladder or branch type vascularity
+
+World J Gastroenterol 2017 May 14; 23(18): 3338-3348</text>
+		</slide>
+		<slide index="13" title="" titleNormalized="" src="slide14.swf" size="270937" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.1700000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="14" title="Cystic NET" titleNormalized="cystic net" src="slide15.swf" size="445193" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.4819998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cystic NET
+Trabecular pattern
+World J Gastroenterol 2017 May 14; 23(18): 3338-3348</text>
+		</slide>
+		<slide index="15" title="" titleNormalized="" src="slide16.swf" size="201653" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.6970000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="16" title="Pseudocyst" titleNormalized="pseudocyst" src="slide17.swf" size="540409" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="43.4420008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pseudocyst
+Bright particles against dark background
+World J Gastroenterol 2017 May 14; 23(18): 3338-3348</text>
+		</slide>
+		<slide index="17" title="" titleNormalized="" src="slide18.swf" size="213364" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.0099997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="18" title="EUS-nCLE findings from CPLs" titleNormalized="eus-ncle findings from cpls" src="slide19.swf" size="242842" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.7179999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-nCLE findings from CPLs
+World J Gastrointest Endosc 2018 January 16; 10(1): 1-9</text>
+		</slide>
+		<slide index="19" title="2019 EUS-nCLE in CPLs" titleNormalized="2019 eus-ncle in cpls" src="slide20.swf" size="990" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.0390000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>2019 EUS-nCLE in CPLs</text>
+		</slide>
+		<slide index="20" title="EUS-nCLE Increases Accuracy of Differentiation of Pancreatic Cystic Lesions" titleNormalized="eus-ncle increases accuracy of differentiation of pancreatic cystic lesions" src="slide21.swf" size="117643" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="72.1040034"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-nCLE Increases Accuracy of Differentiation of Pancreatic Cystic Lesions
+144 patients with CPL &gt; 20 mm (6/16-12/18), 65 underwent surgery. Single center. 
+To differentiate between mucinous versus non-mucinous CPLs
+Prospective study
+Krishna SG, Hart PA, Malli A, Kruger A, McCarthy ST, El-Dika S, Walker JP, Dillhoff ME, Manilchuk A, Schmidt CR, Pawlik TM, Porter K, Arnold CA, Cruz-Monserrate Z, Conwell DL. Clin Gastroenterol Hepatol. 2019 Jun 17</text>
+		</slide>
+		<slide index="21" title="EUS-nCLE for CPLs: a prospective multicenter validation study in patients with definite diagnosis" titleNormalized="eus-ncle for cpls: a prospective multicenter validation study in patients with definite diagnosis" src="slide22.swf" size="136295" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="60.7260012"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-nCLE for CPLs: a prospective multicenter validation study in patients with definite diagnosis
+Napoleon B, Palazzo M, Lemaistre AI, Caillol F, Palazzo L, Aubert A, Buscail L, Maire F, Morellon BM, Pujol B, Giovannini M. Endoscopy. 2019 Sep;51(9):825-835
+Mucinous versus non-mucinous
+Benign versus pre-malignant CPLs</text>
+		</slide>
+		<slide index="22" title="EUS-nCLE: prediction of dysplasia in IPMN" titleNormalized="eus-ncle: prediction of dysplasia in ipmn" src="slide23.swf" size="1837" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="49.5149988"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-nCLE: prediction of dysplasia in IPMN
+To derive EUSnCLE criteria for differentiating IPMNs with HGD/adenocarcinoma from those with low/intermediate-grade dysplasia (LGD)
+Study phase 1: Criteria Generation
+Study phase 2: Interobserver agreement analyses
+Study phase 3: Criteria derivation by quantitative assessment 
+Krishna SG, Hart PA, DeWitt JM, DiMaio CJ, Kongkam P, Napoleon B, Othman MO, Yew Tan DM, Strobel SG, Stanich PP, Patel A, Luthra AK, Chan MQ, Blaszczak AM, Lee D, El-Dika S, McCarthy ST, Walker JP, Arnold CA, Porter K, Conwell DL. Gastrointest Endosc. 2019 Sep 19</text>
+		</slide>
+		<slide index="23" title="" titleNormalized="" src="slide24.swf" size="303096" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="44.5429987"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Krishna SG, Hart PA, DeWitt JM, DiMaio CJ, Kongkam P, Napoleon B, Othman MO, Yew Tan DM, Strobel SG, Stanich PP, Patel A, Luthra AK, Chan MQ, Blaszczak AM, Lee D, El-Dika S, McCarthy ST, Walker JP, Arnold CA, Porter K, Conwell DL. Gastrointest Endosc. 2019 Sep 19</text>
+		</slide>
+		<slide index="24" title="" titleNormalized="" src="slide25.swf" size="279590" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.4439997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Krishna SG, Hart PA, DeWitt JM, DiMaio CJ, Kongkam P, Napoleon B, Othman MO, Yew Tan DM, Strobel SG, Stanich PP, Patel A, Luthra AK, Chan MQ, Blaszczak AM, Lee D, El-Dika S, McCarthy ST, Walker JP, Arnold CA, Porter K, Conwell DL. Gastrointest Endosc. 2019 Sep 19</text>
+		</slide>
+		<slide index="25" title="EUS-nCLE: prediction of dysplasia in IPMN" titleNormalized="eus-ncle: prediction of dysplasia in ipmn" src="slide26.swf" size="181096" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.5680002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-nCLE: prediction of dysplasia in IPMN
+26 IPMNs (HGD-Ca in 16)
+
+papillary-width (cut-off ≥50 mm)
+papillary-darkness (cut-off ≤90 pixel-intensity)
+Sensitivity
+87.5%
+87.5%
+Specificity
+100%
+100%
+AUC
+0.95
+0.90
+Krishna SG, Hart PA, DeWitt JM, DiMaio CJ, Kongkam P, Napoleon B, Othman MO, Yew Tan DM, Strobel SG, Stanich PP, Patel A, Luthra AK, Chan MQ, Blaszczak AM, Lee D, El-Dika S, McCarthy ST, Walker JP, Arnold CA, Porter K, Conwell DL. Gastrointest Endosc. 2019 Sep 19</text>
+		</slide>
+		<slide index="26" title="Conclusions" titleNormalized="conclusions" src="slide27.swf" size="1512" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="47.3460001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conclusions
+EUS-nCLE identified mucinous cysts with greater accuracy than measurement of CEA and cytology analysis.
+Quantification of papillary epithelial width and darkness identified HGD-Ca in IPMNs with high accuracy.
+EUS-nCLE had excellent diagnostic performance that surpassed that of CEA and EUS for the diagnosis of CPLs.</text>
+		</slide>
+	</slides>
+</presentation>

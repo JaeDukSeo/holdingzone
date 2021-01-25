@@ -1,0 +1,1225 @@
+<?xml version="1.0"?>
+<presentation title="10 Tae Jun Song" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{985E8370-6D72-40E3-90C9-59A37C99208E}">
+	<presenters>
+		<presenter name="Tae Jun Song" title="Korea" email="" web="" phone="" photoAssetId="">
+			<bio>Impact of EUS-FNA/B in pancreatic mass</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="487908" duration="17425"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="849234" duration="30329"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="969188" duration="34613"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="707336" duration="25262"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="733668" duration="26202"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="494491" duration="17660"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="1213485" duration="43338"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="902628" duration="32236"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="323336" duration="11547"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="994056" duration="35502"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="710262" duration="25366"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="613714" duration="21918"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="505462" duration="18052"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="781942" duration="27926"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="762925" duration="27247"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="397942" duration="14212"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="446948" duration="15962"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="590308" duration="21082"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="370148" duration="13219"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="645165" duration="23041"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="554468" duration="19802"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="288228" duration="10293"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="835336" duration="29833"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="474742" duration="16955"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="1016731" duration="36311"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="1207634" duration="43129"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="1445348" duration="51619"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="1074514" duration="38375"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="1020388" duration="36442"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="982354" duration="35084"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="878491" duration="31374"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="70994" duration="2535"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="17.3840000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="30.2970000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="34.5680000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="25.2250000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="26.1590000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="17.6180000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="43.3100000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="32.1990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="11.5109997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="35.4690000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="25.3250000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="21.8890000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="18.0180000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="27.8950000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="27.1940000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="14.1809998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="15.9160000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="21.0540000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="13.1800000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="22.9899998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="19.7530000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="10.2440000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="29.7960000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="16.9170000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="36.2700000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="43.0760000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="51.5849991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="38.3380000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="36.4029999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="35.0349998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="31.3309994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="2.5020000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Impact of EUS-FNA/B in Pancreatic mass" titleNormalized="impact of eus-fna/b in pancreatic mass" src="slide1.swf" size="1075882" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.3830008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Taejun Song
+
+Division of Gastroenterology, University of Ulsan College of Medicine, Asan Medical Center, Seoul, Korea
+
+Impact of EUS-FNA/B in Pancreatic mass</text>
+		</slide>
+		<slide index="1" title="EUS-FNA/B of pancreatic mass" titleNormalized="eus-fna/b of pancreatic mass" src="slide2.swf" size="79389" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.2989992"/>
+			</animationSteps>
+			<notes>•	EUS-FNA/B is a commonly used method for deﬁnitive tissue diagnosis of suspicious pancreatic lesions, with an overall sensitivity of 85%, speciﬁcity of 98%, respectively.
+•	This procedure is generally very safe with a procedure-related morbidity of less than 1% and very low mortality.</notes>
+			<notesNormalized>•	eus-fna/b is a commonly used method for deﬁnitive tissue diagnosis of suspicious pancreatic lesions, with an overall sensitivity of 85%, speciﬁcity of 98%, respectively.
+•	this procedure is generally very safe with a procedure-related morbidity of less than 1% and very low mortality.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	EUS-FNA/B is a commonly used method for deﬁnitive tissue diagnosis of suspicious pancreatic lesions, with an overall sensitivity of 85%, speciﬁcity of 98%, respectively.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	This procedure is generally very safe with a procedure-related morbidity of less than 1% and very low mortality.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-FNA/B of pancreatic mass
+Endoscopic ultrasound-guided ﬁne needle aspiration/biopsy (EUS-FNA/B) is a commonly used method for deﬁnitive tissue diagnosis of suspicious pancreatic lesions. 
+
+Sensitivity: 85%
+Speciﬁcity: 98%
+Morbidity: 0.98%
+Mortality: 0.02%
+Ngamruengphong et al. Gut 2015;64:1105–1110</text>
+		</slide>
+		<slide index="2" title="Misdiagnosis of pancreatic mass" titleNormalized="misdiagnosis of pancreatic mass" src="slide3.swf" size="148833" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.5689997"/>
+			</animationSteps>
+			<notes>•	Misdiagnosis of pancreas mass frequently occurs in two clinical settings. 
+•	First, patients with benign lesion may be inappropriately treated with operative resection in suspicion of pancreatic cancer.
+•	Second, patients with pancreatic cancer may be treated with corticosteroids or conservative treatment for extended periods in suspicion of benign pancreatic lesion such as autoimmune pancreatitis.</notes>
+			<notesNormalized>•	misdiagnosis of pancreas mass frequently occurs in two clinical settings. 
+•	first, patients with benign lesion may be inappropriately treated with operative resection in suspicion of pancreatic cancer.
+•	second, patients with pancreatic cancer may be treated with corticosteroids or conservative treatment for extended periods in suspicion of benign pancreatic lesion such as autoimmune pancreatitis.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	Misdiagnosis of pancreas mass frequently occurs in two clinical settings. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	First, patients with benign lesion may be inappropriately treated with operative resection in suspicion of pancreatic cancer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Second, patients with pancreatic cancer may be treated with corticosteroids or conservative treatment for extended periods in suspicion of benign pancreatic lesion such as autoimmune pancreatitis.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Misdiagnosis of pancreatic mass
+Misdiagnosis of pancreas mass occurs in two clinical settings.
+Patients with benign lesion being inappropriately treated with operative resection
+Patients with pancreatic cancer (PCa) treated with corticosteroids or conservative treatment for extended periods
+Pancreatic cancer 
+AIP</text>
+		</slide>
+		<slide index="3" title="Distal pancreas mass" titleNormalized="distal pancreas mass" src="slide4.swf" size="118687" advanceOnTime="1" framesCount="236" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="235" playTime="9.7916667" pauseTime="15.4383329"/>
+			</animationSteps>
+			<notes>•	Here are several cases of pancreas body or tail mass. 
+•	Which one is pancreatic cancer? 
+•	Pancreatic cancer is number 3.
+•	In many cases, CT scan shows atypical or indeterminate image findings. And in these cases, eventually histologic confirmation is needed.
+</notes>
+			<notesNormalized>•	here are several cases of pancreas body or tail mass. 
+•	which one is pancreatic cancer? 
+•	pancreatic cancer is number 3.
+•	in many cases, ct scan shows atypical or indeterminate image findings. and in these cases, eventually histologic confirmation is needed.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	Here are several cases of pancreas body or tail mass. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Which one is pancreatic cancer? &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Pancreatic cancer is number 3.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	In many cases, CT scan shows atypical or indeterminate image findings. And in these cases, eventually histologic confirmation is needed.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Distal pancreas mass
+Autoimmune pancreatitis
+Autoimmune pancreatitis
+Pancreatic cancer
+Solid pseudopapillary neoplasm
+1
+2
+3
+4</text>
+		</slide>
+		<slide index="4" title="EUS-FNA of pancreatic mass" titleNormalized="eus-fna of pancreatic mass" src="slide5.swf" size="2543" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.1589998"/>
+			</animationSteps>
+			<notes>•	EUS-FNA/B have been used before pancreatic surgery more and more often.
+•	The main objectives of preoperative EUS-FNA/B are
+•	To accurately identify malignant lesions 
+•	To spare the patients with benign condition 
+•	To avoid unnecessary surgical resections </notes>
+			<notesNormalized>•	eus-fna/b have been used before pancreatic surgery more and more often.
+•	the main objectives of preoperative eus-fna/b are
+•	to accurately identify malignant lesions 
+•	to spare the patients with benign condition 
+•	to avoid unnecessary surgical resections</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	EUS-FNA/B have been used before pancreatic surgery more and more often.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	The main objectives of preoperative EUS-FNA/B are&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	To accurately identify malignant lesions &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	To spare the patients with benign condition &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	To avoid unnecessary surgical resections &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-FNA of pancreatic mass
+EUS-FNA/B have been used before pancreatic surgery more and more often.
+The main objectives of preoperative EUS-FNA/B 
+To accurately identify malignant lesions 
+To spare the patients with benign condition 
+To avoid unnecessary surgical resections</text>
+		</slide>
+		<slide index="5" title="Trends in the use of EUS-FNA in patients with resectable PCa" titleNormalized="trends in the use of eus-fna in patients with resectable pca" src="slide6.swf" size="49476" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.6190008"/>
+			</animationSteps>
+			<notes>•	In the United States, overall use of preoperative EUS-FNA increased during the past decade, with 10% in 2001 to 47% in 2009. </notes>
+			<notesNormalized>•	in the united states, overall use of preoperative eus-fna increased during the past decade, with 10% in 2001 to 47% in 2009.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	In the United States, overall use of preoperative EUS-FNA increased during the past decade, with 10% in 2001 to 47% in 2009. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Trends in the use of EUS-FNA in patients
+with resectable PCa
+2001 : 10%
+2009 : 47.1%
+
+Ngamruengphong et al. Gut 2015;64:1105–1110</text>
+		</slide>
+		<slide index="6" title="Preoperative EUS-FNA/B of PCa: Pros" titleNormalized="preoperative eus-fna/b of pca: pros" src="slide7.swf" size="2596" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="43.3090014"/>
+			</animationSteps>
+			<notes>Why do we perform the preoperative EUS-FNA?
+Here are the arguments favoring a preoperative pancreatic biopsy.
+It has very good accuracy.</notes>
+			<notesNormalized>why do we perform the preoperative eus-fna?
+here are the arguments favoring a preoperative pancreatic biopsy.
+it has very good accuracy.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Why do we perform the preoperative EUS-FNA?&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Here are the arguments favoring a preoperative pancreatic biopsy.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;It has very good accuracy.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Preoperative EUS-FNA/B of PCa: Pros
+Arguments favoring a preoperative pancreatic biopsy
+Has very good accuracy
+Is a safe procedure
+Increases surgeon’s conﬁdence
+Increases patient’s convincement
+Avoids unnecessary surgery (in “mimickers”)
+Allows neoadjuvant chemotherapy
+
+Dig Liver Dis 2019;51:4-9</text>
+		</slide>
+		<slide index="7" title="Preoperative EUS-FNA of PCa: Cons" titleNormalized="preoperative eus-fna of pca: cons" src="slide8.swf" size="2488" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.1990008"/>
+			</animationSteps>
+			<notes>•	On the other hands, here are arguments against a preoperative biopsy.
+•	Available imaging techniques already have high diagnostic sensitivity
+
+
+</notes>
+			<notesNormalized>•	on the other hands, here are arguments against a preoperative biopsy.
+•	available imaging techniques already have high diagnostic sensitivity
+
+
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	On the other hands, here are arguments against a preoperative biopsy.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Available imaging techniques already have high diagnostic sensitivity&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</notesHtml>
+			<text>Preoperative EUS-FNA of PCa: Cons
+Arguments against a preoperative biopsy 
+Available imaging techniques have high diagnostic sensitivity
+A negative result may not exclude malignancy 
+Potential seeding can hamper curative surgery
+Can delay patient’s treatment
+Dig Liver Dis 2019;51:4-9</text>
+		</slide>
+		<slide index="8" title="Tumor seeding after EUS-FNA" titleNormalized="tumor seeding after eus-fna" src="slide9.swf" size="168276" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.5099997"/>
+			</animationSteps>
+			<notes>•	There have been several case reports of tumor seeding after EUS-FNA/B. 
+</notes>
+			<notesNormalized>•	there have been several case reports of tumor seeding after eus-fna/b. 
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	There have been several case reports of tumor seeding after EUS-FNA/B. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Tumor seeding after EUS-FNA
+Paquin et al. Gastrointest Endosc 2005;61:610-1
+Chong et al. Gastrointest Endosc 2011;74:933-5
+Ahmed et al. Gastrointest Endosc 2011;74:231-3</text>
+		</slide>
+		<slide index="9" title="Tumor seeding after EUS-FNA" titleNormalized="tumor seeding after eus-fna" src="slide10.swf" size="2780" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.4690012"/>
+			</animationSteps>
+			<notes>•	From 2003 to 2016, 14 cases of needle tract seeding following EUS-guided sampling have been reported.
+•	Several cases of tumor seeding along a needle tract in pancreatic adenocarcinoma occurring at the gastric wall following EUS-FNA of pancreatic body or tail have been reported.
+•	However, this has never been reported for EUS-FNA of pancreatic head lesions.
+</notes>
+			<notesNormalized>•	from 2003 to 2016, 14 cases of needle tract seeding following eus-guided sampling have been reported.
+•	several cases of tumor seeding along a needle tract in pancreatic adenocarcinoma occurring at the gastric wall following eus-fna of pancreatic body or tail have been reported.
+•	however, this has never been reported for eus-fna of pancreatic head lesions.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	From 2003 to 2016, 14 cases of needle tract seeding following EUS-guided sampling have been reported.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Several cases of tumor seeding along a needle tract in pancreatic adenocarcinoma occurring at the gastric wall following EUS-FNA of pancreatic body or tail have been reported.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	However, this has never been reported for EUS-FNA of pancreatic head lesions.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Tumor seeding after EUS-FNA
+From 2003 to 2016, only 14 cases of needle tract seeding following EUS-guided sampling have been reported.
+
+Several cases of tumor seeding along a needle tract in pancreatic cancer occurring at the gastric wall following EUS-FNA of pancreatic body/tail have been reported.
+
+Tumor seeding along a needle tract has never been reported for EUS-FNA of pancreatic head lesions.
+Ngamruengphong et al. Gut 2015;64:1105–1110
+Dumonceau et al. Endoscopy 2017;49:695-714</text>
+		</slide>
+		<slide index="10" title="EUS-FNA/B for pancreas head lesion" titleNormalized="eus-fna/b for pancreas head lesion" src="slide11.swf" size="408066" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.3289999"/>
+			</animationSteps>
+			<notes>•	As you can see, pancreaticoduodenectomy removes the duodenum, so it can also remove the needle tract, potential sites of seeding. 
+•	As a result, the risk of tumor seeding is very low.</notes>
+			<notesNormalized>•	as you can see, pancreaticoduodenectomy removes the duodenum, so it can also remove the needle tract, potential sites of seeding. 
+•	as a result, the risk of tumor seeding is very low.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	As you can see, pancreaticoduodenectomy removes the duodenum, so it can also remove the needle tract, potential sites of seeding. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	As a result, the risk of tumor seeding is very low.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-FNA/B for pancreas head lesion</text>
+		</slide>
+		<slide index="11" title="EUS-FNA/B for distal pancreas lesion" titleNormalized="eus-fna/b for distal pancreas lesion" src="slide12.swf" size="368468" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.8889994"/>
+			</animationSteps>
+			<notes>•	On the other hand, in case of the pancreas body or tail mass, EUS-FNA was done through the stomach.
+•	But distal pancreatectomy does not remove stomach puncture site and needle tract. 
+•	So there is a risk of stomach recurrence and tract seeding.</notes>
+			<notesNormalized>•	on the other hand, in case of the pancreas body or tail mass, eus-fna was done through the stomach.
+•	but distal pancreatectomy does not remove stomach puncture site and needle tract. 
+•	so there is a risk of stomach recurrence and tract seeding.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	On the other hand, in case of the pancreas body or tail mass, EUS-FNA was done through the stomach.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	But distal pancreatectomy does not remove stomach puncture site and needle tract. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	So there is a risk of stomach recurrence and tract seeding.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-FNA/B for distal pancreas lesion</text>
+		</slide>
+		<slide index="12" title="AMC experiences" titleNormalized="amc experiences" src="slide13.swf" size="152067" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.0190005"/>
+			</animationSteps>
+			<notes>•	We retrospectively review the data of our center to evaluate the safety and benefit of preoperative EUS-FNA/B for the resectable distal PCa.</notes>
+			<notesNormalized>•	we retrospectively review the data of our center to evaluate the safety and benefit of preoperative eus-fna/b for the resectable distal pca.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	We retrospectively review the data of our center to evaluate the safety and benefit of preoperative EUS-FNA/B for the resectable distal PCa.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>AMC experiences
+We retrospectively review the data of our center to evaluate the safety and benefit of preoperative EUS-FNA/B for the resectable distal PCa.</text>
+		</slide>
+		<slide index="13" title="Trends in the use of EUS-FNA/B in patients with resectable distal pancreatic cancer" titleNormalized="trends in the use of eus-fna/b in patients with resectable distal pancreatic cancer" src="slide14.swf" size="10329" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.8989996"/>
+			</animationSteps>
+			<notes>•	In our center, EUS-FNA have been increasingly used before pancreatic surgery.
+•	Between 2008 and 2016, 516 patients underwent distal pancreatectomy for pancreatic cancer.
+•	Among them, preoperative EUS-FNA was performed in 197 patients.</notes>
+			<notesNormalized>•	in our center, eus-fna have been increasingly used before pancreatic surgery.
+•	between 2008 and 2016, 516 patients underwent distal pancreatectomy for pancreatic cancer.
+•	among them, preoperative eus-fna was performed in 197 patients.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	In our center, EUS-FNA have been increasingly used before pancreatic surgery.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Between 2008 and 2016, 516 patients underwent distal pancreatectomy for pancreatic cancer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Among them, preoperative EUS-FNA was performed in 197 patients.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Trends in the use of EUS-FNA/B in patients with resectable distal pancreatic cancer
+Between December 2007 to May 2016
+The 516 patients underwent distal pancreatectomy for PCa.
+Preoperative EUS-FNA/B was performed in 197 patients.</text>
+		</slide>
+		<slide index="14" title="Flowchart" titleNormalized="flowchart" src="slide15.swf" size="3173" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.1930002"/>
+			</animationSteps>
+			<notes>•	During the study periods, EUS-FNA/B was performed in 2,790 patients for suspected PCa. 
+•	Among them, EUS-FNA/B was performed in 270 patients who were suspected of resectable pancreas body/tail cancer on CT or MRI. 
+</notes>
+			<notesNormalized>•	during the study periods, eus-fna/b was performed in 2,790 patients for suspected pca. 
+•	among them, eus-fna/b was performed in 270 patients who were suspected of resectable pancreas body/tail cancer on ct or mri. 
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	During the study periods, EUS-FNA/B was performed in 2,790 patients for suspected PCa. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Among them, EUS-FNA/B was performed in 270 patients who were suspected of resectable pancreas body/tail cancer on CT or MRI. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Flowchart
+EUS FNA/B for 
+ R/O pancreatic cancer
+(N=2,790)
+EUS-FNA/B for 
+R/O pancreatic body/tail cancer
+(N=1,121)
+EUS-FNA/B for
+R/O pancreatic body/tail cancer, 
+Resectable (N=270)
+EUS-FNA/B for 
+R/O pancreatic head/uncinate 
+process cancer (N=1,669)
+R/O pancreatic body/tail cancer, 
+unresectable (N=851)</text>
+		</slide>
+		<slide index="15" title="Flowchart" titleNormalized="flowchart" src="slide16.swf" size="6396" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.1799998"/>
+			</animationSteps>
+			<notes>•	After EUS-FNA/B, 163 patients were identified as PCa.</notes>
+			<notesNormalized>•	after eus-fna/b, 163 patients were identified as pca.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	After EUS-FNA/B, 163 patients were identified as PCa.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Flowchart
+EUS-FNA/B for 
+R/O pancreatic body/tail cancer, 
+Resectable (N=270)
+Biopsy-proven
+pancreatic cancer
+(N=163)
+Surgery (N=159)
+Refuse surgery (N=4)
+Negative for malignancy (N=82)
+Medical treatment (N=11)
+CTx (N=2)
+Steroid Tx (N=8)
+TB med (N=1)
+Observation (N=7)
+Other diagnosis (N=25)
+AIP (N=7)
+NET (N=9)
+SPN (N=5)
+Lymphoma (N=2)
+Eosinophilic pancreatitis (N=1)
+Tuberculosis (N=1)
+Surgery (N=32)
+Pancreatic cancer (N=19)
+NET (N=7)
+Chronic pancreatitis (N=3)
+SPN (N=2)
+AIP (N=1)
+Observation
+ (N=57)
+Improvement 
+(N=22)
+No change 
+(N=17)
+Aggravation 
+(N=9)
+F/U loss (N=9)</text>
+		</slide>
+		<slide index="16" title="Flowchart" titleNormalized="flowchart" src="slide17.swf" size="6409" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.9190001"/>
+			</animationSteps>
+			<notes>•	25 patients were diagnosed as AIP, NET, SPN, lymphoma, eosinophilic pancreatitis or tuberculosis.</notes>
+			<notesNormalized>•	25 patients were diagnosed as aip, net, spn, lymphoma, eosinophilic pancreatitis or tuberculosis.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	25 patients were diagnosed as AIP, NET, SPN, lymphoma, eosinophilic pancreatitis or tuberculosis.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Flowchart
+EUS-FNA/B for 
+R/O pancreatic body/tail cancer, 
+Resectable (N=270)
+Biopsy-proven
+pancreatic cancer
+(N=163)
+Surgery (N=159)
+Refuse surgery (N=4)
+Negative for malignancy (N=82)
+Medical treatment (N=11)
+CTx (N=2)
+Steroid Tx (N=8)
+TB med (N=1)
+Observation (N=7)
+Other diagnosis (N=25)
+AIP (N=7)
+NET (N=9)
+SPN (N=5)
+Lymphoma (N=2)
+Eosinophilic pancreatitis (N=1)
+Tuberculosis (N=1)
+Surgery (N=32)
+Pancreatic cancer (N=19)
+NET (N=7)
+Chronic pancreatitis (N=3)
+SPN (N=2)
+AIP (N=1)
+Observation
+ (N=57)
+Improvement 
+(N=22)
+No change 
+(N=17)
+Aggravation 
+(N=9)
+F/U loss (N=9)</text>
+		</slide>
+		<slide index="17" title="Flowchart" titleNormalized="flowchart" src="slide18.swf" size="6505" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.0530009"/>
+			</animationSteps>
+			<notes>•	82 patients had negative results for pancreatic cancer.
+•	Among them, 25 patients underwent surgery based on clinical findings favor pancreatic cancer. 
+•	And watchful observation was performed in 57 patients. 
+</notes>
+			<notesNormalized>•	82 patients had negative results for pancreatic cancer.
+•	among them, 25 patients underwent surgery based on clinical findings favor pancreatic cancer. 
+•	and watchful observation was performed in 57 patients. 
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	82 patients had negative results for pancreatic cancer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Among them, 25 patients underwent surgery based on clinical findings favor pancreatic cancer. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	And watchful observation was performed in 57 patients. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Flowchart
+EUS-FNA/B for 
+R/O pancreatic body/tail cancer, 
+Resectable (N=270)
+Biopsy-proven
+pancreatic cancer
+(N=163)
+Surgery (N=159)
+Refuse surgery (N=4)
+Negative for malignancy (N=82)
+Medical treatment (N=11)
+CTx (N=2)
+Steroid Tx (N=8)
+TB med (N=1)
+Observation (N=7)
+Other diagnosis (N=25)
+AIP (N=7)
+NET (N=9)
+SPN (N=5)
+Lymphoma (N=2)
+Eosinophilic pancreatitis (N=1)
+Tuberculosis (N=1)
+Surgery (N=32)
+Pancreatic cancer (N=19)
+NET (N=7)
+Chronic pancreatitis (N=3)
+SPN (N=2)
+AIP (N=1)
+Observation
+ (N=57)
+Improvement 
+(N=22)
+No change 
+(N=17)
+Aggravation 
+(N=9)
+F/U loss (N=9)
+25 patients</text>
+		</slide>
+		<slide index="18" title="Flowchart" titleNormalized="flowchart" src="slide19.swf" size="6392" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.1790003"/>
+			</animationSteps>
+			<notes>•	In 22 patients, mass improved, and 17 patients had no change of mass for more than 1 year.
+
+</notes>
+			<notesNormalized>•	in 22 patients, mass improved, and 17 patients had no change of mass for more than 1 year.
+
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	In 22 patients, mass improved, and 17 patients had no change of mass for more than 1 year.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</notesHtml>
+			<text>Flowchart
+EUS-FNA/B for 
+R/O pancreatic body/tail cancer, 
+Resectable (N=270)
+Biopsy-proven
+pancreatic cancer
+(N=163)
+Surgery (N=159)
+Refuse surgery (N=4)
+Negative for malignancy (N=82)
+Medical treatment (N=11)
+CTx (N=2)
+Steroid Tx (N=8)
+TB med (N=1)
+Observation (N=7)
+Other diagnosis (N=25)
+AIP (N=7)
+NET (N=9)
+SPN (N=5)
+Lymphoma (N=2)
+Eosinophilic pancreatitis (N=1)
+Tuberculosis (N=1)
+Surgery (N=32)
+Pancreatic cancer (N=19)
+NET (N=7)
+Chronic pancreatitis (N=3)
+SPN (N=2)
+AIP (N=1)
+Observation
+ (N=57)
+Improvement 
+(N=22)
+No change 
+(N=17)
+Aggravation 
+(N=9)
+F/U loss (N=9)</text>
+		</slide>
+		<slide index="19" title="Flowchart" titleNormalized="flowchart" src="slide20.swf" size="6557" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.9889998"/>
+			</animationSteps>
+			<notes>•	As a results, 21% of patients could avoid surgery due to preoperative EUS-FNA.
+•	Of course, selection bias might affect the results, because preoperative EUS-FNA might have been performed in patients with atypical image findings.</notes>
+			<notesNormalized>•	as a results, 21% of patients could avoid surgery due to preoperative eus-fna.
+•	of course, selection bias might affect the results, because preoperative eus-fna might have been performed in patients with atypical image findings.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	As a results, 21% of patients could avoid surgery due to preoperative EUS-FNA.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Of course, selection bias might affect the results, because preoperative EUS-FNA might have been performed in patients with atypical image findings.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Flowchart
+EUS-FNA/B for 
+R/O pancreatic body/tail cancer, 
+Resectable (N=270)
+Biopsy-proven
+pancreatic cancer
+(N=163)
+Surgery (N=159)
+Refuse surgery (N=4)
+Negative for malignancy (N=82)
+Medical treatment (N=11)
+CTx (N=2)
+Steroid Tx (N=8)
+TB med (N=1)
+Observation (N=7)
+Other diagnosis (N=25)
+AIP (N=7)
+NET (N=9)
+SPN (N=5)
+Lymphoma (N=2)
+Eosinophilic pancreatitis (N=1)
+Tuberculosis (N=1)
+Surgery (N=32)
+Pancreatic cancer (N=19)
+NET (N=7)
+Chronic pancreatitis (N=3)
+SPN (N=2)
+AIP (N=1)
+Observation
+ (N=57)
+Improvement 
+(N=22)
+No change 
+(N=17)
+Aggravation 
+(N=9)
+F/U loss (N=9)
+“21% (57/270) could avoid surgery.”</text>
+		</slide>
+		<slide index="20" title="Cancer free survival after distal pancreatectomy" titleNormalized="cancer free survival after distal pancreatectomy" src="slide21.swf" size="20314" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.7520003"/>
+			</animationSteps>
+			<notes>•	Cancer free survival in patient undergoing preoperative EUS-FNA was similar with that in patients who did not undergo EUS-FNA.
+•	There was no significant difference between two groups.</notes>
+			<notesNormalized>•	cancer free survival in patient undergoing preoperative eus-fna was similar with that in patients who did not undergo eus-fna.
+•	there was no significant difference between two groups.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	Cancer free survival in patient undergoing preoperative EUS-FNA was similar with that in patients who did not undergo EUS-FNA.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	There was no significant difference between two groups.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Cancer free survival after distal pancreatectomy
+Cancer free survival (months)
+Survival probability (%)
+ EUS-FNA group
+ Non-EUS-FNA group
+ P=0.426</text>
+		</slide>
+		<slide index="21" title="Overall survival after distal pancreatectomy" titleNormalized="overall survival after distal pancreatectomy" src="slide22.swf" size="19403" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.2430004"/>
+			</animationSteps>
+			<notes>•	Overall survival after distal pancreatectomy was not significantly different between two groups.</notes>
+			<notesNormalized>•	overall survival after distal pancreatectomy was not significantly different between two groups.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	Overall survival after distal pancreatectomy was not significantly different between two groups.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Overall survival after distal pancreatectomy
+Overall survival in months
+Survival probability (%)
+ EUS-FNA group
+ Non-EUS-FNA group
+ P=0.551</text>
+		</slide>
+		<slide index="22" title="Preoperative EUS-FNA/B" titleNormalized="preoperative eus-fna/b" src="slide23.swf" size="3005" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.7989992"/>
+			</animationSteps>
+			<notes>•	During EUS-FNA, mean number of needle passage was 3.2 times.
+•	The most commonly used needle is the 22-gauge needle.
+•	Post-procedural pancreatitis associated with EUS-FNA occurred in 1 patient. 
+•	Isolated recurred tumor at the stomach wall was observed in 2 patients.</notes>
+			<notesNormalized>•	during eus-fna, mean number of needle passage was 3.2 times.
+•	the most commonly used needle is the 22-gauge needle.
+•	post-procedural pancreatitis associated with eus-fna occurred in 1 patient. 
+•	isolated recurred tumor at the stomach wall was observed in 2 patients.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	During EUS-FNA, mean number of needle passage was 3.2 times.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	The most commonly used needle is the 22-gauge needle.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Post-procedural pancreatitis associated with EUS-FNA occurred in 1 patient. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Isolated recurred tumor at the stomach wall was observed in 2 patients.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Preoperative EUS-FNA/B
+Needle passage (mean±SD)
+3.2 ± 1.3 times
+Needle type
+ 19G
+13.5% 
+ 22G
+64.8% 
+ 25G
+21.8%
+Adverse events
+ Pancreatitis
+1
+ Gastric recurrence
+2</text>
+		</slide>
+		<slide index="23" title="55 y/o male with pancreas mass" titleNormalized="55 y/o male with pancreas mass" src="slide24.swf" size="414850" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.9190001"/>
+			</animationSteps>
+			<notes>•	A 55 years old man had pancreas tail mass on CT scan. 
+•	EUS-FNA was performed and revealed adenocarcinoma.
+•	He underwent distal pancreatectomy and splenectomy.</notes>
+			<notesNormalized>•	a 55 years old man had pancreas tail mass on ct scan. 
+•	eus-fna was performed and revealed adenocarcinoma.
+•	he underwent distal pancreatectomy and splenectomy.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	A 55 years old man had pancreas tail mass on CT scan. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	EUS-FNA was performed and revealed adenocarcinoma.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	He underwent distal pancreatectomy and splenectomy.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>55 y/o male with pancreas mass
+“Ductal adenocarcinoma”</text>
+		</slide>
+		<slide index="24" title="55 y/o male – 11 months later" titleNormalized="55 y/o male – 11 months later" src="slide25.swf" size="341650" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.2690005"/>
+			</animationSteps>
+			<notes>•	11 months after surgery, follow-up CT scan showed low density mass at the stomach wall. 
+•	Endoscopy showed ulcerofungating mass at the posterior wall of stomach body.
+•	Biopsy revealed recurred pancreatic cancer.
+•	Unfortunately, in this patient, tumor recurred at the needle puncture site during EUS-FNA. </notes>
+			<notesNormalized>•	11 months after surgery, follow-up ct scan showed low density mass at the stomach wall. 
+•	endoscopy showed ulcerofungating mass at the posterior wall of stomach body.
+•	biopsy revealed recurred pancreatic cancer.
+•	unfortunately, in this patient, tumor recurred at the needle puncture site during eus-fna.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	11 months after surgery, follow-up CT scan showed low density mass at the stomach wall. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Endoscopy showed ulcerofungating mass at the posterior wall of stomach body.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Biopsy revealed recurred pancreatic cancer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Unfortunately, in this patient, tumor recurred at the needle puncture site during EUS-FNA. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>55 y/o male – 11 months later</text>
+		</slide>
+		<slide index="25" title="Outcomes of preoperative EUS-FNA/B (for PCa)" titleNormalized="outcomes of preoperative eus-fna/b (for pca)" src="slide26.swf" size="3171" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="43.0790018"/>
+			</animationSteps>
+			<notes>•	In patients underwent distal pancreatectomy for pancreatic cancer, diagnostic accuracy of EUS-FNA or FNB for pancreatic cancer is 90.4%. 
+•	Sensitivity was 87.2%, specificity was 100%, positive predictive value was 100%, but negative predictive value was 73%. 
+•	Relatively low negative predictive value may be the problem. 
+•	Onsite cytopathologists are not available in our center. 
+
+</notes>
+			<notesNormalized>•	in patients underwent distal pancreatectomy for pancreatic cancer, diagnostic accuracy of eus-fna or fnb for pancreatic cancer is 90.4%. 
+•	sensitivity was 87.2%, specificity was 100%, positive predictive value was 100%, but negative predictive value was 73%. 
+•	relatively low negative predictive value may be the problem. 
+•	onsite cytopathologists are not available in our center. 
+
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	In patients underwent distal pancreatectomy for pancreatic cancer, diagnostic accuracy of EUS-FNA or FNB for pancreatic cancer is 90.4%. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Sensitivity was 87.2%, specificity was 100%, positive predictive value was 100%, but negative predictive value was 73%. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Relatively low negative predictive value may be the problem. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Onsite cytopathologists are not available in our center. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</notesHtml>
+			<text>Outcomes of preoperative EUS-FNA/B (for PCa)
+%
+EUS-FNA/B
+N = 197
+ Diagnostic accuracy
+90.4%
+ Sensitivity
+87.2%
+ Specificity
+100%
+ Positive predictive value (PPV) 
+100%
+ Negative predictive value (NPV)
+72.9%
+No onsite cytopathologists</text>
+		</slide>
+		<slide index="26" title="Negative preoperative EUS-FNA results" titleNormalized="negative preoperative eus-fna results" src="slide27.swf" size="2944" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="51.5839991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Negative preoperative EUS-FNA results
+Two retrospective studies found that, for indeterminate cytopathological diagnoses, several clinical conditions (e. g., weight loss and bile duct obstruction) were associated with a final diagnosis of malignancy. 
+
+Surgery is recommended in patients with “suspicious” cytopathology and those clinical predictors for PCa, if the mass is resectable.
+
+Repeat tissue sampling is recommended in patients with unresectable mass.
+Alston et al. Cancer Cytopathol 2016;124:53–57
+Alston et al. Cancer Cytopathol 2014;122:428–434</text>
+		</slide>
+		<slide index="27" title="64 y/o male" titleNormalized="64 y/o male" src="slide28.swf" size="320902" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="38.3390002"/>
+			</animationSteps>
+			<notes>•	Let me show you a case. A 64-year-old man had low density mass at the pancreas body. He had uncontrolled diabetes and history of idiopathic acute pancreatitis. CA 19-9 level was elevated.
+•	EUS-FNA was done. But it did not show malignancy. 
+•	However, because he had several clinical conditions suspicious for pancreatic cancer, distal pancreatectomy was done. </notes>
+			<notesNormalized>•	let me show you a case. a 64-year-old man had low density mass at the pancreas body. he had uncontrolled diabetes and history of idiopathic acute pancreatitis. ca 19-9 level was elevated.
+•	eus-fna was done. but it did not show malignancy. 
+•	however, because he had several clinical conditions suspicious for pancreatic cancer, distal pancreatectomy was done.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	Let me show you a case. A 64-year-old man had low density mass at the pancreas body. He had uncontrolled diabetes and history of idiopathic acute pancreatitis. CA 19-9 level was elevated.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	EUS-FNA was done. But it did not show malignancy. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	However, because he had several clinical conditions suspicious for pancreatic cancer, distal pancreatectomy was done. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>64 y/o male
+Uncontrolled DM
+Idiopathic acute pancreatitis
+CA 19-9 118 U/mL
+“Negative for malignancy”
+“Ductal adenocarcinoma”</text>
+		</slide>
+		<slide index="28" title="54 y/o male with pancreatic mass" titleNormalized="54 y/o male with pancreatic mass" src="slide29.swf" size="361604" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.4019999"/>
+			</animationSteps>
+			<notes>•	A 60-year-old man was transferred for work up of low-density mass on CT scan found during routine heath checkup. 
+•	He had no specific symptom and risk factors for pancreatic cancer. And tumor marker was within normal range.
+•	EUS-FNB revealed focal inflammation. So close follow-up instead of surgery was done. After one moth follow-up CT scan showed improved mass lesion.</notes>
+			<notesNormalized>•	a 60-year-old man was transferred for work up of low-density mass on ct scan found during routine heath checkup. 
+•	he had no specific symptom and risk factors for pancreatic cancer. and tumor marker was within normal range.
+•	eus-fnb revealed focal inflammation. so close follow-up instead of surgery was done. after one moth follow-up ct scan showed improved mass lesion.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	A 60-year-old man was transferred for work up of low-density mass on CT scan found during routine heath checkup. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	He had no specific symptom and risk factors for pancreatic cancer. And tumor marker was within normal range.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	EUS-FNB revealed focal inflammation. So close follow-up instead of surgery was done. After one moth follow-up CT scan showed improved mass lesion.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>54 y/o male with pancreatic mass
+“Focal pancreatitis”</text>
+		</slide>
+		<slide index="29" title="54 y/o male with pancreatic mass" titleNormalized="54 y/o male with pancreatic mass" src="slide30.swf" size="381286" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.0339998"/>
+			</animationSteps>
+			<notes>•	A 54-year-old man had a low-density mass at the pancreas tail portion on CT scan. PET scan revealed hot uptake at the same site.
+•	He recently diagnosed with new onset diabetes. 
+•	EUS-FNB was done, and biopsy revealed autoimmune pancreatitis.
+•	After steroid treatment, mass improved. 
+•	Due to EUS-guided biopsy, surgery could be avoided. </notes>
+			<notesNormalized>•	a 54-year-old man had a low-density mass at the pancreas tail portion on ct scan. pet scan revealed hot uptake at the same site.
+•	he recently diagnosed with new onset diabetes. 
+•	eus-fnb was done, and biopsy revealed autoimmune pancreatitis.
+•	after steroid treatment, mass improved. 
+•	due to eus-guided biopsy, surgery could be avoided.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	A 54-year-old man had a low-density mass at the pancreas tail portion on CT scan. PET scan revealed hot uptake at the same site.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	He recently diagnosed with new onset diabetes. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	EUS-FNB was done, and biopsy revealed autoimmune pancreatitis.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	After steroid treatment, mass improved. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Due to EUS-guided biopsy, surgery could be avoided. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>54 y/o male with pancreatic mass
+“Autoimmune pancreatitis”</text>
+		</slide>
+		<slide index="30" title="Conclusions" titleNormalized="conclusions" src="slide31.swf" size="639483" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.3299994"/>
+			</animationSteps>
+			<notes>•	Preoperative EUS-FNA/B is not associated with increased risk of cancer-speciﬁc or overall survival in the patients with resected pancreatic cancer.
+•	Some patients can avoid unnecessary surgery due to preoperative EUS-FNA/B.
+•	We also have to keep in mind its potential risks such as needle tract seeding.
+
+</notes>
+			<notesNormalized>•	preoperative eus-fna/b is not associated with increased risk of cancer-speciﬁc or overall survival in the patients with resected pancreatic cancer.
+•	some patients can avoid unnecessary surgery due to preoperative eus-fna/b.
+•	we also have to keep in mind its potential risks such as needle tract seeding.
+
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;•	Preoperative EUS-FNA/B is not associated with increased risk of cancer-speciﬁc or overall survival in the patients with resected pancreatic cancer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	Some patients can avoid unnecessary surgery due to preoperative EUS-FNA/B.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;•	We also have to keep in mind its potential risks such as needle tract seeding.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</notesHtml>
+			<text>Preoperative EUS-FNA/B is not associated with increased risk of cancer-speciﬁc or overall survival in the patients with resected pancreatic cancer.
+Some patients can avoid unnecessary surgery due to preoperative EUS-FNA/B.
+We also have to keep in mind its potential risks.
+
+Conclusions</text>
+		</slide>
+		<slide index="31" title="Thank you. 감사합니다." titleNormalized="thank you. 감사합니다." src="slide32.swf" size="817789" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.5010001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you. 감사합니다.</text>
+		</slide>
+	</slides>
+</presentation>
