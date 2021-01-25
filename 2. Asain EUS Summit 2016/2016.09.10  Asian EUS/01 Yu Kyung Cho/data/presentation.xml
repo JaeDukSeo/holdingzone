@@ -1,0 +1,1228 @@
+<?xml version="1.0"?>
+<presentation title="01 Yu Kyung Cho" width="810.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="52.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{5FF308B2-B98A-4E74-8B64-E86D41BD2B1E}">
+	<presenters>
+		<presenter name="Yu Kyung Cho" title="The Catholic University of korea" email="" web="" phone="" photoAssetId="">
+			<bio>EUS guided tissue acquisition: subepithelial lesion</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="246536" duration="8803"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="643702" duration="22988"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="903359" duration="32261"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="986011" duration="35213"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="602742" duration="21525"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="559588" duration="19984"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="577874" duration="20637"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="932616" duration="33306"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="295542" duration="10553"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="986742" duration="35239"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="1449005" duration="51749"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="512045" duration="18286"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="483519" duration="17267"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="446216" duration="15935"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="999176" duration="35683"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="878491" duration="31373"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="699291" duration="24973"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="712456" duration="25443"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="403794" duration="14420"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="316022" duration="11285"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="977234" duration="34900"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="931885" duration="33280"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="741714" duration="26488"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="821439" duration="29336"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="714651" duration="25522"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="862399" duration="30798"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="747565" duration="26697"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="303588" duration="10841"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="546422" duration="19513"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="484251" duration="17293"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="689051" duration="24607"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="547885" duration="19566"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="623222" duration="22256"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="630536" duration="22518"/>
+		<soundAsset id="sndAsset34" src="sound35.mp3" embedded="0" size="672228" duration="24007"/>
+		<soundAsset id="sndAsset35" src="sound36.mp3" embedded="0" size="1086948" duration="38818"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb36.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="8.7749996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="22.9559994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="32.2319984"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="35.1679993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="21.4880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="19.9529991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="20.5869999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="33.2669983"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="10.5100000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="35.2019997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="51.7179985"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="18.2520000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="17.2169991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="15.8830000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="35.6360000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="31.3309994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="24.9249992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="25.3920000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="14.3809996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="11.2449999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="34.8680000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="33.2330000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="26.4599991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="29.2959995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="25.4920000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="30.7639999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="26.6599998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="10.8109999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="19.4860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="17.2509995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="24.5580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="19.5200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="22.2220000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="22.4890000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset34">
+				<startTimestamp slideIndex="34" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="34" stepIndex="0" timeOffset="23.9570000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset35">
+				<startTimestamp slideIndex="35" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="35" stepIndex="0" timeOffset="38.7719994"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS guided tissue acquisition: subepithelial lesion" titleNormalized="eus guided tissue acquisition: subepithelial lesion" src="slide1.swf" size="489333" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.7739996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS guided tissue acquisition: subepithelial lesion 
+Yu Kyung Cho
+The Catholic University of Korea, Seoul, Korea</text>
+		</slide>
+		<slide index="1" title="small EUS-suspected gastric GISTs" titleNormalized="small eus-suspected gastric gists" src="slide2.swf" size="110756" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.9549994"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>small EUS-suspected gastric GISTs</text>
+		</slide>
+		<slide index="2" title="EUS- guided tissue sampling in SELs" titleNormalized="eus- guided tissue sampling in sels" src="slide3.swf" size="3167" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.2309984"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS- guided tissue sampling in SELs 
+In some subepithelial lesions, EUS characteristics are not typical to diagnose
+Pathologic confirmation is necessary in some SMTs , especially mass in 3rd layer, even in &lt; 2cm sized small tumor.
+ EUS- FNA, deep biopsy, endoscopic resection : clinician’s preference and lesions</text>
+		</slide>
+		<slide index="3" title="83/M ampulla submucosal tumor 1.5X1.5cm" titleNormalized="83/m ampulla submucosal tumor 1.5x1.5cm" src="slide4.swf" size="502765" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.1669993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>83/M ampulla submucosal tumor 1.5X1.5cm
+Cytology :some neutrophils, lymphocytes and a few larva of parasites. 
+Bx : Strongyloidiasis</text>
+		</slide>
+		<slide index="4" title="45/ F stomach antrum 2X2cm" titleNormalized="45/ f stomach antrum 2x2cm" src="slide5.swf" size="440104" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.4870009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>45/ F stomach antrum 2X2cm 
+inflammatory fibrous tumor</text>
+		</slide>
+		<slide index="5" title="28/F 2X1cm,gastric cardia" titleNormalized="28/f 2x1cm,gastric cardia" src="slide6.swf" size="438293" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.9519991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>28/F 2X1cm,gastric cardia 
+Heterotopic pancreas</text>
+		</slide>
+		<slide index="6" title="1.6X0.7cm esophageal SELs" titleNormalized="1.6x0.7cm esophageal sels" src="slide7.swf" size="372666" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.5859999"/>
+			</animationSteps>
+			<notes>EUS-FNB procedure 는 다음과 같이 진행되었는데,
+먼저 모든 procedure는 한명의 endosonographer를 통해 시행되었습니다. (이전에 70회 이상의 FNA procedure를 시행한)
+Radial echoendoscope을 사용하여 lesion을 mapping하고 lorigin layer를 확인하였고,
+(방사형으로 주사방식이 초음파 진동자가 내시경 축에 수직으로 360도의 환상의 영상을 얻는 방식으로 넓은 범위의 단층상을 쉽게 얻을 수 있으나, 천자침은 단지 하나의 점상 에코로만 관찰되며 그 끝을 눈으로 확인할 수 없 다. )
+Linear array echoendoscope로 7.5메가헤르츠의 imaging frequency로 needle biopsy 를 guide하였습니다. 컬러 플로우 도플러 울트라사운드를 통해 vascular structure를 제외한 뒤 19게이지 procore needle을 사용하여 병변에 puncture하였습니다.</notes>
+			<notesNormalized>eus-fnb procedure 는 다음과 같이 진행되었는데,
+먼저 모든 procedure는 한명의 endosonographer를 통해 시행되었습니다. (이전에 70회 이상의 fna procedure를 시행한)
+radial echoendoscope을 사용하여 lesion을 mapping하고 lorigin layer를 확인하였고,
+(방사형으로 주사방식이 초음파 진동자가 내시경 축에 수직으로 360도의 환상의 영상을 얻는 방식으로 넓은 범위의 단층상을 쉽게 얻을 수 있으나, 천자침은 단지 하나의 점상 에코로만 관찰되며 그 끝을 눈으로 확인할 수 없 다. )
+linear array echoendoscope로 7.5메가헤르츠의 imaging frequency로 needle biopsy 를 guide하였습니다. 컬러 플로우 도플러 울트라사운드를 통해 vascular structure를 제외한 뒤 19게이지 procore needle을 사용하여 병변에 puncture하였습니다.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;EUS-FNB procedure 는 다음과 같이 진행되었는데,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;먼저 모든 procedure는 한명의 endosonographer를 통해 시행되었습니다. (이전에 70회 이상의 FNA procedure를 시행한)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Radial echoendoscope을 사용하여 lesion을 mapping하고 lorigin layer를 확인하였고,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;(방사형으로 주사방식이 초음파 진동자가 내시경 축에 수직으로 360도의 환상의 영상을 얻는 방식으로 넓은 범위의 단층상을 쉽게 얻을 수 있으나, 천자침은 단지 하나의 점상 에코로만 관찰되며 그 끝을 눈으로 확인할 수 없 다. )&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Linear array echoendoscope로 7.5메가헤르츠의 imaging frequency로 needle biopsy 를 guide하였습니다. 컬러 플로우 도플러 울트라사운드를 통해 vascular structure를 제외한 뒤 19게이지 procore needle을 사용하여 병변에 puncture하였습니다.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>1.6X0.7cm esophageal SELs
+
+
+
+
+leiomyoma</text>
+		</slide>
+		<slide index="7" title="EUS guided tissue sampling : Core biopsy or cytology" titleNormalized="eus guided tissue sampling : core biopsy or cytology" src="slide8.swf" size="168160" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.2659983"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS guided tissue sampling : Core biopsy or cytology
+More tissue
+- reduce the need for ROSE (rapid onsite cytologic evaluation)
+- more diagnostic
+Tissue architecture or IHC are necessary in the diagnosis of
+ - lymphoma
+ - GIST, autoimmune pancreatitis
+False (+) in cytologic interpretation:5-7%</text>
+		</slide>
+		<slide index="8" title="“ the best” samples" titleNormalized="“ the best” samples" src="slide9.swf" size="2867" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.5090002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>“ the best” samples
+Cellular sample
+Least bloody
+Adequate quantity
+
+
+
+
+</text>
+		</slide>
+		<slide index="9" title="Factors affecting outcome of EUS-FNA" titleNormalized="factors affecting outcome of eus-fna" src="slide10.swf" size="3530" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.2009997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Factors affecting outcome of EUS-FNA
+Needle : lesion and locations
+FNA technique : suction, use of stylet, number of needle pass
+
+Sampling : standard suction wet suction, capillary method , door-knocking
+Rapid on- site cytologic evaluation (ROSE)
+
+Dig Endosc 2012;24:358-63
+Endoscopic Ultasound 2014;3:98-108</text>
+		</slide>
+		<slide index="10" title="Needle" titleNormalized="needle" src="slide11.swf" size="173779" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="51.7169985"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Needle 
+Standard needle
+ for FNA
+Flex 19 G needle
+EXPECT 
+Core needle
+ for FNB
+19,22,25 G Echotip
+Shark core
+19,22,25 G Procore 
+20G procore</text>
+		</slide>
+		<slide index="11" title="Overall outcomes :EUS-FNA of Subepithelial Tumors" titleNormalized="overall outcomes :eus-fna of subepithelial tumors" src="slide12.swf" size="16523" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.2510008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Overall outcomes :EUS-FNA of Subepithelial Tumors</text>
+		</slide>
+		<slide index="12" title="Tissue biopsy samples using standard 22G needle" titleNormalized="tissue biopsy samples using standard 22g needle" src="slide13.swf" size="161306" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.2159991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tissue biopsy samples using standard 22G needle</text>
+		</slide>
+		<slide index="13" title="Tissue biopsy samples using standard 19 G needle" titleNormalized="tissue biopsy samples using standard 19 g needle" src="slide14.swf" size="264785" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.8820004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tissue biopsy samples using standard 19 G needle</text>
+		</slide>
+		<slide index="14" title="The needle selection: standard 22 G vs. 25 G" titleNormalized="the needle selection: standard 22 g vs. 25 g" src="slide15.swf" size="8657" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.6350016"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The needle selection: standard 22 G vs. 25 G 
+Over all 22 G= 25 G</text>
+		</slide>
+		<slide index="15" title="Needle size" titleNormalized="needle size" src="slide16.swf" size="13912" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.3299994"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Needle size
+Needle size has only a limited effect on outcomes in EUS-FNA
+Selection of needle depends on the location
+Affolter KE et al. Dig Dis Sci 2013
+Transduodenal 
+FNA : 25 G 
+Transgastric FNA 22 ,25 
+Tranesophagageal FNA 22 ,25 
+ 
+Angulated Difficulty</text>
+		</slide>
+		<slide index="16" title="Suction" titleNormalized="suction" src="slide17.swf" size="9412" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.9239992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Suction
+No role for suction</text>
+		</slide>
+		<slide index="17" title="Suction during EUS-FNA" titleNormalized="suction during eus-fna" src="slide18.swf" size="3372" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.3910002"/>
+			</animationSteps>
+			<notes>Subepithelial tumor (SET) originating in gastric proper muscle layer  includes neoplastic tumors with malignant potential and non malignant potential. 
+Differentiating these tumors is crucial for clinical management, as a even small gastrointestinal tumor(GIST) has malignant potential.
+NCCN guide line, Europian guide line and Korean guide line for PM layer tumor recommend surgical resection of tumors larger than 2cm even without pathologic diagnosis.
+Recommended management strategy for small PM layer tumors       (&lt;2cm) is periodic follow up examination with uncertain interval. 
+
+
+
+Subepithelial tumor 는 GI tract 에서 발생하는 neoplastic 과 non-neoplastic condition 을 모두 포함하는 용어로서 
+이들중 일부는 malignant potential 을 가지고 있기에 clinical management 를 결정함에 있어 병변을 differentiation 하는 것은 중요한 일입니다. 
+
+하지만 크기가 작고 증상이 없는 SET 에 대하여는 현재까지 명확한 mangement guideline 이 없습니다. 다만</notes>
+			<notesNormalized>subepithelial tumor (set) originating in gastric proper muscle layer includes neoplastic tumors with malignant potential and non malignant potential. 
+differentiating these tumors is crucial for clinical management, as a even small gastrointestinal tumor(gist) has malignant potential.
+nccn guide line, europian guide line and korean guide line for pm layer tumor recommend surgical resection of tumors larger than 2cm even without pathologic diagnosis.
+recommended management strategy for small pm layer tumors (&lt;2cm) is periodic follow up examination with uncertain interval. 
+
+
+
+subepithelial tumor 는 gi tract 에서 발생하는 neoplastic 과 non-neoplastic condition 을 모두 포함하는 용어로서 
+이들중 일부는 malignant potential 을 가지고 있기에 clinical management 를 결정함에 있어 병변을 differentiation 하는 것은 중요한 일입니다. 
+
+하지만 크기가 작고 증상이 없는 set 에 대하여는 현재까지 명확한 mangement guideline 이 없습니다. 다만</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="20"&gt;Subepithelial tumor (SET) originating in gastric proper muscle layer  includes neoplastic tumors with malignant potential and non malignant potential. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Differentiating these tumors is crucial for clinical management, as a even small gastrointestinal tumor(GIST) has malignant potential.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;NCCN guide line, Europian guide line and Korean guide line for PM layer tumor recommend surgical resection of tumors larger than 2cm even without pathologic diagnosis.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Recommended management strategy for small PM layer tumors       (&amp;lt;2cm) is periodic follow up examination with uncertain interval. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Subepithelial tumor 는 GI tract 에서 발생하는 neoplastic 과 non-neoplastic condition 을 모두 포함하는 용어로서 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;이들중 일부는 malignant potential 을 가지고 있기에 clinical management 를 결정함에 있어 병변을 differentiation 하는 것은 중요한 일입니다. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;하지만 크기가 작고 증상이 없는 SET 에 대하여는 현재까지 명확한 mangement guideline 이 없습니다. 다만&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>may increase the size of the sample, blood dilution may decrease the diagnostic yield.
+improves diagnosis of malignancy in patients with solid masses but not in patients with lymphadenopathy 
+
+ESGE recommend using suction for EUS-FNA of solid masses/cystic lesions and not using suction for EUS-FNA of lymph nodes (Recommendation grade C).
+
+No advantage of suction 
+
+
+
+
+
+
+
+
+
+
+
+Suction during EUS-FNA
+Endoscopy 2012;44:190-205Gastrointest Endosc2012;76::328-35
+</text>
+		</slide>
+		<slide index="18" title="Stylet" titleNormalized="stylet" src="slide19.swf" size="12374" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.3799996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Stylet 
+Gimeno-García AZ, et al.. Dig Endosc. 2013</text>
+		</slide>
+		<slide index="19" title="Stylet" titleNormalized="stylet" src="slide20.swf" size="8387" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.2439999"/>
+			</animationSteps>
+			<notes>Subepithelial tumor (SET) originating in gastric proper muscle layer  includes neoplastic tumors with malignant potential and non malignant potential. 
+Differentiating these tumors is crucial for clinical management, as a even small gastrointestinal tumor(GIST) has malignant potential.
+NCCN guide line, Europian guide line and Korean guide line for PM layer tumor recommend surgical resection of tumors larger than 2cm even without pathologic diagnosis.
+Recommended management strategy for small PM layer tumors       (&lt;2cm) is periodic follow up examination with uncertain interval. 
+
+
+
+Subepithelial tumor 는 GI tract 에서 발생하는 neoplastic 과 non-neoplastic condition 을 모두 포함하는 용어로서 
+이들중 일부는 malignant potential 을 가지고 있기에 clinical management 를 결정함에 있어 병변을 differentiation 하는 것은 중요한 일입니다. 
+
+하지만 크기가 작고 증상이 없는 SET 에 대하여는 현재까지 명확한 mangement guideline 이 없습니다. 다만</notes>
+			<notesNormalized>subepithelial tumor (set) originating in gastric proper muscle layer includes neoplastic tumors with malignant potential and non malignant potential. 
+differentiating these tumors is crucial for clinical management, as a even small gastrointestinal tumor(gist) has malignant potential.
+nccn guide line, europian guide line and korean guide line for pm layer tumor recommend surgical resection of tumors larger than 2cm even without pathologic diagnosis.
+recommended management strategy for small pm layer tumors (&lt;2cm) is periodic follow up examination with uncertain interval. 
+
+
+
+subepithelial tumor 는 gi tract 에서 발생하는 neoplastic 과 non-neoplastic condition 을 모두 포함하는 용어로서 
+이들중 일부는 malignant potential 을 가지고 있기에 clinical management 를 결정함에 있어 병변을 differentiation 하는 것은 중요한 일입니다. 
+
+하지만 크기가 작고 증상이 없는 set 에 대하여는 현재까지 명확한 mangement guideline 이 없습니다. 다만</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="20"&gt;Subepithelial tumor (SET) originating in gastric proper muscle layer  includes neoplastic tumors with malignant potential and non malignant potential. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Differentiating these tumors is crucial for clinical management, as a even small gastrointestinal tumor(GIST) has malignant potential.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;NCCN guide line, Europian guide line and Korean guide line for PM layer tumor recommend surgical resection of tumors larger than 2cm even without pathologic diagnosis.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Recommended management strategy for small PM layer tumors       (&amp;lt;2cm) is periodic follow up examination with uncertain interval. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Subepithelial tumor 는 GI tract 에서 발생하는 neoplastic 과 non-neoplastic condition 을 모두 포함하는 용어로서 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;이들중 일부는 malignant potential 을 가지고 있기에 clinical management 를 결정함에 있어 병변을 differentiation 하는 것은 중요한 일입니다. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;하지만 크기가 작고 증상이 없는 SET 에 대하여는 현재까지 명확한 mangement guideline 이 없습니다. 다만&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Stylet
+Using the needle stylet does not seem to impact EUS-FNA sample quality and results
+insufficient evidence to recommend
+
+Europian Society of Gastrointestinal Endoscopy (ESGE) Technical Guideline. 
+Endoscopy 2012;44:190-205.
+Gastrointest Endosc2009;70:254-61
+
+
+
+
+
+
+
+
+
+
+
+</text>
+		</slide>
+		<slide index="20" title="Number of needle pass" titleNormalized="number of needle pass" src="slide21.swf" size="9584" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.8670000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Number of needle pass
+&gt; 5 pass, diagnostic yield is similar to that of EUS-TCB
+
+&gt; 3 passes vs &lt;3 passes in Pancreas ca and SET
+ Diagnostic accuracy; 90.0%(108/120) vs 78.0%(39/50), p&lt;0.05
+ Digestive Endoscopy 2012;24:358-363
+Lymph nodes generally required a lower number of needle passes three needle passes were sufficient
+Endoscopy 2010;42:324-6.</text>
+		</slide>
+		<slide index="21" title="HOW many passes if on site cytologic evaluation is not available?" titleNormalized="how many passes if on site cytologic evaluation is not available?" src="slide22.swf" size="3644" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.2320017"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>HOW many passes if on site cytologic evaluation is not available?
+In submucosal tumors, the accuracy of EUS-FNA increased gradually with each consequent pass to reach a plateau after the fourth pass
+A retrospective study, 112 upper GI subepithelial lesions. EUS-FNA, over all diagnostic yield of 83.9%, :high diagnostic yield was obtained with a mean of 5.3 FNA passes.
+In a Japanese study. 141 patients, a mean of 2.5 ± 0.7 passes with 22-G needle, sample adequacy of 83%, better for lesions &gt;2 cm than for those with a smaller diameter.</text>
+		</slide>
+		<slide index="22" title="Standard FNA vs. Fanning FNA" titleNormalized="standard fna vs. fanning fna" src="slide23.swf" size="45049" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.4589991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Standard FNA vs. Fanning FNA 
+RCT of Standard vs. Fanning FNA
+Standard N=26
+Fanning N=26
+First pass diagnosis
+57.7%
+85.7%
+P=0.03
+Endoscopy 2013; 45: 445–450
+ moving the needle at different directions inside the mass. a fan-like motion</text>
+		</slide>
+		<slide index="23" title="Capillary techniques" titleNormalized="capillary techniques" src="slide24.swf" size="4695" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.2949995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Capillary techniques 
+Nakai Y ,Dig Dis Sci 2014
+Moving back stylet with slow - pull manner
+Difference significant for 25 G, not 22G Needle 
+</text>
+		</slide>
+		<slide index="24" title="Wet suction" titleNormalized="wet suction" src="slide25.swf" size="234544" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.4910006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Wet suction 
+Attam R: GIE 2015
+Wet suction
+Conventional suction
+P
+Mean cellularity
+1.83(+/-0.79)
+1.44(+/-0.769)
+&lt;0.003
+Diagnostic yield %
+85.5
+75.2
+&lt;0.035
+Loading syringe with saline before puncture lesions, then applyng negative suction with saline during FNA
+N=117 lesions : lesions including pancreas 54%</text>
+		</slide>
+		<slide index="25" title="How many to and fro movement ?" titleNormalized="how many to and fro movement ?" src="slide26.swf" size="7861" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.7629999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How many to and fro movement ? 
+Suction (N=94) 
+No suction (N=99)
+Celluar
+Blood
+Yield
+10
+26.2%
+51.2%
+59.5%
+15
+38.1%
+50%
+71.4%
+20
+34.5%
+52.4%
+72.6%
+25
+32.3%
+53.8%
+69.2%
+Na S DDW2013 Ab 404</text>
+		</slide>
+		<slide index="26" title="ROSE (rapid on site cytologic evaluation)" titleNormalized="rose (rapid on site cytologic evaluation)" src="slide27.swf" size="44117" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.6589998"/>
+			</animationSteps>
+			<notes>Addition of EUS guided FNA and On site  pathologist to EUS- FNB increases proxedure time but not to diagnostic accuracy
+No additive benefit with initial EUS- FNA </notes>
+			<notesNormalized>addition of eus guided fna and on site pathologist to eus- fnb increases proxedure time but not to diagnostic accuracy
+no additive benefit with initial eus- fna</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Addition of EUS guided FNA and On site  pathologist to EUS- FNB increases proxedure time but not to diagnostic accuracy&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;No additive benefit with initial EUS- FNA &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>ROSE (rapid on site cytologic evaluation)
+International survey
+Korea : ROSE is not available in most hospitals 
+Time consuming
+Reimbursement for cytologist
+Some studies reported no additional benefit about diagnostic yield</text>
+		</slide>
+		<slide index="27" title="Core needle" titleNormalized="core needle" src="slide28.swf" size="176788" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.8099999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Core needle
+Procore
+Quick-Core (TCB)
+Shark Core</text>
+		</slide>
+		<slide index="28" title="Trucut biopsy" titleNormalized="trucut biopsy" src="slide29.swf" size="102538" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.4850001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Trucut biopsy
+The Quick-Core®, 19 G needle
+Diagnostic accuracy : 52% - 100%
+Yield : (50-100%) 
+Stiff : The worst performances during transduodenal approach
+Failed to reach widespread use
+ technical difficulty 
+ the relative lack of advantages over standard FNA needles,
+</text>
+		</slide>
+		<slide index="29" title="EUS-TCB of Subepithelial Tumors" titleNormalized="eus-tcb of subepithelial tumors" src="slide30.swf" size="14665" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.2499995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-TCB of Subepithelial Tumors</text>
+		</slide>
+		<slide index="30" title="Procore needle" titleNormalized="procore needle" src="slide31.swf" size="115585" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.5570006"/>
+			</animationSteps>
+			<notes>Subepithelial tumor (SET) originating in gastric proper muscle layer  includes neoplastic tumors with malignant potential and non malignant potential. 
+Differentiating these tumors is crucial for clinical management, as a even small gastrointestinal tumor(GIST) has malignant potential.
+NCCN guide line, Europian guide line and Korean guide line for PM layer tumor recommend surgical resection of tumors larger than 2cm even without pathologic diagnosis.
+Recommended management strategy for small PM layer tumors       (&lt;2cm) is periodic follow up examination with uncertain interval. 
+
+
+
+Subepithelial tumor 는 GI tract 에서 발생하는 neoplastic 과 non-neoplastic condition 을 모두 포함하는 용어로서 
+이들중 일부는 malignant potential 을 가지고 있기에 clinical management 를 결정함에 있어 병변을 differentiation 하는 것은 중요한 일입니다. 
+
+하지만 크기가 작고 증상이 없는 SET 에 대하여는 현재까지 명확한 mangement guideline 이 없습니다. 다만</notes>
+			<notesNormalized>subepithelial tumor (set) originating in gastric proper muscle layer includes neoplastic tumors with malignant potential and non malignant potential. 
+differentiating these tumors is crucial for clinical management, as a even small gastrointestinal tumor(gist) has malignant potential.
+nccn guide line, europian guide line and korean guide line for pm layer tumor recommend surgical resection of tumors larger than 2cm even without pathologic diagnosis.
+recommended management strategy for small pm layer tumors (&lt;2cm) is periodic follow up examination with uncertain interval. 
+
+
+
+subepithelial tumor 는 gi tract 에서 발생하는 neoplastic 과 non-neoplastic condition 을 모두 포함하는 용어로서 
+이들중 일부는 malignant potential 을 가지고 있기에 clinical management 를 결정함에 있어 병변을 differentiation 하는 것은 중요한 일입니다. 
+
+하지만 크기가 작고 증상이 없는 set 에 대하여는 현재까지 명확한 mangement guideline 이 없습니다. 다만</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="20"&gt;Subepithelial tumor (SET) originating in gastric proper muscle layer  includes neoplastic tumors with malignant potential and non malignant potential. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Differentiating these tumors is crucial for clinical management, as a even small gastrointestinal tumor(GIST) has malignant potential.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;NCCN guide line, Europian guide line and Korean guide line for PM layer tumor recommend surgical resection of tumors larger than 2cm even without pathologic diagnosis.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="20"&gt;Recommended management strategy for small PM layer tumors       (&amp;lt;2cm) is periodic follow up examination with uncertain interval. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Subepithelial tumor 는 GI tract 에서 발생하는 neoplastic 과 non-neoplastic condition 을 모두 포함하는 용어로서 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;이들중 일부는 malignant potential 을 가지고 있기에 clinical management 를 결정함에 있어 병변을 differentiation 하는 것은 중요한 일입니다. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;하지만 크기가 작고 증상이 없는 SET 에 대하여는 현재까지 명확한 mangement guideline 이 없습니다. 다만&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Procore needle 
+
+
+
+
+
+
+Hallowed lateral opening of varying length and distance from the needle tip, depending on the needle size
+Reverse bevel technique : Hook and cut the tissue and entrapping it into the needle
+19, 22, 25 gauge, Flexibility</text>
+		</slide>
+		<slide index="31" title="EUS-FNB tissue acquisition in upper GI SELs" titleNormalized="eus-fnb tissue acquisition in upper gi sels" src="slide32.swf" size="4590" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.5190005"/>
+			</animationSteps>
+			<notes>Procore needle을 사용한 이전 연구들은,
+최근에 아산에서 2cm 이상의 gastric subepithelial tumor에 대해 22게이지 procore needle을 사용한 결과를 발표하였는데요, 
+총 78명의 환자가 enroll되었고 puncture의 성공률은 98.7%였고, 진단적 가치가 있었던 것은  81.8 퍼센트에서였고 이 진단적인 검체중 97퍼센트가 core biopsy tissue가 포함된 경우였습니다.  
+결과로 보면 GIST가 39퍼센트로 가장 많았고, leiomyoma가 26%, 그외에 heterotopic pancreas, schwannoma, cancer, inflammatory pseudotumor가 있는 경우였습니다. 
+
+또한 19게이지procore needle을 사용하여 intra- and extra-intestinal lesions에 대한 진단률을 본 검사에서는,
+FNB를 통해 98%에서 합병증 없이 검체를 얻었고 ,  Technical하게 성공적으로 채취한 모든 sample은 pathological evaluation을 하기에 적합한 sample들이었고 19G needle의 제한점으로 생각된 transduodenal sampling 역시 높은 94%의 성공률을 보였습니다. 
+또한 histologic examination 을 위한 조직의 적절성은 90%였고 진단적 정확도는 모든 병변에서 86%로 파악되어 그 효용성을 보여주었습니다.
+ 
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+Puncture success raet = sample adequacy
+Diagnostic sufficiency rate = 검체로 진단이 나온 비율
+
+Procore needle을 사용한 이전 연구들은,
+최근에 아산에서 2cm 이상의 gastric subepithelial tumor에 대해 22게이지 procore needle을 사용한 결과를 발표하였는데요, 
+총 78명의 환자가 enroll되었고 fundus에 위치한 병변에서 technichal failure가 있어 성공률은 98.7%였고, 
+얻은 검체가 진단적 가치가 있었던 것은  81.8 퍼센트에서였고,  이 진단적인 검체중 97퍼센트가 core biopsy tissue가 포함된 경우였습니다.  
+결과로 보면 GIST가 39퍼센트로 가장 많았고, leiomyoma가 26%, 그외에 heterotopic pancreas, schwannoma, cancer, inflammatory pseudotumor가 있는 경우였습니다. 
+
+하지만 이 경우는 2cm보다 크기가 큰 경우로서, 앞서 알고리즘에서 보셨듯이 일반적으로 크기가 3cm이상이면 수술을 먼저 고려하고, 3cm보다 작은 병변에서 histology를 생각하게 되기 때문에,
+크기가 작은 subepithelial tumor에서 histologic evaluation이 invasive procedure를 줄이고 manage를 하는데 도움이 될 수 있다고 생각됩니다. 
+그러나 이러한 작은 병변에 대한 procore needle을 사용한 FNB 에 대한 study는 아직 부족한 상태입니다. 
+
+또한 19게이지procore needle을 사용하여 intra- and extra-intestinal lesions의 진단을 하는 것에 대해서, 
+ Iglesias-Garcia et al 에서  large multicenter study를 통해 평가하였는데 
+114명의 heterogeneous lesions을 가진 109명의 환자에서 FNB를 통해 98%인 112 케이스에서 합병증 없이 검체를 얻었고 ,  Technical하게 성공적으로 채취한 모든 sample은 pathological evaluation을 하기에 적합한 sample들이었고 연구내에서 transduodenal sampling전체를 따졌을때 역시 높은 94%의 성공률을 보였습니다. 
+또한 histologic examination 을 위한 조직의 적절성은 90%였습니다. 진단적 정확도는 모든 병변에서 86%로 파악되어 그 효용성을 보여주었습니다.
+ </notes>
+			<notesNormalized>procore needle을 사용한 이전 연구들은,
+최근에 아산에서 2cm 이상의 gastric subepithelial tumor에 대해 22게이지 procore needle을 사용한 결과를 발표하였는데요, 
+총 78명의 환자가 enroll되었고 puncture의 성공률은 98.7%였고, 진단적 가치가 있었던 것은 81.8 퍼센트에서였고 이 진단적인 검체중 97퍼센트가 core biopsy tissue가 포함된 경우였습니다. 
+결과로 보면 gist가 39퍼센트로 가장 많았고, leiomyoma가 26%, 그외에 heterotopic pancreas, schwannoma, cancer, inflammatory pseudotumor가 있는 경우였습니다. 
+
+또한 19게이지procore needle을 사용하여 intra- and extra-intestinal lesions에 대한 진단률을 본 검사에서는,
+fnb를 통해 98%에서 합병증 없이 검체를 얻었고 ,  technical하게 성공적으로 채취한 모든 sample은 pathological evaluation을 하기에 적합한 sample들이었고 19g needle의 제한점으로 생각된 transduodenal sampling 역시 높은 94%의 성공률을 보였습니다. 
+또한 histologic examination 을 위한 조직의 적절성은 90%였고 진단적 정확도는 모든 병변에서 86%로 파악되어 그 효용성을 보여주었습니다.
+ 
+
+
+
+---------------------------------------------------------------------------------------------------------------------
+
+puncture success raet = sample adequacy
+diagnostic sufficiency rate = 검체로 진단이 나온 비율
+
+procore needle을 사용한 이전 연구들은,
+최근에 아산에서 2cm 이상의 gastric subepithelial tumor에 대해 22게이지 procore needle을 사용한 결과를 발표하였는데요, 
+총 78명의 환자가 enroll되었고 fundus에 위치한 병변에서 technichal failure가 있어 성공률은 98.7%였고, 
+얻은 검체가 진단적 가치가 있었던 것은 81.8 퍼센트에서였고, 이 진단적인 검체중 97퍼센트가 core biopsy tissue가 포함된 경우였습니다. 
+결과로 보면 gist가 39퍼센트로 가장 많았고, leiomyoma가 26%, 그외에 heterotopic pancreas, schwannoma, cancer, inflammatory pseudotumor가 있는 경우였습니다. 
+
+하지만 이 경우는 2cm보다 크기가 큰 경우로서, 앞서 알고리즘에서 보셨듯이 일반적으로 크기가 3cm이상이면 수술을 먼저 고려하고, 3cm보다 작은 병변에서 histology를 생각하게 되기 때문에,
+크기가 작은 subepithelial tumor에서 histologic evaluation이 invasive procedure를 줄이고 manage를 하는데 도움이 될 수 있다고 생각됩니다. 
+그러나 이러한 작은 병변에 대한 procore needle을 사용한 fnb 에 대한 study는 아직 부족한 상태입니다. 
+
+또한 19게이지procore needle을 사용하여 intra- and extra-intestinal lesions의 진단을 하는 것에 대해서, 
+ iglesias-garcia et al 에서  large multicenter study를 통해 평가하였는데 
+114명의 heterogeneous lesions을 가진 109명의 환자에서 fnb를 통해 98%인 112 케이스에서 합병증 없이 검체를 얻었고 ,  technical하게 성공적으로 채취한 모든 sample은 pathological evaluation을 하기에 적합한 sample들이었고 연구내에서 transduodenal sampling전체를 따졌을때 역시 높은 94%의 성공률을 보였습니다. 
+또한 histologic examination 을 위한 조직의 적절성은 90%였습니다. 진단적 정확도는 모든 병변에서 86%로 파악되어 그 효용성을 보여주었습니다.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Procore needle을 사용한 이전 연구들은,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;최근에 아산에서 2cm 이상의 gastric subepithelial tumor에 대해 22게이지 procore needle을 사용한 결과를 발표하였는데요, &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;총 78명의 환자가 enroll되었고 puncture의 성공률은 98.7%였고, 진단적 가치가 있었던 것은  81.8 퍼센트에서였고 이 진단적인 검체중 97퍼센트가 core biopsy tissue가 포함된 경우였습니다.  &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;결과로 보면 GIST가 39퍼센트로 가장 많았고, leiomyoma가 26%, 그외에 heterotopic pancreas, schwannoma, cancer, inflammatory pseudotumor가 있는 경우였습니다. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;또한 19게이지procore needle을 사용하여 intra- and extra-intestinal lesions에 대한 진단률을 본 검사에서는,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;FNB를 통해 98%에서 합병증 없이 검체를 얻었고 ,  Technical하게 성공적으로 채취한 모든 sample은 pathological evaluation을 하기에 적합한 sample들이었고 19G needle의 제한점으로 생각된 transduodenal sampling 역시 높은 94%의 성공률을 보였습니다. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;또한 histologic examination 을 위한 조직의 적절성은 90%였고 진단적 정확도는 모든 병변에서 86%로 파악되어 그 효용성을 보여주었습니다.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;---------------------------------------------------------------------------------------------------------------------&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Puncture success raet = sample adequacy&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Diagnostic sufficiency rate = 검체로 진단이 나온 비율&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Procore needle을 사용한 이전 연구들은,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;최근에 아산에서 2cm 이상의 gastric subepithelial tumor에 대해 22게이지 procore needle을 사용한 결과를 발표하였는데요, &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;총 78명의 환자가 enroll되었고 fundus에 위치한 병변에서 technichal failure가 있어 성공률은 98.7%였고, &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;얻은 검체가 진단적 가치가 있었던 것은  81.8 퍼센트에서였고,  이 진단적인 검체중 97퍼센트가 core biopsy tissue가 포함된 경우였습니다.  &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;결과로 보면 GIST가 39퍼센트로 가장 많았고, leiomyoma가 26%, 그외에 heterotopic pancreas, schwannoma, cancer, inflammatory pseudotumor가 있는 경우였습니다. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;하지만 이 경우는 2cm보다 크기가 큰 경우로서, 앞서 알고리즘에서 보셨듯이 일반적으로 크기가 3cm이상이면 수술을 먼저 고려하고, 3cm보다 작은 병변에서 histology를 생각하게 되기 때문에,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;크기가 작은 subepithelial tumor에서 histologic evaluation이 invasive procedure를 줄이고 manage를 하는데 도움이 될 수 있다고 생각됩니다. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;그러나 이러한 작은 병변에 대한 procore needle을 사용한 FNB 에 대한 study는 아직 부족한 상태입니다. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;또한 19게이지procore needle을 사용하여 intra- and extra-intestinal lesions의 진단을 하는 것에 대해서, &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; Iglesias-Garcia &lt;i&gt;et al 에서 &lt;/i&gt; large multicenter study를 통해 평가하였는데 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;114명의 heterogeneous lesions을 가진 109명의 환자에서 FNB를 통해 98%인 112 케이스에서 합병증 없이 검체를 얻었고 ,  Technical하게 성공적으로 채취한 모든 sample은 pathological evaluation을 하기에 적합한 sample들이었고 연구내에서 transduodenal sampling전체를 따졌을때 역시 높은 94%의 성공률을 보였습니다. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;또한 histologic examination 을 위한 조직의 적절성은 90%였습니다. 진단적 정확도는 모든 병변에서 86%로 파악되어 그 효용성을 보여주었습니다.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-FNB tissue acquisition in upper GI SELs
+Author
+year
+Pt No
+Needle
+Lesion size
+( &gt; 2cm)
+Puncture success 
+(%)
+tissue acquisition
+(%)
+Diagnostic sufficiency
+(%)
+Iglesias-Garcia 
+2011
+109
+19G
+35.1 ± 18.7 mm
+98.2
+89
+GH Kim. 
+2014
+12
+22G
+3.2 ± 1.7 cm
+100
+92
+75
+Lee M. 
+2015
+43
+22G
+GI SETs 
+&gt;2 cm
+100
+94.5
+86</text>
+		</slide>
+		<slide index="32" title="Procore 22G vs. standard needle 22G" titleNormalized="procore 22g vs. standard needle 22g" src="slide33.swf" size="77149" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.2210001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Procore 22G vs. standard needle 22G 
+Diagnostic yield ( IHC with tissue core) is better in Procore groups.
+Scand J Gastroenterol 2015</text>
+		</slide>
+		<slide index="33" title="Procore vs. standard needle :meta-analysis" titleNormalized="procore vs. standard needle :meta-analysis" src="slide34.swf" size="126157" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.4880003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Procore vs. standard needle :meta-analysis 
+ No difference</text>
+		</slide>
+		<slide index="34" title="fork-tip needle Shark Core (SC)" titleNormalized="fork-tip needle shark core (sc)" src="slide35.swf" size="163564" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.9560007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>fork-tip needle Shark Core (SC)
+a novel fork-tip needle, the Shark Core (SC) (Medtronic Corp) 
+the ability to obtain true histology and reduce the number of passes needed to obtain adequate material compared with conventional EUS-FNA.
+GIE2015</text>
+		</slide>
+		<slide index="35" title="Summary" titleNormalized="summary" src="slide36.swf" size="3165" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset35" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="38.7709994"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Summary
+EUS- tissue sampling in SELs
+22 = 25 G needle (25 G for transduodenal pass?)
+Suction/ stylet- insufficient evidence to recommend
+&gt; 3-5 pass for SELs. &gt; 3 LNs 
+Specialized needles for more tissue histology</text>
+		</slide>
+	</slides>
+</presentation>

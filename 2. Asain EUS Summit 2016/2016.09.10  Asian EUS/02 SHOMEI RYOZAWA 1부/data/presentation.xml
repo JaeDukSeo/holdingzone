@@ -1,0 +1,971 @@
+<?xml version="1.0"?>
+<presentation title="02 SHOMEI RYOZAWA 1부" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{36B9F05D-EDDC-4B44-8BE2-E69CC8B799C5}">
+	<presenters>
+		<presenter name="SHOMEI RYOZAWA" title="Saitama Medical University International Medical center" email="" web="" phone="" photoAssetId="">
+			<bio>The best technique to perform EUS-FNA/B</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="552274" duration="19722"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="145599" duration="5198"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="441828" duration="15778"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="218011" duration="7784"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="538376" duration="19226"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="868982" duration="31033"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="299931" duration="10710"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="100251" duration="3579"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="234102" duration="8359"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="207771" duration="7419"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="538376" duration="19226"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="283108" duration="10109"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="251656" duration="8986"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="1147656" duration="40986"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="158765" duration="5669"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="938468" duration="33515"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="823634" duration="29414"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="70262" duration="2508"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="247999" duration="8856"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="76845" duration="2743"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="248731" duration="8882"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="997714" duration="35631"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="355519" duration="12696"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="1191542" duration="42553"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="390628" duration="13949"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="604936" duration="21603"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="329919" duration="11781"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="523748" duration="18704"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="519359" duration="18547"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="572754" duration="20454"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="212891" duration="7602"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="212159" duration="7576"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="19.6860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="5.1719999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="15.7490000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="7.7410000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="19.1860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="30.9980000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="10.6770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="3.5370000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="8.3080000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="7.3740000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="19.1860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="10.0770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="8.9420000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="40.9410000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="5.6390000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="33.4670000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="29.3630000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="2.4690000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="8.8090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="2.7030000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="8.8420000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="35.6020000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="12.6460000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="42.5090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="13.9139996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="21.5550000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="11.7449999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="18.6520000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="18.5180000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="20.4200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="7.5739999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="7.5409999"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="The best technique to perform EUS-FNA/B" titleNormalized="the best technique to perform eus-fna/b" src="slide1.swf" size="416794" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.6890005"/>
+			</animationSteps>
+			<notes>Thank you very much Prof. Kida and Prof. Kim for your kind introduction.
+It’s my great honor to be invited here and to have the opportunity to talk.</notes>
+			<notesNormalized>thank you very much prof. kida and prof. kim for your kind introduction.
+it’s my great honor to be invited here and to have the opportunity to talk.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Thank you very much Prof. Kida and Prof. Kim for your kind introduction.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;It’s my great honor to be invited here and to have the opportunity to talk.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Session 5. EUS-guided Tissue Acquisition (2016.9.10)
+The best technique to perform EUS-FNA/B
+SHOMEI RYOZAWA
+Department of Gastroenterology
+Saitama Medical University International Medical Center</text>
+		</slide>
+		<slide index="1" title="EUS-FNA" titleNormalized="eus-fna" src="slide2.swf" size="93697" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.1709999"/>
+			</animationSteps>
+			<notes>As you know, EUS-FNA started in 1992.</notes>
+			<notesNormalized>as you know, eus-fna started in 1992.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;As you know, EUS-FNA started in 1992.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-FNA
+Gastrointest Endosc. 38: 172-3, 1992</text>
+		</slide>
+		<slide index="2" title="Hamburg Univ. Eppendorf Hosp., 2000" titleNormalized="hamburg univ. eppendorf hosp., 2000" src="slide3.swf" size="1083138" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.7490000"/>
+			</animationSteps>
+			<notes>I learn EUS-FNA in 2000 in Hamburg and this year Prof. Seo visited Hamburg Univ.
+Very young.</notes>
+			<notesNormalized>i learn eus-fna in 2000 in hamburg and this year prof. seo visited hamburg univ.
+very young.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;I learn EUS-FNA in 2000 in Hamburg and this year Prof. Seo visited Hamburg Univ.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Very young.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Hamburg Univ. Eppendorf Hosp., 2000
+Prof. N Soehendra
+Dr. Dong Wan Seo</text>
+		</slide>
+		<slide index="3" title="Indications of EUS-FNA" titleNormalized="indications of eus-fna" src="slide4.swf" size="2404" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.7400002"/>
+			</animationSteps>
+			<notes>The indication of EUS-FNA is not limited only in pancreatic lesions. The indications is for many fields.</notes>
+			<notesNormalized>the indication of eus-fna is not limited only in pancreatic lesions. the indications is for many fields.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The indication of EUS-FNA is not limited only in pancreatic lesions. The indications is for many fields.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Pancreatic mass
+Mediastinal lymph node
+Esophageal or lung cancer
+Celiac lymph nodes
+Posterior mediastinal mass
+Intra-abdominal lymph node
+Peritoneal fluid
+Liver metastases
+Perirectal lymph node/mass
+(Hawes et al. Digestive Endoscopy,2001)
+Indications of EUS-FNA</text>
+		</slide>
+		<slide index="4" title="Department of Gastroenterology, Saitama Medical University International Medical Center" titleNormalized="department of gastroenterology, saitama medical university international medical center" src="slide5.swf" size="47405" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.1890005"/>
+			</animationSteps>
+			<notes>In 25 studies published between 1997 to 2008, it is reported the accuracy was 88%.</notes>
+			<notesNormalized>in 25 studies published between 1997 to 2008, it is reported the accuracy was 88%.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In 25 studies published between 1997 to 2008, it is reported the accuracy was 88%.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Br J Surg 2009;96:5-20
+25 studies published between 1997 and 2008
+Sensitivity (%): 83 (54-95)
+Specificity (%): 100 (71-100)
+NPV (%): 72 (16-92)
+Accuracy (%): 88 (65-96)</text>
+		</slide>
+		<slide index="5" title="EUS FNA cytologic and/or histologic diagnosis of solid pancreatic lesions compared with the final diagnosisof cancer" titleNormalized="eus fna cytologic and/or histologic diagnosis of solid pancreatic lesions compared with the final diagnosisof cancer" src="slide6.swf" size="3448" advanceOnTime="1" framesCount="74" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="73" playTime="3.0416667" pauseTime="27.9583333"/>
+			</animationSteps>
+			<notes>The diagnostic accuracy of solid pancreatic lesions are 94.6%.in our hospital.</notes>
+			<notesNormalized>the diagnostic accuracy of solid pancreatic lesions are 94.6%.in our hospital.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The diagnostic accuracy of solid pancreatic lesions are 94.6%.in our hospital.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>
+Accuracy
+Sensitivity
+Specificity
+PPV
+NPV
+
+94.6 ％
+94.8 ％
+94.1 ％
+98.2 ％
+84.2 ％
+Final diagnosis
+( + )
+
+165
+
+9
+( - )
+
+3
+
+48
+( + )
+
+( - )
+EUS FNA cytologic and/or histologic diagnosis of 
+solid pancreatic lesions compared with the final diagnosisof cancer 
+EUS FNA cytology and/or histology
+( + )；malignant involvement
+( - )；benign
+PPV; Positive predictive value
+NPV; Negative predictive value
+
+( Yamaguchi Univ. July 2000-December 2010 )</text>
+		</slide>
+		<slide index="6" title="The best technique to perform EUS-FNA/B" titleNormalized="the best technique to perform eus-fna/b" src="slide7.swf" size="4306" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.6790003"/>
+			</animationSteps>
+			<notes>Today, I talk on how to control the echoendoscope and the technique to perform EUS-FNA/B.</notes>
+			<notesNormalized>today, i talk on how to control the echoendoscope and the technique to perform eus-fna/b.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Today, I talk on how to control the echoendoscope and the technique to perform EUS-FNA/B.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>How to control the echoendoscope
+Technique to perform EUS-FNA/B
+The best technique to perform EUS-FNA/B</text>
+		</slide>
+		<slide index="7" title="The best technique to perform EUS-FNA/B" titleNormalized="the best technique to perform eus-fna/b" src="slide8.swf" size="4317" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.5390000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How to control the echoendoscope
+Technique to perform EUS-FNA/B
+The best technique to perform EUS-FNA/B</text>
+		</slide>
+		<slide index="8" title="Convex type Echoendoscope" titleNormalized="convex type echoendoscope" src="slide9.swf" size="159531" advanceOnTime="1" framesCount="54" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="53" playTime="2.2083333" pauseTime="6.1016671"/>
+			</animationSteps>
+			<notes>As you know, convex type echoendoscope visualize the image parallel to the endoscope.</notes>
+			<notesNormalized>as you know, convex type echoendoscope visualize the image parallel to the endoscope.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;As you know, convex type echoendoscope visualize the image parallel to the endoscope.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>OLYMPUS GF TYPE UCT260 
+Convex type Echoendoscope</text>
+		</slide>
+		<slide index="9" title="Convex type Echoendoscope" titleNormalized="convex type echoendoscope" src="slide10.swf" size="1080317" advanceOnTime="1" framesCount="142" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="141" playTime="5.8750000" pauseTime="1.4990001"/>
+			</animationSteps>
+			<notes>So, we should rotate scope clockwise and counter-clockwise to visualize the 360 degree.</notes>
+			<notesNormalized>so, we should rotate scope clockwise and counter-clockwise to visualize the 360 degree.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000099"&gt;So, we should rotate scope clockwise and counter-clockwise to visualize the 360 degree.&lt;/font&gt;&lt;font size="12" color="#ff0000"&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Rotate the scope clockwise and counter clockwise for complete imaging.
+How to control the endoscope
+Convex type Echoendoscope</text>
+		</slide>
+		<slide index="10" title="How to control the ehoendoscope" titleNormalized="how to control the ehoendoscope" src="slide11.swf" size="233087" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.1890005"/>
+			</animationSteps>
+			<notes>To rotate the scope, you should not angulate the shaft of the scope.
+Then, it will be difficult to rotate the scope.</notes>
+			<notesNormalized>to rotate the scope, you should not angulate the shaft of the scope.
+then, it will be difficult to rotate the scope.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000099"&gt;To rotate the scope, you should not angulate the shaft of the scope.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000099"&gt;Then, it will be difficult to rotate the scope.&lt;/font&gt;&lt;font size="12" color="#ff0000"&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>× The shaft of the scope is angulated.
+
+→ It is difficult to rotate the scope clockwise and counter clockwise.
+How to control the ehoendoscope</text>
+		</slide>
+		<slide index="11" title="How to control the ehoendoscope" titleNormalized="how to control the ehoendoscope" src="slide12.swf" size="2005" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.0789999"/>
+			</animationSteps>
+			<notes>The shaft should be straighten. Then, it will be easier to rotate the scope.</notes>
+			<notesNormalized>the shaft should be straighten. then, it will be easier to rotate the scope.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000099"&gt;The shaft should be straighten. Then, it will be easier to rotate the scope.&lt;/font&gt;&lt;font size="12" color="#000000"&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>◎ The shaft of the scope is straight.
+
+→ It is easy to rotate the scope clockwise and counter clockwise.
+
+How to control the ehoendoscope</text>
+		</slide>
+		<slide index="12" title="How to control the ehoendoscope" titleNormalized="how to control the ehoendoscope" src="slide13.swf" size="219759" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.9410004"/>
+			</animationSteps>
+			<notes>And you should move the scope handle from left shoulder to right shoulder.
+</notes>
+			<notesNormalized>and you should move the scope handle from left shoulder to right shoulder.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000099"&gt;And you should move the scope handle from left shoulder to right shoulder.&lt;/font&gt;&lt;font size="12" color="#ff0000"&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>to
+Left shoulder
+right shoulder
+How to control the ehoendoscope</text>
+		</slide>
+		<slide index="13" title="How to control the ehoendoscope" titleNormalized="how to control the ehoendoscope" src="slide14.swf" size="372033" advanceOnTime="1" framesCount="861" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_b5cff00.spr0_4899866" slides="1" repeat="1" volume="0.0000000" posterFrameId="ispring.resources_b5cff00.spr2_4899866" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="31" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="860" playTime="35.8333333" pauseTime="5.1076686"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Shoulder turn
+How to control the ehoendoscope</text>
+		</slide>
+		<slide index="14" title="The best technique to perform EUS-FNA/B" titleNormalized="the best technique to perform eus-fna/b" src="slide15.swf" size="4315" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.6389999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How to control the echoendoscope
+Technique to perform EUS-FNA/B
+The best technique to perform EUS-FNA/B</text>
+		</slide>
+		<slide index="15" title="EUS-FNA" titleNormalized="eus-fna" src="slide16.swf" size="430617" advanceOnTime="1" framesCount="756" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_1cb4cf70.spr0_4902393" slides="1" repeat="1" volume="0.0000000" posterFrameId="ispring.resources_1cb4cf70.spr2_4902393" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="755" playTime="31.4583333" pauseTime="2.0116679"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA</text>
+		</slide>
+		<slide index="16" title="Preparation for histological examination" titleNormalized="preparation for histological examination" src="slide17.swf" size="211126" advanceOnTime="1" framesCount="488" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="487" playTime="20.2916667" pauseTime="9.0713342"/>
+			</animationSteps>
+			<notes>採取検体の取り扱い
+ホルマリン内に直接検体を押し出す。
+やさしく瓶を数回振る。（血液を除く）
+白色の組織が確認できる。</notes>
+			<notesNormalized>採取検体の取り扱い
+ホルマリン内に直接検体を押し出す。
+やさしく瓶を数回振る。（血液を除く）
+白色の組織が確認できる。</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000099"&gt;採取検体の取り扱い&lt;/font&gt;&lt;font size="10" color="#000099"&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#5f5f5f"&gt;ホルマリン内に直接検体を押し出す。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#5f5f5f"&gt;やさしく瓶を数回振る。（血液を除く）&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#5f5f5f"&gt;白色の組織が確認できる。&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Push out the specimen into the formalin.
+
+
+
+Shake the formalin tenderly and remove the blood.
+You can find out the whitish specimen.
+
+Preparation for histological examination</text>
+		</slide>
+		<slide index="17" title="Histology" titleNormalized="histology" src="slide18.swf" size="413638" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.4690000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Mod-well differentiated adenocarcinoma
+63y.o. F; pancreatic body tumor
+Histology</text>
+		</slide>
+		<slide index="18" title="Preparation for cytological examination" titleNormalized="preparation for cytological examination" src="slide19.swf" size="224566" advanceOnTime="1" framesCount="160" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="159" playTime="6.6250000" pauseTime="2.1850004"/>
+			</animationSteps>
+			<notes>スライドガラス上に検体を押し出す。
+スメアを引く。
+エタノール固定する。</notes>
+			<notesNormalized>スライドガラス上に検体を押し出す。
+スメアを引く。
+エタノール固定する。</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#5f5f5f"&gt;スライドガラス上に検体を押し出す。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#5f5f5f"&gt;スメアを引く。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#5f5f5f"&gt;エタノール固定する。&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Push out the specimen on the glass slides.
+
+Prepare smears.
+
+Fixed in ethanol.
+
+Preparation for cytological examination</text>
+		</slide>
+		<slide index="19" title="Cytology" titleNormalized="cytology" src="slide20.swf" size="326521" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.7020001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>adenocarcinoma　　
+69y.o. M; pancreatic head tumor
+Cytology</text>
+		</slide>
+		<slide index="20" title="ROSE: rapid on-site cytopathological evaluation" titleNormalized="rose: rapid on-site cytopathological evaluation" src="slide21.swf" size="270808" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.8410000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>When a cytotechnician is able to attend in the examination room, a quick cytodiagnosis is available.
+ROSE: rapid on-site cytopathological evaluation</text>
+		</slide>
+		<slide index="21" title="ROSE: rapid on-site cytopathological evaluation" titleNormalized="rose: rapid on-site cytopathological evaluation" src="slide22.swf" size="230861" advanceOnTime="1" framesCount="938" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_175b3400.spr0_4914515" slides="1" repeat="1" volume="1.0000000" posterFrameId="ispring.resources_175b3400.spr2_4914515" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="937" playTime="35.6020012" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The Yokohama Live 2012
+ROSE: rapid on-site cytopathological evaluation</text>
+		</slide>
+		<slide index="22" title="ROSE: rapid on-site cytopathological evaluation" titleNormalized="rose: rapid on-site cytopathological evaluation" src="slide23.swf" size="271358" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.6489996"/>
+			</animationSteps>
+			<notes>Cyto-quick染色は、スライドガラスを染色液Ⅰに15秒、染色液Ⅱに5秒間つける。その後、余分な染色液を蒸留水で軽く洗い流す。</notes>
+			<notesNormalized>cyto-quick染色は、スライドガラスを染色液ⅰに15秒、染色液ⅱに5秒間つける。その後、余分な染色液を蒸留水で軽く洗い流す。</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#5f5f5f"&gt;Cyto-quick染色は、スライドガラスを染色液Ⅰに15秒、染色液Ⅱに5秒間つける。その後、余分な染色液を蒸留水で軽く洗い流す。&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>ROSE: rapid on-site cytopathological evaluation
+Cyto-quick stain: 15 sec.(liquid A) + 5 sec.(liquid B)</text>
+		</slide>
+		<slide index="23" title="Door Knocking Method" titleNormalized="door knocking method" src="slide24.swf" size="334915" advanceOnTime="1" framesCount="255" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_1c49e470.spr0_4917619" slides="1" repeat="1" volume="1.0000000" posterFrameId="ispring.resources_1c49e470.spr2_4917619" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="254" playTime="10.5833333" pauseTime="31.9266650"/>
+			</animationSteps>
+			<notes>Next, I talk about the method of EUS-FNA. </notes>
+			<notesNormalized>next, i talk about the method of eus-fna.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Next, I talk about the method of EUS-FNA. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Door Knocking Method</text>
+		</slide>
+		<slide index="24" title="Fanning technique" titleNormalized="fanning technique" src="slide25.swf" size="96922" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.9129996"/>
+			</animationSteps>
+			<notes>Another technique is Fanning technique. 
+This is also famous.
+The fanning….</notes>
+			<notesNormalized>another technique is fanning technique. 
+this is also famous.
+the fanning….</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Another technique is Fanning technique. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;This is also famous.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The fanning….&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Fanning technique
+Bang JY et al. Endoscopy 2013;45:445-50
+54 patients
+Normal technique vs fanning technique
+Diagnostic adequacy: 76.9% vs. 96.4%, p=0.05
+No of passes required to establish diagnosis: 		1[1-3] vs. 1[1-1], p=0.02
+Patients in whom a diagnosis was achieved on pass one: 57.7% vs. 85.7%, p=0.02
+
+The fanning technique of FNA was superior to the standard approach because fewer passes were required to establish the diagnosis.</text>
+		</slide>
+		<slide index="25" title="Size of the needle" titleNormalized="size of the needle" src="slide26.swf" size="329746" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.5589995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>GIE 2011;74:504-10
+ EUS-FNA by using a large-gauge needle has a high yield and promising diagnostic accuracy and could be used when histology may be more useful than cytology to reach a definitive diagnosis.
+Size of the needle</text>
+		</slide>
+		<slide index="26" title="Size of the needle" titleNormalized="size of the needle" src="slide27.swf" size="284259" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.7439999"/>
+			</animationSteps>
+			<notes>On the other hand, …</notes>
+			<notesNormalized>on the other hand, …</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;On the other hand, …&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>GIE 2009;69:506-16
+ The 22-gauge or 25-gauge needles are suitable for insertion into the target regions if tight angulation is necessary.
+Size of the needle</text>
+		</slide>
+		<slide index="27" title="Size of the needle" titleNormalized="size of the needle" src="slide28.swf" size="141470" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.6510004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>J Gastroenterology and Hepatology 2009;24:384-390
+ The 25-gauge needle was significantly superior in terms of technical success rate and overall diagnostic accuracy, especially for the head and uncinate lesions.
+Size of the needle</text>
+		</slide>
+		<slide index="28" title="Size of the needle" titleNormalized="size of the needle" src="slide29.swf" size="2128" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.5190005"/>
+			</animationSteps>
+			<notes>You should choose the sizw of the needle depend on the location and the lesion.</notes>
+			<notesNormalized>you should choose the sizw of the needle depend on the location and the lesion.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;You should choose the sizw of the needle depend on the location and the lesion.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>
+Passage
+
+Specimen
+
+Risk
+25G
+easy
+
+small
+
+safe
+22G
+
+19G
+difficult
+
+large
+
+risky
+Size of the needle</text>
+		</slide>
+		<slide index="29" title="Size of the needle" titleNormalized="size of the needle" src="slide30.swf" size="552038" advanceOnTime="1" framesCount="61" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="60" playTime="2.5000000" pauseTime="17.9200001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>1
+2
+3
+Stations
+①pancreatic body to tail
+②③pancreatic head
+Size of the needle</text>
+		</slide>
+		<slide index="30" title="Size of the needle" titleNormalized="size of the needle" src="slide31.swf" size="200999" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.5729999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>→25G
+Stations
+①pancreatic body to tail
+②③pancreatic head
+Size of the needle</text>
+		</slide>
+		<slide index="31" title="Size of the needle" titleNormalized="size of the needle" src="slide32.swf" size="191696" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.5399999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>→22, 25G
+Stations
+①pancreatic body to tail
+②③pancreatic head
+Size of the needle</text>
+		</slide>
+	</slides>
+</presentation>
