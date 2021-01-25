@@ -1,0 +1,594 @@
+<?xml version="1.0"?>
+<presentation title="09 Woo Hyun Paik" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{227FBE8A-3D38-445C-8650-1945B178E600}">
+	<presenters>
+		<presenter name="Woo Hyun Paik" title="Inje University" email="" web="" phone="" photoAssetId="">
+			<bio>EUS for Visceral Artery Dissection</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="579336" duration="20689"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="510582" duration="18233"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="735131" duration="26253"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="990399" duration="35370"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="273599" duration="9770"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="915794" duration="32705"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="1500936" duration="53603"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="1677211" duration="59899"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="625416" duration="22335"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="973576" duration="34769"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="945051" duration="33750"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="750491" duration="26802"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="740251" duration="26436"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="930422" duration="33228"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="1541165" duration="55040"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="1024776" duration="36598"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="72456" duration="2586"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="20.6539993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="18.1849995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="26.2259998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="35.3349991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="9.7430000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="32.6660000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="53.5540000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="59.8600000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="22.2889996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="34.7350000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="33.7000000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="26.7600000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="26.3929996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="33.2000000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="54.9879990"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="36.5699997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="2.5360000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS for Visceral Artery Dissection" titleNormalized="eus for visceral artery dissection" src="slide1.swf" size="1236" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.6529993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS for Visceral Artery Dissection
+
+
+
+Woo Hyun Paik, MD, PhD
+
+Department of Internal Medicine, 
+Inje University Ilsan Paik Hospital</text>
+		</slide>
+		<slide index="1" title="EUS &amp; visceral vessels" titleNormalized="eus &amp; visceral vessels" src="slide2.swf" size="139002" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.1839995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS &amp; visceral vessels
+Abdominal aorta, celiac artery (CA), superior mesenteric artery (SMA) and their branch arteries
+ Adjacent to gastrointestinal tract
+ Easy to access with EUS 
+
+</text>
+		</slide>
+		<slide index="2" title="Visceral artery dissection" titleNormalized="visceral artery dissection" src="slide3.swf" size="65124" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.2249998"/>
+			</animationSteps>
+			<notes>Most patients with CA dissection are asymptomatic d/t the lack of small bowel involvement. Some patients may present with abdominal pain which may be due to simultaneous involvement of the splenic, renal or superior mesenteric arteries causing infarction and bowel ischemia. </notes>
+			<notesNormalized>most patients with ca dissection are asymptomatic d/t the lack of small bowel involvement. some patients may present with abdominal pain which may be due to simultaneous involvement of the splenic, renal or superior mesenteric arteries causing infarction and bowel ischemia.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Most patients with CA dissection are asymptomatic d/t the lack of small bowel involvement. Some patients may present with abdominal pain which may be due to simultaneous involvement of the splenic, renal or superior mesenteric arteries causing infarction and bowel ischemia. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Visceral artery dissection
+Involvement of Superior mesenteric artery (SMA) or Celiac artery (CA)
+Symptoms: abdominal pain, intestinal angina, often asymptomatic
+Treatment: anti-coagulation therapy, radiological or surgical intervention
+
+
+
+
+
+Radiology Case 2010;4:30-33</text>
+		</slide>
+		<slide index="3" title="Case report (2012, Japan)" titleNormalized="case report (2012, japan)" src="slide4.swf" size="142154" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.3339991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Case report (2012, Japan)
+Uchida D, et al. Gastrointest Endosc 2012;76:424-5</text>
+		</slide>
+		<slide index="4" title="Case series (n = 12)" titleNormalized="case series (n = 12)" src="slide5.swf" size="95018" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.7420000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Case series (n = 12)
+Paik WH, Seo DW. J Clin Gastroenterol 2014;48:845-50</text>
+		</slide>
+		<slide index="5" title="CA dissection" titleNormalized="ca dissection" src="slide6.swf" size="76732" advanceOnTime="1" framesCount="1060" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_68759e0.spr0_6908909" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_68759e0.spr2_6908909" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="97" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1059" playTime="32.6660004" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CA dissection</text>
+		</slide>
+		<slide index="6" title="CA &amp; SA dissection" titleNormalized="ca &amp; sa dissection" src="slide7.swf" size="224366" advanceOnTime="1" framesCount="1144" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_6875d20.spr0_6919720" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_6875d20.spr2_6919720" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="28" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1143" playTime="47.6250000" pauseTime="5.9290009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CA &amp; SA dissection</text>
+		</slide>
+		<slide index="7" title="SMA dissection" titleNormalized="sma dissection" src="slide8.swf" size="187289" advanceOnTime="1" framesCount="4567" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_ba604d0.spr0_6947192" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_ba604d0.spr2_6947192" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="4566" playTime="59.8600006" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>1:05</notes>
+			<notesNormalized>1:05</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;1:05&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>SMA dissection</text>
+		</slide>
+		<slide index="8" title="SMA dissection" titleNormalized="sma dissection" src="slide9.swf" size="192914" advanceOnTime="1" framesCount="920" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_ba619f0.spr0_6954384" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_ba619f0.spr2_6954384" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="919" playTime="22.2889996" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SMA dissection</text>
+		</slide>
+		<slide index="9" title="Diagnosis of visceral artery dissection with EUS" titleNormalized="diagnosis of visceral artery dissection with eus" src="slide10.swf" size="356653" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.7340006"/>
+			</animationSteps>
+			<notes>Thrombosis in the false lumen can hinder the intimal flap
+Tearing site: CA</notes>
+			<notesNormalized>thrombosis in the false lumen can hinder the intimal flap
+tearing site: ca</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Thrombosis in the false lumen can hinder the intimal flap&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Tearing site: CA&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Diagnosis of visceral artery dissection with EUS
+Intimal flap
+Tearing site
+True &amp; false lumen</text>
+		</slide>
+		<slide index="10" title="Calculation of stenotic area" titleNormalized="calculation of stenotic area" src="slide11.swf" size="221220" advanceOnTime="1" framesCount="152" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="151" playTime="6.2916667" pauseTime="27.4083341"/>
+			</animationSteps>
+			<notes>Stenotic rate and extent of vessel is important in the determination of treatment and prognosis</notes>
+			<notesNormalized>stenotic rate and extent of vessel is important in the determination of treatment and prognosis</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Stenotic rate and extent of vessel is important in the determination of treatment and prognosis&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Calculation of stenotic area
+Stenotic area 67%
+Stenotic area 73%
+Stenotic rate may be important in the determination of treatment and prognosis.
+J Clin Gastroenterol 2014;48:845-50</text>
+		</slide>
+		<slide index="11" title="f/u of CA dissection with CEH-EUS" titleNormalized="f/u of ca dissection with ceh-eus" src="slide12.swf" size="254125" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.7590002"/>
+			</animationSteps>
+			<notes>CA</notes>
+			<notesNormalized>ca</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;CA&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>f/u of CA dissection with CEH-EUS
+Initial
+5 month later with anticoagulation
+J Clin Gastroenterol 2014;48:845-50</text>
+		</slide>
+		<slide index="12" title="EUS findings associated with treatment" titleNormalized="eus findings associated with treatment" src="slide13.swf" size="137273" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.3919996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS findings associated with treatment
+EUS demonstrates the important factors determining the treatment plan
+Extent of vessel involvement
+Degree of stenosis
+Presence of aneurysm
+Expansion of false lumen
+Presence of thrombosis and collateral circulation</text>
+		</slide>
+		<slide index="13" title="Prospectively collected cohort" titleNormalized="prospectively collected cohort" src="slide14.swf" size="1937" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.1990008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Prospectively collected cohort 
+2012/2-2016/5
+39 patients with visceral artery dissection
+EUS and CEH-EUS identified all the visceral artery dissection
+Three patients (8%) underwent surgical or vascular intervention</text>
+		</slide>
+		<slide index="14" title="EUS findings associated with surgical or radiological intervention" titleNormalized="eus findings associated with surgical or radiological intervention" src="slide15.swf" size="6360" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="54.9869990"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS findings associated with surgical or radiological intervention
+
+
+
+
+
+
+
+
+Conservative Mx
+(n = 36)
+Surgical or radiological intervention (n = 3)
+P value
+Location of lesion (SMA : CA : BOTH)
+23:13:0
+2:0:1
+0.28
+Severe stenosis (≥80%)
+9 (25%)
+3 (100%)
+0.02
+Presence of false lumen thrombi
+22 (61%)
+0
+0.07
+Presence of collateral circulation
+31 (86%)
+1 (33%)
+0.08
+Presence of aneurysm
+3 (8%)
+1 (33%)
+0.28
+Unpublished data</text>
+		</slide>
+		<slide index="15" title="Summary" titleNormalized="summary" src="slide16.swf" size="1630" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.5689997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Summary
+The combination of color Doppler and CEH-EUS may be a promising diagnostic modality to assess the visceral artery dissection without exposure to radiation.
+
+EUS is a useful tool in determining appropriate treatment for patients with visceral artery dissection.
+Severity of stenosis
+Presence of false lumen thrombi
+Presence of collateral circulation</text>
+		</slide>
+		<slide index="16" title="Thank you for your attention!" titleNormalized="thank you for your attention!" src="slide17.swf" size="1077" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.5350000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for your attention!
+
+
+
+
+Acknowledgement: Dr. SEO DW</text>
+		</slide>
+	</slides>
+</presentation>
