@@ -1,0 +1,723 @@
+<?xml version="1.0"?>
+<presentation title="Ji Kon Ryu" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{A3588BF6-82C3-4461-89E8-0F4EAB7CE5B6}">
+	<presenters>
+		<presenter name="Ji Kon Ryu, MD., PhD." title="Seoul National University College of Medicine Department of Internal Medicine Division of Gastroenterology Pancreatic and Biliary Cancer Center" email="" web="" phone="" photoAssetId="">
+			<bio>EUS-guided Ablation  of Pancreatic Cystic Tumor</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<videoTracks>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25734049" width="240" height="180">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="5.1539998"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25735110" width="240" height="180">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="22.1509991"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25736140" width="240" height="180">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="22.2910000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25737029" width="240" height="180">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="17.9720000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25738246" width="240" height="180">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="28.9780000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25739447" width="240" height="180">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="26.2840000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25741849" width="240" height="180">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="56.7029991"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25743253" width="240" height="180">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="31.9500000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25744486" width="240" height="180">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="25.5529995"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25745297" width="240" height="180">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="13.4209995"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_223563e0.spr0_25747294" width="240" height="180">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="47.2750000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_223563e0.spr0_25750227" width="240" height="180">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="71.8880000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_223563e0.spr0_25751521" width="240" height="180">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="28.7570000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_223563e0.spr0_25753300" width="240" height="180">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="41.3769989"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25754407" width="240" height="180">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="22.8010000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25756435" width="240" height="180">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="48.1110000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25757808" width="240" height="180">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="28.8850000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25759243" width="240" height="180">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="30.4179993"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25760881" width="240" height="180">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="34.9690000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25762644" width="240" height="180">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="37.5690000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25764064" width="240" height="180">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="31.2999992"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25766076" width="240" height="180">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="46.5789986"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_22356220.spr0_25767418" width="240" height="180">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="28.0960000"/>
+			</videoTrack>
+		</videoTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="true"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>true</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS-guided Ablation of Pancreatic Cystic Tumor" titleNormalized="eus-guided ablation of pancreatic cystic tumor" src="slide1.swf" size="212004" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.1529998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>AEG EUS Congress 2015
+
+Ji Kon Ryu, MD., PhD.
+Seoul National University College of Medicine
+Department of Internal Medicine
+Division of Gastroenterology
+Pancreatic and Biliary Cancer Center
+
+EUS-guided Ablation of Pancreatic Cystic Tumor</text>
+		</slide>
+		<slide index="1" title="Lee KS, et al. Am J Gastroenterol. 2010;105:2079" titleNormalized="lee ks, et al. am j gastroenterol. 2010;105:2079" src="slide2.swf" size="37241" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.1499991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Reviewed MRI retrospectively 616 patients 
+Lee KS, et al. Am J Gastroenterol. 2010;105:2079
+Prevalence of Incidental Pancreatic Cyst</text>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="93027" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.2900004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Preoperative radiologic diagnosis
+among 125  accuracy: 68%</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="238467" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.9710001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="4" title="Interobserver Agreement Pancreatic Cyst by EUS" titleNormalized="interobserver agreement pancreatic cyst by eus" src="slide5.swf" size="74473" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="28.9770006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Nodule: good (0.65) in expert
+Communication with P duct: moderate (0.51) in expert 
+Diagnosis: moderate (0.52) in expert
+Decision for surgery: poor (0.1) in expert
+Interobserver Agreement Pancreatic Cyst by EUS
+de Jong K, et al. Endoscopy 2011;43:579
+Not objective !!</text>
+		</slide>
+		<slide index="5" title="EUS-FNA Cytology" titleNormalized="eus-fna cytology" src="slide6.swf" size="37784" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.2830004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Meta-analysis: 376 in 11 studies
+ sensitivity 63%, specificity 88%
+
+Prospective study
+ indeterminate pancreatic cyst 143
+ adequate cytology: 31% (44/143)
+EUS-FNA Cytology
+Thosani N, et al. Dig Dis Sci 2010; 55: 2756
+de Jong K, et al. Endoscopy 2011;43:585</text>
+		</slide>
+		<slide index="6" title="Indeterminate Cyst &amp; Gray Zone (Cyst Fluid CEA and Amylase)" titleNormalized="indeterminate cyst &amp; gray zone (cyst fluid cea and amylase)" src="slide7.swf" size="3008" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="56.7019991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Indeterminate Cyst &amp; Gray Zone (Cyst Fluid CEA and Amylase)
+Amylase (U/mL)
+CEA (ng/mL)
+800 
+5 
+200 
+800 
+PC
+
+SCA
+MCN
+IPMN
+IPMN or MCN
+PC or 
+SCA
+PC or IPMN
+IPMN or MCN
+MCN</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="54856" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.9490008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The AGA suggests that patients with pancreatic cysts &lt;3 cm without a solid component or a dilated pancreatic duct undergo MRI for surveillance in 1 year. (Conditional recommendation, Very low quality evidence)
+The AGA suggests that pancreatic cysts with at least 2 high-risk features, such as size &gt; 3 cm, a dilated main pancreatic duct, or the presence of an associated solid component, should be examined with EUS-FNA. (Conditional recommendation, Very low quality evidence)
+</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="130157" advanceOnTime="1" framesCount="313" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="312" playTime="13.0000000" pauseTime="12.5529995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS with Ablation</text>
+		</slide>
+		<slide index="9" title="" titleNormalized="" src="slide10.swf" size="157890" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.4199995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>De Witt J. et al. Gastrointest Endosc 2009;70:710</text>
+		</slide>
+		<slide index="10" title="Indication of Cyst Ablation in SNUH" titleNormalized="indication of cyst ablation in snuh" src="slide11.swf" size="1802" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="47.2740015"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Inclusion criteria
+ - asymptomatic 2~5 cm unilocular or oligolocular cysts
+ - indeterminate cysts on image which needed cyst fluid analysis
+ - patients who reject surgical resection or have high risk of operation
+
+Exclusion criteria
+ - mural nodule or main PD dilatation
+ - communication between cyst and main pancreatic duct on image (CT, MRI, EUS)
+Indication of Cyst Ablation in SNUH</text>
+		</slide>
+		<slide index="11" title="Ablation Protocol" titleNormalized="ablation protocol" src="slide12.swf" size="135137" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_2685c490.spr0_25713925" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_2685c490.spr2_25713925" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video0"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="71.8870005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Measure cyst size &amp; calculate total volume 
+ (If 4 cm diameter  33 ml) 
+Cyst fluid aspiration (80% of total volume, 26 ml) 
+1st 99% ethanol lavage (EtOH 26 ml79%)
+2nd 99% ethanol lavage (EtOH 26ml96%)
+3rd 99% ethanol lavage (EtOH 26ml98%) and retention for 5 mins
+Total cyst fluid aspiration
+Ablation Protocol 
+CEA
+Amylase
+5
+800
+MCN
+IPMN
+PC
+SCA
+200
+Indeterminate
+33 ml
+0%
+7 ml
+33 ml
+79%
+33 ml
+96%
+33 ml
+98%</text>
+		</slide>
+		<slide index="12" title="Patients Characteristics (n=91)" titleNormalized="patients characteristics (n=91)" src="slide13.swf" size="74015" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="28.7560000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Patients Characteristics (n=91)
+J.K Park and J.K Ryu et al. Pancreas (in press) 2015</text>
+		</slide>
+		<slide index="13" title="Treatment Outcomes of 91 Patients with EUS-guided Ethanol Ablation Therapy" titleNormalized="treatment outcomes of 91 patients with eus-guided ethanol ablation therapy" src="slide14.swf" size="111863" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="41.3759989"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Treatment Outcomes of 91 Patients with EUS-guided Ethanol Ablation Therapy
+J.K Park and J.K Ryu et al. Pancreas (in press) 2015</text>
+		</slide>
+		<slide index="14" title="Treatment Response according to Initial Diameter CR 45% (41/91)" titleNormalized="treatment response according to initial diameter cr 45% (41/91)" src="slide15.swf" size="22254" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.8000006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Treatment Response according to Initial Diameter CR 45% (41/91)
+2.7mm
+3.3mm
+41
+50</text>
+		</slide>
+		<slide index="15" title="Treatment Response according to Presumed Diagnosis" titleNormalized="treatment response according to presumed diagnosis" src="slide16.swf" size="16429" advanceOnTime="1" framesCount="889" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="888" playTime="37.0000000" pauseTime="11.1110001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Treatment Response according to Presumed Diagnosis
+Patients No 
+Complete resolution
+Partial/Persistent 
+58 %
+42 %
+50 %
+50 %
+89 %
+11 %
+39 %
+61 %
+P &lt; 0.0001
+11 %
+61 %
+39 %
+33
+28
+12
+9
+Indeterminate cysts may include MCN &amp;IPMN.</text>
+		</slide>
+		<slide index="16" title="" titleNormalized="" src="slide17.swf" size="463713" advanceOnTime="1" framesCount="625" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="624" playTime="26.0000000" pauseTime="2.8850002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CEA 1, Amylase 140
+33
+ SCN
+F/41
+3 Years: CR</text>
+		</slide>
+		<slide index="17" title="" titleNormalized="" src="slide18.swf" size="461553" advanceOnTime="1" framesCount="493" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="492" playTime="20.5000000" pauseTime="9.9179993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CEA 1, Amylase 40
+F/69
+ SCN
+4 Years: stable</text>
+		</slide>
+		<slide index="18" title="" titleNormalized="" src="slide19.swf" size="453044" advanceOnTime="1" framesCount="745" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="744" playTime="31.0000000" pauseTime="3.9690018"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CEA 6,805, Amylase 37
+F/65
+ MCN
+2.5 Years: CR</text>
+		</slide>
+		<slide index="19" title="" titleNormalized="" src="slide20.swf" size="503901" advanceOnTime="1" framesCount="673" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="672" playTime="28.0000000" pauseTime="9.5690002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CEA 226, Amylase 10,262
+F/55
+ IPMN, BD
+4 Years: Regrowth</text>
+		</slide>
+		<slide index="20" title="Outcome of 13 Persistent Cysts" titleNormalized="outcome of 13 persistent cysts" src="slide21.swf" size="1724" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.2989992"/>
+			</animationSteps>
+			<notes>#16
+Surgical resections were performed according to the relapse in 2 premalinancy suspicion, and 1 case was spillage case. </notes>
+			<notesNormalized>#16
+surgical resections were performed according to the relapse in 2 premalinancy suspicion, and 1 case was spillage case.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;#16&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Surgical resections were performed according to the relapse in 2 premalinancy suspicion, and 1 case was spillage case. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Outcome of 13 Persistent Cysts
+ 3 patients surgical resection 
+ - 1 IPMN with moderate dysplasia 
+ - 2 MCNs without malignant transformation 
+
+ 10 patients with persistent
+ - 3 SCNs
+ - 4 BD IPMNs: no worrisome features
+ - 3 indeterminate cysts: no change during F/U</text>
+		</slide>
+		<slide index="21" title="" titleNormalized="" src="slide22.swf" size="208835" advanceOnTime="1" framesCount="841" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="840" playTime="35.0000000" pauseTime="11.5789986"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="22" title="Summary" titleNormalized="summary" src="slide23.swf" size="1869" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="28.0950007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Summary 
+Ablation of incidental pancreatic cystic tumors
+ - Simple and safe methods
+ - 99% ethanol lavage prn paclitaxel injection
+ - Indeterminate cysts without evidence of worrisome features
+ - Bridge therapy to final surgical resection
+ - Avoid unnecessary operation
+ - Not indicated in IPMN 
+
+</text>
+		</slide>
+	</slides>
+</presentation>

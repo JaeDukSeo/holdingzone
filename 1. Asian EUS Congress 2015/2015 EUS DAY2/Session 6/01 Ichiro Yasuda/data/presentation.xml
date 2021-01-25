@@ -1,0 +1,691 @@
+<?xml version="1.0"?>
+<presentation title="Ichiro Yasuda" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{30D69993-F706-4C40-9DC6-EC8593B79689}">
+	<presenters>
+		<presenter name="Ichiro Yasuda, MD, PhD." title="Department of Gastroenterology, Teikyo University Mizonokuchi Hospital,Kawasaki, Japan" email="" web="" phone="" photoAssetId="">
+			<bio>EUS-guided CPN/CGN:
+Technique, efficacy and complications</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<videoTracks>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586650.spr0_21711267" width="240" height="180">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="31.6700000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586650.spr0_21713155" width="240" height="180">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="44.2999992"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586650.spr0_21714746" width="240" height="180">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="33.2039986"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586650.spr0_21715916" width="240" height="180">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="24.4729996"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586650.spr0_21717148" width="240" height="180">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="23.3589993"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586650.spr0_21719738" width="240" height="180">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="58.6069984"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586650.spr0_21723076" width="240" height="180">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="84.8450000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586650.spr0_21724356" width="240" height="180">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="27.9099998"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586650.spr0_21728178" width="240" height="180">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="88.5599976"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586650.spr0_21729597" width="240" height="180">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="30.7399998"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586810.spr0_21730845" width="240" height="180">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="19.8759995"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586810.spr0_21732031" width="240" height="180">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="24.3460000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586810.spr0_21733326" width="240" height="180">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="18.9470000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586810.spr0_21734355" width="240" height="180">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="21.3619995"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586650.spr0_21735244" width="240" height="180">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="15.3699999"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1d586650.spr0_21736430" width="240" height="180">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="22.1000000"/>
+			</videoTrack>
+		</videoTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="true"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>true</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS-guided CPN/CGN: Technique, efficacy and complications" titleNormalized="eus-guided cpn/cgn: technique, efficacy and complications" src="slide1.swf" size="66286" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.6690001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-guided CPN/CGN:
+Technique, efficacy and complications
+Ichiro Yasuda, MD, PhD.
+Department of Gastroenterology, 
+Teikyo University Mizonokuchi Hospital,
+Kawasaki, Japan</text>
+		</slide>
+		<slide index="1" title="Basic Theory of Celiac Plexus Neurolysis" titleNormalized="basic theory of celiac plexus neurolysis" src="slide2.swf" size="37994" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="44.2989992"/>
+			</animationSteps>
+			<notes>The celiac plexus surrounds the celiac artery and the superior mesenteric artery, and it consists of several ganglia and connecting neural rami.
+It transmits pain sensations from the upper abdominal organs such as the pancreas, liver, gallbladder, stomach, and ascending colon.
+The celiac plexus neurolysis (CPN) is used to disrupt the transmission of such pain signals by injecting neurolytic agent into the celiac plexus.</notes>
+			<notesNormalized>the celiac plexus surrounds the celiac artery and the superior mesenteric artery, and it consists of several ganglia and connecting neural rami.
+it transmits pain sensations from the upper abdominal organs such as the pancreas, liver, gallbladder, stomach, and ascending colon.
+the celiac plexus neurolysis (cpn) is used to disrupt the transmission of such pain signals by injecting neurolytic agent into the celiac plexus.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The celiac plexus surrounds the celiac artery and the superior mesenteric artery, and it consists of several ganglia and connecting neural rami.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;It transmits pain sensations from the upper abdominal organs such as the pancreas, liver, gallbladder, stomach, and ascending colon.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The celiac plexus neurolysis (CPN) is used to disrupt the transmission of such pain signals by injecting neurolytic agent into the celiac plexus.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Celiac artery (CA)
+Ganglion
+Ganglion
+Ganglion
+Superior mesenteric artery
+(SMA)
+Rt.- greater splanchnic nerve
+Lt.- greater splanchnic nerve
+2
+ The CPN is used to disrupt the transmission of pain signals from the afferent nerves to the spinal cord by injecting neurolytic agent into the celiac plexus.
+Basic Theory of Celiac Plexus Neurolysis</text>
+		</slide>
+		<slide index="2" title="Various approaches for CPN" titleNormalized="various approaches for cpn" src="slide3.swf" size="3006" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.2029986"/>
+			</animationSteps>
+			<notes>The celiac plexus neurolysis was initially described as an intraoperative technique by Kappis in 1914.
+Since then, it has been performed under radiographic, fluoroscopic, CT, or ultrasonographic guidance.
+In addition, EUS-guided technique was recently introduced by Wiersema. </notes>
+			<notesNormalized>the celiac plexus neurolysis was initially described as an intraoperative technique by kappis in 1914.
+since then, it has been performed under radiographic, fluoroscopic, ct, or ultrasonographic guidance.
+in addition, eus-guided technique was recently introduced by wiersema.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The celiac plexus neurolysis was initially described as an intraoperative technique by Kappis in 1914.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Since then, it has been performed under radiographic, fluoroscopic, CT, or ultrasonographic guidance.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In addition, EUS-guided technique was recently introduced by Wiersema. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Kappis M (1914): Intraoperative
+ Radiographic
+ Fluoroscopic
+ CT-guided
+ US-guided 
+ Wiersema MJ (1996): EUS-guided
+Various approaches for CPN
+3</text>
+		</slide>
+		<slide index="3" title="Indications of CPN" titleNormalized="indications of cpn" src="slide4.swf" size="2363" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.4719996"/>
+			</animationSteps>
+			<notes>The indications of CPN is pain originated from the upper abdominal organs.
+The most major indication of this procedure is pancreatic cancer pain, because pain is a common symptom reported by 90% of patients with advanced pancreatic cancer, and it represents a major issue in the management of the patients.
+Pain due to chronic pancreatitis is also indicated.</notes>
+			<notesNormalized>the indications of cpn is pain originated from the upper abdominal organs.
+the most major indication of this procedure is pancreatic cancer pain, because pain is a common symptom reported by 90% of patients with advanced pancreatic cancer, and it represents a major issue in the management of the patients.
+pain due to chronic pancreatitis is also indicated.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The indications of CPN is pain originated from the upper abdominal organs.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The most major indication of this procedure is pancreatic cancer pain, because pain is a common symptom reported by 90% of patients with advanced pancreatic cancer, and it represents a major issue in the management of the patients.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Pain due to chronic pancreatitis is also indicated.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Indications of CPN
+4
+ Upper abdominal cancer pain
+Pancreatic cancer, Biliary cancer, Gastric cancer, ….
+ Chronic pancreatitis
+Pain is a common symptom reported by 90% of patients with 
+ advanced pancreatic cancer.
+(Caraceni A. Cancer 1996)
+Pain originated from the upper abdominal organs</text>
+		</slide>
+		<slide index="4" title="Techniques of EUS-CPN" titleNormalized="techniques of eus-cpn" src="slide5.swf" size="256776" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.3579993"/>
+			</animationSteps>
+			<notes>Two techniques are used for EUS-CPN.
+One is the central technique. 
+In this technique, a neurolytic agent is injected at the base of the celiac axis.
+Another technique is the bilateral technique.  In this technique, a neurolytic agent is injected on both sides of the celiac axis.</notes>
+			<notesNormalized>two techniques are used for eus-cpn.
+one is the central technique. 
+in this technique, a neurolytic agent is injected at the base of the celiac axis.
+another technique is the bilateral technique. in this technique, a neurolytic agent is injected on both sides of the celiac axis.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Two techniques are used for EUS-CPN.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;One is the central technique. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In this technique, a neurolytic agent is injected at the base of the celiac axis.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Another technique is the bilateral technique.  In this technique, a neurolytic agent is injected on both sides of the celiac axis.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Techniques of EUS-CPN
+ Central technique
+ Bilateral technique
+5
+The neurolytic agent is injected at the base or on both sides of the celiac axis.
+CA
+Ao
+SMA
+needle
+(probable location of the celiac ganglia)</text>
+		</slide>
+		<slide index="5" title="EUS-CPN (Central technique)" titleNormalized="eus-cpn (central technique)" src="slide6.swf" size="123022" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_1d6642a0.spr0_21579680" slides="1" repeat="1" volume="0.0000000" posterFrameId="ispring.resources_1d6642a0.spr2_21579680" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video0"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="58.6059984"/>
+			</animationSteps>
+			<notes>First, I will show the video clip of the central technique.
+After the abdominal aorta is visualized in the longitudinal plane on the EUS image, the aorta is traced to identify the CA. Subsequently, a needle is advanced to a point just above the point where the CA originates from the aorta. 
+Absolute ethanol is injected into the region until the echogenic cloud widespread sufficiently.</notes>
+			<notesNormalized>first, i will show the video clip of the central technique.
+after the abdominal aorta is visualized in the longitudinal plane on the eus image, the aorta is traced to identify the ca. subsequently, a needle is advanced to a point just above the point where the ca originates from the aorta. 
+absolute ethanol is injected into the region until the echogenic cloud widespread sufficiently.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;First, I will show the video clip of the central technique.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;After the abdominal aorta is visualized in the longitudinal plane on the EUS image, the aorta is traced to identify the CA. Subsequently, a needle is advanced to a point just above the point where the CA originates from the aorta. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Absolute ethanol is injected into the region until the echogenic cloud widespread sufficiently.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-CPN (Central technique)
+Video 1
+6</text>
+		</slide>
+		<slide index="6" title="EUS-CPN (Bilateral technique)" titleNormalized="eus-cpn (bilateral technique)" src="slide7.swf" size="150943" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_1d666bc0.spr0_21591411" slides="1" repeat="1" volume="0.0000000" posterFrameId="ispring.resources_1d666bc0.spr2_21591411" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video1"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="84.8440012"/>
+			</animationSteps>
+			<notes>I will also show the bilateral technique.
+After the origin of the CA is identified, the echoendoscope is rotated clockwise until the CA and SMA are no longer visible. 
+The needle is then advanced toward the left, alongside the CA and SMA, up to a position lateral to the point where the SMA originates from the aorta. 
+Absolute ethanol is injected into this region. 
+Next, the echoendoscope is rotated counterclockwise until the CA and SMA are no longer visible. 
+The needle is advanced to the right lateral base of the SMA, and absolute ethanol is injected once again. </notes>
+			<notesNormalized>i will also show the bilateral technique.
+after the origin of the ca is identified, the echoendoscope is rotated clockwise until the ca and sma are no longer visible. 
+the needle is then advanced toward the left, alongside the ca and sma, up to a position lateral to the point where the sma originates from the aorta. 
+absolute ethanol is injected into this region. 
+next, the echoendoscope is rotated counterclockwise until the ca and sma are no longer visible. 
+the needle is advanced to the right lateral base of the sma, and absolute ethanol is injected once again.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;I will also show the bilateral technique.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;After the origin of the CA is identified, the echoendoscope is rotated clockwise until the CA and SMA are no longer visible. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The needle is then advanced toward the left, alongside the CA and SMA, up to a position lateral to the point where the SMA originates from the aorta. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Absolute ethanol is injected into this region. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Next, the echoendoscope is rotated counterclockwise until the CA and SMA are no longer visible. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The needle is advanced to the right lateral base of the SMA, and absolute ethanol is injected once again. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-CPN (Bilateral technique)
+Video 1
+7</text>
+		</slide>
+		<slide index="7" title="EUS-guided direct celiac ganglia neurolysis (EUS-CGN)" titleNormalized="eus-guided direct celiac ganglia neurolysis (eus-cgn)" src="slide8.swf" size="253884" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.9089998"/>
+			</animationSteps>
+			<notes>In addition, another new technique has recently been introduced. 
+In this technique, the celiac ganglia is punctured and neurolytic agent is directly injected in it. </notes>
+			<notesNormalized>in addition, another new technique has recently been introduced. 
+in this technique, the celiac ganglia is punctured and neurolytic agent is directly injected in it.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In addition, another new technique has recently been introduced. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In this technique, the celiac ganglia is punctured and neurolytic agent is directly injected in it. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>8
+EUS-guided direct celiac ganglia neurolysis
+ (EUS-CGN)
+Levy MJ. Am J Gastroenterol 2008, Ascunce G. Gastrointest Endosc 2011, LeBlanc JK, Diagn Ther Endosc 2013,
+Doi S. Endoscopy 2013, Ishiwatari H. World J Gastroenterol 2014.</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="182777" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_1db84ba0.spr0_21700628" slides="1" repeat="1" volume="0.0000000" posterFrameId="ispring.resources_1db84ba0.spr2_21700628" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video2"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="88.5589976"/>
+			</animationSteps>
+			<notes>In this case, two celiac ganglia are identified at a site just medial to the left adrenal gland.
+A needle puncture was made, and the needle was advanced to the distal end of the lower ganglion.
+Thereafter, absolute ethanol was injected.
+After the injection, the ganglion became hyperechoic. 
+As the needle was withdrawn, ethanol was injected into the ganglion until identification of the ganglion became difficult.
+Next, the upper ganglion is punctured, and ethanol is injected.
+This procedure was repeated until identification of all ganglia became difficult.</notes>
+			<notesNormalized>in this case, two celiac ganglia are identified at a site just medial to the left adrenal gland.
+a needle puncture was made, and the needle was advanced to the distal end of the lower ganglion.
+thereafter, absolute ethanol was injected.
+after the injection, the ganglion became hyperechoic. 
+as the needle was withdrawn, ethanol was injected into the ganglion until identification of the ganglion became difficult.
+next, the upper ganglion is punctured, and ethanol is injected.
+this procedure was repeated until identification of all ganglia became difficult.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In this case, two celiac ganglia are identified at a site just medial to the left adrenal gland.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;A needle puncture was made, and the needle was advanced to the distal end of the lower ganglion.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Thereafter, absolute ethanol was injected.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;After the injection, the ganglion became hyperechoic. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;As the needle was withdrawn, ethanol was injected into the ganglion until identification of the ganglion became difficult.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Next, the upper ganglion is punctured, and ethanol is injected.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;This procedure was repeated until identification of all ganglia became difficult.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>9</text>
+		</slide>
+		<slide index="9" title="Pain relief by EUS-CPN" titleNormalized="pain relief by eus-cpn" src="slide10.swf" size="51207" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.7389998"/>
+			</animationSteps>
+			<notes>Two meta-analysis have previously been published.
+They showed that pain relief was achieved in around 73 to 80% of patients with pancreatic cancer pain and in 50-60% of chronic pancreatitis.</notes>
+			<notesNormalized>two meta-analysis have previously been published.
+they showed that pain relief was achieved in around 73 to 80% of patients with pancreatic cancer pain and in 50-60% of chronic pancreatitis.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Two meta-analysis have previously been published.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;They showed that pain relief was achieved in around 73 to 80% of patients with pancreatic cancer pain and in 50-60% of chronic pancreatitis.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Pain relief by EUS-CPN
+10
+The pooled proportion of patients with pancreatic cancer that showed pain relief was 80.12% (95% CI = 74.47–85.22). 
+In patients with pain due to chronic pancreatitis, EUS-guided CPN provided pain relief in 59.45% (95% CI = 54.51–64.30).
+2 meta-analysis
+Puli SR. Dig Dis Sci 2009
+Efficacy of endoscopic ultrasound-guided celiac plexus block and celiac plexus neurolysis for managing abdominal pain associated with chronic pancreatitis and pancreatic cancer.
+Kaufman M, Singh G, Das S, Concha-Parra R, Erber J, Micames C, Gress F.
+Kaufman M. J Clin Gastroenterol 2010
+EUS-guided CPN was 72.54% effective in managing pain due to pancreatic cancer and is a reasonable option for patients with tolerance to narcotic analgesics.
+EUS-guided CPB was 51.46% effective in managing chronic abdominal pain in patients with chronic pancreatitis.</text>
+		</slide>
+		<slide index="10" title="Central vs. Bilateral technique" titleNormalized="central vs. bilateral technique" src="slide11.swf" size="4173" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.8749995"/>
+			</animationSteps>
+			<notes>Some studies have suggested that the bilateral technique was more effective than the central technique.
+But it is also true that the central technique is easier and possibly safer than the bilateral technique.</notes>
+			<notesNormalized>some studies have suggested that the bilateral technique was more effective than the central technique.
+but it is also true that the central technique is easier and possibly safer than the bilateral technique.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Some studies have suggested that the bilateral technique was more effective than the central technique.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;But it is also true that the central technique is easier and possibly safer than the bilateral technique.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Central vs. Bilateral technique
+Study design
+Central
+Bilateral
+P
+Sahai AV 
+(Am J Gastroenterol 2009)
+Retrospective
+45.9%a
+70.4%a
+0.0016
+Puli SR
+(Dig Dis Sci 2009)
+Meta-analysis
+46.0%b
+84.5%b
+-
+LeBlanc JK 
+(Gastrointest Endosc 2011)
+Prospective
+69%b
+81%b
+0.340
+a mean% of pain reduction, b % of patients with pain relief 
+11
+Bilateral technique: more effective
+Central technique: easier and possibly safer</text>
+		</slide>
+		<slide index="11" title="EUS-CPN vs. EUS-CGN" titleNormalized="eus-cpn vs. eus-cgn" src="slide12.swf" size="90516" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.3450007"/>
+			</animationSteps>
+			<notes>Our multicenter RCT showed that EUS–CGN was significantly superior to conventional EUS–CPN (central technique) in cancer pain relief.</notes>
+			<notesNormalized>our multicenter rct showed that eus–cgn was significantly superior to conventional eus–cpn (central technique) in cancer pain relief.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Our multicenter RCT showed that EUS–CGN was significantly superior to conventional EUS–CPN (central technique) in cancer pain relief.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-CPN vs. EUS-CGN
+12
+EUS–CGN was significantly superior to conventional EUS–CPN (central technique) in cancer pain relief.
+Doi S, Yasuda I, et al. Endoscopy 2013</text>
+		</slide>
+		<slide index="12" title="Complications of EUS-CPN" titleNormalized="complications of eus-cpn" src="slide13.swf" size="3639" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.9460005"/>
+			</animationSteps>
+			<notes>Complications of EUS-CPN included transient pain exacerbation, hypotension, diarrhea, and inebriation sometimes occurs. 
+However, most of such complications are not serious.</notes>
+			<notesNormalized>complications of eus-cpn included transient pain exacerbation, hypotension, diarrhea, and inebriation sometimes occurs. 
+however, most of such complications are not serious.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Complications of EUS-CPN included transient pain exacerbation, hypotension, diarrhea, and inebriation sometimes occurs. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;However, most of such complications are not serious.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Transient pain exacerbation (0-36.0%)
+Transient hypotension (0-33.0%)
+Transient diarrhea (0-23.4%) 
+Inebriation (0-12.5%)
+Retroperitoneal hemorrhage (0-1.0%)
+Infectious complications (0-1.0%)
+GI bleeding (0-2.9%)
+Complications of EUS-CPN
+13
+Wiersema MJ. Gastrointest Endosc 1996, Harada N. Gastrointest Endosc Clin N Am 1997, 
+Gress F. Am J Gastroenterol 1999, Gress F. Am J Gastroenterol 2001, 
+Gunaratnam NT. Gastrointest Endosc 2001, Sakamoto H. Dig Endosc 2006, 
+Levy MJ. Am J Gastroenterol 2008, Sahai AV. Am J Gastroenterol 2009, 
+O’Toole TM. Endoscopy 2009, Sakamoto H. Am J Gastroenterol 2010, Iwata K. Dig Endosc 2011, 
+LeBlanc JK. Gastrointest Endosc 2011, Ascunce G. Gastrointest Endosc 2011, 
+Wiechowska-Kozlowska A. Gastroenterol Res Pract 2012, Seicean A. J Gastrointest Liver Dis 2013, 
+LeBlanc JK, Diagn Ther Endosc 2013, Doi S. Endoscopy 2013, 
+Tellez-Avila FI. Endosc Ultrasound 2013, Ishiwatari H. World J Gastroenterol 2014.</text>
+		</slide>
+		<slide index="13" title="Major complications of EUS-CPN" titleNormalized="major complications of eus-cpn" src="slide14.swf" size="100191" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.3609995"/>
+			</animationSteps>
+			<notes>However, major complications have rarely been reported using EUS-CPN. 
+Most of them were reported in the setting of chronic pancreatitis.</notes>
+			<notesNormalized>however, major complications have rarely been reported using eus-cpn. 
+most of them were reported in the setting of chronic pancreatitis.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;However, major complications have rarely been reported using EUS-CPN. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Most of them were reported in the setting of chronic pancreatitis.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Major complications of EUS-CPN
+14
+Author
+Complication
+Indication
+Technique
+Substance
+Fujii L 
+(Endoscopy 2012)
+Paraplegia
+PC
+CGN+CPN
+Bupivacaine+Alcohol 1mL(CGN)+23mL(CPN)
+Loeve US 
+(GIE 2013)
+Necrosis &amp; perforation of stomach &amp; aorta/ dead
+CP
+Multiple CPN
+(13 sessions for 4 years)
+Bupivacaine 6-10mL + Alcohol 8-20mL
+Jang HY 
+(Clin Endosc 2013)
+Liver &amp; spleen infarction
+Stomach &amp; small intestine ischemia/ dead
+Lung ca.
+Panc. meta
+CPN(central)
+Bupivacaine 5mL + Alcohol 10mL
++ Triamcinolone 1mL + Saline 3mL
+*
+* 
+CA thrombosis + liver, lt-kidney, spleen, stomach, small intestine, and ascending colon infarction
+(20mL)
+(10mL)
+Gimeno-Garcia AZ. Endoscopy 2012
+Major complications have rarely been reported using EUS-CPN.
+Most of bleeding complications occurred in the bilateral technique.
+Most of infectious complications were reported in the setting of chronic pancreatitis.</text>
+		</slide>
+		<slide index="14" title="Adverse effects during and after the procedure" titleNormalized="adverse effects during and after the procedure" src="slide15.swf" size="3435" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.3689999"/>
+			</animationSteps>
+			<notes>This slide shows that there was no difference between the 2 groups in adverse events.
+Adverse effects experienced by the patients are shown in this slide.</notes>
+			<notesNormalized>this slide shows that there was no difference between the 2 groups in adverse events.
+adverse effects experienced by the patients are shown in this slide.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This slide shows that there was no difference between the 2 groups in adverse events.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Adverse effects experienced by the patients are shown in this slide.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>15
+　
+EUS-CGN (n = 34)
+EUS-CPN (n = 33)
+p Value
+Transient hypotension
+1 (2.9%)
+2 (6.0%)
+0.613
+Upper gastrointestinal bleeding
+1 (2.9%)
+0 (0%)
+1.000
+Inebriation
+1 (2.9%)
+1 (3.0%)
+1.000
+Transient pain exacerbation
+10 (30.3%)
+7 (21.9%)
+0.576
+Transient diarrhea
+2 (5.9%)
+3 (9.1%)
+0.673
+Adverse effects during and after the procedure
+Doi S, Yasuda I, et al. Endoscopy 2013</text>
+		</slide>
+		<slide index="15" title="Conclusions" titleNormalized="conclusions" src="slide16.swf" size="1935" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.0990004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conclusions
+EUS-CGN is significantly superior to EUS-CPN in providing cancer pain relief.
+16
+EUS-CPN is a relatively safe and effective method to reduce upper abdominal cancer pain.
+The actual techniques of EUS-CPN and EUS-CGN were shown.</text>
+		</slide>
+	</slides>
+</presentation>

@@ -1,0 +1,703 @@
+<?xml version="1.0"?>
+<presentation title="Rungsun Rerknimitr" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{2E9AC159-A346-4C4E-A613-BD40C07AD675}">
+	<presenters>
+		<presenter name="Rungsun Rerknimitr, MD, FRCP (London)" title="Chulalongkorn University Bangkok, Thailand" email="" web="" phone="" photoAssetId="">
+			<bio>Rendezvous vs. precut: precut is good enough!</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets/>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<videoTracks>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5868742" width="240" height="180">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="33.5760000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5870988" width="240" height="180">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="50.4329987"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5872704" width="240" height="180">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="43.9780000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5873843" width="240" height="180">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="25.0769997"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5875325" width="240" height="180">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="31.0680000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5876557" width="240" height="180">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="26.4699993"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5878008" width="240" height="180">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="28.6060000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5879334" width="240" height="180">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="29.0709991"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5882938" width="240" height="180">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="84.8919983"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5884856" width="240" height="180">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="41.0989990"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077c40.spr0_5886245" width="240" height="180">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="33.4360000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077c40.spr0_5887680" width="240" height="180">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="30.7430000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077c40.spr0_5888990" width="240" height="180">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="29.3029995"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077c40.spr0_5892173" width="240" height="180">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="77.8330000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5894497" width="240" height="180">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="54.2879982"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5897773" width="240" height="180">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="76.1610000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5899099" width="240" height="180">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="26.0990000"/>
+			</videoTrack>
+			<videoTrack volume="1.0000000" src="ispring.resources_1a077700.spr0_5900425" width="240" height="180">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="29.8139992"/>
+			</videoTrack>
+		</videoTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="true"/>
+					<button type="presenterInfo" visible="true"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>false</showPresenterInfo>
+				<showPresenterVideo>true</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>true</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Rendezvous vs. precut: precut is good enough!" titleNormalized="rendezvous vs. precut: precut is good enough!" src="slide1.swf" size="102598" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.5750002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Rendezvous vs. precut: precut is good enough!
+Rungsun Rerknimitr, MD, FRCP (London)
+Chulalongkorn University
+Bangkok, Thailand</text>
+		</slide>
+		<slide index="1" title="Precut quotes" titleNormalized="precut quotes" src="slide2.swf" size="2255" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="50.4319987"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Precut quotes
+It probably takes 1000 ERCPs to become skilled at cannulation, and several thousand more to become an expert.
+The expert ERCP endoscopist must be able to innovate and adapt his or her technique to deal with unexpected and unfamiliar anatomy.
+ERCP has evolved into an almost entirely therapeutic modality, increasing the technical difficulty and requiring skill with guide wires, catheters, stents, and so forth.
+The “pull” papillotome has become the primary tool for ERCP cannulation.
+Needle knife papillotomy (NKP) should be taught to all serious students of ERCP, and no longer regarded as a high-risk procedure for experts only.
+John Baillie, MB, ChB Gastrointest Endoscopy Clin N Am 22 (2012)</text>
+		</slide>
+		<slide index="2" title="Precuts! What are they?" titleNormalized="precuts! what are they?" src="slide3.swf" size="1984" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="43.9770006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Precuts! What are they?
+Standard techniques
+Catheters
+Papillotomes
+Guide wires in conjunction with catheters and papillotomes
+Placement of pancreatic stent or guide wire to facilitate cannulation
+Double guidewires cannulation
+Precut techniques
+Precut papillotomy (needle knife papillotomy)
+Transpapillary pancreatic sphincterotomy (precut pancreatic sphincterotomy)
+Suprapapillary puncture of the common bile duct (needle knife fistuolotomy)</text>
+		</slide>
+		<slide index="3" title="Impact CBD stone" titleNormalized="impact cbd stone" src="slide4.swf" size="330545" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_19235180.spr0_5742381" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_19235180.spr2_5742381" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video0"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.0759997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Impact CBD stone</text>
+		</slide>
+		<slide index="4" title="Precut over PD stent" titleNormalized="precut over pd stent" src="slide5.swf" size="201140" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_19594410.spr0_5748714" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_19594410.spr2_5748714" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video1"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.0670008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Precut over PD stent</text>
+		</slide>
+		<slide index="5" title="fistulotomy" titleNormalized="fistulotomy" src="slide6.swf" size="267755" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_195952f0.spr0_5773175" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_195952f0.spr2_5773175" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video2"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.4689993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>fistulotomy</text>
+		</slide>
+		<slide index="6" title="septotomy" titleNormalized="septotomy" src="slide7.swf" size="177005" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_19604930.spr0_5820428" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_19604930.spr2_5820428" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video3"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="28.6050009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>septotomy</text>
+		</slide>
+		<slide index="7" title="Precut in BII" titleNormalized="precut in bii" src="slide8.swf" size="266858" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_19605810.spr0_5839523" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_19605810.spr2_5839523" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video4"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.0699991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Precut in BII</text>
+		</slide>
+		<slide index="8" title="different precuts" titleNormalized="different precuts" src="slide9.swf" size="54295" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="84.8909983"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>different precuts</text>
+		</slide>
+		<slide index="9" title="Single endoscopist’s experience in precut (50/block x4)" titleNormalized="single endoscopist’s experience in precut (50/block x4)" src="slide10.swf" size="33757" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="41.0979990"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Single endoscopist’s experience in precut (50/block x4)
+Akaravituth T et al Endoscopy 2008</text>
+		</slide>
+		<slide index="10" title="MY precut requirement per year" titleNormalized="my precut requirement per year" src="slide11.swf" size="7848" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.4350008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>MY precut requirement per year
+Year
+2000
+2001
+2002
+2003
+2004
+2005
+2006
+2007
+2008
+2009
+Total
+% precutting (precut/virgin ampulla)
+17.8
+(47/263)
+10.5
+(16/153)
+10.5
+(17/162)
+14
+(28/200)
+8.5
+(23/269)
+8.7
+(26/297)
+13.8
+(39/281)
+14.2
+(43/301)
+10.7
+(23/214)
+4.9
+(13/262)
+11.45
+(275/2402)
+Success/failed
+40/7
+12/4
+15/2
+25/3
+19/4
+22/4
+39/0
+42/1
+22/1
+12/1
+248/27
+Complications
+11
+4
+2
+4
+11
+5
+3
+5
+2
+0
+47
+Pancreatitis
+2
+1
+2
+3
+4
+2
+1
+4
+0
+0
+19
+Bleeding
+1
+0
+0
+1
+6
+3
+1
+1
+2
+0
+15
+Perforation
+1
+2
+0
+0
+1
+0
+1
+0
+0
+0
+5
+Others
+7
+1
+0
+0
+0
+0
+0
+0
+0
+0
+8
+Endoscopy 2010; 42 (Suppl 1) A 380.</text>
+		</slide>
+		<slide index="11" title="My precut experience" titleNormalized="my precut experience" src="slide12.swf" size="3833" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.7420000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>My precut experience
+Experience on precutting 
+2000-2005(n=150) 
+2005-2010 (n=125) 
+Percentage of precutting (precut/virgin ampulla) 
+11.9 (150/1254) 
+10.8 (125/1148) 
+Success rate* 
+126 (84%) 
+121 (97%) 
+Failure rate* 
+24 (16%) 
+4 (3%) 
+Overall complications* 
+33 (22%) 
+14 (11%) 
+Pancreatitis 
+13 
+6 
+Bleeding 
+9 
+6 
+Perforation 
+3 
+2 
+Others 
+8 
+0 
+	Endoscopy 2010; 42 (Suppl 1) A 380.
+* p&lt;0.05</text>
+		</slide>
+		<slide index="12" title="" titleNormalized="" src="slide13.swf" size="645779" advanceOnTime="1" framesCount="661" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="660" playTime="27.5000000" pauseTime="1.8029995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="13" title="Precut vs. EUS-BD Rendezvous" titleNormalized="precut vs. eus-bd rendezvous" src="slide14.swf" size="4889" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="77.8320002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Precut vs. EUS-BD Rendezvous
+Dhir V. et al GIE 2012</text>
+		</slide>
+		<slide index="14" title="Special concern on EUS-BD" titleNormalized="special concern on eus-bd" src="slide15.swf" size="1716" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="54.2869982"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Special concern on EUS-BD
+Two procedures needed…may be an issue for reimbursement
+260 cm short wire system is recommended
+Direction of wire after puncture
+Risk of bile leak
+No study on learning curve of EUS-BD yet</text>
+		</slide>
+		<slide index="15" title="determining factors for technique selection" titleNormalized="determining factors for technique selection" src="slide16.swf" size="4725" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="76.1600031"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>determining factors for technique selection
+
+
+Factor
+Precut
+EUS-guided biliary access
+Success rate
+High in expert’s hands
+High in expert’s hands
+Complication
+PEP/bleeding/perf/Acceptable
+Bile leak/Acceptable
+Learning curve
+A few year after advanced fellowship
+n/a
+Cost 
+One needle knife needed
+EUS accessories/ 2 procedures
+The popularity
+Standard
+Going to be</text>
+		</slide>
+		<slide index="16" title="" titleNormalized="" src="slide17.swf" size="246053" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.0980009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>I definitely do precut in
+Impact stone
+B-II anatomy
+Long nose ampulla
+
+I would request EUS-BA in
+No stomach
+Duodenal obstruction
+Long Roux-en-y</text>
+		</slide>
+		<slide index="17" title="" titleNormalized="" src="slide18.swf" size="385574" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video5" videoClipId="ispring.resources_1a077700.spr0_5860645" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1a077700.spr2_5860645" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<pauseVideo frameIndex="0" videoId="video5"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.8129992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+	</slides>
+</presentation>
