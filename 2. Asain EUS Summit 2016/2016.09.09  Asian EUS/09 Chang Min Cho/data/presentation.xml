@@ -1,0 +1,1478 @@
+<?xml version="1.0"?>
+<presentation title="09 Chang Min Cho" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{28419F46-3FBD-4662-94DD-B898A7B6A7CB}">
+	<presenters>
+		<presenter name="Chang Min Cho" title="Kyungpook National University" email="" web="" phone="" photoAssetId="">
+			<bio>Contrast-enhanced EUS for Pancreatic Lesion</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="397942" duration="14211"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="145599" duration="5198"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="987474" duration="35265"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="1191542" duration="42553"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="1024045" duration="36571"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="248731" duration="8882"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="1146925" duration="40960"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="1609919" duration="57496"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="546422" duration="19513"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="1414628" duration="50521"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="874834" duration="31242"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="1342948" duration="47961"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="1444616" duration="51592"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="1174719" duration="41953"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="1238354" duration="44225"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="686856" duration="24529"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="525942" duration="18782"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="616639" duration="22021"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="792182" duration="28291"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="581531" duration="20767"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="905554" duration="32340"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="451336" duration="16118"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="2000502" duration="71445"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="921645" duration="32914"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="1289554" duration="46054"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="896776" duration="32026"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="244342" duration="8725"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="602742" duration="21525"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="1748891" duration="62459"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="335771" duration="11990"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="795839" duration="28421"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="328456" duration="11729"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="208502" duration="7445"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="718308" duration="25652"/>
+		<soundAsset id="sndAsset34" src="sound35.mp3" embedded="0" size="114879" duration="4101"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="14.1809998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="5.1719999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="35.2350000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="42.5089989"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="36.5369987"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="8.8420000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="40.9080000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="57.4570000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="19.4860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="50.4840000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="31.1980000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="47.9150000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="51.5509987"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="41.9090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="44.1770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="24.4899998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="18.7520000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="21.9890000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="28.2619991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="20.7199993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="32.2990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="16.0799999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="71.4049988"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="32.8660000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="46.0130000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="31.9990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="8.6750000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="21.4880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="62.4290000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="11.9399996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="28.3950000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="11.6780000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="7.4070000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="25.6259995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset34">
+				<startTimestamp slideIndex="34" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="34" stepIndex="0" timeOffset="4.0710000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Contrast-enhanced EUS for Pancreatic Lesion" titleNormalized="contrast-enhanced eus for pancreatic lesion" src="slide1.swf" size="1772" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.1799998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Contrast-enhanced EUS for Pancreatic Lesion
+Kyungpook National University Medical Center
+Center for Hepatobiliary and Pancreatic Tumors
+Chang Min Cho
+2016-09-09 Session 3. Advances in Diagnosis and Management of Solid Pancreatic Tumor</text>
+		</slide>
+		<slide index="1" title="Index" titleNormalized="index" src="slide2.swf" size="1847" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.1709999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Index
+Introduction
+History of CE-US and CE-EUS
+Classification of USAs
+CE-EUS and CH-EUS
+Clinical applications of EUS using UCAs
+Quantitative analysis of CH-EUS
+Take home messages</text>
+		</slide>
+		<slide index="2" title="Progress of EUS" titleNormalized="progress of eus" src="slide3.swf" size="3784" advanceOnTime="1" framesCount="626" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="625" playTime="26.0416667" pauseTime="9.1983350"/>
+			</animationSteps>
+			<notes>Recently, much effort has been put to further improve the sensitivity, specificity and overall accuracy of EUS.
+One of the major advances is the utilization of contrast agents for better delineation of the vascularity and tissue perfusion of the target lesion.
+최근까지, 초음파 내시경 기기에 있어 많은 발전이 있어왔다.</notes>
+			<notesNormalized>recently, much effort has been put to further improve the sensitivity, specificity and overall accuracy of eus.
+one of the major advances is the utilization of contrast agents for better delineation of the vascularity and tissue perfusion of the target lesion.
+최근까지, 초음파 내시경 기기에 있어 많은 발전이 있어왔다.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Recently, much effort has been put to further improve the sensitivity, specificity and overall accuracy of EUS.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;One of the major advances is the utilization of contrast agents for better delineation of the vascularity and tissue perfusion of the target lesion.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;최근까지, 초음파 내시경 기기에 있어 많은 발전이 있어왔다.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Progress of EUS
+Mechanical radial scanning method
+Electronic scanning method
+Radial scanning
+Linear scanning
+Improvement of B-mode image quality
+Color/power Doppler image
+Harmonic image
+2. Utilization of application
+CE-EUS and CH-EUS
+3-D imaging
+Real time tissue elastography
+EUS-tissue sampling
+Histology/cytology
+Gene expression analysis
+2. Therapeutics
+Drainage
+Anti-cancer therapy</text>
+		</slide>
+		<slide index="3" title="EUS in pancreatic disease" titleNormalized="eus in pancreatic disease" src="slide4.swf" size="2261" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.5079989"/>
+			</animationSteps>
+			<notes>As you know, endoscopic ultrasound (EUS) has been an important imaging modality in the diagnosis of pancreatic diseases. Previous studies revealed that high sensitivity for the detection of small pancreatic lesions comparing to CT and MRI. Also, we can perform additional EUS-guided procedures: EUS-guided tissue sampling for cytopathologic diagnosis of benign or malignant disorders, EUS-guided celiac plexus block or neurolysis for pancreatic origin pain control, and cystic ablation for selected pancreatic cystic neoplasms. However, it has difficulty in the discrimination of solid pancreatic mass in the case of underlying chronic pancreatitis, that showed low specificity.</notes>
+			<notesNormalized>as you know, endoscopic ultrasound (eus) has been an important imaging modality in the diagnosis of pancreatic diseases. previous studies revealed that high sensitivity for the detection of small pancreatic lesions comparing to ct and mri. also, we can perform additional eus-guided procedures: eus-guided tissue sampling for cytopathologic diagnosis of benign or malignant disorders, eus-guided celiac plexus block or neurolysis for pancreatic origin pain control, and cystic ablation for selected pancreatic cystic neoplasms. however, it has difficulty in the discrimination of solid pancreatic mass in the case of underlying chronic pancreatitis, that showed low specificity.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;As you know, endoscopic ultrasound (EUS) has been an important imaging modality in the diagnosis of pancreatic diseases. Previous studies revealed that high sensitivity for the detection of small pancreatic lesions comparing to CT and MRI. Also, we can perform additional EUS-guided procedures: EUS-guided tissue sampling for cytopathologic diagnosis of benign or malignant disorders, EUS-guided celiac plexus block or neurolysis for pancreatic origin pain control, and cystic ablation for selected pancreatic cystic neoplasms. However, it has difficulty in the discrimination of solid pancreatic mass in the case of underlying chronic pancreatitis, that showed low specificity.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS in pancreatic disease
+Good diagnostic imaging modality
+High sensitivity for detection of small lesions
+Superior to CT and MRI in mass detection
+Additional procedure
+EUS-tissue sampling
+EUS-CPB/CPN
+EUS-ablation
+
+Difficult in the discrimination of pancreatic mass in case of underlying chronic pancreatitis
+Specificity: 33-75%
+Wiersema MJ et al. Pancreatology (2001)
+Bhutani MS et al. Endoscopy (2004)</text>
+		</slide>
+		<slide index="4" title="Ultrasound contrast agents (UCAs)" titleNormalized="ultrasound contrast agents (ucas)" src="slide5.swf" size="58338" advanceOnTime="1" framesCount="344" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="343" playTime="14.2916667" pauseTime="22.2453321"/>
+			</animationSteps>
+			<notes>UCAs are gas-containing microbubbles encapsulated in a resistance shell. This shell decreases dissolution or disruption of the microbubbles in the blood stream. When hit by an ultrasonic wave, the microbubbles would oscillate and generate an acoustic signal that would be detected and reproduced on an ultrasound image.</notes>
+			<notesNormalized>ucas are gas-containing microbubbles encapsulated in a resistance shell. this shell decreases dissolution or disruption of the microbubbles in the blood stream. when hit by an ultrasonic wave, the microbubbles would oscillate and generate an acoustic signal that would be detected and reproduced on an ultrasound image.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;UCAs are gas-containing microbubbles encapsulated in a resistance shell. This shell decreases dissolution or disruption of the microbubbles in the blood stream. When hit by an ultrasonic wave, the microbubbles would oscillate and generate an acoustic signal that would be detected and reproduced on an ultrasound image.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ultrasound contrast agents (UCAs)
+Composition
+Inner microbubbles: air or heavy gases (perfluorocarbon or nitrogen)
+Outer shell: albumin, lipid or polymerase
+Clinical applications
+Essential along with B-mode imaging in transabdominal USG
+Particular for the differential diagnosis of solid liver lesions
+Could replace liver biopsy for diagnosis of HCC
+Piscaglia et al. Ultraschall Med (2012)
+Dietrich CF. Ultraschall Med (2008)</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="67173" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.8410000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="6" title="History of contrast enhanced US" titleNormalized="history of contrast enhanced us" src="slide7.swf" size="138408" advanceOnTime="1" framesCount="1902" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_19825110.spr0_15125810" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_19825110.spr2_15125810" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video1" videoClipId="ispring.resources_19824b60.spr0_15131316" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_19824b60.spr2_15131316" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video2" videoClipId="ispring.resources_19825110.spr0_15140552" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_19825110.spr2_15140552" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1901" playTime="40.9080009" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>History of contrast enhanced US
+Matsuda and Yabuuchi (1986)
+Carbon dioxide as a contrast agent
+Evaluation of hepatic tumor
+Pattern of parenchymal perfusion
+Differentiation between in malignant and benign lesions in the liver
+Organ specific vascularity (portal vein/sinusoidal)
+HCC
+Hemangioma
+Metastasis</text>
+		</slide>
+		<slide index="7" title="History of CE-EUS" titleNormalized="history of ce-eus" src="slide8.swf" size="2322" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="57.4560007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>History of CE-EUS
+First reported by Kato et al (1995)
+Fundamental EUS with CO2 gas
+Angiographic intervention
+Infusion of gas through a catheter implanted into celiac or superior mesenteric artery
+Color and/or power Doppler equipment
+Detection of direction of blood flow in large vessels
+Poor sensitivity in detection of micro-vessel
+Slow blood flow
+Poor depiction for parenchymal perfusion
+
+Kato T et al, Acta Radiol (1995)</text>
+		</slide>
+		<slide index="8" title="CE-EUS" titleNormalized="ce-eus" src="slide9.swf" size="1700" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.4850001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CE-EUS
+To improve the characterization of the vasculature inside the organ of interest
+To better delineate benign from malignant pathology
+To aid in staging and directing therapeutic procedures</text>
+		</slide>
+		<slide index="9" title="Ultrasound contrast agents (UCAs)" titleNormalized="ultrasound contrast agents (ucas)" src="slide10.swf" size="198382" advanceOnTime="1" framesCount="148" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="147" playTime="6.1250000" pauseTime="44.3590012"/>
+			</animationSteps>
+			<notes>Current UCAs consist of microbubbles with a 2-5 micron diameter capable of transpulmonary passage for systemic enhancement after intravenous injection. A bubble of this size is unstable in an aqueous system, and therefore, it must be encapsulated by a stabilizing shell to achieve long lasting persistence. The type of gas and the composition of the shell confer different physicochemical properties and different behaviours in the ultrasound field. However, the physical principles of the interaction between the microbubble and the incident ultrasound wave are basically the same.
+First generation agents are microbubbles filled with air, but they generally require high acoustic power to produce oscillation or break its microbubbles. Second generation agents, including the commonly used SonoVueTM and SonazoidTM, are composed of gases that are less soluble and less likely to leak out from microbubbles, thereby lasting longer in the circulation. These agents can be oscillated or broken by lower acoustic power, and thus are more suitable for EUS because of the limited acoustic power produced by the small transducer. Third generation agents (EchogenTM) are capable of phase shifting from liquid to gas form once they reach body temperature.</notes>
+			<notesNormalized>current ucas consist of microbubbles with a 2-5 micron diameter capable of transpulmonary passage for systemic enhancement after intravenous injection. a bubble of this size is unstable in an aqueous system, and therefore, it must be encapsulated by a stabilizing shell to achieve long lasting persistence. the type of gas and the composition of the shell confer different physicochemical properties and different behaviours in the ultrasound field. however, the physical principles of the interaction between the microbubble and the incident ultrasound wave are basically the same.
+first generation agents are microbubbles filled with air, but they generally require high acoustic power to produce oscillation or break its microbubbles. second generation agents, including the commonly used sonovuetm and sonazoidtm, are composed of gases that are less soluble and less likely to leak out from microbubbles, thereby lasting longer in the circulation. these agents can be oscillated or broken by lower acoustic power, and thus are more suitable for eus because of the limited acoustic power produced by the small transducer. third generation agents (echogentm) are capable of phase shifting from liquid to gas form once they reach body temperature.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Current UCAs consist of microbubbles with a 2-5 micron diameter capable of transpulmonary passage for systemic enhancement after intravenous injection. A bubble of this size is unstable in an aqueous system, and therefore, it must be encapsulated by a stabilizing shell to achieve long lasting persistence. The type of gas and the composition of the shell confer different physicochemical properties and different behaviours in the ultrasound field. However, the physical principles of the interaction between the microbubble and the incident ultrasound wave are basically the same.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;First generation agents are microbubbles filled with air, but they generally require high acoustic power to produce oscillation or break its microbubbles. Second generation agents, including the commonly used SonoVueTM and SonazoidTM, are composed of gases that are less soluble and less likely to leak out from microbubbles, thereby lasting longer in the circulation. These agents can be oscillated or broken by lower acoustic power, and thus are more suitable for EUS because of the limited acoustic power produced by the small transducer. Third generation agents (EchogenTM) are capable of phase shifting from liquid to gas form once they reach body temperature.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ultrasound contrast agents (UCAs)
+
+
+
+
+
+
+
+
+
+
+Gas containing microbubbles encased in a resistant shell
+Oscillate when hit by an ultrasound wave to produce an acoustic ‘enhancement’ signal
+Categorized by capability for transpulmonary passage and half-life
+Relatively safe and no report of serious adverse event
+Perfusion after UCAs injection
+Micro-vessels
+Parenchymal perfusion
+Reddy NK et al. World J Gast (2011)</text>
+		</slide>
+		<slide index="10" title="Ultrasound contrast agents (UCAs)" titleNormalized="ultrasound contrast agents (ucas)" src="slide11.swf" size="2062" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.1970000"/>
+			</animationSteps>
+			<notes>After intravenous contrast injection, sonographic assessment of the target of interest could be performed by two methods: contrast enhanced color/power Doppler imaging (CED-EUS) and contrast enhanced harmonic imaging (CEH-EUS).</notes>
+			<notesNormalized>after intravenous contrast injection, sonographic assessment of the target of interest could be performed by two methods: contrast enhanced color/power doppler imaging (ced-eus) and contrast enhanced harmonic imaging (ceh-eus).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;After intravenous contrast injection, sonographic assessment of the target of interest could be performed by two methods: contrast enhanced color/power Doppler imaging (CED-EUS) and contrast enhanced harmonic imaging (CEH-EUS).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ultrasound contrast agents (UCAs)
+Images for vascularity and vessel pattern
+Small volume and slow velocity blood flow
+Principle of UCAs
+Creation of multiple small interfaces with high echogenicity
+Microbubbles: good backscatters and effectively reflecting US waves
+
+
+Contrast-enhanced EUS
+Color/power Doppler image (CED-EUS)
+Harmonic image (CEH-EUS)</text>
+		</slide>
+		<slide index="11" title="CE-EUS" titleNormalized="ce-eus" src="slide12.swf" size="172808" advanceOnTime="1" framesCount="1033" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_1d2813f0.spr0_15144046" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1d2813f0.spr2_15144046" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="917" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1032" playTime="43.0000000" pauseTime="4.9150009"/>
+			</animationSteps>
+			<notes>Contrast agents were used initially as Doppler signal enhancer, including in contrast-enhanced EUS examinations (CE-EUS). Both color Doppler and power Doppler can be used, especially for regions with very low flow volumes, where the unenhanced signal is too weak or the signal-noise ratio is too poor. Although the contrast agent selectively enhances the useful signal to the detriment of the noise, the main disadvantage of these technique is the presence of artifacts; both tissue motion (flash) artifacts and blooming artifacts appear and impede the examinations. Flash artifacts are specific to the Doppler mode, appearing as color signals caused by tissue motion, being most commonly seen in hypoechoic areas, induced by cardiac or respiratory motion. Blooming artifacts appear as a consequence of the high amplification of the backscattered signal, which saturates the receiver and causes smearing of the color signal. They appear immediately after the wash-in phase and disappear when the concentration of contrast is lower.</notes>
+			<notesNormalized>contrast agents were used initially as doppler signal enhancer, including in contrast-enhanced eus examinations (ce-eus). both color doppler and power doppler can be used, especially for regions with very low flow volumes, where the unenhanced signal is too weak or the signal-noise ratio is too poor. although the contrast agent selectively enhances the useful signal to the detriment of the noise, the main disadvantage of these technique is the presence of artifacts; both tissue motion (flash) artifacts and blooming artifacts appear and impede the examinations. flash artifacts are specific to the doppler mode, appearing as color signals caused by tissue motion, being most commonly seen in hypoechoic areas, induced by cardiac or respiratory motion. blooming artifacts appear as a consequence of the high amplification of the backscattered signal, which saturates the receiver and causes smearing of the color signal. they appear immediately after the wash-in phase and disappear when the concentration of contrast is lower.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Contrast agents were used initially as Doppler signal enhancer, including in contrast-enhanced EUS examinations (CE-EUS). Both color Doppler and power Doppler can be used, especially for regions with very low flow volumes, where the unenhanced signal is too weak or the signal-noise ratio is too poor. Although the contrast agent selectively enhances the useful signal to the detriment of the noise, the main disadvantage of these technique is the presence of artifacts; both tissue motion (flash) artifacts and blooming artifacts appear and impede the examinations. Flash artifacts are specific to the Doppler mode, appearing as color signals caused by tissue motion, being most commonly seen in hypoechoic areas, induced by cardiac or respiratory motion. Blooming artifacts appear as a consequence of the high amplification of the backscattered signal, which saturates the receiver and causes smearing of the color signal. They appear immediately after the wash-in phase and disappear when the concentration of contrast is lower.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CE-EUS
+Color and/or power Doppler image
+Useful for evaluating large blood vessels with fast blood flow
+UCAs: used as Doppler signal enhancer
+For regions with very low flow volumes
+
+
+Artifacts
+Motion (flash)
+Caused by tissue motion
+Induced by cardiac or respiratory motion
+Blooming
+High amplification of backscattered signal
+Over-painting</text>
+		</slide>
+		<slide index="12" title="Contrast-enhanced harmonic EUS" titleNormalized="contrast-enhanced harmonic eus" src="slide13.swf" size="79906" advanceOnTime="1" framesCount="2201" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_1d282360.spr0_15152470" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1d282360.spr2_15152470" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="1472" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2200" playTime="51.5509987" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>CEH-EUS was recently developed to overcome the difficulties experienced with Doppler EUS.
+The past decade has witnessed great activity towards the development of stabilised microbubble contrast agents. During the same time period, there have also been enhancements of the available ultrasound equipment, such as HI-specific software and broad-band transducers, which have dramatically improved the ability of US to explore microcirculation and given rise to the evolution of contrast-enhanced transabdominal US for uses ranging from vascular imaging to images of the perfused tissue. Additionally, endoscopic ultrasonography (EUS) has become the imaging modality with the highest spatial resolution since its introduction in the 1980s. However, because of its low acoustic power and limited bandwidth, contrast-enhanced harmonic endoscopic ultrasound (CHEUS) has not been feasible until five years ago, when technological advances made contrast harmonic technology available for the first time for EUS. Although experience is still limited, several reports have highlighted this technique as a promising noninvasive method, not only for characterising lesions but also for better assessing tumour staging and resectability. In this article, we aim to review the physical principles of contrast harmonic imaging</notes>
+			<notesNormalized>ceh-eus was recently developed to overcome the difficulties experienced with doppler eus.
+the past decade has witnessed great activity towards the development of stabilised microbubble contrast agents. during the same time period, there have also been enhancements of the available ultrasound equipment, such as hi-specific software and broad-band transducers, which have dramatically improved the ability of us to explore microcirculation and given rise to the evolution of contrast-enhanced transabdominal us for uses ranging from vascular imaging to images of the perfused tissue. additionally, endoscopic ultrasonography (eus) has become the imaging modality with the highest spatial resolution since its introduction in the 1980s. however, because of its low acoustic power and limited bandwidth, contrast-enhanced harmonic endoscopic ultrasound (cheus) has not been feasible until five years ago, when technological advances made contrast harmonic technology available for the first time for eus. although experience is still limited, several reports have highlighted this technique as a promising noninvasive method, not only for characterising lesions but also for better assessing tumour staging and resectability. in this article, we aim to review the physical principles of contrast harmonic imaging</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;CEH-EUS was recently developed to overcome the difficulties experienced with Doppler EUS.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The past decade has witnessed great activity towards the development of stabilised microbubble contrast agents. During the same time period, there have also been enhancements of the available ultrasound equipment, such as HI-specific software and broad-band transducers, which have dramatically improved the ability of US to explore microcirculation and given rise to the evolution of contrast-enhanced transabdominal US for uses ranging from vascular imaging to images of the perfused tissue. Additionally, endoscopic ultrasonography (EUS) has become the imaging modality with the highest spatial resolution since its introduction in the 1980s. However, because of its low acoustic power and limited bandwidth, contrast-enhanced harmonic endoscopic ultrasound (CHEUS) has not been feasible until five years ago, when technological advances made contrast harmonic technology available for the first time for EUS. Although experience is still limited, several reports have highlighted this technique as a promising noninvasive method, not only for characterising lesions but also for better assessing tumour staging and resectability. In this article, we aim to review the physical principles of contrast harmonic imaging&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Overcoming Doppler’s problem by suppression the background tissue signals
+Harmonic imaging (HI) specific software
+dCHI in Hitachi
+ExPHD mode in ALOKA system
+Broad-band transducers
+From vascular imaging to images of the perfused tissue
+First report in 2008 by Kitano M et al. (J Med Ultrasonics)
+Preliminary study of CEH-EUS with 2nd generation UCAs
+
+Contrast-enhanced harmonic EUS
+Dietrich CF et al. Z Gastroenterol (2005)
+Kitano M et al. Gastrointest Endosc (2008)</text>
+		</slide>
+		<slide index="13" title="Basic principle of CEH-EUS" titleNormalized="basic principle of ceh-eus" src="slide14.swf" size="2317" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="41.9080004"/>
+			</animationSteps>
+			<notes>The first experience with CH-EUS using a new linear prototype echoendoscope was reported by Kitano et al. Initially, they carried out experiments in vitro on a phantom model to determine the optimal MI. The maximum changes in echointensity were observed with a MI of 0.35-0.40. Then, they performed in vivo experiments on dogs to examine the microcirculation of the canine digestive organs and, finally, on two patients, one with pancreatic cancer and another with a gastrointestinal stromal tumour. CH-EUS showed no vessels in the pancreatic tumour, although diffuse fine vessels were detected inside the stromal tumour. These results suggest the possible role of CH-EUS in the investigation of certain pathological digestive conditions.</notes>
+			<notesNormalized>the first experience with ch-eus using a new linear prototype echoendoscope was reported by kitano et al. initially, they carried out experiments in vitro on a phantom model to determine the optimal mi. the maximum changes in echointensity were observed with a mi of 0.35-0.40. then, they performed in vivo experiments on dogs to examine the microcirculation of the canine digestive organs and, finally, on two patients, one with pancreatic cancer and another with a gastrointestinal stromal tumour. ch-eus showed no vessels in the pancreatic tumour, although diffuse fine vessels were detected inside the stromal tumour. these results suggest the possible role of ch-eus in the investigation of certain pathological digestive conditions.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="10"&gt;The first experience with CH-EUS using a new linear prototype echoendoscope was reported by Kitano &lt;i&gt;et al&lt;/i&gt;. Initially, they carried out experiments &lt;i&gt;in vitro &lt;/i&gt;on a phantom model to determine the optimal MI. The maximum changes in echointensity were observed with a MI of 0.35-0.40. Then, they performed &lt;i&gt;in vivo &lt;/i&gt;experiments on dogs to examine the microcirculation of the canine digestive organs and, finally, on two patients, one with pancreatic cancer and another with a gastrointestinal stromal tumour. CH-EUS showed no vessels in the pancreatic tumour, although diffuse fine vessels were detected inside the stromal tumour. These results suggest the possible role of CH-EUS in the investigation of certain pathological digestive conditions.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Basic principle of CEH-EUS
+Access of large vessel
+16-18G IV catheter
+Three-way stop-cock
+Slow infusion of UCA followed by a saline flush
+Dual screen display
+Conventional B-mode and ExPHD mode
+Lower mechanical index (below 0.4)
+Lower MI (0.25-0.30) for the lesion near the transducer (&lt; 2 cm)
+Higher MI (0.35-0.40) for the lesion away form the transducer (1.5-3.0 cm)
+Observation of enhancement pattern during
+Arterial phase (first 30-35 secs)
+Venous phase (30-120 secs)
+</text>
+		</slide>
+		<slide index="14" title="Contrast-enhanced harmonic EUS" titleNormalized="contrast-enhanced harmonic eus" src="slide15.swf" size="199319" advanceOnTime="1" framesCount="1899" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="1898" playTime="44.1800003" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Conventional B-mode
+Dual mode (B-mode and ExPHD mode)
+Contrast-enhanced harmonic EUS
+Parameters
+- Degree of enhancement: no-, hypo-, iso-, and hyperenhancement
+- Phase: microvessels (arterial phase) and perfusion (venous phase)</text>
+		</slide>
+		<slide index="15" title="Comparison of CH-EUS between normal pancreas and pancreatic cancer" titleNormalized="comparison of ch-eus between normal pancreas and pancreatic cancer" src="slide16.swf" size="321005" advanceOnTime="1" framesCount="2575" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video5" videoClipId="ispring.resources_1d306110.spr0_15196416" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1d306110.spr2_15196416" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video6" videoClipId="ispring.resources_1d306110.spr0_15222889" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1d306110.spr2_15222889" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video5" startPos="0.0000000"/>
+				<playVideo frameIndex="0" videoId="video6" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2574" playTime="24.4899998" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Comparison of CH-EUS between normal pancreas and pancreatic cancer</text>
+		</slide>
+		<slide index="16" title="Clinical applications of UCAs in EUS" titleNormalized="clinical applications of ucas in eus" src="slide17.swf" size="1887" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.7510008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Clinical applications of UCAs in EUS
+Contrast-enhanced EUS (CE-EUS)
+Color and/or power Doppler imaging
+1st and 2nd generation UCAs
+Contrast-enhanced harmonic EUS (CH-EUS)
+2nd generation UCAs
+</text>
+		</slide>
+		<slide index="17" title="Clinical applications" titleNormalized="clinical applications" src="slide18.swf" size="1857" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.9880003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Clinical applications
+Solid pancreatic mass
+Cystic pancreatic neoplasm
+Gastrointestinal stromal tumors
+Lymphadenopathies
+Others
+Gallbladder polyp
+Biliary tract diseases</text>
+		</slide>
+		<slide index="18" title="EUS using UCAs in pancreatic solid lesions" titleNormalized="eus using ucas in pancreatic solid lesions" src="slide19.swf" size="2412" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="28.2609991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS using UCAs in pancreatic solid lesions
+Differentiation between pancreatic AC and other pancreatic pathologies
+Four types of enhancement pattern
+Non-, hypo-, iso- and hyper-enhancement
+Two phases
+Arterial and venous
+Overall diagnostic performances
+Sensitivity of 94% (95% CI: 0.91-.095)
+Specificity of 89% (95% CI: 0.85-0.92)
+Higher accuracy in diagnosing small pancreatic cancer (&lt; 2cm) comparing MDCT
+Sensitivity of 91.2%
+Specificity of 94.4% 
+Kitano M et al. Am J Gastronenterol (2012)
+Gong TT et al. Gastrointest Endosc (2012)</text>
+		</slide>
+		<slide index="19" title="Case of pancreatic ductal adenocarcinoma" titleNormalized="case of pancreatic ductal adenocarcinoma" src="slide20.swf" size="292414" advanceOnTime="1" framesCount="1096" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video7" videoClipId="ispring.resources_1d3065f0.spr0_15234059" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1d3065f0.spr2_15234059" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video7" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1095" playTime="20.7199993" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>1159963</notes>
+			<notesNormalized>1159963</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;1159963&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Case of pancreatic ductal adenocarcinoma</text>
+		</slide>
+		<slide index="20" title="Case of pancreatic ductal adenocarcinoma" titleNormalized="case of pancreatic ductal adenocarcinoma" src="slide21.swf" size="357229" advanceOnTime="1" framesCount="2575" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video8" videoClipId="ispring.resources_1d58d2b0.spr0_15271873" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1d58d2b0.spr2_15271873" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video8" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2574" playTime="32.2999992" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Case of pancreatic ductal adenocarcinoma</text>
+		</slide>
+		<slide index="21" title="Diagnostic performances of CE-EUS and CH-EUS" titleNormalized="diagnostic performances of ce-eus and ch-eus" src="slide22.swf" size="7961" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.0789999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Modified from Fusaroli P et al. Gastrointest Endosc (2016)
+Diagnostic performances of CE-EUS and CH-EUS
+Authors (year)
+Design
+Technique
+UCA
+Cases
+Sensitivity (%)
+Specificity (%)
+Accuracy (%)
+Figueiredo et al (2012)
+PS
+CE-EUS+E
+SonoVue
+47
+93
+67
+79
+Săftoiu et al (2010)
+PS
+CE-EUS+E
+SonoVue
+54
+88
+100
+93
+Sakamoto et al (2008)
+PS
+CE-EUS
+Levovist
+156
+85
+89
+87
+Dietrich et al (2008)
+PS
+CE-EUS
+Levovist
+93
+92
+100
+95
+Hocke et al (2007)
+RS
+CE-EUS
+SonoVue
+100
+78
+87
+NR
+Hocke et al (2006)
+PS
+CE-EUS
+SonoVue
+86
+91
+93
+NR
+Becker et al (2001)
+PS
+CE-EUS
+Optison
+23
+94
+100
+NR
+Total, mean (range)
+559
+89 (78-94)
+91 (67-100)
+89 (79-95)
+Gincul et al (2014)
+PS-M
+CH-EUS
+SonoVue
+100
+96
+94
+95
+Park et al (2014)
+RS
+CH-EUS
+SonoVue
+90
+92
+68
+84
+Lee et al (2013)
+PS
+CH-EUS
+SonoVue
+37
+93
+86
+92
+Hocke et al (2012)
+PS
+CH-EUS
+SonoVue
+58
+92
+90
+NR
+Kitano et al ( 2012)
+PS
+CH-EUS
+Sonazoid
+277
+95
+89
+91
+Fusaroli et al (2010)
+PS
+CH-EUS
+SonoVue
+90
+96
+64
+82
+Napoleon et al (2010)
+PS
+CH-EUS
+SonoVue
+35
+89
+88
+89
+Total, mean (range)
+687
+93 (89-96)
+83 (64-94)
+89 (82-95)</text>
+		</slide>
+		<slide index="22" title="EUS using UCAs in pancreatic solid lesions" titleNormalized="eus using ucas in pancreatic solid lesions" src="slide23.swf" size="2495" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="71.4039988"/>
+			</animationSteps>
+			<notes>Furthermore, CEH-EUS was also superior in predicting the T-stage of pancreatobiliary tumors as compared with conventional EUS. In particular by CEH-EUS, the wall of the portal vein was better depicted, enabling better visualization of portal vein invasion and providing valuable information for surgical planning for vascular resection. In patients with unresectable carcinoma of the pancreas, CEH-EUS has also been demonstrated to aid in predicting efficacy of chemotherapy. The presence of intratumoral vessels predicted a better progression free and overall survival after chemotherapy. On the other hand, a hyper-enhancing pattern was identified to be a common feature in pancreatic neuroendocrine tumors (PNETs), with a sensitivity of 78.9% and a specificity of 98.0%[20] (Figure 3). The presence of filling defects within an enhancing pancreatic lesion corresponded to hemorrhage or necrosis of malignant diseases as seen on pathological examination. This may have a potential role in differentiating benign versus malignant PNETs.</notes>
+			<notesNormalized>furthermore, ceh-eus was also superior in predicting the t-stage of pancreatobiliary tumors as compared with conventional eus. in particular by ceh-eus, the wall of the portal vein was better depicted, enabling better visualization of portal vein invasion and providing valuable information for surgical planning for vascular resection. in patients with unresectable carcinoma of the pancreas, ceh-eus has also been demonstrated to aid in predicting efficacy of chemotherapy. the presence of intratumoral vessels predicted a better progression free and overall survival after chemotherapy. on the other hand, a hyper-enhancing pattern was identified to be a common feature in pancreatic neuroendocrine tumors (pnets), with a sensitivity of 78.9% and a specificity of 98.0%[20] (figure 3). the presence of filling defects within an enhancing pancreatic lesion corresponded to hemorrhage or necrosis of malignant diseases as seen on pathological examination. this may have a potential role in differentiating benign versus malignant pnets.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Furthermore, CEH-EUS was also superior in predicting the T-stage of pancreatobiliary tumors as compared with conventional EUS. In particular by CEH-EUS, the wall of the portal vein was better depicted, enabling better visualization of portal vein invasion and providing valuable information for surgical planning for vascular resection. In patients with unresectable carcinoma of the pancreas, CEH-EUS has also been demonstrated to aid in predicting efficacy of chemotherapy. The presence of intratumoral vessels predicted a better progression free and overall survival after chemotherapy. On the other hand, a hyper-enhancing pattern was identified to be a common feature in pancreatic neuroendocrine tumors (PNETs), with a sensitivity of 78.9% and a specificity of 98.0%[20] (Figure 3). The presence of filling defects within an enhancing pancreatic lesion corresponded to hemorrhage or necrosis of malignant diseases as seen on pathological examination. This may have a potential role in differentiating benign versus malignant PNETs.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS using UCAs in pancreatic solid lesions
+Superior in predicting T stage of pancreatobiliary tumors comparing conventional EUS
+Better visualization of portal vein wall
+Prediction of efficacy of chemotherapy in unresectable pancreatic carcinoma
+Better survival in the presence of intratumoral vessels
+Differentiation of benign versus malignant pNET
+Hyper-enhancing pattern
+Sensitivity of 78.9% and specificity of 98%
+Present of filling defect within enhancing pancreatic lesion
+Hemorrhage or necrosis of malignancy
+Imazu H. et al Scand J Gastronenterol (2010)
+Yamashita Y et al. Pancreas (2013)
+Ishikawa T et al. Gastrointest Endosc (2010)</text>
+		</slide>
+		<slide index="23" title="Case of pancreatic NET" titleNormalized="case of pancreatic net" src="slide24.swf" size="322661" advanceOnTime="1" framesCount="1367" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video9" videoClipId="ispring.resources_1d58c1a0.spr0_15275399" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1d58c1a0.spr2_15275399" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video10" videoClipId="ispring.resources_1d9e5140.spr0_15275602" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1d9e5140.spr2_15275602" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video11" videoClipId="ispring.resources_1d9e5140.spr0_15285851" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1d9e5140.spr2_15285851" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video12" videoClipId="ispring.resources_1d9e53b0.spr0_15292185" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1d9e53b0.spr2_15292185" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="290" videoId="video9" startPos="0.0000000"/>
+				<playVideo frameIndex="654" videoId="video11" startPos="0.0000000"/>
+				<playVideo frameIndex="410" videoId="video12" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1366" playTime="32.8699989" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>7020721</notes>
+			<notesNormalized>7020721</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;7020721&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Case of pancreatic NET</text>
+		</slide>
+		<slide index="24" title="Interobserver agreement in CH-EUS" titleNormalized="interobserver agreement in ch-eus" src="slide25.swf" size="2642" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="46.0120005"/>
+			</animationSteps>
+			<notes>However, inter-observer agreement of CEH-EUS was only found to be fair to moderate. Upon a review of 80 EUS videos by 15 endosonographers, overall inter-observer agreement was moderate for the uptake of contrast agents (k = 0.567) and fair for the pattern of distribution (k = 0.304) and the washout velocity (k = 0.369). This finding highlighted a major limitation of the technique that qualitative image
+analysis of contrast enhanced images is subjected to individual interpretation.</notes>
+			<notesNormalized>however, inter-observer agreement of ceh-eus was only found to be fair to moderate. upon a review of 80 eus videos by 15 endosonographers, overall inter-observer agreement was moderate for the uptake of contrast agents (k = 0.567) and fair for the pattern of distribution (k = 0.304) and the washout velocity (k = 0.369). this finding highlighted a major limitation of the technique that qualitative image
+analysis of contrast enhanced images is subjected to individual interpretation.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;However, inter-observer agreement of CEH-EUS was only found to be fair to moderate. Upon a review of 80 EUS videos by 15 endosonographers, overall inter-observer agreement was moderate for the uptake of contrast agents (&lt;i&gt;k &lt;/i&gt;= 0.567) and fair for the pattern of distribution (&lt;i&gt;k &lt;/i&gt;= 0.304) and the washout velocity (&lt;i&gt;k &lt;/i&gt;= 0.369). This finding highlighted a major limitation of the technique that qualitative image&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;analysis of contrast enhanced images is subjected to individual interpretation.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Interobserver agreement in CH-EUS
+IOA for the assessment of pancreatic solid neoplasms
+Overall IOA in solid pancreatic lesions
+Moderate for the uptake of UCAs (k=0.567)
+Fair for the pattern of distribution (k=0.304) and washout velocity (k=0.369)
+Between senior and junior operator
+Good for all operator (k=0.66)
+Good for the junior (k=0.76)
+Excellent for the senior (k=0.90)
+According to experience
+Better IOA of experienced operator in EUS and CH-EUS
+Fair for overall IOA (k=0.32)
+
+Fusaroli P et al. J Gastroenterol Hepatol (2012)
+Gincul R et al. Endoscopy (2014)
+Soares JB et al. Endosc Int Open (2015)</text>
+		</slide>
+		<slide index="25" title="Quantitative analysis of CE-EUS" titleNormalized="quantitative analysis of ce-eus" src="slide26.swf" size="1674" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.9980005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Quantitative analysis of CE-EUS
+Analysis of TIC (time intensity curve)
+Image Pro Plus
+Histogram
+Vuebox software</text>
+		</slide>
+		<slide index="26" title="Saftoiu et al. GIE (2015)" titleNormalized="saftoiu et al. gie (2015)" src="slide27.swf" size="202828" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.6790003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Saftoiu et al. GIE (2015)
+Gheonea et al BMC gastroenterol (2013)
+Imazu et al. Scand J Gastroenterol (2012)
+Seicean et al. Ultraschall Med (2010)</text>
+		</slide>
+		<slide index="27" title="Diagnostic performances of quantitative CH-EUS" titleNormalized="diagnostic performances of quantitative ch-eus" src="slide28.swf" size="4640" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.4889998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Authors (year)
+Design
+Quantitative analysis
+UCA
+Cases
+Sensitivity (%)
+Specificity (%)
+Accuracy (%)
+Săftoiu et al (2015)
+PS-M
+Vuebox and ANN
+SonoVue
+167
+88
+93
+NR
+Gheonea et al (2013)
+PS
+Image Pro Plus
+SonoVue
+51
+94
+89
+NR
+Imazu et al (2012)
+PS
+TIC analysis in ALOKA
+Sonazoid
+30
+100
+100
+NR
+Matsubara et al (2011)
+RS
+TIC analysis
+Sonazoid
+91
+96
+93
+95
+Seicean et al (2010)
+PS
+Histogram analysis
+SonoVue
+30
+80
+92
+86
+Total, mean (range)
+369
+92 (80-100)
+93 (89-100)
+91 (86-95) 
+Modified from Fusaroli P et al. Gastrointest Endosc (2016)
+Diagnostic performances of quantitative CH-EUS</text>
+		</slide>
+		<slide index="28" title="" titleNormalized="" src="slide29.swf" size="1056387" advanceOnTime="1" framesCount="979" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="978" playTime="40.7500000" pauseTime="21.6790009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="29" title="Vuebox analyzing software and its parameters" titleNormalized="vuebox analyzing software and its parameters" src="slide30.swf" size="106856" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.9389996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Vuebox analyzing software and its parameters</text>
+		</slide>
+		<slide index="30" title="" titleNormalized="" src="slide31.swf" size="410296" advanceOnTime="1" framesCount="579" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="578" playTime="24.0833333" pauseTime="4.3116671"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="31" title="" titleNormalized="" src="slide32.swf" size="9677" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.6770005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Authors (year)
+Design
+Technique
+UCA
+Cases
+Sensitivity (%)
+Specificity (%)
+Accuracy (%)
+Figueiredo et al (2012)
+PS
+CE-EUS+E
+SonoVue
+47
+93
+67
+79
+Săftoiu et al (2010)
+PS
+CE-EUS+E
+SonoVue
+54
+88
+100
+93
+Sakamoto et al (2008)
+PS
+CE-EUS
+Levovist
+156
+85
+89
+87
+Dietrich et al (2008)
+PS
+CE-EUS
+Levovist
+93
+92
+100
+95
+Hocke et al (2007)
+RS
+CE-EUS
+SonoVue
+100
+78
+87
+NR
+Hocke et al (2006)
+PS
+CE-EUS
+SonoVue
+86
+91
+93
+NR
+Becker et al (2001)
+PS
+CE-EUS
+Optison
+23
+94
+100
+NR
+Total, mean (range)
+559
+89 (78-94)
+91 (67-100)
+89 (79-95)
+Gincul et al (2014)
+PS-M
+CH-EUS
+SonoVue
+100
+96
+94
+95
+Park et al (2014)
+RS
+CH-EUS
+SonoVue
+90
+92
+68
+84
+Lee et al (2013)
+PS
+CH-EUS
+SonoVue
+37
+93
+86
+92
+Hocke et al (2012)
+PS
+CH-EUS
+SonoVue
+58
+92
+90
+NR
+Kitano et al ( 2012)
+PS
+CH-EUS
+Sonazoid
+277
+95
+89
+91
+Fusaroli et al (2010)
+PS
+CH-EUS
+SonoVue
+90
+96
+64
+82
+Napoleon et al (2010)
+PS
+CH-EUS
+SonoVue
+35
+89
+88
+89
+Total, mean (range)
+687
+93 (89-96)
+83 (64-94)
+89 (82-95)
+Săftoiu et al (2015)
+PS-M
+qCH-EUS
+SonoVue
+167
+88
+93
+NR
+Gheonea et al (2013)
+PS
+qCH-EUS
+SonoVue
+51
+94
+89
+NR
+Imazu et al (2012)
+PS
+qCH-EUS
+Sonazoid
+30
+100
+100
+NR
+Matsubara et al (2011)
+RS
+qCH-EUS
+Sonazoid
+91
+96
+93
+95
+Seicean et al (2010)
+PS
+qCH-EUS
+SonoVue
+30
+80
+92
+86
+Total, mean (range)
+369
+92 (80-100)
+93 (89-100)
+91 (86-95)</text>
+		</slide>
+		<slide index="32" title="Pancreatic cystic lesions" titleNormalized="pancreatic cystic lesions" src="slide33.swf" size="2474" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.4060001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pancreatic cystic lesions
+Cytopathologic analysis of EUS-FNA samples
+Definitive diagnosis in only 50% of cases
+Presence of enhancing solid component/mural nodule within cyst
+Strong predictor of malignancy
+Suboptimal accuracy of EUS-FNA due to high false-negative rate
+CH-EUS
+Good differentiation between pseudocyst and cystic neoplasms
+Observing enhancement of cystic wall or intracystic lesions (septae, nodules)
+Impossible differentiation among PCNs
+Role in the differentiation of mural nodule and mucin plug (?)
+Hocke M et al. Endosc Ultrasound (2014)
+Fusaroli P et al. Panceas (2016)
+Kamata K et al. Endoscopy (2016)</text>
+		</slide>
+		<slide index="33" title="Take home messages" titleNormalized="take home messages" src="slide34.swf" size="2035" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.6249995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Take home messages
+Contrast-enhanced EUS
+Good imaging modality in the diagnosis of pancreatic ductal adenocarcinoma
+Differentiation between pseudocyst and PCNs
+Standardization of imaging analysis protocol
+Quantitative analysis
+Limitations
+Differentiation among non malignant pancreatic lesions
+Differentiation among PCNs</text>
+		</slide>
+		<slide index="34" title="Thank you for your attention." titleNormalized="thank you for your attention." src="slide35.swf" size="1508" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.0700001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>2016-09-09 Session 3. Advances in Diagnosis and Management of Solid Pancreatic Tumor
+Thank you for your attention.</text>
+		</slide>
+	</slides>
+</presentation>
