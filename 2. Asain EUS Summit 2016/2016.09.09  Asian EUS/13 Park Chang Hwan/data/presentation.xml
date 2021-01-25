@@ -1,0 +1,896 @@
+<?xml version="1.0"?>
+<presentation title="13 Park Chang Hwan" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{F42FE63B-FA89-4AF8-878E-639C5D53225A}">
+	<presenters>
+		<presenter name="Park Chang Hwan" title="Chonnam National University" email="" web="" phone="" photoAssetId="">
+			<bio>Cystogastrostomy: Metal stents or Plastic stents</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="290422" duration="10371"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="953828" duration="34064"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="753416" duration="26906"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="561782" duration="20062"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="775359" duration="27690"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="1242011" duration="44356"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="703679" duration="25130"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="952365" duration="34011"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="579336" duration="20689"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="471085" duration="16823"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="780479" duration="27873"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="250925" duration="8960"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="527405" duration="18834"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="884342" duration="31582"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="643702" duration="22988"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="505462" duration="18051"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="514971" duration="18390"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="713188" duration="25469"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="731474" duration="26122"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="542765" duration="19383"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="340891" duration="12173"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="97325" duration="3474"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="757805" duration="27063"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="621759" duration="22204"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="380388" duration="13584"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="471816" duration="16849"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="683199" duration="24398"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="1425599" duration="50913"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="908479" duration="32444"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="110491" duration="3944"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="10.3439999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="34.0340000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="26.8600000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="20.0200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="27.6609993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="44.3110000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="25.0919991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="33.9669991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="20.6539993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="16.7830000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="27.8279991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="8.9090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="18.7849998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="31.5310000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="22.9559994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="18.0179996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="18.3519993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="25.4249992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="26.0930000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="19.3500004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="12.1450000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="3.4370000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="27.0270000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="22.1550000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="13.5469999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="16.8169994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="24.3580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="50.8839989"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="32.3989983"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="3.9000000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Cystogastrostomy: Metal stents or Plastic stents" titleNormalized="cystogastrostomy: metal stents or plastic stents" src="slide1.swf" size="1211" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.3429999"/>
+			</animationSteps>
+			<notes>Thank you for your kind introduction. Today, I’m going to present the title of cystogastrostomy with metal stents or plastic stents.</notes>
+			<notesNormalized>thank you for your kind introduction. today, i’m going to present the title of cystogastrostomy with metal stents or plastic stents.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Thank you for your kind introduction. Today, I’m going to present the title of cystogastrostomy with metal stents or plastic stents.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Cystogastrostomy: Metal stents or Plastic stents
+Park Chang Hwan
+
+Chonnam National University Medical School, Gwangju, Korea
+</text>
+		</slide>
+		<slide index="1" title="Pseudocysts" titleNormalized="pseudocysts" src="slide2.swf" size="67684" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.0330004"/>
+			</animationSteps>
+			<notes>Pseudocysts are one of most common complications of acute and chronic pancreatitis. It’s incidence is from 10 to 26% in acute pancreatitis and from 20 to 40% in chronic pancreatitis.Pseudocysts are usually regressed spontaneously. But, symptomatic pseudocysts need treatment, Nowadays, endoscopic techniques can successfully treat most of symptomatic pseudocysts.</notes>
+			<notesNormalized>pseudocysts are one of most common complications of acute and chronic pancreatitis. it’s incidence is from 10 to 26% in acute pancreatitis and from 20 to 40% in chronic pancreatitis.pseudocysts are usually regressed spontaneously. but, symptomatic pseudocysts need treatment, nowadays, endoscopic techniques can successfully treat most of symptomatic pseudocysts.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000000"&gt;Pseudocysts are one of most common complications of acute and chronic pancreatitis. It’s incidence is from 10 to 26% in acute pancreatitis and from 20 to 40% in chronic pancreatitis.&lt;/font&gt;&lt;font size="12" color="#ff0000"&gt;Pseudocysts are usually regressed spontaneously. But, symptomatic pseudocysts need treatment, Nowadays, endoscopic techniques &lt;/font&gt;&lt;font size="12" color="#000000"&gt;can successfully treat most of symptomatic pseudocysts.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Pseudocysts
+One of most common complications of acute/chronic pancreatitis
+Incidence;10-26%/20-40% in acute/chronic pancreatitis
+Endoscopic techniques can successfully treat symptomatic pseudocysts.
+Samuelson AL, et al. Endoscopic management of pancreatic pseudocysts. Gastroenterol Clin North Am 2012;41:47–62.</text>
+		</slide>
+		<slide index="2" title="Revised Atlanta Definition of Morphologic Features of Acute Pancreatitis, 2012" titleNormalized="revised atlanta definition of morphologic features of acute pancreatitis, 2012" src="slide3.swf" size="7480" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.8590006"/>
+			</animationSteps>
+			<notes>The 2012 revised Atlanta criteria classifies pancreatic fluid collections as acute or chronic, chronic fluid collections were subdivided into pseudocysts and walled-off pancreatic necrosis (WOPN). Pancreatic pseudocysts were defined as well-circumscribed, completely encapsulated fluid collections more than 4 weeks old; surrounded by a nonepithelial wall of fibrous or granulation tissue; homogeneous and without a nonliquid component; and arising as a consequence of acute pancreatitis, chronic pancreatitis, or pancreatic trauma with pancreatic ductal disruption.</notes>
+			<notesNormalized>the 2012 revised atlanta criteria classifies pancreatic fluid collections as acute or chronic, chronic fluid collections were subdivided into pseudocysts and walled-off pancreatic necrosis (wopn). pancreatic pseudocysts were defined as well-circumscribed, completely encapsulated fluid collections more than 4 weeks old; surrounded by a nonepithelial wall of fibrous or granulation tissue; homogeneous and without a nonliquid component; and arising as a consequence of acute pancreatitis, chronic pancreatitis, or pancreatic trauma with pancreatic ductal disruption.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The 2012 revised Atlanta criteria classifies pancreatic fluid collections as acute or chronic, chronic fluid collections were subdivided into pseudocysts and walled-off pancreatic necrosis (WOPN). Pancreatic pseudocysts were defined as well-circumscribed, completely encapsulated fluid collections more than 4 weeks old; surrounded by a nonepithelial wall of fibrous or granulation tissue; homogeneous and without a nonliquid component; and arising as a consequence of acute pancreatitis, chronic pancreatitis, or pancreatic trauma with pancreatic ductal disruption.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Revised Atlanta Definition of Morphologic Features of Acute Pancreatitis, 2012</text>
+		</slide>
+		<slide index="3" title="Acute interstitial oedematous pancreatitis" titleNormalized="acute interstitial oedematous pancreatitis" src="slide4.swf" size="508157" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.0190005"/>
+			</animationSteps>
+			<notes>Pancreatic pseudocysts are diagnosed with CT criteria; first, well circumscribed, usually round or oval shape; second,  homogeneous fluid density; 3rd, no non-liquid component ; 4th,  well defined wall; that is, completely encapsulated. </notes>
+			<notesNormalized>pancreatic pseudocysts are diagnosed with ct criteria; first, well circumscribed, usually round or oval shape; second, homogeneous fluid density; 3rd, no non-liquid component ; 4th, well defined wall; that is, completely encapsulated.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Pancreatic pseudocysts are diagnosed with CT criteria; first, we&lt;b&gt;ll circumscribed, usually round or oval shape; second,  homogeneous fluid density; 3rd, no non-liquid component ; 4th,  well defined wall; that is, completely encapsulated. &lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Copyright © BMJ Publishing Group Ltd &amp; British Society of Gastroenterology. All rights reserved.
+Acute necrotising pancreatitis complicated 
+by infected pancreatic necrosis. 
+Acute interstitial oedematous pancreatitis.</text>
+		</slide>
+		<slide index="4" title="Symptomatic pseudocysts" titleNormalized="symptomatic pseudocysts" src="slide5.swf" size="112333" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.6599993"/>
+			</animationSteps>
+			<notes>In general, the indications for pancreatic pseudocyst drainage include persistent pain attributable to the fluid collection, gastric or duodenal obstruction, biliary obstruction, development of pancreatic ascites or pleural effusion, enlarging size on serial imaging, and signs of pseudocyst infection or bleeding. </notes>
+			<notesNormalized>in general, the indications for pancreatic pseudocyst drainage include persistent pain attributable to the fluid collection, gastric or duodenal obstruction, biliary obstruction, development of pancreatic ascites or pleural effusion, enlarging size on serial imaging, and signs of pseudocyst infection or bleeding.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In general, the indications for pancreatic pseudocyst drainage include persistent pain attributable to the fluid collection, gastric or duodenal obstruction, biliary obstruction, development of pancreatic ascites or pleural effusion, enlarging size on serial imaging, and signs of pseudocyst infection or bleeding. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Symptomatic pseudocysts
+Persistent abdominal pain
+Gastric, duodenal, or biliary obstruction
+Pancreatic ascites/development of pleural effusion
+Enlarging size on serial abdominal imaging
+Pseudocyst infection
+Pseudocyst hemorrhage
+
+
+Ge PS, et al. Pancreatic pseudocysts, Advances in endoscopic management . Gastroenterol Clin North Am 2016;45:9-27.</text>
+		</slide>
+		<slide index="5" title="Exclusion criteria for pseudocyst drainage" titleNormalized="exclusion criteria for pseudocyst drainage" src="slide6.swf" size="132087" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="44.3100008"/>
+			</animationSteps>
+			<notes>An important step before consideration of drainage is the exclusion of other cystic lesions, such as pancreatic cystic neoplasm. Pancreatic cystic neoplasm often appear morphologically similar to pseudocysts on cross-sectional imaging, and additional evaluation with endoscopic ultrasonography and fine-needle aspiration of the cyst fluid may be necessary before endoscopic drainage. Pancreatic pseudocysts and walled-off necrosis should also be differentiated from acute peripancreatic fluid collections and acute necrotic collections, both of which occur in the acute phase of pancreatitis or necrotizing pancreatitis. These collections have yet to develop an encapsulated, well-defined wall surrounding the fluid collection, and often resolve with expectant management</notes>
+			<notesNormalized>an important step before consideration of drainage is the exclusion of other cystic lesions, such as pancreatic cystic neoplasm. pancreatic cystic neoplasm often appear morphologically similar to pseudocysts on cross-sectional imaging, and additional evaluation with endoscopic ultrasonography and fine-needle aspiration of the cyst fluid may be necessary before endoscopic drainage. pancreatic pseudocysts and walled-off necrosis should also be differentiated from acute peripancreatic fluid collections and acute necrotic collections, both of which occur in the acute phase of pancreatitis or necrotizing pancreatitis. these collections have yet to develop an encapsulated, well-defined wall surrounding the fluid collection, and often resolve with expectant management</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;An important step before consideration of drainage is the exclusion of other cystic lesions, such as pancreatic cystic neoplasm. Pancreatic cystic neoplasm often appear morphologically similar to pseudocysts on cross-sectional imaging, and additional evaluation with endoscopic ultrasonography and fine-needle aspiration of the cyst fluid may be necessary before endoscopic drainage. Pancreatic pseudocysts and walled-off necrosis should also be differentiated from acute peripancreatic fluid collections and acute necrotic collections, both of which occur in the acute phase of pancreatitis or necrotizing pancreatitis. These collections have yet to develop an encapsulated, well-defined wall surrounding the fluid collection, and often resolve with expectant management&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Exclusion criteria for pseudocyst drainage
+Pancreatic cystic neoplasm
+Sterile acute peripancreatic fluid collections
+Sterile acute necrotic collections
+
+Ge PS, et al. Pancreatic pseudocysts, Advances in endoscopic management . Gastroenterol Clin North Am 2016;45:9-27.
+Pancreas cystic lesion, looking like pseudocyst, but SPT</text>
+		</slide>
+		<slide index="6" title="Techniques for pseudocyst drainage" titleNormalized="techniques for pseudocyst drainage" src="slide7.swf" size="37287" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.0909991"/>
+			</animationSteps>
+			<notes>Techniques for pseudodrainage include surgical, percutaneous, endoscopic and hybrid approaches. With the advent of newer and more advanced endoscopic tools and expertise, and an associated reduction in health care costs, minimally invasive endoscopic drainage has become the preferable approach.3 EUS-guided approach appeared to be advantageous in drainage of pancreatic pseudocysts located adjacent to the stomach or duodenum. In patients with unfavorable anatomy, surgical cystogastrostomy or percutaneous drainage could be considered.</notes>
+			<notesNormalized>techniques for pseudodrainage include surgical, percutaneous, endoscopic and hybrid approaches. with the advent of newer and more advanced endoscopic tools and expertise, and an associated reduction in health care costs, minimally invasive endoscopic drainage has become the preferable approach.3 eus-guided approach appeared to be advantageous in drainage of pancreatic pseudocysts located adjacent to the stomach or duodenum. in patients with unfavorable anatomy, surgical cystogastrostomy or percutaneous drainage could be considered.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Techniques for pseudodrainage include surgical, percutaneous, endoscopic and hybrid approaches. With the advent of newer and more advanced endoscopic tools and expertise, and an associated reduction in health care costs, minimally invasive endoscopic drainage has become the preferable approach.3 EUS-guided approach appeared to be advantageous in drainage of pancreatic pseudocysts located adjacent to the stomach or duodenum. In patients with unfavorable anatomy, surgical cystogastrostomy or percutaneous drainage could be considered.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Techniques for pseudocyst drainage
+Surgical; open or laparoscopic drainage
+Percutaneous irrigation or drainage
+Endoscopic drainage
+Hybrid; percutaneous and endoscopic drainage
+
+
+Ge PS, et al. Pancreatic pseudocysts, Advances in endoscopic management . Gastroenterol Clin North Am 2016;45:9-27 .
+Tyberg A, et al. Management of pancreatic fluid collections: A comprehensive review of the literature. World J Gastroenterol 2016; 22: 2256-70.
+Teoh AYB, et al Systematic review comparing endoscopic, percutaneous and surgical pancreatic pseudocyst drainage. World J Gastroenterol 2016; 8: 310-8.</text>
+		</slide>
+		<slide index="7" title="Endoscopic techniques" titleNormalized="endoscopic techniques" src="slide8.swf" size="141989" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.9659991"/>
+			</animationSteps>
+			<notes>Endoscopic drainage can be performed using either a transmural or transpapillary technique. Non–EUS-guided transmural drainage requires close proximity of the pseudocyst to the gastrointestinal lumen, as well as endoscopic localization in the form of a visible luminal bulge (Fig. 2). Nowadays EUS is increasingly used to guide transmural drainage. Two randomized trials that compared EUS-guided PPC drainage and conventional endoscopy-guided PPC drainage, demonstrated that EUS-guided drainage is superior to conventional endoscopy-guided drainage in terms of technical success and occurrence of procedure-related adverse events.</notes>
+			<notesNormalized>endoscopic drainage can be performed using either a transmural or transpapillary technique. non–eus-guided transmural drainage requires close proximity of the pseudocyst to the gastrointestinal lumen, as well as endoscopic localization in the form of a visible luminal bulge (fig. 2). nowadays eus is increasingly used to guide transmural drainage. two randomized trials that compared eus-guided ppc drainage and conventional endoscopy-guided ppc drainage, demonstrated that eus-guided drainage is superior to conventional endoscopy-guided drainage in terms of technical success and occurrence of procedure-related adverse events.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Endoscopic drainage can be performed using either a transmural or transpapillary technique. Non–EUS-guided transmural drainage requires close proximity of the pseudocyst to the gastrointestinal lumen, as well as endoscopic localization in the form of a visible luminal bulge (Fig. 2). Nowadays EUS is increasingly used to guide transmural drainage. Two randomized trials that compared EUS-guided PPC drainage and conventional endoscopy-guided PPC drainage, demonstrated that EUS-guided drainage is superior to conventional endoscopy-guided drainage in terms of technical success and occurrence of procedure-related adverse events.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Endoscopic techniques
+Transmural drainage with/without EUS guidance
+Transpapillary drainage
+
+Ge PS, et al. Pancreatic pseudocysts, Advances in endoscopic management . Gastroenterol Clin North Am 2016;45:9-27 .
+Tyberg A, et al. Management of pancreatic fluid collections: A comprehensive review of the literature. World J Gastroenterol 2016; 22: 2256-70.
+Teoh AYB, et al Systematic review comparing endoscopic, percutaneous and surgical pancreatic pseudocyst drainage. World J Gastroenterol 2016; 8: 310-8.</text>
+		</slide>
+		<slide index="8" title="Endoscopic techniques" titleNormalized="endoscopic techniques" src="slide9.swf" size="72352" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.6529993"/>
+			</animationSteps>
+			<notes>Endoscopic transpapillary drainage with placement of a pancreatic duct stent is typically reserved for pseudocysts smaller than 6 cm and with communication to the main pancreatic duct. A combined transmural and transpapillary approach is not typically required for successful resolution of most pancreatic pseudocysts. Endoscopic retrograde cholangiopancreatography with PD exploration should be performed concurrent to transmural pseudocyst drainage. PD disruption is associated with an increased severity of pancreatitis, an increased risk of recurrent attacks of pancreatitis and long-term complications, and a decreased rate of peudocyst resolution after drainage. Any PD disruption should be bridged with endoscopic stenting.  </notes>
+			<notesNormalized>endoscopic transpapillary drainage with placement of a pancreatic duct stent is typically reserved for pseudocysts smaller than 6 cm and with communication to the main pancreatic duct. a combined transmural and transpapillary approach is not typically required for successful resolution of most pancreatic pseudocysts. endoscopic retrograde cholangiopancreatography with pd exploration should be performed concurrent to transmural pseudocyst drainage. pd disruption is associated with an increased severity of pancreatitis, an increased risk of recurrent attacks of pancreatitis and long-term complications, and a decreased rate of peudocyst resolution after drainage. any pd disruption should be bridged with endoscopic stenting.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Endoscopic transpapillary drainage with placement of a pancreatic duct stent is typically reserved for pseudocysts smaller than 6 cm and with communication to the main pancreatic duct. A combined transmural and transpapillary approach is not typically required for successful resolution of most pancreatic pseudocysts. Endoscopic retrograde cholangiopancreatography with PD exploration should be performed concurrent to transmural pseudocyst drainage. PD disruption is associated with an increased severity of pancreatitis, an increased risk of recurrent attacks of pancreatitis and long-term complications, and a decreased rate of peudocyst resolution after drainage. Any PD disruption should be bridged with endoscopic stenting.  &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Endoscopic techniques
+Transmural drainage with/without EUS guidance
+Transpapillary drainage
+
+Ge PS, et al. Pancreatic pseudocysts, Advances in endoscopic management . Gastroenterol Clin North Am 2016;45:9-27 .
+Tyberg A, et al. Management of pancreatic fluid collections: A comprehensive review of the literature. World J Gastroenterol 2016; 22: 2256-70.
+Teoh AYB, et al Systematic review comparing endoscopic, percutaneous and surgical pancreatic pseudocyst drainage. World J Gastroenterol 2016; 8: 310-8.</text>
+		</slide>
+		<slide index="9" title="Stent Placement, Plastic vs. Metal" titleNormalized="stent placement, plastic vs. metal" src="slide10.swf" size="1695" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.7820009"/>
+			</animationSteps>
+			<notes>A variety of different stents are available for pancreatic pseudocyst drainage, including plastic pigtail stents, covered self-expanding metal stents (SEMS), and new LAMS.
+Based on the currently available literature, the standard of practice in endoscopic drainage of pancreatic pseudocysts remains the placement of multiple double pigtail plastic stents, with or without a fully covered SEMS. For the comprehension of the benefit of plastic stents and SEMS individually, three cases will be presented.</notes>
+			<notesNormalized>a variety of different stents are available for pancreatic pseudocyst drainage, including plastic pigtail stents, covered self-expanding metal stents (sems), and new lams.
+based on the currently available literature, the standard of practice in endoscopic drainage of pancreatic pseudocysts remains the placement of multiple double pigtail plastic stents, with or without a fully covered sems. for the comprehension of the benefit of plastic stents and sems individually, three cases will be presented.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;A variety of different stents are available for pancreatic pseudocyst drainage, including plastic pigtail stents, covered self-expanding metal stents (SEMS), and new LAMS.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Based on the currently available literature, the standard of practice in endoscopic drainage of pancreatic pseudocysts remains the placement of multiple double pigtail plastic stents, with or without a fully covered SEMS. For the comprehension of the benefit of plastic stents and SEMS individually, three cases will be presented.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Stent Placement, Plastic vs. Metal
+Plastic pigtail stents
+Metal stents
+ - Classic covered self-expanding metal stents
+ - New lumen-apposing metal stents
+
+Which stent is better ?</text>
+		</slide>
+		<slide index="10" title="Case, plastic stent" titleNormalized="case, plastic stent" src="slide11.swf" size="141405" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.8269991"/>
+			</animationSteps>
+			<notes>First case with a plastic stent for peudocyst drainage. A 44-year old man underwent distal pancreatectomy due to 3 cm neuroendocrine tumor in tail. Six weeks after, 6 cm sized pseudocyst was developed in the tail. </notes>
+			<notesNormalized>first case with a plastic stent for peudocyst drainage. a 44-year old man underwent distal pancreatectomy due to 3 cm neuroendocrine tumor in tail. six weeks after, 6 cm sized pseudocyst was developed in the tail.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;First case with a plastic stent for peudocyst drainage. A 44-year old man underwent distal pancreatectomy due to 3 cm neuroendocrine tumor in tail. Six weeks after, 6 cm sized pseudocyst was developed in the tail. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Case, plastic stent
+44 y, male
+Pseudocyst after distal pancreatectomy for NET
+
+3cm NET in tail
+After distal pancreatectomy
+6 weeks after</text>
+		</slide>
+		<slide index="11" title="Case, plastic stent" titleNormalized="case, plastic stent" src="slide12.swf" size="195328" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.9080004"/>
+			</animationSteps>
+			<notes>When he presented with abdominal pain, endoscopic ultrasound (EUS)-guided transmural drainage of the pancreatic pseudocyst was performed, and a 7-Fr, 7-cm double-pigtail plastic stent was placed in the cavity. Non viscous fluid gushed out actively through the stent and fistula.</notes>
+			<notesNormalized>when he presented with abdominal pain, endoscopic ultrasound (eus)-guided transmural drainage of the pancreatic pseudocyst was performed, and a 7-fr, 7-cm double-pigtail plastic stent was placed in the cavity. non viscous fluid gushed out actively through the stent and fistula.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;When he presented with abdominal pain, endoscopic ultrasound (EUS)-guided transmural drainage of the pancreatic pseudocyst was performed, and a 7-Fr, 7-cm double-pigtail plastic stent was placed in the cavity. Non viscous fluid gushed out actively through the stent and fistula.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Case, plastic stent
+44 y, male
+EUS-guided transmural drainage with a plastic stent
+</text>
+		</slide>
+		<slide index="12" title="Case, plastic stent" titleNormalized="case, plastic stent" src="slide13.swf" size="144534" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.7839998"/>
+			</animationSteps>
+			<notes>Three months after pseudocyst drainage, his CT showed complete resolution of the pseudocyst. The stent was removed. Abdominal CT after 6 months showed no evidence of pseudocyst.</notes>
+			<notesNormalized>three months after pseudocyst drainage, his ct showed complete resolution of the pseudocyst. the stent was removed. abdominal ct after 6 months showed no evidence of pseudocyst.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Three months after pseudocyst drainage, his CT showed complete resolution of the pseudocyst. The stent was removed. Abdominal CT after 6 months showed no evidence of pseudocyst.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Case, plastic stent
+44 y, male
+Resolution and removal of the stent
+
+3 months after
+6 months after</text>
+		</slide>
+		<slide index="13" title="Single-step vs. 2-step management" titleNormalized="single-step vs. 2-step management" src="slide14.swf" size="39723" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.5300001"/>
+			</animationSteps>
+			<notes>In the first case, EUS-guided drainage for 6 cm sized non viscous pseudocyst was performed with a single-step procedure using a double pigtailed plastic stent only. However, according to Yuan’s study, the 2-step procedure with a double-pigtail stent plus nasocystic drain for 72 hours resulted in a lower infection complication rate and an average of less days of hospitalization compared with single-step approach with only double-pigtail stent insertion for drainage of giant pseudocysts. Hence, the preferred treatment for drainage of huge (larger than 10 cm in in diameter) pancreatic pseudocysts is EUS insertion of 2 double-pigtail stents combined with insertion of a nasocystic external drain.</notes>
+			<notesNormalized>in the first case, eus-guided drainage for 6 cm sized non viscous pseudocyst was performed with a single-step procedure using a double pigtailed plastic stent only. however, according to yuan’s study, the 2-step procedure with a double-pigtail stent plus nasocystic drain for 72 hours resulted in a lower infection complication rate and an average of less days of hospitalization compared with single-step approach with only double-pigtail stent insertion for drainage of giant pseudocysts. hence, the preferred treatment for drainage of huge (larger than 10 cm in in diameter) pancreatic pseudocysts is eus insertion of 2 double-pigtail stents combined with insertion of a nasocystic external drain.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In the first case, EUS-guided drainage for 6 cm sized non viscous pseudocyst was performed with a single-step procedure using a double pigtailed plastic stent only. However, according to Yuan’s study, the 2-step procedure with a double-pigtail stent plus nasocystic drain for 72 hours resulted in a lower infection complication rate and an average of less days of hospitalization compared with single-step approach with only double-pigtail stent insertion for drainage of giant pseudocysts. Hence, the preferred treatment for drainage of huge (larger than 10 cm in in diameter) pancreatic pseudocysts is EUS insertion of 2 double-pigtail stents combined with insertion of a nasocystic external drain.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>A double-pigtail stent vs. double-pigtail stent plus nasocystic drain
+Single-step vs. 2-step management
+Infection rate, 56.5%
+In hospital, 22.9 days
+Disappearance time, 14.1 w
+Single-step
+2-step
+Infection rate, 20.8%
+In hospital, 10.3 days
+Disappearance time, 11.7 w
+Pancreas 2015; 44; 570-3
+Nasocystic drain, more benefit
+Recurrent rate 5.3%
+Recurrent rate, 9.5%
+P &lt; 0.05
+P &gt; 0.05</text>
+		</slide>
+		<slide index="14" title="Case, metal stent (LAMS)" titleNormalized="case, metal stent (lams)" src="slide15.swf" size="138317" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.9549994"/>
+			</animationSteps>
+			<notes>Second case with a  metal stent for the drainage of infected pseudocyst, A 47-year old man underwent distal pancreatectomy for the treatment of huge serous cystadenoma in tail. 6 months after surgery, he presented with abdominal pain and fever. His abdominal CT and EUS showed a 11 cm sized pseudocyst with air suggesting infection. </notes>
+			<notesNormalized>second case with a metal stent for the drainage of infected pseudocyst, a 47-year old man underwent distal pancreatectomy for the treatment of huge serous cystadenoma in tail. 6 months after surgery, he presented with abdominal pain and fever. his abdominal ct and eus showed a 11 cm sized pseudocyst with air suggesting infection.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Second case with a  metal stent for the drainage of infected pseudocyst, A 47-year old man underwent distal pancreatectomy for the treatment of huge serous cystadenoma in tail. 6 months after surgery, he presented with abdominal pain and fever. His abdominal CT and EUS showed a 11 cm sized pseudocyst with air suggesting infection. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Case, metal stent (LAMS)
+47y M
+Infected pseudocyst after distal pancreatectomy for cystic neoplasm</text>
+		</slide>
+		<slide index="15" title="Lumen Apposition Metal Stent (LAMS)" titleNormalized="lumen apposition metal stent (lams)" src="slide16.swf" size="195926" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.0169996"/>
+			</animationSteps>
+			<notes>Recently, new full covered SEMS for lumen apposition with a conventional stent delivery system was developed in south Korea by Dr Moon group. They reported that EUS-guided transgastric drainage of pancreatic fluid collection and gall bladder using a LAMS was a technically feasible endoscopic approach and provided a route for interventional endoscopic procedures.</notes>
+			<notesNormalized>recently, new full covered sems for lumen apposition with a conventional stent delivery system was developed in south korea by dr moon group. they reported that eus-guided transgastric drainage of pancreatic fluid collection and gall bladder using a lams was a technically feasible endoscopic approach and provided a route for interventional endoscopic procedures.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Recently, new full covered SEMS for lumen apposition with a conventional stent delivery system was developed in south Korea by Dr Moon group. They reported that EUS-guided transgastric drainage of pancreatic fluid collection and gall bladder using a LAMS was a technically feasible endoscopic approach and provided a route for interventional endoscopic procedures.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Lumen Apposition Metal Stent (LAMS)
+“A new, fully covered self-expandable metal stent for lumen apposition, delivered by using a conventional delivery system, was feasible for EUS-guided pancreatic pseudocyst drainage.”
+Moon et al, GIE, 2014; 79: 990-5</text>
+		</slide>
+		<slide index="16" title="Case, metal stent (LAMS)" titleNormalized="case, metal stent (lams)" src="slide17.swf" size="356004" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.3509993"/>
+			</animationSteps>
+			<notes>Therefore, he underwent EUS-guided pseudocyst drainage with a LAMS. After LAMS deployment, thick pus gushed out actively and he recovered uneventfully. </notes>
+			<notesNormalized>therefore, he underwent eus-guided pseudocyst drainage with a lams. after lams deployment, thick pus gushed out actively and he recovered uneventfully.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Therefore, he underwent EUS-guided pseudocyst drainage with a LAMS. After LAMS deployment, thick pus gushed out actively and he recovered uneventfully. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Case, metal stent (LAMS)
+47y M
+Transmural drainage with LAMS</text>
+		</slide>
+		<slide index="17" title="Case, metal stent (classic SEMS)" titleNormalized="case, metal stent (classic sems)" src="slide18.swf" size="107160" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.4239992"/>
+			</animationSteps>
+			<notes>Third case with classic SEMS, A 56-year-old man with acute necrotising pancreatitis complicated by infected pancreatic necrosis. There is a heterogeneous, acute necrotic collection (ANC) in the pancreatic and peripancreatic area (white arrows pointing at the borders of the ANC) with presence of gas bubbles (white arrowheads), usually a pathognomonic sign of infection of the necrosis (infected necrosis).</notes>
+			<notesNormalized>third case with classic sems, a 56-year-old man with acute necrotising pancreatitis complicated by infected pancreatic necrosis. there is a heterogeneous, acute necrotic collection (anc) in the pancreatic and peripancreatic area (white arrows pointing at the borders of the anc) with presence of gas bubbles (white arrowheads), usually a pathognomonic sign of infection of the necrosis (infected necrosis).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Third case with classic SEMS, A 56-year-old man with acute necrotising pancreatitis complicated by infected pancreatic necrosis. There is a heterogeneous, acute necrotic collection (ANC) in the pancreatic and peripancreatic area (white arrows pointing at the borders of the ANC) with presence of gas bubbles (white arrowheads), usually a pathognomonic sign of infection of the necrosis (infected necrosis).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Case, metal stent (classic SEMS)
+56y M, acute necrotizing pancreatitis
+By Dr. Kim TH from WK university</text>
+		</slide>
+		<slide index="18" title="Case, metal stent (classic SEMS)" titleNormalized="case, metal stent (classic sems)" src="slide19.swf" size="133635" advanceOnTime="1" framesCount="681" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_1ed33590.spr0_16639534" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1ed33590.spr2_16639534" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="680" playTime="26.0930004" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>This movie showed that the infected walled-off necrosis was punctured with 19 gauze needle and successful drainage was performed with a SEMS deployment.</notes>
+			<notesNormalized>this movie showed that the infected walled-off necrosis was punctured with 19 gauze needle and successful drainage was performed with a sems deployment.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This movie showed that the infected walled-off necrosis was punctured with 19 gauze needle and successful drainage was performed with a SEMS deployment.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>56y M, acute necrotizing pancreatitis
+Case, metal stent (classic SEMS)
+By Dr. Kim TH from WK university</text>
+		</slide>
+		<slide index="19" title="Case, metal stent (classic SEMS)" titleNormalized="case, metal stent (classic sems)" src="slide20.swf" size="106659" advanceOnTime="1" framesCount="423" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_1ed334c0.spr0_16642249" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1ed334c0.spr2_16642249" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="422" playTime="17.5833333" pauseTime="1.7666670"/>
+			</animationSteps>
+			<notes> 48 days after drainage, his abdominal CT showed complete resolution of the infected walled off necrosis.</notes>
+			<notesNormalized>48 days after drainage, his abdominal ct showed complete resolution of the infected walled off necrosis.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt; 48 days after drainage, his abdominal CT showed complete resolution of the infected walled off necrosis.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="20" title="Case, metal stent (classic SEMS)" titleNormalized="case, metal stent (classic sems)" src="slide21.swf" size="519000" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.1489996"/>
+			</animationSteps>
+			<notes>After resolution of the infected walled off necrosis, Dr Kim removed the SEMS with a rat tooth forceps. Four months after removal of the stent, gastroscopy showed complete healing of the fistula tract. </notes>
+			<notesNormalized>after resolution of the infected walled off necrosis, dr kim removed the sems with a rat tooth forceps. four months after removal of the stent, gastroscopy showed complete healing of the fistula tract.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;After resolution of the infected walled off necrosis, Dr Kim removed the SEMS with a rat tooth forceps. Four months after removal of the stent, gastroscopy showed complete healing of the fistula tract. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>4 moths later
+Case, metal stent (classic SEMS)</text>
+		</slide>
+		<slide index="21" title="Stent Placement, Plastic vs. Metal" titleNormalized="stent placement, plastic vs. metal" src="slide22.swf" size="1419" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.4360000"/>
+			</animationSteps>
+			<notes>Before we conclude which stent is better between plastic and metal stent. Some study results will be discussed further.</notes>
+			<notesNormalized>before we conclude which stent is better between plastic and metal stent. some study results will be discussed further.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Before we conclude which stent is better between plastic and metal stent. Some study results will be discussed further.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Stent Placement, Plastic vs. Metal
+Which stent is better ?</text>
+		</slide>
+		<slide index="22" title="Sharaiha et al, GIE 2015;82:822-7." titleNormalized="sharaiha et al, gie 2015;82:822-7." src="slide23.swf" size="167522" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.0290007"/>
+			</animationSteps>
+			<notes>Despite the advantage of self-expanding metal stents in draining pancreatic fluid collections, no clinical trials exist to demonstrate that metal stents are superior to plastic stents with regard to effectiveness, adverse events, and pseudocyst recurrence rate. However, recently, Sharaiha et al demonstrated that EUS-guided drainage by using FCSEMSs improves clinical outcomes and lowers
+adverse event rates compared with those drained with double pigtailed plastic stents. </notes>
+			<notesNormalized>despite the advantage of self-expanding metal stents in draining pancreatic fluid collections, no clinical trials exist to demonstrate that metal stents are superior to plastic stents with regard to effectiveness, adverse events, and pseudocyst recurrence rate. however, recently, sharaiha et al demonstrated that eus-guided drainage by using fcsemss improves clinical outcomes and lowers
+adverse event rates compared with those drained with double pigtailed plastic stents.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Despite the advantage of self-expanding metal stents in draining pancreatic fluid collections, no clinical trials exist to demonstrate that metal stents are superior to plastic stents with regard to effectiveness, adverse events, and pseudocyst recurrence rate. However, recently, Sharaiha et al demonstrated that EUS-guided drainage by using FCSEMSs improves clinical outcomes and lowers&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;adverse event rates compared with those drained with double pigtailed plastic stents. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Conclusion:
+In patients with PPs, 
+EUS-guided drainage by using FCSEMSs
+improves clinical outcomes &amp; lowers adverse event
+compared with those drained with DP plastic stents.
+Sharaiha et al, GIE 2015;82:822-7.</text>
+		</slide>
+		<slide index="23" title="Short-term Placement of SEMS (3 weeks)" titleNormalized="short-term placement of sems (3 weeks)" src="slide24.swf" size="49306" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.1540007"/>
+			</animationSteps>
+			<notes>The appropriate period for stent removal is not known. Recent study by India and Hong Kong showed that pancreatic
+ductal leak or disconnection was an independent factor affecting pseudocyst resolution at 3 weeks. Therefore, short-term placement of FCSEMSs with pancreatic ductal stenting in selected patients appears safe and effective for the treatment of pseudocysts. </notes>
+			<notesNormalized>the appropriate period for stent removal is not known. recent study by india and hong kong showed that pancreatic
+ductal leak or disconnection was an independent factor affecting pseudocyst resolution at 3 weeks. therefore, short-term placement of fcsemss with pancreatic ductal stenting in selected patients appears safe and effective for the treatment of pseudocysts.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The appropriate period for stent removal is not known. Recent study by India and Hong Kong showed that pancreatic&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;ductal leak or disconnection was an independent factor affecting pseudocyst resolution at 3 weeks. Therefore, short&lt;b&gt;-term placement of FCSEMSs with pancreatic ductal stenting in selected patients appears safe and effective for the treatment of pseudocysts. &lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Short-term Placement of SEMS (3 weeks)
+Gastrointest Endosc 2015;82:650-7.
+“ Short-term placement of FCSEMSs with pancreatic ductal stenting in selected patients appears safe and effective for the treatment of pseudocysts”</text>
+		</slide>
+		<slide index="24" title="Additional Benefit of SEMS" titleNormalized="additional benefit of sems" src="slide25.swf" size="259929" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.5459999"/>
+			</animationSteps>
+			<notes>Additional benefit of SEMS is that direct endoscopic necrosectomy can be carried out through the SEMS in most of cases.</notes>
+			<notesNormalized>additional benefit of sems is that direct endoscopic necrosectomy can be carried out through the sems in most of cases.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000000"&gt;Additional benefit of SEMS is that d&lt;/font&gt;&lt;font size="12" color="#ffffff"&gt;&lt;b&gt;irect endoscopic necrosectomy can be carried out through the SEMS in most of cases.&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Additional Benefit of SEMS
+Direct endoscopic necrosectomy can be carried out in most of cases.
+ GIE 2015;82:1039-46.</text>
+		</slide>
+		<slide index="25" title="Survey on EUS-guided drainage, Plastic vs. Metal (Asian EUS group)" titleNormalized="survey on eus-guided drainage, plastic vs. metal (asian eus group)" src="slide26.swf" size="61252" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.8159994"/>
+			</animationSteps>
+			<notes>Is it time to embrace SEMSs for PPC management instead of plastic stents? Before making final conclusions, we must consider the Survey results on EUS-guided drainage by Asian EUS group. They reported that metallic stents were used by only 10.5% of the respondents.</notes>
+			<notesNormalized>is it time to embrace semss for ppc management instead of plastic stents? before making final conclusions, we must consider the survey results on eus-guided drainage by asian eus group. they reported that metallic stents were used by only 10.5% of the respondents.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000000"&gt;Is it time to embrace SEMSs for PPC management instead of plastic stents? Before making final conclusions, we must consider the Survey results on EUS-guided drainage by Asian EUS group. They reported that metallic stents were used by only &lt;/font&gt;&lt;font size="12" color="#ff0000"&gt;10.5%&lt;/font&gt;&lt;font size="12" color="#000000"&gt; of the respondents.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Metallic stents were used by 10.5% of the respondents.
+Transcystic catheters were employed by 26.3 %.
+Those who were more experienced in the procedure
+Tended to use the cystotome more frequently (P=0.02)
+Removed the stents in less than 3 months after insertion
+Survey on EUS-guided drainage, Plastic vs. Metal (Asian EUS group)
+Endoscopy International Open 2015; 03: E130–E133
+Song TJ, Lee SS. Clinical Endosc 2014;47:222-6.</text>
+		</slide>
+		<slide index="26" title="Digestive endoscopy 2016; in express" titleNormalized="digestive endoscopy 2016; in express" src="slide27.swf" size="349734" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.3590006"/>
+			</animationSteps>
+			<notes>Yes, plastic stents have a strong benefit that mean hospital costs are significantly lower for pseudocysts using plastic stents  compared with SEMS including LAMS. </notes>
+			<notesNormalized>yes, plastic stents have a strong benefit that mean hospital costs are significantly lower for pseudocysts using plastic stents compared with sems including lams.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Yes, plastic stents have a strong benefit that mean hospital costs are significantly lower for pseudocysts using plastic stents  compared with SEMS including LAMS. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Digestive endoscopy 2016; in express
+“Cost analysis”</text>
+		</slide>
+		<slide index="27" title="Is it time to embrace SEMS for PPC management?" titleNormalized="is it time to embrace sems for ppc management?" src="slide28.swf" size="22272" advanceOnTime="1" framesCount="991" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="990" playTime="41.2500000" pauseTime="9.6339989"/>
+			</animationSteps>
+			<notes>Coming back to the question, is it time to embrace SEMSs for PPC management? The functional success rate with plastic stents is in excess of 90%, and it will be difficult for SEMSs to significantly
+improve on this. The areas where SEMSs may potentially score are ease of placement, fewer early and late infectious adverse events, and better long-term results including lower recurrence rates. Early removal of the FCSEMS may also be possible in patients without ductal communications, thus reducing probability of delayed adverse events. Cost-effectiveness of short-term FCSEMS placement versus
+longer-term plastic stent placement will need to be assessed if FCSEMSs show advantages over plastic stents. SEMSs are an exciting addition to the management of symptomatic pseudocyst, but it is too early to discard plastic stents because better evidence is needed.</notes>
+			<notesNormalized>coming back to the question, is it time to embrace semss for ppc management? the functional success rate with plastic stents is in excess of 90%, and it will be difficult for semss to significantly
+improve on this. the areas where semss may potentially score are ease of placement, fewer early and late infectious adverse events, and better long-term results including lower recurrence rates. early removal of the fcsems may also be possible in patients without ductal communications, thus reducing probability of delayed adverse events. cost-effectiveness of short-term fcsems placement versus
+longer-term plastic stent placement will need to be assessed if fcsemss show advantages over plastic stents. semss are an exciting addition to the management of symptomatic pseudocyst, but it is too early to discard plastic stents because better evidence is needed.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Coming back to the question, is it time to embrace SEMSs for PPC management? The functional success rate with plastic stents is in excess of 90%, and it will be difficult for SEMSs to significantly&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;improve on this. The areas where SEMSs may potentially score are ease of placement, fewer early and late infectious adverse events, and better long-term results including lower recurrence rates. Early removal of the FCSEMS may also be possible in patients without ductal communications, thus reducing probability of delayed adverse events. Cost-effectiveness of short-term FCSEMS placement versus&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;longer-term plastic stent placement will need to be assessed if FCSEMSs show advantages over plastic stents. SEMSs are an exciting addition to the management of symptomatic pseudocyst, but it is too early to discard plastic stents because better evidence is needed.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Is it time to embrace SEMS for PPC management?
+Functional Success &gt; 90%
+ Inexpensive
+Plastic stent
+SEMS
+Functional success &gt; 90%
+ Expensive
+ GIE 2015; 10; 1042-6.
+Song TJ, Lee SS. Clinical Endosc 2014;47:222-6.
+Inconclusive!
+Better evidence is needed
+Fewer early and late infection
+Lower recurrence rates
+Early removal
+Shorter procedure time, 15 m
+Frequent early and late infection
+higher recurrence rates
+late removal
+Longer procedure time, 29.5m</text>
+		</slide>
+		<slide index="28" title="Conclusion: Plastic vs. Metal Stent for Pseudocyst Drainage" titleNormalized="conclusion: plastic vs. metal stent for pseudocyst drainage" src="slide29.swf" size="106529" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.3979983"/>
+			</animationSteps>
+			<notes>In conclusion, both plastic stents and metal stents can be used individually according to the feature of the pseudocysts. For the drainage of the pseudocyst with small size and no thick debris, single step double pigtailed plastic stent will be enough. However, for the drainage of the pseudocyst with thick debris, SEMS including LAMS are more beneficial option.</notes>
+			<notesNormalized>in conclusion, both plastic stents and metal stents can be used individually according to the feature of the pseudocysts. for the drainage of the pseudocyst with small size and no thick debris, single step double pigtailed plastic stent will be enough. however, for the drainage of the pseudocyst with thick debris, sems including lams are more beneficial option.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In conclusion, both plastic stents and metal stents can be used individually according to the feature of the pseudocysts. For the drainage of the pseudocyst with small size and no thick debris, single step double pigtailed plastic stent will be enough. However, for the drainage of the pseudocyst with thick debris, SEMS including LAMS are more beneficial option.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Conclusion: Plastic vs. Metal Stent for Pseudocyst Drainage</text>
+		</slide>
+		<slide index="29" title="Thank you for your attention!" titleNormalized="thank you for your attention!" src="slide30.swf" size="1503718" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.8990001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for your attention!
+Cystogastrostomy, Metal or Plastic Stents</text>
+		</slide>
+	</slides>
+</presentation>
