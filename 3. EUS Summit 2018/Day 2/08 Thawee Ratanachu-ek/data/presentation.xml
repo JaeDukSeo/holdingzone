@@ -1,0 +1,1206 @@
+<?xml version="1.0"?>
+<presentation title="08 Thawee Ratanachu-ek" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{A3E64F39-58CB-4A56-9C25-C3D52F6F9190}">
+	<presenters>
+		<presenter name="Thawee Ratanachu-ek" title="Thailand" email="" web="" phone="" photoAssetId="">
+			<bio>EUS for portal hypertension and varix management</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="157197" duration="19649"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="603996" duration="75499"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="125432" duration="15679"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="95966" duration="11995"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="135672" duration="16959"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="337129" duration="42141"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="166183" duration="20772"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="147793" duration="18474"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="292825" duration="36603"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="194605" duration="24325"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="166183" duration="20772"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="269001" duration="33625"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="395643" duration="49455"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="300139" duration="37517"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="300557" duration="37569"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="104952" duration="13119"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="193769" duration="24221"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="180812" duration="22601"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="188544" duration="23568"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="196067" duration="24508"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="317067" duration="39633"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="113729" duration="14216"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="221981" duration="27747"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="146121" duration="18265"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="231385" duration="28923"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="577664" duration="72208"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="799182" duration="99897"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="386866" duration="48358"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="479026" duration="59878"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="170990" duration="21373"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="294497" duration="36812"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="480698" duration="60087"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="242670" duration="30333"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="260433" duration="32554"/>
+		<soundAsset id="sndAsset34" src="sound35.mp3" embedded="0" size="334203" duration="41775"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="19.5990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="75.4680000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="15.6300000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="11.9490000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="16.9139996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="42.0999985"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="20.7390000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="18.4370000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="36.5490000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="24.2810000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="20.7350000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="33.5760000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="49.4170000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="37.4690000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="37.5229988"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="13.0799999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="24.1860000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="22.5599995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="23.5190000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="24.4560000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="39.5770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="14.1660000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="27.7090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="18.2270000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="28.8700000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="72.1620000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="99.8529968"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="48.3050000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="59.8300000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="21.3390000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="36.7660000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="60.0370000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="30.2960000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="32.5099983"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset34">
+				<startTimestamp slideIndex="34" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="34" stepIndex="0" timeOffset="41.7400000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS for portal hypertension and varix management" titleNormalized="eus for portal hypertension and varix management" src="slide1.swf" size="123338" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.5980009"/>
+			</animationSteps>
+			<notes>Endoscopic ultrasound (EUS) is emerging as a useful diagnostic and therapeutic tool for the evaluation and management of gastroesophageal varices </notes>
+			<notesNormalized>endoscopic ultrasound (eus) is emerging as a useful diagnostic and therapeutic tool for the evaluation and management of gastroesophageal varices</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Endoscopic ultrasound (EUS) is emerging as a useful diagnostic and therapeutic tool for the evaluation and management of gastroesophageal varices &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS for portal hypertension 
+and varix management
+THAWEE Ratanachu-EK, MD 
+Digestive Endoscopy Center
+Rajavithi Hospital, Bangkok, THAILAND
+EUS Summit 2018, 6-7 October, AMC, Seoul, Korea</text>
+		</slide>
+		<slide index="1" title="Article" titleNormalized="article" src="slide2.swf" size="95614" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="75.4670023"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="2" title="" titleNormalized="" src="slide3.swf" size="373327" advanceOnTime="1" framesCount="379" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_f0d5e70.spr0_6138686" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_f0d5e70.spr2_6138686" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="378" playTime="15.6300001" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="3" title="EUS for portal hypertension and varix management" titleNormalized="eus for portal hypertension and varix management" src="slide4.swf" size="1425" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.9480004"/>
+			</animationSteps>
+			<notes>Next 20 min I’ll summarize the current role of EUS for PHT emphasize on EG varices and management esp.new  immerging intervention of GV.</notes>
+			<notesNormalized>next 20 min i’ll summarize the current role of eus for pht emphasize on eg varices and management esp.new immerging intervention of gv.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Next 20 min I’ll summarize the current role of EUS for PHT emphasize on EG varices and management esp.new  immerging intervention of GV.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS for portal hypertension 
+and varix management
+PHT: Varices and Collateral pathways
+Role of EUS
+Immerging new intervention
+</text>
+		</slide>
+		<slide index="4" title="Portal Hypertension: Variceal Bleeding" titleNormalized="portal hypertension: variceal bleeding" src="slide5.swf" size="346726" advanceOnTime="1" framesCount="409" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_11234540.spr0_6146096" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_11234540.spr2_6146096" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="408" playTime="16.9139996" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>Variceal bleeding  is one of the most serious event and cause of death in patients with portal hypertension.</notes>
+			<notesNormalized>variceal bleeding is one of the most serious event and cause of death in patients with portal hypertension.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Variceal bleeding  is one of the most serious event and cause of death in patients with portal hypertension.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="5" title="Clinical management of acute variceal bleeding" titleNormalized="clinical management of acute variceal bleeding" src="slide6.swf" size="3999" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.0989985"/>
+			</animationSteps>
+			<notes>More than a decade, The efficient multi-step management of active bleeding have significantly improved the outcomes. Endoscopy plays the important role both diagnosis and treatment.</notes>
+			<notesNormalized>more than a decade, the efficient multi-step management of active bleeding have significantly improved the outcomes. endoscopy plays the important role both diagnosis and treatment.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;More than a decade, The efficient multi-step management of active bleeding have significantly improved the outcomes. Endoscopy plays the important role both diagnosis and treatment.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>de Franchis R. J Hepatol 2015;63:743-752
+
+Clinical management of acute variceal bleeding
+Suspected variceal bleeding
+Resuscitation/ICU, antibiotic, blood component,…
+Early vasoactive drug administration
+(Somatostation/Octreotide/Trelipresssin)
+Endoscopy
+(Diagnosis/Therapeutic)
+Control active bleeding
+(Banding,EIS-EV/Glue-GV) 
+Re-bleeding
+Schedule for
+endoscopic 
+eradication
+Rescued with BRTO, TIPS/Surgery
+Optional: SEMS* (EV)
+Balloon intubation* (SB for EV, Linton-Nachlas for GV)
+Hemospray* (EV,GV) 
+ 
+X
+* only for temporary therapy
+ Garcia-Tsao G, et al. Am J Gastroenterol 2007;102:2086–2102 
+Ibrahim M, et al. United European Gastroenterology Journal 2015,3:277–283</text>
+		</slide>
+		<slide index="6" title="EGVs: Diagnostic EGD" titleNormalized="egvs: diagnostic egd" src="slide7.swf" size="55078" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.7389998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EGVs: Diagnostic EGD
+White nipple sign
+RWM: Cherry red spots,CRS
+ Hematocystic spots
+Index bleeder
+Predicted bleeding risk</text>
+		</slide>
+		<slide index="7" title="Esophago-gastric varices: Endotherapy" titleNormalized="esophago-gastric varices: endotherapy" src="slide8.swf" size="2687" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.4390005"/>
+			</animationSteps>
+			<notes>Endoscopy is the important modalities  treatment for EGVs, such as endoscopic injection sclerotherapy (EIS), endoscopic variceal ligation (EVL) mainly for EV and  cyanoacrylate glue (CYA) injection for GV under conventional endoscopy. </notes>
+			<notesNormalized>endoscopy is the important modalities treatment for egvs, such as endoscopic injection sclerotherapy (eis), endoscopic variceal ligation (evl) mainly for ev and cyanoacrylate glue (cya) injection for gv under conventional endoscopy.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Endoscopy is the important modalities  treatment for EGVs, such as endoscopic injection sclerotherapy (EIS), endoscopic variceal ligation (EVL) mainly for EV and  cyanoacrylate glue (CYA) injection for GV under conventional endoscopy. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Esophago-gastric varices: Endotherapy
+Esophageal varices Gastric varices
+Primary prophylaxis
+ Banding
+Control bleeding
+ Banding
+ Injection sclerotherapy
+ optional: Glue injection#/SB intubation*
+Secondary prophylaxis
+ Banding
+ Injection sclerotherapy
+ 
+
+Primary prophylaxis
+ Questionable#
+Control bleeding
+ Glue injection (GOV1/2,IGV)
+ Sclerotherapy/BRTO
+ Banding (GOV1) 
+ optional: SB intubation (GOV1)#
+Secondary prophylaxis
+ Glue injection
+ 
+
+TIPS (IR)/ Surgery
+* only for briding therapy
+# for rescue therapy/post band induced ulcer bleeding
+# Garcia-Pagan JC, et al.CGH2014;12:919-928</text>
+		</slide>
+		<slide index="8" title="EGVs: Improved outcome?" titleNormalized="egvs: improved outcome?" src="slide9.swf" size="2308" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.5489992"/>
+			</animationSteps>
+			<notes>Although well control  active bleeding, anyway let still a certain number of uncontrolled and recurrent bleeding 10-20% and serious embolism from glue injection.</notes>
+			<notesNormalized>although well control active bleeding, anyway let still a certain number of uncontrolled and recurrent bleeding 10-20% and serious embolism from glue injection.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Although well control  active bleeding, anyway let still a certain number of uncontrolled and recurrent bleeding 10-20% and serious embolism from glue injection.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EGVs: Improved outcome?
+Esophageal varices Gastric varices (GOV2/IGV1)
+Initial hemostasis: 83%-100%
+Re-bleeding: 8%-18%
+Embolism 2.1%
+
+MARTINEZ-GONZALEZ J, et al. Rev. esp. enferm. dig. [online]. 2015,107, pp.501-508. 
+Cipolletta L, et al. Gastrointest Endosc. 1998; 47:400-3
+Lee MS, et al. Gastrointest Endosc. 2002; 56:83-8.
+Al-Bawardy B, et al. J Clin gastroenterol 2016;50:4580462 
+Initial hemostasis:&gt; 90% 
+Un-controlled*/ Re-bleeding: 10-20%
+Stricture (EIS) 11%
+
+ *An elevated HVPG &gt;20 mmHg 
+(measured within 24 hours of presentation)
+ Garcia-Tsao G, et al. Am J Gastroenterol 2007;102:2086–2102 
+EVL&gt;EIS Glue</text>
+		</slide>
+		<slide index="9" title="EGVs: Tip the Iceberg" titleNormalized="egvs: tip the iceberg" src="slide10.swf" size="446343" advanceOnTime="1" framesCount="585" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_189479d0.spr0_6157219" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_189479d0.spr2_6157219" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="584" playTime="24.3299999" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>However, these approaches are performed only varices seen in endoscopy
+But beneath or outside the wall of the esophagus and stomach cannot be observed directly liked ICEberg. </notes>
+			<notesNormalized>however, these approaches are performed only varices seen in endoscopy
+but beneath or outside the wall of the esophagus and stomach cannot be observed directly liked iceberg.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;However, these approaches are performed only varices seen in endoscopy&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;But beneath or outside the wall of the esophagus and stomach cannot be observed directly liked ICEberg. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="10" title="EGVs: Unseen" titleNormalized="egvs: unseen" src="slide11.swf" size="29581" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.7389998"/>
+			</animationSteps>
+			<notes>This unseen deeper part is very important to determine complete control bleeder and predict recurrent.
+So this the majority of varices beneath will be explored later on </notes>
+			<notesNormalized>this unseen deeper part is very important to determine complete control bleeder and predict recurrent.
+so this the majority of varices beneath will be explored later on</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This unseen deeper part is very important to determine complete control bleeder and predict recurrent.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;So this the majority of varices beneath will be explored later on &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EGVs: Unseen
+Courtesy: iceberg picture from istockphoto.com
+Irisawa A, et al. Gastrointest Endosc 1999;50:374-380
+ drawing picture: Dr.Tanyaporn Chantarojanasiri</text>
+		</slide>
+		<slide index="11" title="EGVs: EUS-See more," titleNormalized="egvs: eus-see more," src="slide12.swf" size="417558" advanceOnTime="1" framesCount="809" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_18765350.spr0_6171305" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_18765350.spr2_6171305" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="808" playTime="33.5760002" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="12" title="Varices &amp; Collateral pathways" titleNormalized="varices &amp; collateral pathways" src="slide13.swf" size="10825" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="49.4189982"/>
+			</animationSteps>
+			<notes>Back to understand the collateral pathway of varices formation that is very important for varices management in term of how to decrease rebleeding the mortality or even control in active bleeding.</notes>
+			<notesNormalized>back to understand the collateral pathway of varices formation that is very important for varices management in term of how to decrease rebleeding the mortality or even control in active bleeding.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Back to understand the collateral pathway of varices formation that is very important for varices management in term of how to decrease rebleeding the mortality or even control in active bleeding.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>LRV
+Azygos vein
+Peri-
+ECVs
+Perforating
+ vein
+Varix
+Dilated 
+SC vs
+Dilated SE vs 
+(RWM,CRS)
+LGV
+Para-
+ECV
+IVC
+PV
+SV
+SMV
+Gastro-renal shunt
+SGV
+PGV
+GV (IGV1)
+GV (GOV2)
+GV (GOV1)
+Varices &amp; Collateral pathways
+HAZV
+Spleen
+Liver
+EV
+EV
+IGV2
+Gastric wall
+Gastric wall
+Esophageal 
+ wall</text>
+		</slide>
+		<slide index="13" title="Varices &amp; Collateral pathways: GV" titleNormalized="varices &amp; collateral pathways: gv" src="slide14.swf" size="59221" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.4690012"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>drawing picture by Dr.Tanyaporn Chantarojanasiri
+Mehta G, Abraldes JG, Bosch J. Gut 2010;59:701-705. 
+Charbel YAZBECK, MD. NDS University Hospital, USEK
+EV
+GOV1
+LGV
+PV
+SV
+IGV2
+RV
+SMV
+GOV2/IGV1
+LGV
+PGV
+SGV
+GRS
+Varices &amp; Collateral pathways: GV</text>
+		</slide>
+		<slide index="14" title="EUS for EGVs: See more" titleNormalized="eus for egvs: see more" src="slide15.swf" size="399205" advanceOnTime="1" framesCount="903" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_18abebc0.spr0_6187046" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_18abebc0.spr2_6187046" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="902" playTime="37.5229988" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="15" title="EUS for EGVs: Do more" titleNormalized="eus for egvs: do more" src="slide16.swf" size="39445" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.0789999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS for EGVs: Do more
+Diagnosis*
+Visualization and evaluation of EGVs (peri-,paravariceal, perforating v, LGVs
+ Visualize of portal and azygos system
+ Flow direction (inflow vs out flow)
+Measured portal pressure gradient (PPG) and measure vein cut surface area (CSA) by digitalized image
+*Wang A-J, et al. Endoscopic Ultrasound. 2016;5:218-224.
+Huang JY, et al. Gastrointest Endosc 2017;85:996-1001</text>
+		</slide>
+		<slide index="16" title="Endoscopic Ultrasound-Guided Portal Pressure Measurement" titleNormalized="endoscopic ultrasound-guided portal pressure measurement" src="slide17.swf" size="39602" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.1890005"/>
+			</animationSteps>
+			<notes>Ken chang group demonstrated feasibility of  eus guide technique to measure PPG and they found excellent correlation with some clinical parameter of PH. </notes>
+			<notesNormalized>ken chang group demonstrated feasibility of eus guide technique to measure ppg and they found excellent correlation with some clinical parameter of ph.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Ken chang group demonstrated feasibility of  eus guide technique to measure PPG and they found excellent correlation with some clinical parameter of PH. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Endoscopic Ultrasound-Guided Portal Pressure Measurement 
+Huang JY, et al. Gastrointest Endosc 2017;85:996-1001
+PPG measurement (PPGM) accurately reflects the degree of PH
+
+ 
+
+
+Target: Portal vein and Hepatic vein (or inferior vena cava) (via transgastric/transduodenal) 
+
+ 
+
+
+First human trial: 28 patients underwent EUS-PPGM with 100% technical success and no complications. 
+
+ 
+
+
+PPG ranged from 1.5–19mmHg and had excellent correlation with clinical parameters of PH
+ : presence of varices (p=0.0002), 
+ : PH gastropathy (p=0.007) 
+ : thrombocytopenia (p=0.036)
+ : cirrhosis (p=0.005).
+Compact manometer</text>
+		</slide>
+		<slide index="17" title="EUS for EGVs: Use more" titleNormalized="eus for egvs: use more" src="slide18.swf" size="1915" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.5589995"/>
+			</animationSteps>
+			<notes> what’s benefit for seeing more, number 1, number 2 and more impostantly number 3</notes>
+			<notesNormalized>what’s benefit for seeing more, number 1, number 2 and more impostantly number 3</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt; what’s benefit for seeing more, number 1, number 2 and more impostantly number 3&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS for EGVs: Use more
+Management
+Predict risk of bleeding, recurrence, re-bleeding
+Assessment of pharmacological effect of drugs on PH
+Predictor outcomes of EGVs
+EUS guided therapy:
+ sclerotherapy/ glue/ coil /,…
+ Intrahepatic portosystemic shunt 
+Wang A-J, et al. Endoscopic Ultrasound. 2016;5:218-224.
+“Clinical application”</text>
+		</slide>
+		<slide index="18" title="EUS for EGVs: See more, more prediction" titleNormalized="eus for egvs: see more, more prediction" src="slide19.swf" size="2741" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.5190005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS for EGVs: See more, more prediction
+Predict risk of variceal rupture 
+
+Faigel DO, et al. Gastrointest Endosc. 2000; 52:455-62.
+97% prior bleeding (+ Paraesophageal varices) vs 3% in control (OR3.1) 
+Miller L, et al. Am J Gastroenterol. 2003; 98:454-9.
+Measure variceal cut surface area (CSA) by digitalized image: 
+76 fold increase: Sq.cm
+Predict risk of re-bleeding 
+
+Severe periesophageal collateral veins and large perforating veins.
+Predict risk of recurrence
+Irisawa A, et al. Gastrointest Endosc. 2001; 53:77-84.
+Sato T, et al. Hepatol Res. 2009; 39:126-33.
+Perforating veins: inflowing direction and more cardia intramural veins.
+Hino S, et al. Endoscopy. 2001; 33:869-72.
+LGV: High hepatofugal flow (&gt;12 cm/s), dominance of anterior branch
+Kuramochi A, Hino S, Gastroenterol. 2007; 42:219-24
+Irisawa A, et al. Gastrointest Endosc. 1999; 50:374-380.
+Main ref. Wang A-J, et al. Endoscopic Ultrasound. 2016;5:218-224.
+EV</text>
+		</slide>
+		<slide index="19" title="EUS for EGVs: See more, treat more" titleNormalized="eus for egvs: see more, treat more" src="slide20.swf" size="2299" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.4589991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Efficacy of pharmacotherapy
+Liao WC, et al. J Gastroenterol. 2015; 50:342-9.
+EUS for EGVs: See more, treat more
+Measure: Azygos blood flow 
+A marked decrease after 1, 5, and 10 min bolus injections 
+of terlipressin and somatostatin.
+Lee YT, et al. Gastrointest Endosc. 1999; 50:47-52.
+: Volumetric change of paraesophageal varices (related with risk of recurrence)
+ Guided therapy
+Lahoti S, et al. Gastrointest Endosc 2000;51:331-333
+de Paulo GA, et al. Gastrointest Endosc. 2006; 63:396-402.
+
+Targeting the perforating veins (EV): Good result and less recurrence
+EV</text>
+		</slide>
+		<slide index="20" title="Gastric varices: Endotherapy" titleNormalized="gastric varices: endotherapy" src="slide21.swf" size="20480" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="39.5790018"/>
+			</animationSteps>
+			<notes>Although well control  active bleeding, anyway let still a certain number of uncontrolled and recurrent bleeding 10-20%
+Residual patency of treated varices correlated with risk of rebleeding after glue injection. Varix obliteration was also confirmed by the absence of blood flow on color Doppler.</notes>
+			<notesNormalized>although well control active bleeding, anyway let still a certain number of uncontrolled and recurrent bleeding 10-20%
+residual patency of treated varices correlated with risk of rebleeding after glue injection. varix obliteration was also confirmed by the absence of blood flow on color doppler.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Although well control  active bleeding, anyway let still a certain number of uncontrolled and recurrent bleeding 10-20%&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Residual patency of treated varices correlated with risk of rebleeding after glue injection. Varix obliteration was also confirmed by the absence of blood flow on color Doppler.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Gastric Fundal Varices (GOV2/IGV1)
+Initial hemostasis: 83%-100%
+Re-bleeding: 8%-18%
+Embolism 0.5-4.3% 
+Post injection ulcer, scope damage
+Fetal: case report* from cerebral and splenic embolization
+
+Glue injection
+Gastric varices: Endotherapy
+Saraswat VA, Verma A. J Clin Exp Hepatol. 2012;2:55–69. 
+*Ashraf P, et al. J Coll Physicians Surg Pak. 2011;21:574–576
+*Martins Santos MM, et al. Gastrointest Endosc. 2007;65:1088–1090.</text>
+		</slide>
+		<slide index="21" title="Endotherapy for GVs: Why-EUS?" titleNormalized="endotherapy for gvs: why-eus?" src="slide22.swf" size="528679" advanceOnTime="1" framesCount="342" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video5" videoClipId="ispring.resources_18cfaa80.spr0_6195517" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_18cfaa80.spr2_6195517" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video5" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="341" playTime="14.1999998" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>However, these approaches are performed only varicers seen in endoscopy
+use the exact location of the varix under or outside the wall of the esophagus and stomach cannot be observed directly. </notes>
+			<notesNormalized>however, these approaches are performed only varicers seen in endoscopy
+use the exact location of the varix under or outside the wall of the esophagus and stomach cannot be observed directly.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;However, these approaches are performed only varicers seen in endoscopy&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;use the exact location of the varix under or outside the wall of the esophagus and stomach cannot be observed directly. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="22" title="Endotherapy for GVs: Why-EUS?" titleNormalized="endotherapy for gvs: why-eus?" src="slide23.swf" size="23612" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.7089991"/>
+			</animationSteps>
+			<notes>However, these approaches are performed only varicers seen in endoscopy
+use the exact location of the varix under or outside the wall of the esophagus and stomach cannot be observed directly. </notes>
+			<notesNormalized>however, these approaches are performed only varicers seen in endoscopy
+use the exact location of the varix under or outside the wall of the esophagus and stomach cannot be observed directly.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;However, these approaches are performed only varicers seen in endoscopy&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;use the exact location of the varix under or outside the wall of the esophagus and stomach cannot be observed directly. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Endotherapy for GVs: Why-EUS
+Courtesy: picture from istockphoto.com
+Mehta G, Abraldes JG, Bosch J. Gut 2010;59:701-705. 
+ drawing picture by Dr.Tanyaporn Chantarojanasiri
+See more: 
+ inflow/out flow
+See more:
+ obliteration
+DO more
+ material/technique</text>
+		</slide>
+		<slide index="23" title="GVs: EUS guided therapy" titleNormalized="gvs: eus guided therapy" src="slide24.swf" size="3490" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.2289995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Romero-Castro R, et al. Gastrointest Endosc 2007;66:402-7
+Romero-Castro R, et al. Endoscopy 2010;42:;:E35-36
+GVs: EUS guided therapy
+GV: EUS guided injection
+GV: EUS guided coil deployment
+N-butyl-2-cyanoacrylate (Histoacryl)
+2-octyl-cyanoacrylate (Dermabond)
+Sclerosant
+Glue
+
+
+Others: thrombin,…
+Levy MJ, et al. Gastrointest Endosc 2008;67:572-574
+Irisawa A. APDW 2015</text>
+		</slide>
+		<slide index="24" title="EUS-guided GVs: Glue" titleNormalized="eus-guided gvs: glue" src="slide25.swf" size="1770" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="28.8690008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-guided GVs: Glue 
+Objective: to assess the efficacy
+5 cases (2005-2006)
+Cyanoacrylate-Lipiodol with 22G EUS needle
+Target: perforating feeder veins (GV)
+Result: successful GV eradication with less glue
+ and no recurrent
+ 
+Romero-Castro R, et al. Gastrointest Endosc. 2007; 66:402-7.</text>
+		</slide>
+		<slide index="25" title="GVs: EUS guided coil deployment" titleNormalized="gvs: eus guided coil deployment" src="slide26.swf" size="353514" advanceOnTime="1" framesCount="1734" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video6" videoClipId="ispring.resources_18e0f8a0.spr0_6222895" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_18e0f8a0.spr2_6222895" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video6" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1733" playTime="72.1999969" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>Metal coils are covered with synthetic thrombotic material to promote clot aggregation</notes>
+			<notesNormalized>metal coils are covered with synthetic thrombotic material to promote clot aggregation</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Metal coils are covered with synthetic thrombotic material to promote clot aggregation&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="26" title="GVs: EUS guided coil deployment" titleNormalized="gvs: eus guided coil deployment" src="slide27.swf" size="338096" advanceOnTime="1" framesCount="2399" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video7" videoClipId="ispring.resources_18e0fa60.spr0_6258744" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_18e0fa60.spr2_6258744" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video7" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2398" playTime="99.8529968" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>Metal coils are covered with synthetic thrombotic material to promote clot aggregation</notes>
+			<notesNormalized>metal coils are covered with synthetic thrombotic material to promote clot aggregation</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Metal coils are covered with synthetic thrombotic material to promote clot aggregation&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="27" title="EUS-guided GVs: Coil vs Glue" titleNormalized="eus-guided gvs: coil vs glue" src="slide28.swf" size="3006" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="48.3090014"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-guided GVs: Coil vs Glue 
+Romero-Castro R, et al. Gastrointest Endosc 2013;78:711-721
+Retrospective analysis of a prospective maintained database, multicenter study
+11 patients: coil group vs 19 patients CYA group
+Inclusion criteria: bleeding GV, ASAI-III, Exclusion: disfuse GV, Plt&lt;50,000, INR&gt;2, SV thrombosis, 
+Esophageal-stricture
+Under Propofol, Antibiotic, Ambulatory care, F/U Wk1-Month6
+ Approach: Trans-esophageal or trans-gastric
+Technique: Coil-stainless steel synthetic fibered coil(MREYE, IMWCE (Cook), diameter 8-20mm; 
+ straight length of 50-150 mm, 3.2-5.6 configuration loops
+ a mean of 5.8+/-1.2 coils (2-13) per patient
+
+ CYA- a mixture of N-bytyl-2-cyanoacrylate with lipiodol (1:1) 1ml/portion 
+ at perforating vein with 22G needle
+ a mean 1.5+/- 0.1 ml (1-3) CYA use
+Vessel thrombosis: : Doppler –ve, flow downstream by contrast injection 
+Perforating veins diameter range from 3-25 mm (10.5+/-0.8) 
+CYA Gr.: more Child-Pugh Class and more history of previous bleeding</text>
+		</slide>
+		<slide index="28" title="EUS-guided GVs: Coil vs Glue" titleNormalized="eus-guided gvs: coil vs glue" src="slide29.swf" size="3058" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="59.8290018"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-guided GVs: Coil vs Glue 
+Romero-Castro R, et al. Gastrointest Endosc 2013;78:711-721
+Over all obliteration: 29/30: (one case-technical difficulty due to complex anatomy)
+Coil Gr.: 10/11-90.9% (14 sessions) vs CYA Gr.: 19/19-100% (29 sessions)
+ 9/11 (81.8%) one session 10/19 (52.6%) one session 
+ 1/11 (9.1%) two sessions 8/19 (42.1%) two sessions
+ 1/11 (9.1%) three sessions 1/19 (5.3%) three sessions
+ 2/11 (18.2%) additional with CYA 
+All obtained hemostasis and no recurrent 
+ Adverse event: overall 12/30 (40%)
+Coil Gr.: 1/9 (9.1%, 95% CI 7.9%-26.1%) vs CYA Gr.: 11/19* (57.9%, 35.7%-80.1%) p&lt;0.01
+
+Coil: 1 symptom-esophageal bleeding
+CYA: 2 symptom-fever, chest pain without embolism
+ 9 asymptomatic pulmonary embolism (CT)
+* Including asymptomatic pulmonary embolism
+Hospital stay: Coil 6.0+/-2.4 D vs CYA 17.3+/-2.7 D, p=0.007
+Cost per procedure: more expensive in Coil</text>
+		</slide>
+		<slide index="29" title="Coil Migration" titleNormalized="coil migration" src="slide30.swf" size="72285" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.3390002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Coil Migration</text>
+		</slide>
+		<slide index="30" title="Coil Migration: Prevention" titleNormalized="coil migration: prevention" src="slide31.swf" size="180443" advanceOnTime="1" framesCount="884" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video8" videoClipId="ispring.resources_22674790.spr0_6273845" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_22674790.spr2_6273845" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video8" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="883" playTime="36.7916667" pauseTime="0.0083326"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="31" title="EUS-guided GVs: Coil plus Glue" titleNormalized="eus-guided gvs: coil plus glue" src="slide32.swf" size="8833" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="60.0390009"/>
+			</animationSteps>
+			<notes>Binmoeeler postulated coil will provide a scaffold for glue adherence</notes>
+			<notesNormalized>binmoeeler postulated coil will provide a scaffold for glue adherence</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Binmoeeler postulated coil will provide a scaffold for glue adherence&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-guided GVs: Coil plus Glue 
+Authors study period Design Cases success no.coil vol.CYA F/U(Day) Obliteration Adverse event
+ rate ml pain bleeding embolism
+
+Bhat YM 2009-2015 Retro 152 GFV 151(99%) 1.4 (1-4) 2 (0.5-6) 436 (30-2043) 93 (93%) 3% 3% 1%
+ 7(5%) active bleed
+ 105 (69%) recent bleeding
+ 40(26%) primary prophylaxis 96%
+
+
+
+
+Binmoeller 2009-2011 Retro 30 GFV# 100% 1.4/varix 96%
+ 2 active bleed (single session)
+(transesophageal approach) 14 recent bleed
+
+# not good candidate for TIPSS 
+Bhat YM, et al. GIE 2016;83:1164-72
+Binmoeller KF, et al. GIE 2011;74:1019-25.
+“Coil can provide a scaffold for glue adherence* to decrease risk of migration”
+Hall PSJ , et al. Clin Endosc 2017;50:138-142</text>
+		</slide>
+		<slide index="32" title="EUS-guided GVs: Coil plus Sclerosant" titleNormalized="eus-guided gvs: coil plus sclerosant" src="slide33.swf" size="8426" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.2989992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-guided GVs: Coil plus Sclerosant 
+Irisawa A. APDW 2015
+Deploy coil till blocked variceal blood flow
+ (confirmed by contrast varicealopgrphy)
+Injected sclerosant (ethanolamine oleate)
+ Into varix including feeders
+6 patients was performed with 
+ 100% success with no minor/major complication</text>
+		</slide>
+		<slide index="33" title="EUS-guided creation of an Intrahepatic Portosystemic Shunt" titleNormalized="eus-guided creation of an intrahepatic portosystemic shunt" src="slide34.swf" size="100208" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.5089983"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>                                                                                                     
+Figure 3
+Stent located between hepatic and portal vein on necropsy.
+
+Schulman AR, et al.Gastrointestinal endoscopy. 2017;85:243-247. 
+EUS-guided creation of an Intrahepatic Portosystemic Shunt
+Buscaglia JM. A Gastrointest Endosc. 2009;69(4):941–947</text>
+		</slide>
+		<slide index="34" title="EUS for portal hypertension and varix management" titleNormalized="eus for portal hypertension and varix management" src="slide35.swf" size="1666" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="41.7390017"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS for portal hypertension 
+and varix management
+ In summary: Recently, EUS has played role in case of 
+unsecured EG variceal bleeding, recurrent bleeding in aspect of 
+detecting deep collateral pathway-perforating veins (afferent),
+targeting with glue/coil deployment and confirming vessel obliteration 
+as well. Furthermore, more trial in PPG measure and Intrahepatic 
+portosystemic shunt may be bright future in clinical practice.</text>
+		</slide>
+	</slides>
+</presentation>

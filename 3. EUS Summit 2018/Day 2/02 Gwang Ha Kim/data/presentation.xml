@@ -1,0 +1,1103 @@
+<?xml version="1.0"?>
+<presentation title="02 Gwang Ha Kim" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{CDC4A21D-C055-4712-BEF8-B923BD391445}">
+	<presenters>
+		<presenter name="Gwang Ha Kim" title="Korea" email="" web="" phone="" photoAssetId="">
+			<bio>EUS-based algorithmic approach  in the work-up of the subepithelial lesions</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="154898" duration="19362"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="181230" duration="22653"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="94294" duration="11786"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="167228" duration="20903"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="103280" duration="12910"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="322082" duration="40260"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="311424" duration="38928"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="141733" duration="17716"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="116028" duration="14503"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="523538" duration="65442"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="99519" duration="12439"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="240580" duration="30072"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="322082" duration="40260"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="101818" duration="12727"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="343398" duration="42924"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="293661" duration="36707"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="183529" duration="22941"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="667943" duration="83492"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="132329" duration="16541"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="141106" duration="17638"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="329187" duration="41148"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="199620" duration="24952"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="462098" duration="57762"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="339845" duration="42480"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="244551" duration="30568"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="73814" duration="9226"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="651852" duration="81481"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="129612" duration="16201"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="176632" duration="22079"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="219264" duration="27408"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="19.3099995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="22.6000000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="11.7419996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="20.8700000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="12.8680000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="40.2260000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="38.8740000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="17.6599998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="14.4540000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="65.3939972"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="12.3990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="30.0249996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="40.2080000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="12.6879997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="42.8750000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="36.6580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="22.8880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="83.4390000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="16.5090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="17.5900000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="41.0909996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="24.9069996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="57.7080000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="42.4249992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="30.5300000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="9.1899996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="81.4489975"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="16.1590000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="22.0240000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="27.3530000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS-based algorithmic approach in the work-up of the subepithelial lesions" titleNormalized="eus-based algorithmic approach in the work-up of the subepithelial lesions" src="slide1.swf" size="2939" advanceOnTime="1" framesCount="25" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="24" playTime="1.0000000" pauseTime="18.3099995"/>
+			</animationSteps>
+			<notes>Thank you for you kind introduction.
+The title I speak today is EUS for subepithelial lesion: non-invasive approach.
+</notes>
+			<notesNormalized>thank you for you kind introduction.
+the title i speak today is eus for subepithelial lesion: non-invasive approach.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="13"&gt;Thank you for you kind introduction.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="13"&gt;The title I speak today is EUS for subepithelial lesion: non-invasive approach.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-based algorithmic approach 
+ in the work-up of the subepithelial lesions
+Department of Internal Medicine
+Pusan National University School of Medicine
+Gwang Ha Kim</text>
+		</slide>
+		<slide index="1" title="Subepithelial lesion (SEL)" titleNormalized="subepithelial lesion (sel)" src="slide2.swf" size="2448" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.5990004"/>
+			</animationSteps>
+			<notes>Instead of subepithelial lesion, we usually use a term “submucosal tumor (SMT).”
+Due to the increase of health check-up endoscopy, the incidence of subepithelial lesion is increasing.</notes>
+			<notesNormalized>instead of subepithelial lesion, we usually use a term “submucosal tumor (smt).”
+due to the increase of health check-up endoscopy, the incidence of subepithelial lesion is increasing.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Instead of subepithelial lesion, we usually use a term “submucosal tumor (SMT).”&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Due to the increase of health check-up endoscopy, the incidence of subepithelial lesion is increasing.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Subepithelial lesion (SEL)
+Submucosal lesion
+Spectrum of histologic lesions 
+ located beneath the mucosal lining of GI tract
+Relatively common finding at upper endoscopy
+3.1% (2,685/87,578)
+ Korean EUS Study Group (unpublished data)</text>
+		</slide>
+		<slide index="2" title="What do we worry about in SEL?" titleNormalized="what do we worry about in sel?" src="slide3.swf" size="19460" advanceOnTime="1" framesCount="234" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="233" playTime="9.7083333" pauseTime="2.0336663"/>
+			</animationSteps>
+			<notes>If we meet the subepithelial lesion in clinics, we worry about whether it is benign or malignant.</notes>
+			<notesNormalized>if we meet the subepithelial lesion in clinics, we worry about whether it is benign or malignant.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;If we meet the subepithelial lesion in clinics, we worry about whether it is benign or malignant.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>What do we worry about in SEL?
+Benign
+(&gt;85%)
+Malignant
+(&lt;15%)</text>
+		</slide>
+		<slide index="3" title="Diagnostic weapons for SELs" titleNormalized="diagnostic weapons for sels" src="slide4.swf" size="8422" advanceOnTime="1" framesCount="529" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="528" playTime="20.8700008" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>There are several diagnostic modalities for subepithelial lesions.
+Today, I focus on the diagnostic EUS.</notes>
+			<notesNormalized>there are several diagnostic modalities for subepithelial lesions.
+today, i focus on the diagnostic eus.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;There are several diagnostic modalities for subepithelial lesions.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Today, I focus on the diagnostic EUS.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Diagnostic weapons for SELs
+Endoscopy ± biopsy
+EUS 
+EUS-guided tissue acquisition
+Endoscopic resection 
+</text>
+		</slide>
+		<slide index="4" title="Normal gut wall" titleNormalized="normal gut wall" src="slide5.swf" size="28968" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.8670000"/>
+			</animationSteps>
+			<notes>On EUS, normal gut wall consists of 5 layers.
+With using high-frequency EUS, the gut wall consists of 9 layers.</notes>
+			<notesNormalized>on eus, normal gut wall consists of 5 layers.
+with using high-frequency eus, the gut wall consists of 9 layers.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;On EUS, normal gut wall consists of 5 layers.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;With using high-frequency EUS, the gut wall consists of 9 layers.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Normal gut wall
+Normal esophageal wall (20 MHz)
+1,2 epithelium
+3 lamina propria
+4 muscularis mucosa
+5 submucosa
+6 inner circular muscle
+7 intermuscular connective tissue
+8 outer longitudinal muscle
+9 adventitia
+Normal gastric wall (7.5 MHz)
+fluid-mucosa interface
+mucosa
+submucosa
+muscularis propria
+subserosa/serosa</text>
+		</slide>
+		<slide index="5" title="Schema of GI wall on EUS" titleNormalized="schema of gi wall on eus" src="slide6.swf" size="28073" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="40.2250017"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Schema of GI wall on EUS
+Dig Endosc 2017;29:431</text>
+		</slide>
+		<slide index="6" title="What features should we describe during EUS?" titleNormalized="what features should we describe during eus?" src="slide7.swf" size="2459" advanceOnTime="1" framesCount="727" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="726" playTime="30.2500000" pauseTime="8.6240005"/>
+			</animationSteps>
+			<notes>During EUS, we must get information such as  ….</notes>
+			<notesNormalized>during eus, we must get information such as ….</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;During EUS, we must get information such as  ….&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>What features should we describe during EUS?
+Location
+Layer
+Echogenicity
+Homogeneity
+Marginal border clarity
+Growth pattern
+Size
+Presence 
+cystic change
+hyperechogenic spots
+calcification
+marginal halo</text>
+		</slide>
+		<slide index="7" title="SELs : 2nd layer" titleNormalized="sels : 2nd layer" src="slide8.swf" size="1897" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.6589998"/>
+			</animationSteps>
+			<notes>From now, I will show you typical EUS cases.
+First is the lesion located in the 2nd hypoechoic layer.
+These cases are diagnosed as leiomyoma, granular cell tumor, carcinoid tumor an so on.</notes>
+			<notesNormalized>from now, i will show you typical eus cases.
+first is the lesion located in the 2nd hypoechoic layer.
+these cases are diagnosed as leiomyoma, granular cell tumor, carcinoid tumor an so on.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;From now, I will show you typical EUS cases.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;First is the lesion located in the 2nd hypoechoic layer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;These cases are diagnosed as leiomyoma, granular cell tumor, carcinoid tumor an so on.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>SELs : 2nd layer
+ Leiomyoma
+ Granular cell tumor
+ Inflammatory fibrinoid polyp
+ Neuroendocrine tumor
+ MALT lymphoma
+ Brunner’s gland hyperplasia
+</text>
+		</slide>
+		<slide index="8" title="SELs : 2nd and 3rd layer" titleNormalized="sels : 2nd and 3rd layer" src="slide9.swf" size="1961" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.4530005"/>
+			</animationSteps>
+			<notes>Sometimes the afore-mentioned lesions are also located in the 2nd and 3rd layer.</notes>
+			<notesNormalized>sometimes the afore-mentioned lesions are also located in the 2nd and 3rd layer.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Sometimes the afore-mentioned lesions are also located in the 2nd and 3rd layer.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>SELs : 2nd and 3rd layer
+ Granular cell tumor
+ Inflammatory fibrinoid polyp
+ Neuroendocrine tumor
+ MALT lymphoma
+ Ectopic pancreas
+ Brunner’s gland hyperplasia
+</text>
+		</slide>
+		<slide index="9" title="Granular cell tumor vs Leiomyoma" titleNormalized="granular cell tumor vs leiomyoma" src="slide10.swf" size="110726" advanceOnTime="1" framesCount="971" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="970" playTime="40.4166667" pauseTime="24.9773305"/>
+			</animationSteps>
+			<notes>At first, the leiomyoma is seen as hypoechoic lesion with clear margin in 2nd layer.
+Granular cell tumor also has similar EUS findings at a glance.
+However, by using a high frequency EUS probe, there are some discriminating points between them.
+This is the result of immunohistochemical staining. The margin of granular cell tumor is somewhat unclear, but the margin of leiomyoma is clear.
+Therefore, white-to-yellowish surface color, hyperechoic in comparison with surrouding m. echo, and unclear border suggest that this lesion is granular cell tumor.</notes>
+			<notesNormalized>at first, the leiomyoma is seen as hypoechoic lesion with clear margin in 2nd layer.
+granular cell tumor also has similar eus findings at a glance.
+however, by using a high frequency eus probe, there are some discriminating points between them.
+this is the result of immunohistochemical staining. the margin of granular cell tumor is somewhat unclear, but the margin of leiomyoma is clear.
+therefore, white-to-yellowish surface color, hyperechoic in comparison with surrouding m. echo, and unclear border suggest that this lesion is granular cell tumor.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;At first, the leiomyoma is seen as hypoechoic lesion with clear margin in 2nd layer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Granular cell tumor also has similar EUS findings at a glance.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;However, by using a high frequency EUS probe, there are some discriminating points between them.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;This is the result of immunohistochemical staining. The margin of granular cell tumor is somewhat unclear, but the margin of leiomyoma is clear.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Therefore, white-to-yellowish surface color, hyperechoic in comparison with surrouding m. echo, and unclear border suggest that this lesion is granular cell tumor.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Granular cell tumorf
+Granular cell tumor vs Leiomyoma
+Leiomyoma
+Kim GH et al. Scand J Gastroenterol 2011;46:142
+A
+A
+EUS features
+Sensitivity
+(%)
+Specificity
+(%)
+PPV
+(%)
+NPV
+(%)
+Accuracy
+(%)
+White-to-yellowish color
+85.7
+90.0
+80.0
+93.1
+88.6
+Hyperechoic in comparison 
+ with surrounding m. echo
+64.3
+93.3
+91.8
+84.8
+84.1
+Unclear border 
+85.7
+93.3
+85.7
+95.3
+90.1
+Of the above 3 features
+≥ one
+100
+80.0
+70.0
+100
+86.4
+≥ two
+85.7
+96.7
+92.3
+93.5
+93.2
+all
+50.0
+100
+100
+81.1
+84.1</text>
+		</slide>
+		<slide index="10" title="Inflammatory fibrinoid polyp" titleNormalized="inflammatory fibrinoid polyp" src="slide11.swf" size="70771" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.3980002"/>
+			</animationSteps>
+			<notes>Inflammatory fibrinoid polyp is seen as hypoechoic lesion with unclear margin in 2nd  and/or 3rd layer.</notes>
+			<notesNormalized>inflammatory fibrinoid polyp is seen as hypoechoic lesion with unclear margin in 2nd and/or 3rd layer.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Inflammatory fibrinoid polyp is seen as hypoechoic lesion with unclear margin in 2nd  and/or 3rd layer.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Inflammatory fibrinoid polyp</text>
+		</slide>
+		<slide index="11" title="Neuroendocrine tumor" titleNormalized="neuroendocrine tumor" src="slide12.swf" size="83038" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.0239996"/>
+			</animationSteps>
+			<notes>Carcinoid tumor is usually seen as hypoechoic lesion in 2nd and 3rd layer. 
+First case, the lesion is located only in 2nd  layer.
+Second and third case, the lesions are extended to deep submucosal layer.</notes>
+			<notesNormalized>carcinoid tumor is usually seen as hypoechoic lesion in 2nd and 3rd layer. 
+first case, the lesion is located only in 2nd layer.
+second and third case, the lesions are extended to deep submucosal layer.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Carcinoid tumor is usually seen as hypoechoic lesion in 2nd and 3rd layer. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;First case, the lesion is located only in 2nd  layer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Second and third case, the lesions are extended to deep submucosal layer.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Neuroendocrine tumor</text>
+		</slide>
+		<slide index="12" title="Brunner’s gland hyperplasia" titleNormalized="brunner’s gland hyperplasia" src="slide13.swf" size="78173" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="40.2070002"/>
+			</animationSteps>
+			<notes>Brunner gland hyperplasia on duodenum is seen as hypoechoic lesion with unclear border in 2nd and 3rd layer.
+Sometimes the lesion includes septate cystic area or focal hyperechoic area.</notes>
+			<notesNormalized>brunner gland hyperplasia on duodenum is seen as hypoechoic lesion with unclear border in 2nd and 3rd layer.
+sometimes the lesion includes septate cystic area or focal hyperechoic area.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Brunner gland hyperplasia on duodenum is seen as hypoechoic lesion with unclear border in 2nd and 3rd layer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Sometimes the lesion includes septate cystic area or focal hyperechoic area.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Brunner’s gland hyperplasia</text>
+		</slide>
+		<slide index="13" title="SELs : 3rd layer" titleNormalized="sels : 3rd layer" src="slide14.swf" size="1932" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.6869997"/>
+			</animationSteps>
+			<notes>Next, if the lesion is located in the 3rd submucosal layer, the lesion would be diagnosed as lipoma, cyst, AV malformation an so on.</notes>
+			<notesNormalized>next, if the lesion is located in the 3rd submucosal layer, the lesion would be diagnosed as lipoma, cyst, av malformation an so on.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Next, if the lesion is located in the 3rd submucosal layer, the lesion would be diagnosed as lipoma, cyst, AV malformation an so on.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>SELs : 3rd layer
+ Lipoma
+ Cyst
+ Gastritis cystica profunda
+ Lymphangiectasia
+ Arteriovenous malformation 
+ Varices
+ Anisakiasis – chronic type</text>
+		</slide>
+		<slide index="14" title="Lipoma" titleNormalized="lipoma" src="slide15.swf" size="81832" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.8740000"/>
+			</animationSteps>
+			<notes>Lipoma is seen as hyperechoic lesion with clear margin in 3rd layer. During EUS examination, we can observe the EUS cushion sign (+).
+Sometimes, the lesion is seen as hypoechoic lesion and so it is misdiagnosed as stromal tumor.
+In this situation, CT is more helpful to diagnose lipoma.</notes>
+			<notesNormalized>lipoma is seen as hyperechoic lesion with clear margin in 3rd layer. during eus examination, we can observe the eus cushion sign (+).
+sometimes, the lesion is seen as hypoechoic lesion and so it is misdiagnosed as stromal tumor.
+in this situation, ct is more helpful to diagnose lipoma.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Lipoma is seen as hyperechoic lesion with clear margin in 3rd layer. During EUS examination, we can observe the EUS cushion sign (+).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Sometimes, the lesion is seen as hypoechoic lesion and so it is misdiagnosed as stromal tumor.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In this situation, CT is more helpful to diagnose lipoma.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Lipoma</text>
+		</slide>
+		<slide index="15" title="Gastritis cystica profunda" titleNormalized="gastritis cystica profunda" src="slide16.swf" size="77691" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.6570009"/>
+			</animationSteps>
+			<notes>Gastritis cystica profunda is usually seen as  anechoic cystic lesion in 3rd layer.
+However, like this, the solid type gastritis cystica profunda is present and it is misdiagnosed as lymphoma or stromal tumor.
+</notes>
+			<notesNormalized>gastritis cystica profunda is usually seen as anechoic cystic lesion in 3rd layer.
+however, like this, the solid type gastritis cystica profunda is present and it is misdiagnosed as lymphoma or stromal tumor.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Gastritis cystica profunda is usually seen as  anechoic cystic lesion in 3rd layer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;However, like this, the solid type gastritis cystica profunda is present and it is misdiagnosed as lymphoma or stromal tumor.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Gastritis cystica profunda</text>
+		</slide>
+		<slide index="16" title="Arteriovenous malformation" titleNormalized="arteriovenous malformation" src="slide17.swf" size="84026" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.8870005"/>
+			</animationSteps>
+			<notes>AV malformation is usually found in the esophagus.
+The lesion is usually seen as hyperechoic lesion in 3rd submucosal layer.
+Interestingly, the echo pattern changes into more hypoechoic during examination like hemangioma in the liver.
+Also, it has peripheral draining vein.</notes>
+			<notesNormalized>av malformation is usually found in the esophagus.
+the lesion is usually seen as hyperechoic lesion in 3rd submucosal layer.
+interestingly, the echo pattern changes into more hypoechoic during examination like hemangioma in the liver.
+also, it has peripheral draining vein.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;AV malformation is usually found in the esophagus.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The lesion is usually seen as hyperechoic lesion in 3rd submucosal layer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Interestingly, the echo pattern changes into more hypoechoic during examination like hemangioma in the liver.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Also, it has peripheral draining vein.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Arteriovenous malformation</text>
+		</slide>
+		<slide index="17" title="Anisakiasis – chronic type" titleNormalized="anisakiasis – chronic type" src="slide18.swf" size="94087" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="83.4380030"/>
+			</animationSteps>
+			<notes>Chronic anisakiasis is sometimes misdiagnosed as GIST.
+In my experience, the characteristic findings of chronic anisakiasis are inhomogenous hypoechoic lesions with unclear border in 3rd and/or 4th layer.
+Inside the lesion, hyperechoic tubular structures suggesting anisakiasis worm are seen.</notes>
+			<notesNormalized>chronic anisakiasis is sometimes misdiagnosed as gist.
+in my experience, the characteristic findings of chronic anisakiasis are inhomogenous hypoechoic lesions with unclear border in 3rd and/or 4th layer.
+inside the lesion, hyperechoic tubular structures suggesting anisakiasis worm are seen.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Chronic anisakiasis is sometimes misdiagnosed as GIST.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In my experience, the characteristic findings of chronic anisakiasis are inhomogenous hypoechoic lesions with unclear border in 3rd and/or 4th layer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Inside the lesion, hyperechoic tubular structures suggesting anisakiasis worm are seen.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Anisakiasis – chronic type
+Kim GH et al. Gastroenterol Res Pract 2018;8562792</text>
+		</slide>
+		<slide index="18" title="SELs : 4th layer" titleNormalized="sels : 4th layer" src="slide19.swf" size="1840" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.5080008"/>
+			</animationSteps>
+			<notes>Next is the lesion located at the 4th layer.
+Because we consider the malignant potential, this situation is very important for EUS examiner.
+This lesion is diagnosed as leiomyoma, GIST, Schwannoma, glomus tumor, or ectopic pancreas.</notes>
+			<notesNormalized>next is the lesion located at the 4th layer.
+because we consider the malignant potential, this situation is very important for eus examiner.
+this lesion is diagnosed as leiomyoma, gist, schwannoma, glomus tumor, or ectopic pancreas.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Next is the lesion located at the 4th layer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Because we consider the malignant potential, this situation is very important for EUS examiner.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;This lesion is diagnosed as leiomyoma, GIST, Schwannoma, glomus tumor, or ectopic pancreas.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>SELs : 4th layer
+ Leiomyoma
+ Schwannoma
+ GIST
+ Glomus tumor
+ Ectopic pancreas</text>
+		</slide>
+		<slide index="19" title="Leiomyoma" titleNormalized="leiomyoma" src="slide20.swf" size="78561" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.5890002"/>
+			</animationSteps>
+			<notes>Leiomyoma usually locates in the cardia and upper body.
+The lesion is seen as homogenously, hypoechoic lesion with clear border.
+The echogenicity of leiomyoma is similar to the echogenicity of surrounding m. echo.</notes>
+			<notesNormalized>leiomyoma usually locates in the cardia and upper body.
+the lesion is seen as homogenously, hypoechoic lesion with clear border.
+the echogenicity of leiomyoma is similar to the echogenicity of surrounding m. echo.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Leiomyoma usually locates in the cardia and upper body.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The lesion is seen as homogenously, hypoechoic lesion with clear border.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The echogenicity of leiomyoma is similar to the echogenicity of surrounding m. echo.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Leiomyoma</text>
+		</slide>
+		<slide index="20" title="Schwannoma" titleNormalized="schwannoma" src="slide21.swf" size="81029" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="41.0899996"/>
+			</animationSteps>
+			<notes>Schwannoma is usually found in the body.
+The lesion is seen as inhomogenously hypoechoic lesion with clear border.
+The echogenicity of schwannoma is somewhat lower than the echogenicity of surrounding m. echo.
+Also, the peripheral halo is seen.</notes>
+			<notesNormalized>schwannoma is usually found in the body.
+the lesion is seen as inhomogenously hypoechoic lesion with clear border.
+the echogenicity of schwannoma is somewhat lower than the echogenicity of surrounding m. echo.
+also, the peripheral halo is seen.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Schwannoma is usually found in the body.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The lesion is seen as inhomogenously hypoechoic lesion with clear border.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The echogenicity of schwannoma is somewhat lower than the echogenicity of surrounding m. echo.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Also, the peripheral halo is seen.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Schwannoma</text>
+		</slide>
+		<slide index="21" title="GIST" titleNormalized="gist" src="slide22.swf" size="76182" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.9059996"/>
+			</animationSteps>
+			<notes>If the malignant potential of GIST increase, the cystic change, margin lobulation and increased size is usually seen.</notes>
+			<notesNormalized>if the malignant potential of gist increase, the cystic change, margin lobulation and increased size is usually seen.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;If the malignant potential of GIST increase, the cystic change, margin lobulation and increased size is usually seen.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>GIST</text>
+		</slide>
+		<slide index="22" title="DDx points in GI mesenchymal tumors" titleNormalized="ddx points in gi mesenchymal tumors" src="slide23.swf" size="32305" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="57.7070002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>DDx points in GI mesenchymal tumors
+Kim GH et al. World J Gastroenterol 2009;15:3376</text>
+		</slide>
+		<slide index="23" title="Ectopic pancreas" titleNormalized="ectopic pancreas" src="slide24.swf" size="25472" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.4239992"/>
+			</animationSteps>
+			<notes>Last case is the ectopic pancreas.
+The characteristic EUS findings are -----.</notes>
+			<notesNormalized>last case is the ectopic pancreas.
+the characteristic eus findings are -----.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Last case is the ectopic pancreas.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The characteristic EUS findings are -----.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ectopic pancreas
+Characteristic EUS features
+Indistinct border
+Margin lobulation
+Anechoic duct-like structures
+Mural growth pattern
+Location within two or more layers
+
+Kim GH et al. J Gastroenterol Hepatol 2011;26:1441
+Kim GH et al. Word J Gastroenterol 2010;16:4589</text>
+		</slide>
+		<slide index="24" title="Superficial type" titleNormalized="superficial type" src="slide25.swf" size="97648" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.5290007"/>
+			</animationSteps>
+			<notes>I classified the EUS findings of ectopic pancreas into two types: superficial type and deep type.
+In superficial type, the lesion is located in 2nd or 3rd layer.
+In deep type, the lesion is located in 3rd, 4th, 5th layer. Therefore, the deep type ectopic pancreas is often misdiagnosed as GIST.</notes>
+			<notesNormalized>i classified the eus findings of ectopic pancreas into two types: superficial type and deep type.
+in superficial type, the lesion is located in 2nd or 3rd layer.
+in deep type, the lesion is located in 3rd, 4th, 5th layer. therefore, the deep type ectopic pancreas is often misdiagnosed as gist.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;I classified the EUS findings of ectopic pancreas into two types: superficial type and deep type.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In superficial type, the lesion is located in 2nd or 3rd layer.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In deep type, the lesion is located in 3rd, 4th, 5th layer. Therefore, the deep type ectopic pancreas is often misdiagnosed as GIST.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Superficial type 
+Deep type</text>
+		</slide>
+		<slide index="25" title="Subepithelial tumor" titleNormalized="subepithelial tumor" src="slide26.swf" size="8277" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.1889996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Subepithelial tumor
+Color
+Cyst, Lipoma
+Vascular lesion
+Cushion sign
+Observation
+(6-12 mo)
+Surface erosion/ulceration
+Size ≥ 1 cm
+EUS
+Hypoechoic mass in 4th layer
+&lt; 2 cm
+2-5 cm
+&gt; 5 cm
+translucent/yellow/bluish
+Rolling/Tenting sign
+Biopsy
+Observation
+ (6 mo)
+Bite-on-bite biopsy
+EUS-FNA/FNB
+Endoscopic resection
+Operation
+(+)
+(+)
+(-)
+(-)
+(+)
+irregular margin
+cystic change
+(-)
+(-)</text>
+		</slide>
+		<slide index="26" title="Diagnosis according to echogenicity" titleNormalized="diagnosis according to echogenicity" src="slide27.swf" size="53705" advanceOnTime="1" framesCount="1645" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="1644" playTime="68.5000000" pauseTime="12.9489975"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Diagnosis according to echogenicity
+Esophagus
+Stomach
+Duodenum
+Anechoic
+Cyst
+Duplication cyst
+Heterotopic gastric mucosa
+Cyst
+Gastritis cystica profunda
+Duplication cyst
+Cyst
+Brunner’s gland hyperplasia
+Lymphangioma
+Hyperechoic
+Lipoma
+AV malformation
+Fibrovascular polyp
+Lipoma
+AV malformation
+Lipoma
+Brunner’s gland hyperplasia
+Hypoechoic
+Leiomyoma
+Granular cell tumor
+Schwannoma
+GIST
+GIST
+Leiomyoma
+Ectopic pancreas
+Inflammatory fibrinoid polyp
+Schwannoma
+Neuroendocrine tumor
+MALT lymphoma
+SET-like carcinoma
+Chronic anisakiasis
+Granular cell tumor
+Metastasis
+Brunner’s gland hyperplasia
+Ectopic pancreas
+GIST
+Neuroendocrine tumor
+Schwannoma
+</text>
+		</slide>
+		<slide index="27" title="Diagnosis according to layer" titleNormalized="diagnosis according to layer" src="slide28.swf" size="6915" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.1580004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Diagnosis according to layer
+Esophagus
+Stomach
+Duodenum
+2nd layer
+Leiomyoma
+Granular cell tumor
+Heterotopic gastric mucosa
+Inflammatory fibrinoid polyp
+Neuroendocrine tumor
+MALT lymphoma
+Leiomyoma
+Granular cell tumor
+Brunner’s gland hyperplasia
+Neuroendocrine tumor
+Lymphangioma
+2nd, 3rd layer
+Granular cell tumor
+Heterotopic gastric mucosa
+Inflammatory fibrinoid polyp
+Ectopic pancreas
+Neuroendocrine tumor
+MALT lymphoma
+SET-like carcinoma
+Granular cell tumor
+Brunner’s gland hyperplasia
+Ectopic pancreas
+Neuroendocrine tumor
+3rd layer
+Cyst
+Lipoma
+AV malformation
+Fibrovascular polyp
+
+Cyst
+Gastritis cystica profunda
+Lipoma
+Ectopic pancreas
+Chronic anisakiasis
+Metastasis
+Cyst
+Lipoma
+3rd, 4th layer
+-
+Ectopic pancreas
+GIST
+Chronic anisakiasis
+Ectopic pancreas
+4th layer
+Leiomyoma
+Schwannoma
+GIST
+GIST
+Leiomyoma
+Schwannoma
+Glomus tumor
+GIST
+Schwannoma
+4th, 5th layer
+-
+Ectopic pancreas
+Ectopic pancreas
+3rd, 4th, 5th layer
+-
+Ectopic pancreas
+Ectopic pancreas</text>
+		</slide>
+		<slide index="28" title="Diagnosis according to location" titleNormalized="diagnosis according to location" src="slide29.swf" size="54811" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.0230002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Diagnosis according to location</text>
+		</slide>
+		<slide index="29" title="EUS-based algorithm in GI SELs" titleNormalized="eus-based algorithm in gi sels" src="slide30.swf" size="77539" advanceOnTime="1" framesCount="387" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="386" playTime="16.0833333" pauseTime="11.2696673"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-based algorithm in GI SELs
+Hypoechoic
+Hyperechoic
+Anechoic
+2nd
+3rd 
+4th 
+5th 
+Esophagus
+Stomach
+Duodenum</text>
+		</slide>
+	</slides>
+</presentation>

@@ -1,0 +1,803 @@
+<?xml version="1.0"?>
+<presentation title="01 Peng Li" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{25ABD7A3-2650-429B-8E8A-26BCD44F816A}">
+	<presenters>
+		<presenter name="Peng Li" title="China" email="" web="" phone="" photoAssetId="">
+			<bio>EUS-FNA/FNB: needles and techniques</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="286765" duration="35845"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="299512" duration="37439"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="165765" duration="20720"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="217174" duration="27146"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="147375" duration="18421"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="259388" duration="32423"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="239117" duration="29889"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="420302" duration="52537"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="239953" duration="29994"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="315186" duration="39398"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="117700" duration="14712"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="356773" duration="44596"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="317276" duration="39659"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="238490" duration="29811"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="185827" duration="23228"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="672332" duration="84041"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="222399" duration="27799"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="143405" duration="17925"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="80293" duration="10036"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="118745" duration="14843"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="190425" duration="23803"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="179140" duration="22392"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="247058" duration="30882"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="214458" duration="26807"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="335666" duration="41958"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="140897" duration="17612"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="187290" duration="23411"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="292825" duration="36603"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="35.7919998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="37.4010000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="20.6809998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="27.1149998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="18.3829994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="32.3680000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="29.8449993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="52.4809990"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="29.9529991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="39.3429985"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="14.6700000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="44.5600000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="39.6129990"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="29.7549992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="23.1949997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="83.9929962"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="27.7539997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="17.8780000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="10.0000000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="14.7959995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="23.7540000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="22.3479996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="30.8390000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="26.7500000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="41.9109993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="17.5720000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="23.3799992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="36.5489998"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="never"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS-FNA/FNB: needles and techniques" titleNormalized="eus-fna/fnb: needles and techniques" src="slide1.swf" size="51702" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.7909998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA/FNB: needles and techniques
+Li Peng Zhang Shutian
+Beijing Friendship Hospital, Capital Medical University, China
+2018.10. 7 Soul</text>
+		</slide>
+		<slide index="1" title="The history of EUS-guided fine-needle aspiration" titleNormalized="the history of eus-guided fine-needle aspiration" src="slide2.swf" size="59172" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.4000010"/>
+			</animationSteps>
+			<notes>There is a bright future ahead for EUS in the years to come as extensive research is conducted in this field and various technologies are continuously implemented into clinical practice.</notes>
+			<notesNormalized>there is a bright future ahead for eus in the years to come as extensive research is conducted in this field and various technologies are continuously implemented into clinical practice.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;There is a bright future ahead for EUS in the years to come as extensive research is conducted in this field and various technologies are continuously implemented into clinical practice.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>The history of EUS-guided fine-needle aspiration
+A quarter century of EUS-FNA: Progress, milestones, and future directions[J]. Endoscopic Ultrasound, 2018, 7(3):141-160.</text>
+		</slide>
+		<slide index="2" title="Goals for Performance of EUS-FNA" titleNormalized="goals for performance of eus-fna" src="slide3.swf" size="53256" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.6799998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Goals for Performance of EUS-FNA</text>
+		</slide>
+		<slide index="3" title="Factors contributing to the results of EUS-FNA" titleNormalized="factors contributing to the results of eus-fna" src="slide4.swf" size="54395" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.1139998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Factors contributing to the results of EUS-FNA</text>
+		</slide>
+		<slide index="4" title="HOW TO ACHIEVE EXCELLENCE?" titleNormalized="how to achieve excellence?" src="slide5.swf" size="76270" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.3819994"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>HOW TO ACHIEVE EXCELLENCE?</text>
+		</slide>
+		<slide index="5" title="HOW TO ACHIEVE EXCELLENCE?" titleNormalized="how to achieve excellence?" src="slide6.swf" size="59681" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.3670000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>HOW TO ACHIEVE EXCELLENCE?</text>
+		</slide>
+		<slide index="6" title="HOW TO ACHIEVE EXCELLENCE?" titleNormalized="how to achieve excellence?" src="slide7.swf" size="40866" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.8439993"/>
+			</animationSteps>
+			<notes>It is important to determine the scope position and to decide which part of the lesion is the most suitable for sampling to obtain the best diagnostic accuracy
+To minimize the overall resistance to needle advancement in the transduodenal approach (regardless of size), it is recommended to place the scope in a short position whenever possible. Although the scope is unstable, the short position facilitates needle exit.
+
+Even though the risk of tumor seeding via the EUS needle tract is very low,a site with minimum number of blood vessels should be chosen using Doppler imaging to avoid bleeding complications</notes>
+			<notesNormalized>it is important to determine the scope position and to decide which part of the lesion is the most suitable for sampling to obtain the best diagnostic accuracy
+to minimize the overall resistance to needle advancement in the transduodenal approach (regardless of size), it is recommended to place the scope in a short position whenever possible. although the scope is unstable, the short position facilitates needle exit.
+
+even though the risk of tumor seeding via the eus needle tract is very low,a site with minimum number of blood vessels should be chosen using doppler imaging to avoid bleeding complications</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;It is important to determine the scope position and to decide which part of the lesion is the most suitable for sampling to obtain the best diagnostic accuracy&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;To minimize the overall resistance to needle advancement in the transduodenal approach (regardless of size), it is recommended to place the scope in a short position whenever possible. Although the scope is unstable, the short position facilitates needle exit.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Even though the risk of tumor seeding via the EUS needle tract is very low,a site with minimum number of blood vessels should be chosen using Doppler imaging to avoid bleeding complications&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>HOW TO ACHIEVE EXCELLENCE?</text>
+		</slide>
+		<slide index="7" title="Needle Size: present situation" titleNormalized="needle size: present situation" src="slide8.swf" size="91175" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="52.4799990"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Needle Size: present situation
+ The most commonly used commercially available EUS-FNA needle sizes are 19, 22, and 25 gauge (G)
+Varadarajulu S, Bang JY, Hebert‑Magee S. Assessment of the technical performance of the flexible 19‑gauge EUS‑FNA needle. Gastrointest Endosc 2012;76:336‑43. 
+A quarter century of EUS-FNA: Progress, milestones, and future directions[J]. Endoscopic Ultrasound, 2018, 7(3):141-160.
+Karadsheh Z, Al-Haddad M. Endoscopic ultrasound-guided fine-needle aspiration needles: which one and in what situation?[J]. Gastrointestinal Endoscopy Clinics of North Americ, 2014, 24(1):57-69.
+
+The 25-G needle demonstrated a higher success rate in sampling lesions in the pancreatic head or its uncinate process compared with 22- and 19-G needles.</text>
+		</slide>
+		<slide index="8" title="NEEDLE SIZE: SMALL VS. LARGE" titleNormalized="needle size: small vs. large" src="slide9.swf" size="88540" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.9519991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>NEEDLE SIZE: SMALL VS. LARGE</text>
+		</slide>
+		<slide index="9" title="NEEDLE SIZE: SMALL VS. LARGE" titleNormalized="needle size: small vs. large" src="slide10.swf" size="49379" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="39.3419985"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>NEEDLE SIZE: SMALL VS. LARGE
+Which particular needle size to use ?
+Karadsheh Z, Al-Haddad M. Endoscopic ultrasound-guided fine-needle aspiration needles: which one and in what situation?[J]. Gastrointestinal Endoscopy Clinics of North Americ, 2014, 24(1):57-69.
+Vilmann P, Săftoiu A, Hollerbach S, et al. Multicenter randomized controlled trial comparing the performance of 22 gauge versus 25 gauge EUS-FNA needles in solid masses.[J]. Scandinavian Journal of Gastroenterology, 2013, 48(7):877.
+Proposed general algorithm to approach patients undergoing EUS-FNA
+intermediate size needles (20-G or 21-G) might be more useful for combined cytology and histology sampling.
+space for improvement</text>
+		</slide>
+		<slide index="10" title=" Needles For EUS-FNA/FNB" titleNormalized=" needles for eus-fna/fnb" src="slide11.swf" size="45315" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.6690001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text> Needles For EUS-FNA/FNB 
+Development and Changes of Needles For EUS-FNA/FNB
+Witt BL, Adler DG, Hilden K, et al. A comparative needle study: EUS‑FNA procedures using the HD ProCore™ and EchoTip® 22‑gauge needle types. Diagn Cytopathol 2013;41:1069‑74. 
+Bang JY, Hawes R, Varadarajulu S. A meta‑analysis comparing ProCore and standard fine‑needle aspiration needles for endoscopic ultrasound‑guided tissue acquisition. Endoscopy 2016;48:339‑49.</text>
+		</slide>
+		<slide index="11" title="HOW TO ACHIEVE EXCELLENCE?" titleNormalized="how to achieve excellence?" src="slide12.swf" size="86589" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="44.5590014"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>HOW TO ACHIEVE EXCELLENCE?</text>
+		</slide>
+		<slide index="12" title="HOW TO ACHIEVE EXCELLENCE?" titleNormalized="how to achieve excellence?" src="slide13.swf" size="86622" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="39.6119990"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>HOW TO ACHIEVE EXCELLENCE?</text>
+		</slide>
+		<slide index="13" title="HOW TO ACHIEVE EXCELLENCE?" titleNormalized="how to achieve excellence?" src="slide14.swf" size="73575" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.7539992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>HOW TO ACHIEVE EXCELLENCE?</text>
+		</slide>
+		<slide index="14" title="HOW TO ACHIEVE EXCELLENCE?" titleNormalized="how to achieve excellence?" src="slide15.swf" size="85271" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.1939997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>HOW TO ACHIEVE EXCELLENCE?</text>
+		</slide>
+		<slide index="15" title="The Diagnostic Value of EUS-FNA/FNB and ERCP for Suspected Malignant Biliary Obstruction" titleNormalized="the diagnostic value of eus-fna/fnb and ercp for suspected malignant biliary obstruction" src="slide16.swf" size="18365" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="83.9919962"/>
+			</animationSteps>
+			<notes>SMBO(Suspected Malignant Biliary Obstruction)</notes>
+			<notesNormalized>smbo(suspected malignant biliary obstruction)</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;&lt;b&gt;SMBO(&lt;/b&gt;Suspected Malignant Biliary Obstruction&lt;b&gt;)&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>The Diagnostic Value of EUS-FNA/FNB and ERCP for Suspected Malignant Biliary Obstruction
+Background and Aim of the Study: 
+A:CT
+B:MRI
+C:ERCP
+There are scant data comparing EUS-FNA and ERCP sampling techniques in the diagnosis of SMBO
+SMBO is a challenging clinical scenario
+Ustundag Y, Alper E, Fusaroli P. EUS-FNA versus ERCP-guided sampling for suspected malignant biliary obstruction: Which to choose?[J]. Gastrointestinal Endoscopy, 2015, 81(1):241-242.
+Weilert F, Bhat Y M, Binmoeller K F, et al. EUS-FNA is superior to ERCP-based tissue sampling in suspected malignant biliary obstruction: results of a prospective, single-blind, comparative study[J]. Gastrointestinal Endoscopy, 2014, 80(1):97-104.
+D:EUS-FNA
+The diagnostic yield of ERCP for SMBO is unsatisfactory
+EUS-FNA facilitates staging and potentially more accurate tissue sampling
+ For inoperable patients therapy with either chemo-therapy or radiotherapy requires a definitive pathological diagnosis
+The benign causes of SMBO are inflammatory and pancreatic, all with similar clinical features to malignant biliary strictures</text>
+		</slide>
+		<slide index="16" title="The Diagnostic Value of EUS-FNA/FNB and ERCP for SMBO" titleNormalized="the diagnostic value of eus-fna/fnb and ercp for smbo" src="slide17.swf" size="10489" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.7529997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Age in years, median
+66.61±11.45
+Gender, male/female
+16/7
+Cause of Biliary Stricture , n(%)
+ 
+ Pancreatic Head Lesions
+16（69.9%）
+Pancreatic cancer
+10（43.4%）
+Chronic pancreatitis
+ 3（13.0%）
+ AIP
+ 3（13.0%）
+Undetermined biliary tract lesions, n(%)
+7（30.4%）
+ Bile duct carcinoma 
+4（17.4%）
+Inflammatory stricture of bile duct
+2（8.7%）
+Malignant mesothelioma
+1（4.3%）
+The Diagnostic Value of EUS-FNA/FNB and ERCP for SMBO
+Baseline characteristics of the patients</text>
+		</slide>
+		<slide index="17" title="The Diagnostic Value of EUS-FNA/FNB and ERCP for SMBO" titleNormalized="the diagnostic value of eus-fna/fnb and ercp for smbo" src="slide18.swf" size="22767" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.8770003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+
+
+
+EUS-FNA/FNB and ERCP was performed for the detection of malignancies in the biliary tract
+The Diagnostic Value of EUS-FNA/FNB and ERCP for SMBO</text>
+		</slide>
+		<slide index="18" title="The Diagnostic Value of EUS-FNA/FNB and ERCP for SMBO" titleNormalized="the diagnostic value of eus-fna/fnb and ercp for smbo" src="slide19.swf" size="16698" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.9990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+B: EUS-FNB:several atypical cell nests were surrounded by the cellulose-like exudate, and the adenoid structures were observed in the atypical cell nests. The lesion tends to be diagnosed as adenocarcinoma. 
+B
+The Diagnostic Value of EUS-FNA/FNB and ERCP for SMBO</text>
+		</slide>
+		<slide index="19" title="" titleNormalized="" src="slide20.swf" size="23181" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.7949995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="20" title="" titleNormalized="" src="slide21.swf" size="194181" advanceOnTime="1" framesCount="572" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_20655ed0.spr0_1697493" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_20655ed0.spr2_1697493" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="571" playTime="23.7916667" pauseTime="0.0073331"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="21" title="" titleNormalized="" src="slide22.swf" size="50017" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.3469996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="22" title="" titleNormalized="" src="slide23.swf" size="56363" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.8380007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="23" title="" titleNormalized="" src="slide24.swf" size="64255" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.7490000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="24" title="The Diagnostic Value of EUS-FNA/FNB and ERCP for SMBO" titleNormalized="the diagnostic value of eus-fna/fnb and ercp for smbo" src="slide25.swf" size="6998" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="41.9099993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA/FNB is superior to ERCP for the diagnosis of biliary stricture due to biliary tract and pancreatic head lesions.
+Result of the diagnostic value of EUS-FNA/FNB and ERCP for Biliary Stricture
+The Diagnostic Value of EUS-FNA/FNB and ERCP for SMBO</text>
+		</slide>
+		<slide index="25" title="Future Prospects" titleNormalized="future prospects" src="slide26.swf" size="32160" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.5710005"/>
+			</animationSteps>
+			<notes>一种新型穿刺针，此种针头的尖端被延长，并在尖端的对面另有一突出的尖刺，外观看起来像鲨鱼头。EUS-FNB-SC从活检标本产
+出效率、标本大小、穿刺次数等方面均优于传统穿刺活检技术,这一设计能更有效地获取目标组织，防止穿刺时因组织弹性导致组织获取不足。
+The histology yield was significantly higher using the EUS-FNB-SC needle compared with the EUS-FNA needle</notes>
+			<notesNormalized>一种新型穿刺针，此种针头的尖端被延长，并在尖端的对面另有一突出的尖刺，外观看起来像鲨鱼头。eus-fnb-sc从活检标本产
+出效率、标本大小、穿刺次数等方面均优于传统穿刺活检技术,这一设计能更有效地获取目标组织，防止穿刺时因组织弹性导致组织获取不足。
+the histology yield was significantly higher using the eus-fnb-sc needle compared with the eus-fna needle</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;一种新型穿刺针，此种针头的尖端被延长，并在尖端的对面另有一突出的尖刺，外观看起来像鲨鱼头。EUS-FNB-SC从活检标本产&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;出效率、标本大小、穿刺次数等方面均优于传统穿刺活检技术,这一设计能更有效地获取目标组织，防止穿刺时因组织弹性导致组织获取不足。&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The histology yield was significantly higher using the EUS-FNB-SC needle compared with the EUS-FNA needle&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Future Prospects
+novel EUS-FNA/FNB needles to acquire more tissue during EUS procedures
+A
+B
+D
+C
+E
+A-C: Detail picture of the tip of new histology needle FNB-Shark core; D-E: picture of the normal needle and the new histology needle during EUS procedures; F:Pictomicrograph illustrations of pancreatic biopsy specimen obtained by FNB-SC(Acinic cell carcinoma)
+F
+Kandel P, Tranesh G, Nassar A, et al. EUS-guided fine-needle biopsy using a novel fork-tip needle: a case control study.[J]. Gastrointestinal Endoscopy, 2016, 84(6):1034-1039.</text>
+		</slide>
+		<slide index="26" title="Future Prospects" titleNormalized="future prospects" src="slide27.swf" size="48568" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.3789992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Future Prospects
+CE-EUS(Contrast-enhanced Endoscopic ultrasound) enhances Doppler signals from vessels and facilitates EUS-FNA/FNB
+CE-EUS during FNA is useful for adequate sampling because it helps to identify the target for EUS-FNA and to predict the pathological features of the lesions.
+Hou X, Jin Z, Xu C, et al. Contrast-Enhanced Harmonic Endoscopic Ultrasound-Guided Fine-Needle Aspiration in the Diagnosis of Solid Pancreatic Lesions: A Retrospective Study[J]. Plos One, 2015, 10(3):e0121236.</text>
+		</slide>
+		<slide index="27" title="Future Prospects" titleNormalized="future prospects" src="slide28.swf" size="8663" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.5479998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Future Prospects
+  EUS-Guided Fine-Needle Vein Puncture：can be used to obtain a liquid biopsy
+Li H, Li Y, Cui L, et al. Monitoring pancreatic carcinogenesis by the molecular imaging of cathepsin E in vivo using confocal laser endomicroscopy. PLoS One 2014;9:e106566.  
+Karstensen JG, Cartana T, Klausen P, et al. Mo1430 pitfalls in the interpretation of pancreatic endoscopic ultrasound guided needle confocal LASER endomicroscopy. Gastrointest Endosc 2014;79:AB433–34.  
+Nakai Y, Shinoura S, Ahluwalia A, et al.In vivo visualization of epidermal growth factor receptor and survivin expression in porcine pancreas using endoscopic ultrasound guided fine needle imaging with confocal laser-induced endomicroscopy. J Physiol Pharmacol 2012;63:577-80.  
+  The Use of Needle Confocal Endomicroscopy：may be complementary to FNA for diagnosis during EUS
+ Immunostaining and gene analyses:using a small amount of specimen obtained by EUS-FNA </text>
+		</slide>
+	</slides>
+</presentation>

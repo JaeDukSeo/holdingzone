@@ -1,0 +1,1 @@
+(function(){var loadHandler=window['sl_{4E77CB97-9248-489A-96CE-B2D99187CE73}'];loadHandler&&loadHandler(5, '<div id="spr0_4839f5"><div id="spr1_4839f5" class="kern"><img id="img0_4839f5" src="data/img2.png" width="960px" height="540px" alt="" style="left:0px;top:0px;"/></div><div id="spr2_4839f5" class="kern"><div id="vd0_4839f5" style="top:-64.8px;"></div></div></div>');})();
