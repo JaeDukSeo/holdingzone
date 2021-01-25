@@ -1,0 +1,1272 @@
+<?xml version="1.0"?>
+<presentation title="13 Jiann–Hwa Chen" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{9E109745-4F80-450B-90D2-A2D447529824}">
+	<presenters>
+		<presenter name="Jiann Hwa Chen" title="Taipei Tzu Chi Hospital, Tzu Chi university" email="" web="" phone="" photoAssetId="">
+			<bio>How to become an EUS expert</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="1061348" duration="37904"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="1593096" duration="56895"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="2031222" duration="72542"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="2592959" duration="92604"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="683931" duration="24424"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="695634" duration="24842"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="686856" duration="24529"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="393554" duration="14054"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="426468" duration="15229"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="716114" duration="25574"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="1345874" duration="48065"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="961874" duration="34351"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="303588" duration="10841"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="1514834" duration="54100"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="1228845" duration="43886"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="1187885" duration="42423"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="968456" duration="34586"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="479131" duration="17110"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="493759" duration="17633"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="564708" duration="20167"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="1674285" duration="59794"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="948708" duration="33881"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="756342" duration="27011"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="1563839" duration="55850"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="678811" duration="24242"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="962605" duration="34377"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="147062" duration="5251"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="647359" duration="23118"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="245805" duration="8777"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="1063542" duration="37982"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="443291" duration="15830"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="1366354" duration="48797"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="501074" duration="17894"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="139748" duration="4989"/>
+		<soundAsset id="sndAsset34" src="sound35.mp3" embedded="0" size="2516159" duration="89861"/>
+		<soundAsset id="sndAsset35" src="sound36.mp3" embedded="0" size="1375131" duration="49110"/>
+		<soundAsset id="sndAsset36" src="sound37.mp3" embedded="0" size="103908" duration="3709"/>
+		<soundAsset id="sndAsset37" src="sound38.mp3" embedded="0" size="898971" duration="32104"/>
+		<soundAsset id="sndAsset38" src="sound39.mp3" embedded="0" size="605668" duration="21629"/>
+		<soundAsset id="sndAsset39" src="sound40.mp3" embedded="0" size="214354" duration="7654"/>
+		<soundAsset id="sndAsset40" src="sound41.mp3" embedded="0" size="1137416" duration="40620"/>
+		<soundAsset id="sndAsset41" src="sound42.mp3" embedded="0" size="875565" duration="31269"/>
+		<soundAsset id="sndAsset42" src="sound43.mp3" embedded="0" size="584456" duration="20872"/>
+		<soundAsset id="sndAsset43" src="sound44.mp3" embedded="0" size="761462" duration="27193"/>
+		<soundAsset id="sndAsset44" src="sound45.mp3" embedded="0" size="84159" duration="3004"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb36.swf" embedded="0"/>
+		<graphicAsset id="imgAsset36" src="thmb37.swf" embedded="0"/>
+		<graphicAsset id="imgAsset37" src="thmb38.swf" embedded="0"/>
+		<graphicAsset id="imgAsset38" src="thmb39.swf" embedded="0"/>
+		<graphicAsset id="imgAsset39" src="thmb40.swf" embedded="0"/>
+		<graphicAsset id="imgAsset40" src="thmb41.swf" embedded="0"/>
+		<graphicAsset id="imgAsset41" src="thmb42.swf" embedded="0"/>
+		<graphicAsset id="imgAsset42" src="thmb43.swf" embedded="0"/>
+		<graphicAsset id="imgAsset43" src="thmb44.swf" embedded="0"/>
+		<graphicAsset id="imgAsset44" src="thmb45.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="37.8709984"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="56.8570000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="72.5059967"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="92.5589981"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="24.3910000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="24.7910000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="24.4899998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="14.0100002"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="15.1800003"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="25.5200005"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="48.0149994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="34.3009987"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="10.8100004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="54.0540000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="43.8440000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="42.3760000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="34.5299988"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="17.0839996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="17.5839996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="20.1200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="59.7599983"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="33.8339996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="26.9599991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="55.8199997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="24.1910000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="34.3300018"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="5.1999998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="23.0900000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="8.7399998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="37.9379997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="15.7819996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="48.7490000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="17.8500004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="4.9380000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset34">
+				<startTimestamp slideIndex="34" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="34" stepIndex="0" timeOffset="89.8199997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset35">
+				<startTimestamp slideIndex="35" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="35" stepIndex="0" timeOffset="49.0820000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset36">
+				<startTimestamp slideIndex="36" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="36" stepIndex="0" timeOffset="3.6700000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset37">
+				<startTimestamp slideIndex="37" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="37" stepIndex="0" timeOffset="32.0600014"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset38">
+				<startTimestamp slideIndex="38" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="38" stepIndex="0" timeOffset="21.5880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset39">
+				<startTimestamp slideIndex="39" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="39" stepIndex="0" timeOffset="7.6080000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset40">
+				<startTimestamp slideIndex="40" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="40" stepIndex="0" timeOffset="40.5699997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset41">
+				<startTimestamp slideIndex="41" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="41" stepIndex="0" timeOffset="31.2310000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset42">
+				<startTimestamp slideIndex="42" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="42" stepIndex="0" timeOffset="20.8209991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset43">
+				<startTimestamp slideIndex="43" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="43" stepIndex="0" timeOffset="27.1599998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset44">
+				<startTimestamp slideIndex="44" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="44" stepIndex="0" timeOffset="2.9700000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="How to become an EUS expert" titleNormalized="how to become an eus expert" src="slide1.swf" size="377925" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.8699984"/>
+			</animationSteps>
+			<notes>Ladies and gentlemen, good afternoon. First of all I would like to express my hearty appreciation to the organizing committee and the prof Seo to invite me to attend this meeting. So I devote myself to prepare this topic well. I think it’s better for me to present in a different way. </notes>
+			<notesNormalized>ladies and gentlemen, good afternoon. first of all i would like to express my hearty appreciation to the organizing committee and the prof seo to invite me to attend this meeting. so i devote myself to prepare this topic well. i think it’s better for me to present in a different way.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Ladies and gentlemen, good afternoon. First of all I would like to express my hearty appreciation to the organizing committee and the prof Seo to invite me to attend this meeting. So I devote myself to prepare this topic well. I think it’s better for me to present in a different way. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>How to become an EUS expert 
+September 18, 2016
+1
+2016/09/09-10
+Asan Medical Center,
+ Seoul, Korea
+Asian EUS summit 2016
+Jiann–Hwa Chen, M.D. 
+Taipei Tzu Chi Hospital 
+Tzu Chi University 
+School of Medicine</text>
+		</slide>
+		<slide index="1" title="EUS education- Apprenticeship" titleNormalized="eus education- apprenticeship" src="slide2.swf" size="475037" advanceOnTime="1" framesCount="1251" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="1250" playTime="52.0833333" pauseTime="4.7766673"/>
+			</animationSteps>
+			<notes>This is a poster of fantasy adventure film released by Walt Disney Co.
+The story describe how the student learns from his teacher, the great enchanter  
+The prerequisite , magic, wizardry, sorcery, witchcraft 
+The meaning of apprentice is not the general relationship of student and teacher, their relationship is much closer so basically I consider  </notes>
+			<notesNormalized>this is a poster of fantasy adventure film released by walt disney co.
+the story describe how the student learns from his teacher, the great enchanter 
+the prerequisite , magic, wizardry, sorcery, witchcraft 
+the meaning of apprentice is not the general relationship of student and teacher, their relationship is much closer so basically i consider</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is a poster of fantasy adventure film released by Walt Disney Co.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The story describe how the student learns from his teacher, the great enchanter  &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The prerequisite , magic, wizardry, sorcery, witchcraft &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The meaning of apprentice is not the general relationship of student and teacher, their relationship is much closer so basically I consider  &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>September 18, 2016
+2
+EUS education-
+Apprenticeship</text>
+		</slide>
+		<slide index="2" title="PROCtor" titleNormalized="proctor" src="slide3.swf" size="715343" advanceOnTime="1" framesCount="1498" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="1497" playTime="62.3750000" pauseTime="10.1309967"/>
+			</animationSteps>
+			<notes>Proctor can be translated as surrogate or  substitute, means teacher can train you as smart as he 
+（observation）、實作練習（practice）、反思（reflection）及師傅之教導（coaching）
+Proctor – Surrogate or substitute </notes>
+			<notesNormalized>proctor can be translated as surrogate or substitute, means teacher can train you as smart as he 
+（observation）、實作練習（practice）、反思（reflection）及師傅之教導（coaching）
+proctor – surrogate or substitute</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;&lt;b&gt;Proctor can be translated as surrogate or  substitute, means teacher can train you as smart as he &lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;&lt;b&gt;（observation）、實作練習（practice）、反思（reflection）及師傅之教導（coaching）&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;&lt;b&gt;Proctor – Surrogate or substitute &lt;/b&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>PROCtor
+Observation 
+Practice 
+Reflection 
+Coaching– hands on teaching 
+September 18, 2016
+3</text>
+		</slide>
+		<slide index="3" title="The way I learn EUS – 4 T Strategy" titleNormalized="the way i learn eus – 4 t strategy" src="slide4.swf" size="378480" advanceOnTime="1" framesCount="1934" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="1933" playTime="80.5416667" pauseTime="12.0173314"/>
+			</animationSteps>
+			<notes>I share my experience with you for your reference  
+Without questions, teachers can tell you the key points which you cannot learn from the books</notes>
+			<notesNormalized>i share my experience with you for your reference 
+without questions, teachers can tell you the key points which you cannot learn from the books</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;I share my experience with you for your reference  &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Without questions, teachers can tell you the key points which you cannot learn from the books&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>The way I learn EUS – 4 T Strategy 
+September 18, 2016
+4
+Text
+Teachers
+Training
+Treatment (practice)</text>
+		</slide>
+		<slide index="4" title="Textbook - Knowledge" titleNormalized="textbook - knowledge" src="slide5.swf" size="794480" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.3900007"/>
+			</animationSteps>
+			<notes>The importance of reading books relies not on how many books you have read but on that you can accomplish reading the entire book    </notes>
+			<notesNormalized>the importance of reading books relies not on how many books you have read but on that you can accomplish reading the entire book</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The importance of reading books relies not on how many books you have read but on that you can accomplish reading the entire book    &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Textbook - Knowledge
+Techniques learning – the first step is always studying from the textbook, paper or literature 
+
+September 18, 2016
+5</text>
+		</slide>
+		<slide index="5" title="Teachers - Mentor" titleNormalized="teachers - mentor" src="slide6.swf" size="895294" advanceOnTime="1" framesCount="536" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="535" playTime="22.2916667" pauseTime="2.4993337"/>
+			</animationSteps>
+			<notes>A mighty and majestic lion never breed a frail cat. </notes>
+			<notesNormalized>a mighty and majestic lion never breed a frail cat.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;A mighty and majestic lion never breed a frail cat. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Teachers - Mentor
+September 18, 2016
+6
+Last edited by DenqoroWoyane
+Ben Pollard from Bristol, CT
+Like father, like son</text>
+		</slide>
+		<slide index="6" title="My mentor" titleNormalized="my mentor" src="slide7.swf" size="929038" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.4889998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+7
+My mentor 
+10 years later</text>
+		</slide>
+		<slide index="7" title="Follows the famous instructor" titleNormalized="follows the famous instructor" src="slide8.swf" size="463015" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.0090002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+8
+Follows the famous instructor</text>
+		</slide>
+		<slide index="8" title="Follows the famous instructor" titleNormalized="follows the famous instructor" src="slide9.swf" size="828302" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.1790003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+9
+Follows the famous instructor</text>
+		</slide>
+		<slide index="9" title="September 18, 2016" titleNormalized="september 18, 2016" src="slide10.swf" size="490238" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.5190005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+10</text>
+		</slide>
+		<slide index="10" title="Training" titleNormalized="training" src="slide11.swf" size="578003" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="48.0139994"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Training 
+Learning under supervision 
+Never do harm to patients 
+Attend the hands-on training course 
+
+September 18, 2016
+11</text>
+		</slide>
+		<slide index="11" title="Perseverance" titleNormalized="perseverance" src="slide12.swf" size="761489" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.2999987"/>
+			</animationSteps>
+			<notes>Yoda </notes>
+			<notesNormalized>yoda</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Yoda &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Perseverance 
+September 18, 2016
+12</text>
+		</slide>
+		<slide index="12" title="September 18, 2016 13" titleNormalized="september 18, 2016 13" src="slide13.swf" size="117424" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.8090004"/>
+			</animationSteps>
+			<notes>There is no short cut</notes>
+			<notesNormalized>there is no short cut</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;There is no short cut&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>September 18, 2016
+13</text>
+		</slide>
+		<slide index="13" title="Practice" titleNormalized="practice" src="slide14.swf" size="378214" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="54.0530009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Practice 
+Perform abdominal ultrasonography by yourself
+Ex vivo EUS scanning 
+Multi-disciplinary discussion 
+
+September 18, 2016
+14</text>
+		</slide>
+		<slide index="14" title="Abdominal ultrasonography" titleNormalized="abdominal ultrasonography" src="slide15.swf" size="378006" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="43.8430018"/>
+			</animationSteps>
+			<notes>In Taiwan, we perform abdominal ultrasound by ourselves </notes>
+			<notesNormalized>in taiwan, we perform abdominal ultrasound by ourselves</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In Taiwan, we perform abdominal ultrasound by ourselves &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Abdominal ultrasonography 
+Abdominal US can delineate the whole picture of organ and the EUS reveals the detail part. 
+A good follow-up modality
+
+September 18, 2016
+15</text>
+		</slide>
+		<slide index="15" title="IPMN" titleNormalized="ipmn" src="slide16.swf" size="756973" advanceOnTime="1" framesCount="874" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="873" playTime="36.3750000" pauseTime="6.0050011"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>2016/9/18
+16
+IPMN</text>
+		</slide>
+		<slide index="16" title="AIP - Abdominal US" titleNormalized="aip - abdominal us" src="slide17.swf" size="502724" advanceOnTime="1" framesCount="363" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_1b71eef0.spr0_8354430" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1b71eef0.spr2_8354430" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="362" playTime="15.0833333" pauseTime="19.4466654"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>AIP - Abdominal US 
+2016/9/18
+17</text>
+		</slide>
+		<slide index="17" title="Endoscopic ultrasonography" titleNormalized="endoscopic ultrasonography" src="slide18.swf" size="657273" advanceOnTime="1" framesCount="245" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="244" playTime="10.1666667" pauseTime="6.9173330"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Endoscopic ultrasonography
+Compared with CT image
+2016/9/18
+18
+EUS</text>
+		</slide>
+		<slide index="18" title="Recurrent pancreatitis susp. IPMN" titleNormalized="recurrent pancreatitis susp. ipmn" src="slide19.swf" size="474240" advanceOnTime="1" framesCount="365" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_1b71f230.spr0_8360920" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1b71f230.spr2_8360920" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="364" playTime="15.1666667" pauseTime="2.4173330"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Recurrent pancreatitis susp. IPMN 
+September 18, 2016
+19</text>
+		</slide>
+		<slide index="19" title="Recurrent pancreatitis susp. IPMN" titleNormalized="recurrent pancreatitis susp. ipmn" src="slide20.swf" size="474236" advanceOnTime="1" framesCount="365" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_1b8d6a90.spr0_8362074" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1b8d6a90.spr2_8362074" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="364" playTime="15.1666667" pauseTime="4.9533342"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Recurrent pancreatitis susp. IPMN 
+September 18, 2016
+20</text>
+		</slide>
+		<slide index="20" title="Recurrent pancreatitis susp. IPMN" titleNormalized="recurrent pancreatitis susp. ipmn" src="slide21.swf" size="599246" advanceOnTime="1" framesCount="1569" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_1b874e20.spr0_8381294" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1b874e20.spr2_8381294" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1568" playTime="59.7599983" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Recurrent pancreatitis susp. IPMN 
+September 18, 2016
+21</text>
+		</slide>
+		<slide index="21" title="Ex vivo EUS scanning" titleNormalized="ex vivo eus scanning" src="slide22.swf" size="378125" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.8329996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ex vivo EUS scanning 
+EUS study of resected surgical specimen
+Compare with that of in vivo exam 
+Refer to the histopathologic finding 
+September 18, 2016
+22</text>
+		</slide>
+		<slide index="22" title="Multi-disciplinary discussion" titleNormalized="multi-disciplinary discussion" src="slide23.swf" size="377920" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.9589991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Multi-disciplinary discussion 
+Discuss with radiologist, surgeon and pathologist 
+Periodic combined meeting 
+
+September 18, 2016
+23</text>
+		</slide>
+		<slide index="23" title="September 18, 2016" titleNormalized="september 18, 2016" src="slide24.swf" size="149435" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="55.8189997"/>
+			</animationSteps>
+			<notes>It is always associated with your attitude or dedication. You should be ambitious.
+I would imagine the "I suck" threshold would be the very bottom of a scale (like "1" on a scale of 1 to 10) and the "I kick ass" would be the very top (10). I would imagine that someone who had never played a particular video game before and who had no innate skill would "suck", while someone else who had spent most of his waking hours playing the game non-stop for years and reached a very high level of proficiency would "kick ass". Kick-ass can sometimes be used as an adjective This is a really kick-ass product</notes>
+			<notesNormalized>it is always associated with your attitude or dedication. you should be ambitious.
+i would imagine the "i suck" threshold would be the very bottom of a scale (like "1" on a scale of 1 to 10) and the "i kick ass" would be the very top (10). i would imagine that someone who had never played a particular video game before and who had no innate skill would "suck", while someone else who had spent most of his waking hours playing the game non-stop for years and reached a very high level of proficiency would "kick ass". kick-ass can sometimes be used as an adjective this is a really kick-ass product</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;It is always associated with your attitude or dedication. You should be ambitious.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;I would imagine the &amp;quot;I suck&amp;quot; threshold would be the very bottom of a scale (like &amp;quot;1&amp;quot; on a scale of 1 to 10) and the &amp;quot;I kick ass&amp;quot; would be the very top (10). I would imagine that someone who had never played a particular video game before and who had no innate skill would &amp;quot;suck&amp;quot;, while someone else who had spent most of his waking hours playing the game non-stop for years and reached a very high level of proficiency would &amp;quot;kick ass&amp;quot;. Kick-ass can sometimes be used as an adjective &lt;i&gt;This is a really kick-ass product&lt;/i&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>September 18, 2016
+24</text>
+		</slide>
+		<slide index="24" title="Practice makes perfect" titleNormalized="practice makes perfect" src="slide25.swf" size="810478" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.1900000"/>
+			</animationSteps>
+			<notes>As you know, any technique just like riding bicycle, via continuous and persevere practicing you can become an expert, we hope.</notes>
+			<notesNormalized>as you know, any technique just like riding bicycle, via continuous and persevere practicing you can become an expert, we hope.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;As you know, any technique just like riding bicycle, via continuous and persevere practicing you can become an expert, we hope.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Practice makes perfect 
+September 18, 2016
+25
+From daily Mail online</text>
+		</slide>
+		<slide index="25" title="September 18, 2016" titleNormalized="september 18, 2016" src="slide26.swf" size="123187" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="34.3290018"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+26</text>
+		</slide>
+		<slide index="26" title="September 18, 2016" titleNormalized="september 18, 2016" src="slide27.swf" size="669772" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.1989998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+27</text>
+		</slide>
+		<slide index="27" title="Clinical application of different EUS models" titleNormalized="clinical application of different eus models" src="slide28.swf" size="378250" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.0890002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Clinical application of different EUS models 
+Radial scan model -- Imaging diagnosis by circular pictures
+ (1)vertical to scope (2) malignancy staging (3) SMT evaluation
+ 
+Linear scan model by sector-- image parallel to scope
+ (1) longitudinal to scope (2) EUS guided FNA (diagnostic and 
+ therapeutic uses: biopsy, drainage, injection)
+September 18, 2016
+28</text>
+		</slide>
+		<slide index="28" title="September 18, 2016" titleNormalized="september 18, 2016" src="slide29.swf" size="529582" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.7389998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+29
+Digestive Endosc</text>
+		</slide>
+		<slide index="29" title="General concept (I)" titleNormalized="general concept (i)" src="slide30.swf" size="378377" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.9369997"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>General concept (I) 
+EUS is an imaging diagnostic tool.
+EUS is the combined tool with endoscope and ultrasound.
+The EUS scope is different from standard endoscope and probe is not same with catheter.
+Radial EUS and Curved Linear Array (CLA) EUS are similar but have their own view‐point. 
+EUS intervention is performed based on imaging.
+September 18, 2016
+30</text>
+		</slide>
+		<slide index="30" title="General concept (II)" titleNormalized="general concept (ii)" src="slide31.swf" size="378225" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.7809996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>General concept (II) 
+Good images can lead to the correct diagnosis and good results of intervention.
+Realizing the character of EUS endoscopes, probes and monitor
+Clinical evaluation: useful or valuable
+Image quality: Good or not
+Images: Understandable or not
+September 18, 2016
+31</text>
+		</slide>
+		<slide index="31" title="demonstrate and record high quality images" titleNormalized="demonstrate and record high quality images" src="slide32.swf" size="378718" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="48.7480005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>demonstrate and record high quality images
+Control and decide the best condition of monitor unit on gain and contrast (not too bright or black, not too strong, color of background )
+Demonstrating understandable images based on the standard image (adequate position in each organ and surrounding organs) and continuous (real time) scanning
+From wide range to limited range ( 9cm‐6cm‐4cm, from 360 degree to 180 degree images, low frequency to high frequency 4-5-6-7.5-12)
+Less acoustic area by air in the images
+Appendix; Focus of scanner (1.5cm to 2.0cm), Continuous scanning (from end to end)
+September 18, 2016
+32</text>
+		</slide>
+		<slide index="32" title="September 18, 2016" titleNormalized="september 18, 2016" src="slide33.swf" size="95287" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.8490004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+33</text>
+		</slide>
+		<slide index="33" title="Recommended order of scanning is 1-3-2 or 3-2-1" titleNormalized="recommended order of scanning is 1-3-2 or 3-2-1" src="slide34.swf" size="556339" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.9390001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+34
+Recommended order of scanning is 1-3-2 or 3-2-1</text>
+		</slide>
+		<slide index="34" title="Station 1" titleNormalized="station 1" src="slide35.swf" size="214691" advanceOnTime="1" framesCount="3913" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_1b874fc0.spr0_8433882" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1b874fc0.spr2_8433882" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="3912" playTime="89.8199997" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+35
+Station 1</text>
+		</slide>
+		<slide index="35" title="Lt adrenal gland" titleNormalized="lt adrenal gland" src="slide36.swf" size="568894" advanceOnTime="1" framesCount="948" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset35" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video5" videoClipId="ispring.resources_1ba24320.spr0_8446377" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1ba24320.spr2_8446377" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video5" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="947" playTime="39.4583333" pauseTime="9.6236674"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Lt adrenal gland 
+September 18, 2016
+36</text>
+		</slide>
+		<slide index="36" title="② Scanning from the duodenal bulb or the gastric antrum" titleNormalized="② scanning from the duodenal bulb or the gastric antrum" src="slide37.swf" size="383613" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset36" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.6690001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>② Scanning from the duodenal bulb or the gastric antrum
+September 18, 2016
+37
+Insert the scope into the duodenal bulb.
+Inflate the balloon and start scanning while slowly withdrawing the scope.</text>
+		</slide>
+		<slide index="37" title="Station 2" titleNormalized="station 2" src="slide38.swf" size="241079" advanceOnTime="1" framesCount="1554" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset37" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video6" videoClipId="ispring.resources_1e3b2470.spr0_8467562" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1e3b2470.spr2_8467562" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video6" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1553" playTime="32.0600014" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+38
+Station 2</text>
+		</slide>
+		<slide index="38" title="GB- appear &amp; disappear" titleNormalized="gb- appear &amp; disappear" src="slide39.swf" size="223116" advanceOnTime="1" framesCount="545" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset38" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video7" videoClipId="ispring.resources_1e3bb030.spr0_8475206" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1e3bb030.spr2_8475206" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video7" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="544" playTime="22.6599998" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+39
+GB- appear &amp; disappear</text>
+		</slide>
+		<slide index="39" title="September 18, 2016" titleNormalized="september 18, 2016" src="slide40.swf" size="414539" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset39" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.6090001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Pull method – Stretch technique (like ERCP), sometimes water filling is used.
+ observation of the pancreatic head and major papilla 
+ Longitudinal method -- Rotate the up/down knob in the ‘‘up’’ direction and perform 
+ scanning while withdrawing the scope.
+ Transverse method -- Adjust the ‘‘up/down’’ and ‘‘right/left’’ knobs to obtain a cross-
+ sectional view of the aorta. 
+Push method -- Pull the scope back to the gastric antrum. Then, reinsert the 
+ scope into the duodenal bulb.
+September 18, 2016
+40</text>
+		</slide>
+		<slide index="40" title="Station 3" titleNormalized="station 3" src="slide41.swf" size="620701" advanceOnTime="1" framesCount="2268" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset40" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video8" videoClipId="ispring.resources_1e3bddb0.spr0_8499340" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1e3bddb0.spr2_8499340" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video8" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2267" playTime="40.5699997" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>September 18, 2016
+41
+Station 3</text>
+		</slide>
+		<slide index="41" title="Major papilla vater" titleNormalized="major papilla vater" src="slide42.swf" size="682777" advanceOnTime="1" framesCount="2012" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset41" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video9" videoClipId="ispring.resources_1b648e80.spr0_8505158" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1b648e80.spr2_8505158" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video10" videoClipId="ispring.resources_1b64c280.spr0_8527373" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1b64c280.spr2_8527373" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video9" startPos="0.0000000"/>
+				<playVideo frameIndex="294" videoId="video10" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="2011" playTime="31.2310009" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Major papilla vater 
+September 18, 2016
+42</text>
+		</slide>
+		<slide index="42" title="Tips in practice" titleNormalized="tips in practice" src="slide43.swf" size="378235" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset42" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.8199991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Tips in practice 
+Do not inflate too much air
+Injecting small mount of water into the GI lumen after inflating the balloon
+Put the targets at the preferable positions and rotate the scope meticulously
+Slow manipulation of scope
+Avoid too much torque of the scope
+September 18, 2016
+43</text>
+		</slide>
+		<slide index="43" title="Take home message" titleNormalized="take home message" src="slide44.swf" size="378324" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset43" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.1589998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Take home message 
+There is no shot cut to be an EUS expert
+Learning curve is steep, so dedication and perseverance are needed. 
+It is important to demonstrate the character of the lesions and to record the images which everybody can understand.
+ Making the good images means the good diagnosis and safety intervention.
+September 18, 2016
+44</text>
+		</slide>
+		<slide index="44" title="Thanks for your kind attention" titleNormalized="thanks for your kind attention" src="slide45.swf" size="909260" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset44" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.9690000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thanks for your kind attention 
+September 18, 2016
+45
+Taipei Tzu Chi Hospital</text>
+		</slide>
+	</slides>
+</presentation>

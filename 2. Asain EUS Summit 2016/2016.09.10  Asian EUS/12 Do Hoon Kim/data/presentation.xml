@@ -1,0 +1,1030 @@
+<?xml version="1.0"?>
+<presentation title="12 Do Hoon Kim" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{1A15FD14-0265-433D-9FDA-0976DE557A42}">
+	<presenters>
+		<presenter name="Do Hoon Kim" title="University of Ulsan" email="" web="" phone="" photoAssetId="">
+			<bio>Radial &amp; linear EUS anatomy of esophagus and mediastinum</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="123656" duration="4415"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="596891" duration="21316"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="155108" duration="5538"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="488639" duration="17450"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="517165" duration="18469"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="421348" duration="15047"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="1155702" duration="41273"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="112685" duration="4023"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="95862" duration="3422"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="528868" duration="18887"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="464502" duration="16588"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="705874" duration="25208"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="303588" duration="10841"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="288959" duration="10318"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="656136" duration="23432"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="522285" duration="18651"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="746102" duration="26645"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="1196662" duration="42736"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="253119" duration="9038"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="443291" duration="15830"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="622491" duration="22230"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="3520411" duration="125727"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="765119" duration="27324"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="825828" duration="29492"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="278719" duration="9953"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="567634" duration="20271"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="476936" duration="17032"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="849234" duration="30328"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="996251" duration="35579"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="389896" duration="13923"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="359176" duration="12826"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="123656" duration="4415"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="818514" duration="29231"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="652479" duration="23301"/>
+		<soundAsset id="sndAsset34" src="sound35.mp3" embedded="0" size="414765" duration="14811"/>
+		<soundAsset id="sndAsset35" src="sound36.mp3" embedded="0" size="686856" duration="24529"/>
+		<soundAsset id="sndAsset36" src="sound37.mp3" embedded="0" size="474011" duration="16927"/>
+		<soundAsset id="sndAsset37" src="sound38.mp3" embedded="0" size="68068" duration="2429"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb36.swf" embedded="0"/>
+		<graphicAsset id="imgAsset36" src="thmb37.swf" embedded="0"/>
+		<graphicAsset id="imgAsset37" src="thmb38.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="4.3699999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="21.2880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="5.5060000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="17.4169998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="18.4179993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="15.0150000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="41.2400017"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="3.9700000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="3.3699999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="18.8500004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="16.5499992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="25.1580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="10.8100004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="10.2770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="23.3899994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="18.6189995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="26.5930000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="42.7090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="9.0090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="15.7799997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="22.1890000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="125.6920000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="27.2940000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="29.4629993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="9.9099998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="20.2199993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="16.9799995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="30.2970000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="35.5299988"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="13.8809996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="12.7790000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="4.3699999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="29.1960000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="23.2570000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset34">
+				<startTimestamp slideIndex="34" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="34" stepIndex="0" timeOffset="14.7810000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset35">
+				<startTimestamp slideIndex="35" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="35" stepIndex="0" timeOffset="24.4909992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset36">
+				<startTimestamp slideIndex="36" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="36" stepIndex="0" timeOffset="16.8840000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset37">
+				<startTimestamp slideIndex="37" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="37" stepIndex="0" timeOffset="2.4000000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Radial &amp; linear EUS anatomy of esophagus and mediastinum" titleNormalized="radial &amp; linear eus anatomy of esophagus and mediastinum" src="slide1.swf" size="1531" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.3689999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Radial &amp; linear EUS anatomy 
+of esophagus and mediastinum 
+Do Hoon Kim, MD
+Department of Gastroenterology, University of Ulsan College of Medicine, Asan Medical Center, Seoul, Korea
+</text>
+		</slide>
+		<slide index="1" title="Esophageal wall" titleNormalized="esophageal wall" src="slide2.swf" size="111339" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.2870001"/>
+			</animationSteps>
+			<notes>The wall layer of the esophagus has four layers by EUS using standard operating frequency (5-20 MHz). The layers are seen in concentric, alternating rings of hyper and hypoechoic structures. If a higher resolution frequency probe is used, greater number of layers could be visualized.</notes>
+			<notesNormalized>the wall layer of the esophagus has four layers by eus using standard operating frequency (5-20 mhz). the layers are seen in concentric, alternating rings of hyper and hypoechoic structures. if a higher resolution frequency probe is used, greater number of layers could be visualized.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The wall layer of the esophagus has four layers by EUS using standard operating frequency (5-20 MHz). The layers are seen in concentric, alternating rings of hyper and hypoechoic structures. If a higher resolution frequency probe is used, greater number of layers could be visualized.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Esophageal wall
+1-2 : epithelium
+3 : lamina propria
+4 : muscularis mucosa
+5 : submucosa
+6 : inner circular
+7 : connective tissue and interface
+8 : outer longitudinal
+9: adventitia</text>
+		</slide>
+		<slide index="2" title="Radial EUS of the Normal Mediastinum" titleNormalized="radial eus of the normal mediastinum" src="slide3.swf" size="1183" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.5050000"/>
+			</animationSteps>
+			<notes>First, I am going to talk about “Radial EUS of the Normal Mediastinum”</notes>
+			<notesNormalized>first, i am going to talk about “radial eus of the normal mediastinum”</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;First, I am going to talk about “Radial EUS of the Normal Mediastinum”&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Radial EUS of the Normal Mediastinum</text>
+		</slide>
+		<slide index="3" title="Evaluation of Mediastinum using a Radial EUS" titleNormalized="evaluation of mediastinum using a radial eus" src="slide4.swf" size="122663" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.4159998"/>
+			</animationSteps>
+			<notes>Radial EUS allows for complete “surveillance” of the mediastinum. This examination starts at the EG junction. EUS images correlated with a chest CT scan. It is recommended that EUS image be presented on the monitor in an orientation that exactly matches a CT slice. </notes>
+			<notesNormalized>radial eus allows for complete “surveillance” of the mediastinum. this examination starts at the eg junction. eus images correlated with a chest ct scan. it is recommended that eus image be presented on the monitor in an orientation that exactly matches a ct slice.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Radial EUS allows for complete “surveillance” of the mediastinum. This examination starts at the EG junction. EUS images correlated with a chest CT scan. It is recommended that EUS image be presented on the monitor in an orientation that exactly matches a CT slice. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Evaluation of Mediastinum using a Radial EUS
+ Orientation of esophagus
+Images of the radial EUS is similar to CT scan
+</text>
+		</slide>
+		<slide index="4" title="Mediastinum : Lymph Node Map (IASLC 2009)" titleNormalized="mediastinum : lymph node map (iaslc 2009)" src="slide5.swf" size="232344" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.4169993"/>
+			</animationSteps>
+			<notes>The LNs in the mediastinum were classified in different stations based on surgical and anatomical landmarks. EUS accessible stations include 2L, 2R, 4L, 5,7,8,9, and sometimes depending of the size, station 6.</notes>
+			<notesNormalized>the lns in the mediastinum were classified in different stations based on surgical and anatomical landmarks. eus accessible stations include 2l, 2r, 4l, 5,7,8,9, and sometimes depending of the size, station 6.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The LNs in the mediastinum were classified in different stations based on surgical and anatomical landmarks. EUS accessible stations include 2L, 2R, 4L, 5,7,8,9, and sometimes depending of the size, station 6.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Mediastinum : Lymph Node Map (IASLC 2009) 
+Supraclavicular nodes
+
+Superior mediastinal nodes
+2R/2L. Upper paratracheal
+3A. Pre-vascular
+3P Pre-vertebral
+4R/L. Lower paratracheal
+
+Aortic nodes
+5. Subaortic 
+6. Para-aortic
+
+Inferior mediastinal nodes
+7. Subcarinal
+8. Paraesophageal
+9. Pulmonary ligament
+
+Hilar, lobar and subsegmental 
+10. Hilar nodes
+http://radiologyassistant.nl</text>
+		</slide>
+		<slide index="5" title="Landmark around esophagus" titleNormalized="landmark around esophagus" src="slide6.swf" size="1827" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.0140003"/>
+			</animationSteps>
+			<notes>Landmark around esophagus, bronchus and heart on the front, aorta and spine on the back, aortic arch on the left, and azygos vein on the right side.</notes>
+			<notesNormalized>landmark around esophagus, bronchus and heart on the front, aorta and spine on the back, aortic arch on the left, and azygos vein on the right side.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Landmark around esophagus, bronchus and heart on the front, aorta and spine on the back, aortic arch on the left, and azygos vein on the right side.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Landmark around esophagus
+Bronchus
+Heart
+Aortic arch
+Azygos vein
+Aorta
+Spine</text>
+		</slide>
+		<slide index="6" title="GE junction" titleNormalized="ge junction" src="slide7.swf" size="255043" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="41.2390017"/>
+			</animationSteps>
+			<notes>For radial scanning, one should enter the stomach, inflate the balloon, and pull back the scope until the EG junction. To begin the study, the echoendoscope tip is placed in the distal esophagus near the gastroesophageal junction. With the transducer placed in the distal esophagus and the aorta located in the 5 o’clock position. This will present the spine at 7-o’clock, and the heart and respiratory tree will emerge in the 12-o’clock position. With this starting position, the echoendoscope is then slowly withdrawn. The anatomy around the distal esophagus is not complexthe aorta, spine, and portions of the left and right lung are the only anatomic structure that can be identified.</notes>
+			<notesNormalized>for radial scanning, one should enter the stomach, inflate the balloon, and pull back the scope until the eg junction. to begin the study, the echoendoscope tip is placed in the distal esophagus near the gastroesophageal junction. with the transducer placed in the distal esophagus and the aorta located in the 5 o’clock position. this will present the spine at 7-o’clock, and the heart and respiratory tree will emerge in the 12-o’clock position. with this starting position, the echoendoscope is then slowly withdrawn. the anatomy around the distal esophagus is not complexthe aorta, spine, and portions of the left and right lung are the only anatomic structure that can be identified.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;For radial scanning, one should enter the stomach, inflate the balloon, and pull back the scope until the EG junction. To begin the study, the echoendoscope tip is placed in the distal esophagus near the gastroesophageal junction. With the transducer placed in the distal esophagus and the aorta located in the 5 o’clock position. This will present the spine at 7-o’clock, and the heart and respiratory tree will emerge in the 12-o’clock position. With this starting position, the echoendoscope is then slowly withdrawn. The anatomy around the distal esophagus is not complexthe aorta, spine, and portions of the left and right lung are the only anatomic structure that can be identified.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>12
+GE junction
+Spine
+Aorta
+5
+7</text>
+		</slide>
+		<slide index="7" title="IVC" titleNormalized="ivc" src="slide8.swf" size="1306" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.9690000"/>
+			</animationSteps>
+			<notes>Other structures visible at the level of the GEJ are the IVC and liver.</notes>
+			<notesNormalized>other structures visible at the level of the gej are the ivc and liver.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Other structures visible at the level of the GEJ are the IVC and liver.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>IVC
+AO</text>
+		</slide>
+		<slide index="8" title="IVC" titleNormalized="ivc" src="slide9.swf" size="62401" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.3689999"/>
+			</animationSteps>
+			<notes>Other structures visible at the level of the GEJ are the IVC and liver.</notes>
+			<notesNormalized>other structures visible at the level of the gej are the ivc and liver.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Other structures visible at the level of the GEJ are the IVC and liver.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>IVC
+AO</text>
+		</slide>
+		<slide index="9" title="Aorta" titleNormalized="aorta" src="slide10.swf" size="593003" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.8490004"/>
+			</animationSteps>
+			<notes>At the EG junction, we see the very important aorta which rotated 5 o’clock, And then to the left screen, the IVC seen between 7 and 9 o’clock and the liver between 6 and 12 o’clock surrounding the IVC.</notes>
+			<notesNormalized>at the eg junction, we see the very important aorta which rotated 5 o’clock, and then to the left screen, the ivc seen between 7 and 9 o’clock and the liver between 6 and 12 o’clock surrounding the ivc.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;At the EG junction, we see the very important aorta which rotated 5 o’clock, And then to the left screen, the IVC seen between 7 and 9 o’clock and the liver between 6 and 12 o’clock surrounding the IVC.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>IVC
+Aorta</text>
+		</slide>
+		<slide index="10" title="RV" titleNormalized="rv" src="slide11.swf" size="332414" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.5489992"/>
+			</animationSteps>
+			<notes>As the scope is withdrawn, the vena cava moves clockwise and superiorly into the RA. The spine soon comes into view adjacent to the descending aorta at 6 o’clock.</notes>
+			<notesNormalized>as the scope is withdrawn, the vena cava moves clockwise and superiorly into the ra. the spine soon comes into view adjacent to the descending aorta at 6 o’clock.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;As the scope is withdrawn, the vena cava moves clockwise and superiorly into the RA. The spine soon comes into view adjacent to the descending aorta at 6 o’clock.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Az
+Vert
+IVC
+RV
+RA
+Ao
+CS
+LV</text>
+		</slide>
+		<slide index="11" title="Left atrium" titleNormalized="left atrium" src="slide12.swf" size="249138" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.1589998"/>
+			</animationSteps>
+			<notes>Further withdrawal upward to usually around 30-35cm reveals the anechoic chamber of the LA in the 12 o’clock position. We can also see the left pulmonary vein extending Rt side of the screen. It also the spine is easily visible at the 7 o’clock position as a bright “arc” with a shadow behind. </notes>
+			<notesNormalized>further withdrawal upward to usually around 30-35cm reveals the anechoic chamber of the la in the 12 o’clock position. we can also see the left pulmonary vein extending rt side of the screen. it also the spine is easily visible at the 7 o’clock position as a bright “arc” with a shadow behind.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Further withdrawal upward to usually around 30-35cm reveals the anechoic chamber of the LA in the 12 o’clock position. We can also see the left pulmonary vein extending Rt side of the screen. It also the spine is easily visible at the 7 o’clock position as a bright “arc” with a shadow behind. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Left atrium
+Aorta
+Spine
+Pulmonary vein</text>
+		</slide>
+		<slide index="12" title="RV" titleNormalized="rv" src="slide13.swf" size="392901" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.8090004"/>
+			</animationSteps>
+			<notes>With this field, relatively slight movement of the scope will reveal the mitral valve, aortic root, and the aortic valve. </notes>
+			<notesNormalized>with this field, relatively slight movement of the scope will reveal the mitral valve, aortic root, and the aortic valve.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;With this field, relatively slight movement of the scope will reveal the mitral valve, aortic root, and the aortic valve. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>AV
+PV
+LA
+RV
+RA
+Ao
+LA
+MV
+LV
+RA
+TV
+RV
+Ao</text>
+		</slide>
+		<slide index="13" title="" titleNormalized="" src="slide14.swf" size="553175" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.2760004"/>
+			</animationSteps>
+			<notes>The azygous vein also comes into view at this level, which appears just left of the screen. </notes>
+			<notesNormalized>the azygous vein also comes into view at this level, which appears just left of the screen.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The azygous vein also comes into view at this level, which appears just left of the screen. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="14" title="Subcarinal space" titleNormalized="subcarinal space" src="slide15.swf" size="278494" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.3889994"/>
+			</animationSteps>
+			<notes>As the echoendoscope is withdrawn further, the left atrium gradually disappeared. The subcarinal space is located from 10 to 12 o’clock and extends from where the left atrium disappears to where the left and right main stem bronchi come together to form the trachea. 
+</notes>
+			<notesNormalized>as the echoendoscope is withdrawn further, the left atrium gradually disappeared. the subcarinal space is located from 10 to 12 o’clock and extends from where the left atrium disappears to where the left and right main stem bronchi come together to form the trachea. 
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;As the echoendoscope is withdrawn further, the left atrium gradually disappeared. The subcarinal space is located from 10 to 12 o’clock and extends from where the left atrium disappears to where the left and right main stem bronchi come together to form the trachea. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Spine
+Ao
+Subcarinal space</text>
+		</slide>
+		<slide index="15" title="" titleNormalized="" src="slide16.swf" size="433102" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.6179995"/>
+			</animationSteps>
+			<notes>The subcarinal space may be 3 to 4cm in length. The subcarina should be examined by withdrawing the echoendocope in 1cm-increments while observing the 10- to 2-o’clock area for lymph nodes</notes>
+			<notesNormalized>the subcarinal space may be 3 to 4cm in length. the subcarina should be examined by withdrawing the echoendocope in 1cm-increments while observing the 10- to 2-o’clock area for lymph nodes</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The subcarinal space may be 3 to 4cm in length. The subcarina should be examined by withdrawing the echoendocope in 1cm-increments while observing the 10- to 2-o’clock area for lymph nodes&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>7</text>
+		</slide>
+		<slide index="16" title="" titleNormalized="" src="slide17.swf" size="549755" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.5920004"/>
+			</animationSteps>
+			<notes>On withdrawal of the endoscope, after the disappearance of the left atrium, eventually the right and left main stem bronchus emerges. Obviously, the left main stem bronchus is present on the same side of screen as the aorta. Air-filled structures on EUS show up as very bright “ribs” on the monitor.</notes>
+			<notesNormalized>on withdrawal of the endoscope, after the disappearance of the left atrium, eventually the right and left main stem bronchus emerges. obviously, the left main stem bronchus is present on the same side of screen as the aorta. air-filled structures on eus show up as very bright “ribs” on the monitor.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;On withdrawal of the endoscope, after the disappearance of the left atrium, eventually the right and left main stem bronchus emerges. Obviously, the left main stem bronchus is present on the same side of screen as the aorta. Air-filled structures on EUS show up as very bright “ribs” on the monitor.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="17" title="Trachea" titleNormalized="trachea" src="slide18.swf" size="240843" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.7089991"/>
+			</animationSteps>
+			<notes>On the further withdrawal of the endoscope, three distinctive findings are seen over the span of 2 to 3cm: the trachea, the elongated azygous vein, and the aortic arch. First, the left and right main stem bronchus come together to form the trachea, which is represented as a typical air-filled structure at the 12 o’clock position. The second anatomic landmark is the azygous vein, up to now seen as a round anechoic structure near the spine, or occasionally between the spine and the aorta. The third anatomic landmark is the elongation for the aorta representing the aortic arch. </notes>
+			<notesNormalized>on the further withdrawal of the endoscope, three distinctive findings are seen over the span of 2 to 3cm: the trachea, the elongated azygous vein, and the aortic arch. first, the left and right main stem bronchus come together to form the trachea, which is represented as a typical air-filled structure at the 12 o’clock position. the second anatomic landmark is the azygous vein, up to now seen as a round anechoic structure near the spine, or occasionally between the spine and the aorta. the third anatomic landmark is the elongation for the aorta representing the aortic arch.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;On the further withdrawal of the endoscope, three distinctive findings are seen over the span of 2 to 3cm: the trachea, the elongated azygous vein, and the aortic arch. First, the left and right main stem bronchus come together to form the trachea, which is represented as a typical air-filled structure at the 12 o’clock position. The second anatomic landmark is the azygous vein, up to now seen as a round anechoic structure near the spine, or occasionally between the spine and the aorta. The third anatomic landmark is the elongation for the aorta representing the aortic arch. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Endosonography 2011 Ch.5</text>
+		</slide>
+		<slide index="18" title="Trachea" titleNormalized="trachea" src="slide19.swf" size="299984" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.0090002"/>
+			</animationSteps>
+			<notes>After the aortic arch, further withdrawal of the endoscope demonstrates the great vessels coming off the aortic arch. </notes>
+			<notesNormalized>after the aortic arch, further withdrawal of the endoscope demonstrates the great vessels coming off the aortic arch.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;After the aortic arch, further withdrawal of the endoscope demonstrates the great vessels coming off the aortic arch. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Trachea
+Aortic arch
+Spine</text>
+		</slide>
+		<slide index="19" title="AP window" titleNormalized="ap window" src="slide20.swf" size="278965" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.7789997"/>
+			</animationSteps>
+			<notes>The area at 3 o’clock, just distal to the arch of the aorta, is the aortopulmonary window. This area is extremely important to image in order to look for periesophageal and paratracheal LN.</notes>
+			<notesNormalized>the area at 3 o’clock, just distal to the arch of the aorta, is the aortopulmonary window. this area is extremely important to image in order to look for periesophageal and paratracheal ln.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The area at 3 o’clock, just distal to the arch of the aorta, is the aortopulmonary window. This area is extremely important to image in order to look for periesophageal and paratracheal LN.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Aorta
+Spine
+AP window</text>
+		</slide>
+		<slide index="20" title="LCA" titleNormalized="lca" src="slide21.swf" size="264248" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.1890005"/>
+			</animationSteps>
+			<notes>More proximally from the area at the AP window the aorta elongates and forms the aortic arch. The left carotid and left subclavian artery can easily be seen to leave the aortic arch as small round structures on the right side of the image.</notes>
+			<notesNormalized>more proximally from the area at the ap window the aorta elongates and forms the aortic arch. the left carotid and left subclavian artery can easily be seen to leave the aortic arch as small round structures on the right side of the image.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;More proximally from the area at the AP window the aorta elongates and forms the aortic arch. The left carotid and left subclavian artery can easily be seen to leave the aortic arch as small round structures on the right side of the image.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>SCA
+LCA</text>
+		</slide>
+		<slide index="21" title="" titleNormalized="" src="slide22.swf" size="163633" advanceOnTime="1" framesCount="1800" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_176ffb00.spr0_7965754" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_176ffb00.spr2_7965754" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1799" playTime="74.9583333" pauseTime="50.7336680"/>
+			</animationSteps>
+			<notes>At the EG junction, we see the very important aorta which rotated 5 o’clock, And then to the left screen, the inf vena cava seen between 7 and 9 o’clock and the liver between 6 and 12 o’clock surrounding the IVC. As the scope is withdrawn, the vena cava moves clockwise and superiorly into the RA. The spine soon comes into view adjacent to the descending aorta at 6 o’clock. Further withdrawal upward to usually around 30-35cm reveals the anechoic chamber of the LA in the 12 o’clock position. We can also see the left pulmonary vein extending Rt side of the screen. It also the spine is easily visible at the 6-7 o’clock position as a bright “arc” with a shadow behind. With this field, relatively slight movement of the scope will reveal the mitral valve, aortic root, and the aortic valve. As the echoendoscope is withdrawn further, the left atrium gradually disappeared. The subcarinal space is located from 10 to 12 o’clock and extends from where the left atrium disappears to where the left and right main stem bronchi come together to form the trachea. The subcarinal space may be 3 to 4cm in length. The subcarina should be examined by withdrawing the echoendocope in 1cm-increments while observing the 10- to 2-o’clock area for lymph nodes. Further withdrawal of the endoscope demonstrates the great vessels coming off the aortic arch. The area at 3 o’clock, just distal to the aortic arch, is the aortopulmonary window. This area is extremely important to image in order to look for periesophageal and paratracheal LN. More proximally from the area at the AP window the aorta elongates and forms the aortic arch. The left carotid and left subclavian artery can easily be seen to leave the aortic arch as small round structures on the right side of the image.</notes>
+			<notesNormalized>at the eg junction, we see the very important aorta which rotated 5 o’clock, and then to the left screen, the inf vena cava seen between 7 and 9 o’clock and the liver between 6 and 12 o’clock surrounding the ivc. as the scope is withdrawn, the vena cava moves clockwise and superiorly into the ra. the spine soon comes into view adjacent to the descending aorta at 6 o’clock. further withdrawal upward to usually around 30-35cm reveals the anechoic chamber of the la in the 12 o’clock position. we can also see the left pulmonary vein extending rt side of the screen. it also the spine is easily visible at the 6-7 o’clock position as a bright “arc” with a shadow behind. with this field, relatively slight movement of the scope will reveal the mitral valve, aortic root, and the aortic valve. as the echoendoscope is withdrawn further, the left atrium gradually disappeared. the subcarinal space is located from 10 to 12 o’clock and extends from where the left atrium disappears to where the left and right main stem bronchi come together to form the trachea. the subcarinal space may be 3 to 4cm in length. the subcarina should be examined by withdrawing the echoendocope in 1cm-increments while observing the 10- to 2-o’clock area for lymph nodes. further withdrawal of the endoscope demonstrates the great vessels coming off the aortic arch. the area at 3 o’clock, just distal to the aortic arch, is the aortopulmonary window. this area is extremely important to image in order to look for periesophageal and paratracheal ln. more proximally from the area at the ap window the aorta elongates and forms the aortic arch. the left carotid and left subclavian artery can easily be seen to leave the aortic arch as small round structures on the right side of the image.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;At the EG junction, we see the very important aorta which rotated 5 o’clock, And then to the left screen, the inf vena cava seen between 7 and 9 o’clock and the liver between 6 and 12 o’clock surrounding the IVC. As the scope is withdrawn, the vena cava moves clockwise and superiorly into the RA. The spine soon comes into view adjacent to the descending aorta at 6 o’clock. Further withdrawal upward to usually around 30-35cm reveals the anechoic chamber of the LA in the 12 o’clock position. We can also see the left pulmonary vein extending Rt side of the screen. It also the spine is easily visible at the 6-7 o’clock position as a bright “arc” with a shadow behind. With this field, relatively slight movement of the scope will reveal the mitral valve, aortic root, and the aortic valve. As the echoendoscope is withdrawn further, the left atrium gradually disappeared. The subcarinal space is located from 10 to 12 o’clock and extends from where the left atrium disappears to where the left and right main stem bronchi come together to form the trachea. The subcarinal space may be 3 to 4cm in length. The subcarina should be examined by withdrawing the echoendocope in 1cm-increments while observing the 10- to 2-o’clock area for lymph nodes. Further withdrawal of the endoscope demonstrates the great vessels coming off the aortic arch. The area at 3 o’clock, just distal to the aortic arch, is the aortopulmonary window. This area is extremely important to image in order to look for periesophageal and paratracheal LN. More proximally from the area at the AP window the aorta elongates and forms the aortic arch. The left carotid and left subclavian artery can easily be seen to leave the aortic arch as small round structures on the right side of the image.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="22" title="Linear EUS of the Normal Mediastinum" titleNormalized="linear eus of the normal mediastinum" src="slide23.swf" size="1189" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.2930006"/>
+			</animationSteps>
+			<notes>Next, I am talking about “Linear EUS of the Normal Mediastinum”. Systematic evaluation of mediastinum using a linear EUS is difficult and time consuming because of narrow field of view. For beginners, evaluate mediastinum using radial EUS first, then use linear EUS later. CT or radial EUS image can guide evaluation with linear EUS.</notes>
+			<notesNormalized>next, i am talking about “linear eus of the normal mediastinum”. systematic evaluation of mediastinum using a linear eus is difficult and time consuming because of narrow field of view. for beginners, evaluate mediastinum using radial eus first, then use linear eus later. ct or radial eus image can guide evaluation with linear eus.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Next, I am talking about “Linear EUS of the Normal Mediastinum”. Systematic evaluation of mediastinum using a linear EUS is difficult and time consuming because of narrow field of view. For beginners, evaluate mediastinum using radial EUS first, then use linear EUS later. CT or radial EUS image can guide evaluation with linear EUS.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Linear EUS of the Normal Mediastinum</text>
+		</slide>
+		<slide index="23" title="Key structures" titleNormalized="key structures" src="slide24.swf" size="1754" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.4619993"/>
+			</animationSteps>
+			<notes>The stations for mediastinal EUS are relatively limited.  At the EG junction and distal esophagus, we see the descending thoracic aorta, pleura, and also the station 8 nodes which important for lung cancer staging. Through the mid-esophagus, we see the heart, subcarinal space, as well as paraaortic nodes and left bronchus. At mid to upper esophagus, we can see the AP window as well as azygous vein</notes>
+			<notesNormalized>the stations for mediastinal eus are relatively limited. at the eg junction and distal esophagus, we see the descending thoracic aorta, pleura, and also the station 8 nodes which important for lung cancer staging. through the mid-esophagus, we see the heart, subcarinal space, as well as paraaortic nodes and left bronchus. at mid to upper esophagus, we can see the ap window as well as azygous vein</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The stations for mediastinal EUS are relatively limited.  At the EG junction and distal esophagus, we see the descending thoracic aorta, pleura, and also the station 8 nodes which important for lung cancer staging. Through the mid-esophagus, we see the heart, subcarinal space, as well as paraaortic nodes and left bronchus. At mid to upper esophagus, we can see the AP window as well as azygous vein&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Key structures
+ Distal esophagus
+Descending thoracic aorta, pleura, station 8 nodes
+
+ Mid-esophagus
+Heart, subcarinal space, paraaortic nodes (stations 6 and 7), left bronchus
+
+ Mid-upper esophagus
+AP window, azygous vein (station 4L/5), Lt. subclavian artery, neck</text>
+		</slide>
+		<slide index="24" title="Evaluation of Mediastinum using a Linear EUS" titleNormalized="evaluation of mediastinum using a linear eus" src="slide25.swf" size="295636" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.9089998"/>
+			</animationSteps>
+			<notes>Home base structure for linear EUS is descending aorta at 30-35cm from incisor teeth.</notes>
+			<notesNormalized>home base structure for linear eus is descending aorta at 30-35cm from incisor teeth.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Home base structure for linear EUS is descending aorta at 30-35cm from incisor teeth.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Evaluation of Mediastinum using a Linear EUS
+“Home base” Structures for Linear EUS 
+Descending aorta at 30-35 cm
+“Home base” Structures for Linear EUS 
+Descending aorta at 30-35 cm</text>
+		</slide>
+		<slide index="25" title="Strategy to find subcarinal space" titleNormalized="strategy to find subcarinal space" src="slide26.swf" size="94953" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.2189993"/>
+			</animationSteps>
+			<notes>When examining the area around the distal esophagus, the starting point is the aorta. As the scope is withdrawn 3-5cm back from the GEJ, the scope will need to be rotated 180 degrees off the aorta to see the left atrium and cardiac structure.</notes>
+			<notesNormalized>when examining the area around the distal esophagus, the starting point is the aorta. as the scope is withdrawn 3-5cm back from the gej, the scope will need to be rotated 180 degrees off the aorta to see the left atrium and cardiac structure.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;When examining the area around the distal esophagus, the starting point is the aorta. As the scope is withdrawn 3-5cm back from the GEJ, the scope will need to be rotated 180 degrees off the aorta to see the left atrium and cardiac structure.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Strategy to find subcarinal space
+Find descending Aorta
+Rotate scope 180 °
+Withdraw to find LA
+Withdraw to find subcarina</text>
+		</slide>
+		<slide index="26" title="Aorta" titleNormalized="aorta" src="slide27.swf" size="263723" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.9789995"/>
+			</animationSteps>
+			<notes>To locate the subcarinal space, begin the examination in the distal esophagus. The endoiscope should be rotated in a clockwise or counterclockwise direction until the aorta is found. </notes>
+			<notesNormalized>to locate the subcarinal space, begin the examination in the distal esophagus. the endoiscope should be rotated in a clockwise or counterclockwise direction until the aorta is found.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;To locate the subcarinal space, begin the examination in the distal esophagus. The endoiscope should be rotated in a clockwise or counterclockwise direction until the aorta is found. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Aorta</text>
+		</slide>
+		<slide index="27" title="LA" titleNormalized="la" src="slide28.swf" size="256383" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.2989992"/>
+			</animationSteps>
+			<notes>Once the aorta has been located, the endoscope should be torqued 180 degrees (clockwise or counterclockwise, whichever is more comfortable) and then slowly withdrawn. The aorta is positioned posteriorly, and this orients the image anteriorly. As endoscope is withdrawn, usually approximately 35cm from the incisors, a large anechoic structure is seen, and this torqued either clockwise or counterclockwise until the left atrium is centered. </notes>
+			<notesNormalized>once the aorta has been located, the endoscope should be torqued 180 degrees (clockwise or counterclockwise, whichever is more comfortable) and then slowly withdrawn. the aorta is positioned posteriorly, and this orients the image anteriorly. as endoscope is withdrawn, usually approximately 35cm from the incisors, a large anechoic structure is seen, and this torqued either clockwise or counterclockwise until the left atrium is centered.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Once the aorta has been located, the endoscope should be torqued 180 degrees (clockwise or counterclockwise, whichever is more comfortable) and then slowly withdrawn. The aorta is positioned posteriorly, and this orients the image anteriorly. As endoscope is withdrawn, usually approximately 35cm from the incisors, a large anechoic structure is seen, and this torqued either clockwise or counterclockwise until the left atrium is centered. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>LA</text>
+		</slide>
+		<slide index="28" title="Subcarinal space" titleNormalized="subcarinal space" src="slide29.swf" size="238323" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.5289988"/>
+			</animationSteps>
+			<notes>The endoscope is then further withdrawn until the left atrium is situated in the left side of the image. When this has been achieved, a slight tip deflection upward will bring a round, anechoic structure into view on the right side of the screen. This represents the pulmonary artery. The area between the left atrium and pulmonary artery represents the subcarinal space. Full interrogation of the subcarinal space then requires careful clockwise and counterclockwise torquing. </notes>
+			<notesNormalized>the endoscope is then further withdrawn until the left atrium is situated in the left side of the image. when this has been achieved, a slight tip deflection upward will bring a round, anechoic structure into view on the right side of the screen. this represents the pulmonary artery. the area between the left atrium and pulmonary artery represents the subcarinal space. full interrogation of the subcarinal space then requires careful clockwise and counterclockwise torquing.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The endoscope is then further withdrawn until the left atrium is situated in the left side of the image. When this has been achieved, a slight tip deflection upward will bring a round, anechoic structure into view on the right side of the screen. This represents the pulmonary artery. The area between the left atrium and pulmonary artery represents the subcarinal space. Full interrogation of the subcarinal space then requires careful clockwise and counterclockwise torquing. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>LA
+PA
+Subcarinal space</text>
+		</slide>
+		<slide index="29" title="Strategy to find AP window" titleNormalized="strategy to find ap window" src="slide30.swf" size="133538" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.8799996"/>
+			</animationSteps>
+			<notes>The other important anatomic station in the mediastinum is the AP window (area 4L/5). The AP window is situated between the aortic arch and the pulmonary artery. </notes>
+			<notesNormalized>the other important anatomic station in the mediastinum is the ap window (area 4l/5). the ap window is situated between the aortic arch and the pulmonary artery.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The other important anatomic station in the mediastinum is the AP window (area 4L/5). The AP window is situated between the aortic arch and the pulmonary artery. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Strategy to find AP window
+AP window</text>
+		</slide>
+		<slide index="30" title="Ao" titleNormalized="ao" src="slide31.swf" size="254058" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.7789997"/>
+			</animationSteps>
+			<notes>The AP window is essentially the area underneath the arch of the aorta. This area can be found most easily by locating the aorta in the mid-esophagus.</notes>
+			<notesNormalized>the ap window is essentially the area underneath the arch of the aorta. this area can be found most easily by locating the aorta in the mid-esophagus.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The AP window is essentially the area underneath the arch of the aorta. This area can be found most easily by locating the aorta in the mid-esophagus.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ao</text>
+		</slide>
+		<slide index="31" title="Ao" titleNormalized="ao" src="slide32.swf" size="269058" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.3689999"/>
+			</animationSteps>
+			<notes>and then withdrawing the endoscope until the aorta disappears.</notes>
+			<notesNormalized>and then withdrawing the endoscope until the aorta disappears.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;and then withdrawing the endoscope until the aorta disappears.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ao</text>
+		</slide>
+		<slide index="32" title="AP window" titleNormalized="ap window" src="slide33.swf" size="286864" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.1990008"/>
+			</animationSteps>
+			<notes>From this position, advances the scope by 1 to 2cm, at a level underneath the aortic arch. This scope is rotated 60 degrees in a clockwise direction and comes slightly “up”. With the linear echoendoscope, the AP window is seen as the space between the aorta (on the right side of the screen) and the pulmonary artery (on the left side of the screen)</notes>
+			<notesNormalized>from this position, advances the scope by 1 to 2cm, at a level underneath the aortic arch. this scope is rotated 60 degrees in a clockwise direction and comes slightly “up”. with the linear echoendoscope, the ap window is seen as the space between the aorta (on the right side of the screen) and the pulmonary artery (on the left side of the screen)</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;From this position, advances the scope by 1 to 2cm, at a level underneath the aortic arch. This scope is rotated 60 degrees in a clockwise direction and comes slightly “up”. With the linear echoendoscope, the AP window is seen as the space between the aorta (on the right side of the screen) and the pulmonary artery (on the left side of the screen)&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ao
+PA
+AP window</text>
+		</slide>
+		<slide index="33" title="Subcarinal space" titleNormalized="subcarinal space" src="slide34.swf" size="230498" advanceOnTime="1" framesCount="284" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_176ffe40.spr0_7973086" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_176ffe40.spr2_7973086" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="283" playTime="11.7916667" pauseTime="11.4653333"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Subcarinal space
+Courtesy by GH Kim</text>
+		</slide>
+		<slide index="34" title="Subcarinal space" titleNormalized="subcarinal space" src="slide35.swf" size="459744" advanceOnTime="1" framesCount="284" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_17787c50.spr0_7973897" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_17787c50.spr2_7973897" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+				<video id="video3" videoClipId="ispring.resources_176ffe40.spr0_7974427" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_176ffe40.spr2_7974427" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="283" playTime="11.7916667" pauseTime="2.9893335"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Subcarinal space
+Courtesy by GH Kim</text>
+		</slide>
+		<slide index="35" title="AP window" titleNormalized="ap window" src="slide36.swf" size="229442" advanceOnTime="1" framesCount="153" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset35" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_176ffe40.spr0_7976346" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_176ffe40.spr2_7976346" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="152" playTime="6.3333333" pauseTime="18.1576659"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>AP window
+Courtesy by GH Kim</text>
+		</slide>
+		<slide index="36" title="Take home messages" titleNormalized="take home messages" src="slide37.swf" size="2268" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset36" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.8830008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Take home messages
+High-quality images of the esophageal wall can be obtained by high-frequency probe.
+Evaluation of mediastinum using radial EUS is relatively easy.
+Linear EUS is difficult for beginner, but it can be guided by CT or radial EUS images.</text>
+		</slide>
+		<slide index="37" title="Thank you for your attention" titleNormalized="thank you for your attention" src="slide38.swf" size="1236" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset37" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.3990001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for your attention</text>
+		</slide>
+	</slides>
+</presentation>
