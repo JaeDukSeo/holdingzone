@@ -1,0 +1,1480 @@
+<?xml version="1.0"?>
+<presentation title="05 Tae Hyeon Kim" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{2D8169A9-E38D-47CC-9354-440853C58670}">
+	<presenters>
+		<presenter name="Tae Hyeon Kim" title="University of Ulsan" email="" web="" phone="" photoAssetId="">
+			<bio>EUS Anatomy of the Liver and Vessel</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="346742" duration="12382"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="177782" duration="6348"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="1782536" duration="63660"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="1191542" duration="42553"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="1287359" duration="45976"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="765119" duration="27324"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="339428" duration="12121"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="1003565" duration="35840"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="571291" duration="20402"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="1004296" duration="35866"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="416228" duration="14864"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="502536" duration="17946"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="1106696" duration="39523"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="443291" duration="15830"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="980159" duration="35004"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="896776" duration="32026"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="2036342" duration="72725"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="1509714" duration="53917"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="441828" duration="15778"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="1266879" duration="45244"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="1721828" duration="61492"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="1505325" duration="53760"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="1767176" duration="63112"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="877759" duration="31347"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="1118399" duration="39941"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="1343679" duration="47987"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="760731" duration="27167"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="1354651" duration="48379"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="1030628" duration="36807"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="806811" duration="28813"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="667108" duration="23824"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="1138879" duration="40673"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="1184228" duration="42292"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="92936" duration="3318"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="12.3459997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="6.3060000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="63.6300000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="42.5090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="45.9459991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="27.2900009"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="12.0790000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="35.7999992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="20.3500004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="35.8360000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="14.8100004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="17.9179993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="39.4700012"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="15.7819996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="34.9679985"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="31.9990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="72.6729965"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="53.8870000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="15.7489996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="45.2120000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="61.4609985"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="53.7200000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="63.0629997"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="31.2980000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="39.9070000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="47.9480000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="27.1270000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="48.3479996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="36.7700000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="28.7619991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="23.7900000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="40.6409988"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="42.2420000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="3.2700000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS Anatomy of the Liver and Vessel" titleNormalized="eus anatomy of the liver and vessel" src="slide1.swf" size="472394" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.3449997"/>
+			</animationSteps>
+			<notes>I am so great honor to present this title.
+Thankyou so much for introducing me.</notes>
+			<notesNormalized>i am so great honor to present this title.
+thankyou so much for introducing me.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;I am so great honor to present this title.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Thankyou so much for introducing me.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS Anatomy of the Liver and Vessel 
+
+Department of Internal Medicine, 
+Wonkwang University College of Medicine,
+ Iksan, Korea
+
+Tae Hyeon Kim
+Asian EUS Summit 2016</text>
+		</slide>
+		<slide index="1" title="Is it possible to see liver and vessel by EUS?" titleNormalized="is it possible to see liver and vessel by eus?" src="slide2.swf" size="3934" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.3089999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Is it possible to see liver and vessel by EUS?</text>
+		</slide>
+		<slide index="2" title="Is it necessary to see Liver &amp; Vessel by EUS?" titleNormalized="is it necessary to see liver &amp; vessel by eus?" src="slide3.swf" size="1958" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="63.6290011"/>
+			</animationSteps>
+			<notes>Some of these small liver lesions are unsuspected by previous imaging tests, and often have a connotation of metastatic disease. Hence, these EUS findings have to be co-related with the CT and US scans, and need a detailed description, including their location in the respective liver segments. 
+
+Other complex trans-hepatic drainage procedures.</notes>
+			<notesNormalized>some of these small liver lesions are unsuspected by previous imaging tests, and often have a connotation of metastatic disease. hence, these eus findings have to be co-related with the ct and us scans, and need a detailed description, including their location in the respective liver segments. 
+
+other complex trans-hepatic drainage procedures.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="14"&gt;Some of these small liver lesions are unsuspected by previous imaging tests, and often have a connotation of metastatic disease. Hence, these EUS findings have to be co-related with the CT and US scans, and need a detailed description, including their location in the respective liver segments. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Other complex trans-hepatic drainage procedures.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Is it necessary to see Liver &amp; Vessel by EUS? 
+EUS-guided FNA/B of hepatic lesions.
+Trans-hepatic interventions- HGS and HDS.
+Hepatic vascular interventions
+Hepatic lesions not covered conventional US
+Perihilar area evaluation: vessel and LAP
+Detection of unexpected small liver lesions
+Hepatic tumor ablation (RFA, Ethanol) .</text>
+		</slide>
+		<slide index="3" title="Couinaud’s segmental classification" titleNormalized="couinaud’s segmental classification" src="slide4.swf" size="226905" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.5089983"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Couinaud’s segmental classification</text>
+		</slide>
+		<slide index="4" title="The EUS- landmarks" titleNormalized="the eus- landmarks" src="slide5.swf" size="177329" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="45.9449991"/>
+			</animationSteps>
+			<notes>For understanding EUS liver anatomy, we need to understand important structure or landmarks.
+
+Large portal vein and HV is good landmark, and Ligaments are LV and Lt. showe hyperechoic lines.
+We can see GB and hilum on th inferior surface.
+
+
+
+
+
+Identification of a structure often requires tracing it along its length, and observing its relation to the liver surface and adjacent landmarks. We can identify the hepatic veins (HV) by their imperceptible walls, and relatively straight course. Unlike the PV branches, the HV do not have a fibrous sheath, and their walls are thus less reflective. PV radicals have thick hyperechoic walls. The ligaments are thick, hyperechoic structures without a lumen, and extend between vessels and liver capsule. 
+
+Ligamentun  venosus ; The obliterated fetal remnant of the ductus venosus </notes>
+			<notesNormalized>for understanding eus liver anatomy, we need to understand important structure or landmarks.
+
+large portal vein and hv is good landmark, and ligaments are lv and lt. showe hyperechoic lines.
+we can see gb and hilum on th inferior surface.
+
+
+
+
+
+identification of a structure often requires tracing it along its length, and observing its relation to the liver surface and adjacent landmarks. we can identify the hepatic veins (hv) by their imperceptible walls, and relatively straight course. unlike the pv branches, the hv do not have a fibrous sheath, and their walls are thus less reflective. pv radicals have thick hyperechoic walls. the ligaments are thick, hyperechoic structures without a lumen, and extend between vessels and liver capsule. 
+
+ligamentun venosus ; the obliterated fetal remnant of the ductus venosus</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="14"&gt;For understanding EUS liver anatomy, we need to understand important structure or landmarks.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Large portal vein and HV is good landmark, and Ligaments are LV and Lt. showe hyperechoic lines.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;We can see GB and hilum on th inferior surface.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Identification of a structure often requires tracing it along its length, and observing its relation to the liver surface and adjacent landmarks. We can identify the hepatic veins (HV) by their imperceptible walls, and relatively straight course. Unlike the PV branches, the HV do not have a fibrous sheath, and their walls are thus less reflective. PV radicals have thick hyperechoic walls. The ligaments are thick, hyperechoic structures without a lumen, and extend between vessels and liver capsule. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Ligamentun  venosus ; The obliterated fetal remnant of the ductus venosus &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>The EUS- landmarks
+Vascular
+PV branches
+HV branches
+IVC
+Ligaments
+Ligamentum venosum 
+Separates the Lt lobe from S1
+Ligamentum teres 
+ ( divide Lt lobe)
+Surface
+GB
+Hilum</text>
+		</slide>
+		<slide index="5" title="CT- landmarks" titleNormalized="ct- landmarks" src="slide6.swf" size="301187" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.2890009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CT- landmarks</text>
+		</slide>
+		<slide index="6" title="Hepatic and Portal veins" titleNormalized="hepatic and portal veins" src="slide7.swf" size="82697" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.0789999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Hepatic and Portal veins
+Basis of Lobar and segmental anatomy
+Hepatic vein drain periphery
+Interlobar, intersegmental
+Used as dividers
+Portal vein feed centrally
+Meet to Hepatic vein perpendicularly
+Intralobar, intrasegmental
+Used to name segments
+
+</text>
+		</slide>
+		<slide index="7" title="Classification of portal vein" titleNormalized="classification of portal vein" src="slide8.swf" size="123136" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.7989992"/>
+			</animationSteps>
+			<notes>PV claasfication kike lthis
+
+Common finding is Type I 90%
+Other type is trifurcaton is 6% and Type III is 5%.
+
+Portal vein patter is consistent.</notes>
+			<notesNormalized>pv claasfication kike lthis
+
+common finding is type i 90%
+other type is trifurcaton is 6% and type iii is 5%.
+
+portal vein patter is consistent.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;PV claasfication kike lthis&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Common finding is Type I 90%&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Other type is trifurcaton is 6% and Type III is 5%.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Portal vein patter is consistent.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Classification of portal vein
+Takeish K. American Journal of Transplantation 2015</text>
+		</slide>
+		<slide index="8" title="Hepatic vein variants" titleNormalized="hepatic vein variants" src="slide9.swf" size="427625" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.3490004"/>
+			</animationSteps>
+			<notes>Hepatic vein is more variable. HV is not consistent,
+
+ It is not good as a land ark than portal vein.</notes>
+			<notesNormalized>hepatic vein is more variable. hv is not consistent,
+
+ it is not good as a land ark than portal vein.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Hepatic vein is more variable. HV is not consistent,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; It is not good as a land ark than portal vein.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="9" title="3 Basic positions for Liver and vessel" titleNormalized="3 basic positions for liver and vessel" src="slide10.swf" size="225603" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.8390002"/>
+			</animationSteps>
+			<notes>Using the curved linear array EUS, The biliary three and pancreas was observed from three regions: seen in the stomach, duodenal bulb, 2nd portion of duodenum.
+The key principle is finding the Home base anastomical landmarks rapidly in each position.
+
+췌담도 영역에서 이유에스를 하는 기본적인 위치를 알아보면 
+대부분이 담도와 췌장이 근접한 십이지장 구부와 십이지장 제 2 부에서 이루어지는데 
+major ampulla와 하부담도는 십이지장 제 2부에서 관찰되고 미드 시비디와 담낭은 주로 십이지장 구부에서 관찰하기가 좋습니다.
+담낭은 위의 전정부에서 관찰되기도 합니다.</notes>
+			<notesNormalized>using the curved linear array eus, the biliary three and pancreas was observed from three regions: seen in the stomach, duodenal bulb, 2nd portion of duodenum.
+the key principle is finding the home base anastomical landmarks rapidly in each position.
+
+췌담도 영역에서 이유에스를 하는 기본적인 위치를 알아보면 
+대부분이 담도와 췌장이 근접한 십이지장 구부와 십이지장 제 2 부에서 이루어지는데 
+major ampulla와 하부담도는 십이지장 제 2부에서 관찰되고 미드 시비디와 담낭은 주로 십이지장 구부에서 관찰하기가 좋습니다.
+담낭은 위의 전정부에서 관찰되기도 합니다.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Using the curved linear array EUS, The biliary three and pancreas was observed from three regions: seen in the stomach, duodenal bulb, 2nd portion of duodenum.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The key principle is finding the Home base anastomical landmarks rapidly in each position.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;췌담도 영역에서 이유에스를 하는 기본적인 위치를 알아보면 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;대부분이 담도와 췌장이 근접한 십이지장 구부와 십이지장 제 2 부에서 이루어지는데 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;major ampulla와 하부담도는 십이지장 제 2부에서 관찰되고 미드 시비디와 담낭은 주로 십이지장 구부에서 관찰하기가 좋습니다.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;담낭은 위의 전정부에서 관찰되기도 합니다.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Right Liver 
+Rt kidney
+IVC
+Portal vein
+Left lobe 
+IVC
+Ligamentum teresum
+Left HV
+Ligamentum venosum
+Right liver
+Bile duct
+GB
+PV
+Rt HV and MHV
+3 Basic positions for Liver and vessel</text>
+		</slide>
+		<slide index="10" title="Trans-gastric Imaging of Liver" titleNormalized="trans-gastric imaging of liver" src="slide11.swf" size="65227" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.8090004"/>
+			</animationSteps>
+			<notes>When the porbe place in the upper body of stomach, we can see left lobe of liver.</notes>
+			<notesNormalized>when the porbe place in the upper body of stomach, we can see left lobe of liver.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;When the porbe place in the upper body of stomach, we can see left lobe of liver.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Trans-gastric Imaging of Liver</text>
+		</slide>
+		<slide index="11" title="" titleNormalized="" src="slide12.swf" size="383467" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.9169993"/>
+			</animationSteps>
+			<notes>This image is so representive image seeing portal vein and IHD from the Stomach.
+Endoscope located at below EGJ for transgastric imaging. This is not matched to EUS imaging of liver.
+
+
+
+An inverted image of CT scan through the upper abdomen, just below the GEJ. The image is oriented as if it is being viewed from the cranial to the caudal direction. This is the reverse orientation from conventional CT scan imaging, which is oriented as if viewing from caudal to cranial.
+
+
+Figure 1 Longitudinal and cross-sectional schematic representations of linear endoscopic ultrasound (EUS) scans through the liver from
+the proximal stomach. The cross-sectional depiction is from cranial to caudal, which is the reverse of conventional computed tomographic
+imaging. Multiple structures are illustrated in these figures that may not lie at the same longitudinal level. The scan plane is
+directed anteriorly towards the left lobe at the beginning and sweeps progressively with clockwise probe rotation from (a) planes A to
+D and from (b) planes 1 to 4. The representative EUS images are described in the text. Clockwise rotation by approximately 180 degrees
+rotates the scan plane progressively from the left lobe over to the abdominal aorta posteriorly. Ao, aorta; IVC, inferior vena cava; LHV,
+left hepatic vein; l.t., ligamentum teres; l.v., ligamentum venosum; MHV, middle hepatic vein; UP, umbilical part (of left portal vein).</notes>
+			<notesNormalized>this image is so representive image seeing portal vein and ihd from the stomach.
+endoscope located at below egj for transgastric imaging. this is not matched to eus imaging of liver.
+
+
+
+an inverted image of ct scan through the upper abdomen, just below the gej. the image is oriented as if it is being viewed from the cranial to the caudal direction. this is the reverse orientation from conventional ct scan imaging, which is oriented as if viewing from caudal to cranial.
+
+
+figure 1 longitudinal and cross-sectional schematic representations of linear endoscopic ultrasound (eus) scans through the liver from
+the proximal stomach. the cross-sectional depiction is from cranial to caudal, which is the reverse of conventional computed tomographic
+imaging. multiple structures are illustrated in these figures that may not lie at the same longitudinal level. the scan plane is
+directed anteriorly towards the left lobe at the beginning and sweeps progressively with clockwise probe rotation from (a) planes a to
+d and from (b) planes 1 to 4. the representative eus images are described in the text. clockwise rotation by approximately 180 degrees
+rotates the scan plane progressively from the left lobe over to the abdominal aorta posteriorly. ao, aorta; ivc, inferior vena cava; lhv,
+left hepatic vein; l.t., ligamentum teres; l.v., ligamentum venosum; mhv, middle hepatic vein; up, umbilical part (of left portal vein).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This image is so representive image seeing portal vein and IHD from the Stomach.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Endoscope located at below EGJ for transgastric imaging. This is not matched to EUS imaging of liver.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;An inverted image of CT scan through the upper abdomen, just below the GEJ. The image is oriented as if it is being viewed from the cranial to the caudal direction. This is the reverse orientation from conventional CT scan imaging, which is oriented as if viewing from caudal to cranial.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;&lt;b&gt;Figure 1 &lt;/b&gt;Longitudinal and cross-sectional schematic representations of linear endoscopic ultrasound (EUS) scans through the liver from&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;the proximal stomach. The cross-sectional depiction is from cranial to caudal, which is the reverse of conventional computed tomographic&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;imaging. Multiple structures are illustrated in these figures that may not lie at the same longitudinal level. The scan plane is&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;directed anteriorly towards the left lobe at the beginning and sweeps progressively with clockwise probe rotation from (a) planes A to&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;D and from (b) planes 1 to 4. The representative EUS images are described in the text. Clockwise rotation by approximately 180 degrees&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;rotates the scan plane progressively from the left lobe over to the abdominal aorta posteriorly. Ao, aorta; IVC, inferior vena cava; LHV,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;left hepatic vein; l.t., ligamentum teres; l.v., ligamentum venosum; MHV, middle hepatic vein; UP, umbilical part (of left portal vein).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>2
+3</text>
+		</slide>
+		<slide index="12" title="Cross section schema of Liver" titleNormalized="cross section schema of liver" src="slide13.swf" size="168748" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="39.4690012"/>
+			</animationSteps>
+			<notes>The cross-sectional depiction is from cranial to caudal, which is the reverse of conventional computed tomographic
+imaging. Multiple structures or landmarks are illustrated in these figures that may not lie at the same longitudinal level. 
+
+The scan plane is  A, B, C line  according to probe clockwise rotation. 
+
+
+
+
+directed anteriorly towards the left lobe at the beginning and sweeps progressively with clockwise probe rotation from (a) planes A to
+D and from (b) planes 1 to 4.</notes>
+			<notesNormalized>the cross-sectional depiction is from cranial to caudal, which is the reverse of conventional computed tomographic
+imaging. multiple structures or landmarks are illustrated in these figures that may not lie at the same longitudinal level. 
+
+the scan plane is a, b, c line according to probe clockwise rotation. 
+
+
+
+
+directed anteriorly towards the left lobe at the beginning and sweeps progressively with clockwise probe rotation from (a) planes a to
+d and from (b) planes 1 to 4.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The cross-sectional depiction is from cranial to caudal, which is the reverse of conventional computed tomographic&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;imaging. Multiple structures or landmarks are illustrated in these figures that may not lie at the same longitudinal level. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The scan plane is  A, B, C line  according to probe clockwise rotation. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;directed anteriorly towards the left lobe at the beginning and sweeps progressively with clockwise probe rotation from (a) planes A to&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;D and from (b) planes 1 to 4.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>3
+2
+Cross section schema of Liver 
+The cross-sectional picture is from cranial to caudal, like reverse of CT imaging.
+The scan plane is directed anteriorly towards the left lobe at the beginning and sweeps progressively with clockwise probe rotation from (a) planes A to D .
+
+
+V. Bhatia et al. Digestive Endoscopy 2014</text>
+		</slide>
+		<slide index="13" title="Left liver: S2 and S3" titleNormalized="left liver: s2 and s3" src="slide14.swf" size="141249" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.7809996"/>
+			</animationSteps>
+			<notes>As the EUS scope is introduced beyond the gastroesophageal  junction, the probe usually faces anteriorly towards the left liver lobe if the scope shaft is straight and the knobs are free
+(Fig. 1; Fig. S1b–e). 
+In the EUS scanning plane, segment 2 (S2) is closer to the probe (upper in the scan field), and S3 farther away.
+
+Figure: The left liver lobe is usually seen first just below the probe, as imaging is started from the proximal stomach. The diaphragm and cardiac chambers are seen further down in the field. With slight clockwise rotation, the left hepatic vein, P2 and P3 are seen. S2 is closer to the probe, and S3 further away and down. It is probably best to identify liver segments after rotating over (clockwise or counter-clockwise) the longitudinal landmarks, rather than keeping the scan plane over them. This is counter-intuitive from the conventional radiological learning. The scan plane is usually from the side of the ligaments and veins (tangential planes), and there are no distinct landmarks between the segments, unlike the illustrated anatomy textbooks.
+Classically the liver sectors are divided by extrapolating the planes of the hepatic veins over the lower part of the liver- no strict gross anatomical demarcations.
+
+As the EUS scope is introduced beyond the gastroesophageal
+junction, the probe usually faces anteriorly towards the left
+liver lobe if the scope shaft is straight and the knobs are free
+(Fig. 1; Fig. S1b–e). In the EUS scanning plane, segment 2
+(S2) is closer to the probe (upper in the scan field), and S3
+farther away. The respective PV branches to the left lobe
+segments S2 and S3 (henceforth called P2 and P3, respectively)
+are seen as round anechoic structures with hyperechoic
+margins. With a very slight clockwise rotation over
+the left lobe, the left HV is seen as a long vascular channel
+coursing from the upper right to the lower left part of the
+image (Fig. 2a;Video S1). The plane of the left HV separates
+S2 (located posteriorly and superiorly in the left lobe) from
+S3 (located more anteriorly and inferiorly in the left lobe).9
+To line up the S3 ducts, as for hepaticogastrostomy, the EUS
+probe is pushed in with upward tip deflection. S2 ducts are
+easier to puncture, but the puncture site is higher, often
+transesophageal, with risk of mediastinitis and difficult stent
+deployment
+</notes>
+			<notesNormalized>as the eus scope is introduced beyond the gastroesophageal junction, the probe usually faces anteriorly towards the left liver lobe if the scope shaft is straight and the knobs are free
+(fig. 1; fig. s1b–e). 
+in the eus scanning plane, segment 2 (s2) is closer to the probe (upper in the scan field), and s3 farther away.
+
+figure: the left liver lobe is usually seen first just below the probe, as imaging is started from the proximal stomach. the diaphragm and cardiac chambers are seen further down in the field. with slight clockwise rotation, the left hepatic vein, p2 and p3 are seen. s2 is closer to the probe, and s3 further away and down. it is probably best to identify liver segments after rotating over (clockwise or counter-clockwise) the longitudinal landmarks, rather than keeping the scan plane over them. this is counter-intuitive from the conventional radiological learning. the scan plane is usually from the side of the ligaments and veins (tangential planes), and there are no distinct landmarks between the segments, unlike the illustrated anatomy textbooks.
+classically the liver sectors are divided by extrapolating the planes of the hepatic veins over the lower part of the liver- no strict gross anatomical demarcations.
+
+as the eus scope is introduced beyond the gastroesophageal
+junction, the probe usually faces anteriorly towards the left
+liver lobe if the scope shaft is straight and the knobs are free
+(fig. 1; fig. s1b–e). in the eus scanning plane, segment 2
+(s2) is closer to the probe (upper in the scan field), and s3
+farther away. the respective pv branches to the left lobe
+segments s2 and s3 (henceforth called p2 and p3, respectively)
+are seen as round anechoic structures with hyperechoic
+margins. with a very slight clockwise rotation over
+the left lobe, the left hv is seen as a long vascular channel
+coursing from the upper right to the lower left part of the
+image (fig. 2a;video s1). the plane of the left hv separates
+s2 (located posteriorly and superiorly in the left lobe) from
+s3 (located more anteriorly and inferiorly in the left lobe).9
+to line up the s3 ducts, as for hepaticogastrostomy, the eus
+probe is pushed in with upward tip deflection. s2 ducts are
+easier to puncture, but the puncture site is higher, often
+transesophageal, with risk of mediastinitis and difficult stent
+deployment
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#000000"&gt;As the EUS scope is introduced beyond the gastroesophageal  junction, the probe usually faces anteriorly towards the left liver lobe if the scope shaft is straight and the knobs are free&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;(Fig. 1; Fig. S1b–e). &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;In the EUS scanning plane, segment 2 (S2) is closer to the probe (upper in the scan field), and S3 farther away.&lt;/font&gt;&lt;font size="14" color="#000000"&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14" color="#000000"&gt;Figure: The left liver lobe is usually seen first just below the probe, as imaging is started from the proximal stomach. The diaphragm and cardiac chambers are seen further down in the field. With slight clockwise rotation, the left hepatic vein, P2 and P3 are seen. S2 is closer to the probe, and S3 further away and down. It is probably best to&lt;/font&gt;&lt;font size="14" color="#ff0000"&gt; identify liver segments after rotating over (clockwise or counter-clockwise) the longitudinal landmarks, rather than keeping the scan plane over them.&lt;/font&gt;&lt;font size="14" color="#000000"&gt; This is counter-intuitive from the conventional radiological learning. The scan plane is usually from the side of the ligaments and veins (tangential planes), and there are no distinct landmarks between the segments, unlike the illustrated anatomy textbooks.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14" color="#000000"&gt;Classically the liver sectors are divided by extrapolating the planes of the hepatic veins over the lower part of the liver- no strict gross anatomical demarcations.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;As the EUS scope is introduced beyond the gastroesophageal&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;junction, the probe usually faces anteriorly towards the left&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;liver lobe if the scope shaft is straight and the knobs are free&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;(Fig. 1; Fig. S1b–e). In the EUS scanning plane, segment 2&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;(S2) is closer to the probe (upper in the scan field), and S3&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;farther away. The respective PV branches to the left lobe&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;segments S2 and S3 (henceforth called P2 and P3, respectively)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;are seen as round anechoic structures with hyperechoic&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;margins. With a very slight clockwise rotation over&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;the left lobe, the left HV is seen as a long vascular channel&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;coursing from the upper right to the lower left part of the&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;image (Fig. 2a;Video S1). The plane of the left HV separates&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;S2 (located posteriorly and superiorly in the left lobe) from&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;S3 (located more anteriorly and inferiorly in the left lobe).9&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;To line up the S3 ducts, as for hepaticogastrostomy, the EUS&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;probe is pushed in with upward tip deflection. S2 ducts are&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;easier to puncture, but the puncture site is higher, often&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;transesophageal, with risk of mediastinitis and difficult stent&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;deployment&lt;/font&gt;&lt;font size="14" color="#000000"&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Left liver: S2 and S3
+Just beyond the EGJ- probe facing anteriorly towards the left liver. 
+S2 is closer to the probe, and S3 farther away.
+
+Anterior rib</text>
+		</slide>
+		<slide index="14" title="Left medial segment: S4 &amp; lig. teres" titleNormalized="left medial segment: s4 &amp; lig. teres" src="slide15.swf" size="194433" advanceOnTime="1" framesCount="911" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_171da900.spr0_5852970" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_171da900.spr2_5852970" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="458" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="910" playTime="34.9679985" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>Figure: By slightly pushing the scope inwards along the liver surface, the ligamentum teres (l.t.) is seen to extend to the inferior liver surface from the umbilical portion of the left PV. This is akin to a flipped trans-abdominal ultrasound image. The hyperechoic ligament does not divide segments longitudinally, but rotation clockwise from this plane would take the scan plane over S4. As can be appreciated, there is no clear demarcation between the liver segments- in this case S3 and S4. However, S4 is best considered clockwise from the umbilical portion of left PV and ligamentum teres, on real time imaging. Because of the scanning direction, S4 and ligamentum teres are seen in the same plane in this static EUS image.
+l.t. is the obliterated remnant of the umbilical vein, which carries blood from placenta to the foetus. It is also called round ligament. 
+The l.t separates S3 and S4.
+
+With slight further clockwise rotation, the P2 and P3 are seen to converge into an elongated vascular channel with thick hyperechoic walls – the umbilical part (pars-umbilicus) of the left PV. The umbilical part of the left PV describes a smooth arch towards the ligamentum teres (round ligament), which is the remnant of the obliterated fetal umbilical vein (Fig. S2). On EUS, the ligamentum teres is seen as a hyperechoic band extending from the umbilical part of the left PV to the liver surface at the inferior margin of the falciform ligament (Fig. 2b; Video S1).</notes>
+			<notesNormalized>figure: by slightly pushing the scope inwards along the liver surface, the ligamentum teres (l.t.) is seen to extend to the inferior liver surface from the umbilical portion of the left pv. this is akin to a flipped trans-abdominal ultrasound image. the hyperechoic ligament does not divide segments longitudinally, but rotation clockwise from this plane would take the scan plane over s4. as can be appreciated, there is no clear demarcation between the liver segments- in this case s3 and s4. however, s4 is best considered clockwise from the umbilical portion of left pv and ligamentum teres, on real time imaging. because of the scanning direction, s4 and ligamentum teres are seen in the same plane in this static eus image.
+l.t. is the obliterated remnant of the umbilical vein, which carries blood from placenta to the foetus. it is also called round ligament. 
+the l.t separates s3 and s4.
+
+with slight further clockwise rotation, the p2 and p3 are seen to converge into an elongated vascular channel with thick hyperechoic walls – the umbilical part (pars-umbilicus) of the left pv. the umbilical part of the left pv describes a smooth arch towards the ligamentum teres (round ligament), which is the remnant of the obliterated fetal umbilical vein (fig. s2). on eus, the ligamentum teres is seen as a hyperechoic band extending from the umbilical part of the left pv to the liver surface at the inferior margin of the falciform ligament (fig. 2b; video s1).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="14"&gt;Figure: By slightly pushing the scope inwards along the liver surface, the ligamentum teres (l.t.) is seen to extend to the inferior liver surface from the umbilical portion of the left PV. This is akin to a flipped trans-abdominal ultrasound image. The hyperechoic ligament does not divide segments longitudinally, but rotation clockwise from this plane would take the scan plane over S4. As can be appreciated, there is no clear demarcation between the liver segments- in this case S3 and S4. However, S4 is best considered clockwise from the umbilical portion of left PV and ligamentum teres, on real time imaging. Because of the scanning direction, S4 and ligamentum teres are seen in the same plane in this static EUS image.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;l.t. is the obliterated remnant of the umbilical vein, which carries blood from placenta to the foetus. It is also called round ligament. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;The l.t separates S3 and S4.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;With slight further clockwise rotation, the P2 and P3 are seen to converge into an elongated vascular channel with thick hyperechoic walls – the umbilical part (pars-umbilicus) of the left PV. The umbilical part of the left PV describes a smooth arch towards the ligamentum teres (round ligament), which is the remnant of the obliterated fetal umbilical vein (Fig. S2). On EUS, the ligamentum teres is seen as a hyperechoic band extending from the umbilical part of the left PV to the liver surface at the inferior margin of the falciform ligament (Fig. 2b; Video S1).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Left medial segment: S4 &amp; lig. teres
+Rotate to right over LHV
+Umbilical portion of left PV
+LT
+P3 P2</text>
+		</slide>
+		<slide index="15" title="Caudate lobe (S1) and &amp; lig. venosum" titleNormalized="caudate lobe (s1) and &amp; lig. venosum" src="slide16.swf" size="88397" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.9980005"/>
+			</animationSteps>
+			<notes>This is 3d image of IVC and liver HV and portoal vein
+
+Scan plane can be changed from A to C by rotating like this.
+
+LV sperate S4 from S1.
+Beyond MVH, S8 is seen partially.
+
+
+
+
+373690-소병일 
+
+Top figure:The P2 and P3 merge to form left PV. The hyperechoic ligamentum venosum(l.v.) is seen extending to the right of image, and ligament teres (l.t.) /round ligament to the left of the image, from the left PV. Between the probe and the ligamentum venosum is the caudate lobe (S1). S4 is beyond the ligamentum venosum. On the left side of the S1, the fissure for ligamentum venosum separates S2 from S1. However, on EUS we cannot demonstrate S1 and S2 in one plane, unlike trans-abdominal ultrasound scanning.
+
+Bottom figure: The ligamentum venosum (l.v.) is seen as a thick hyperechoic band in this image, and extends upwards to the termination of the left hepatic vein and middle hepatic vein (MHV) in the inferior vena cava, at the superior surface of liver. S1 (caudate lobe) lies between the probe and the ligamentum venosum, and S4 below. Deep to the MHV extends S8. Usually the inadequate echo-penetration does not allow adequate visualization of the S8 parenchyma from the stomach.
+
+l.v. is the obliterated remnant of the ductus venosus, which shunts blood from the umbilical vein to the lung in the foetus, bypassing the liver. l.v. separates S1 and S2. 
+
+
+Ligamentum venosum is the obliterated ductus venosus,
+which shunts blood from the left umbilical vein to the inferior
+vena cava (IVC) until birth. It runs from the angle
+between the transverse and umbilical part of the left PV to
+the IVC at the drainage of the left HV and middle HV. The
+ligamentum venosum separates S1 from rest of the liver – S2
+to the left and S4 to the front. To the right and posteriorly, the
+S1 is bounded by the IVC.10 On transabdominal US, the
+ligamentum venosum is demonstrated between the S1 and
+S2,11 but the EUS scan plane from the proximal stomach
+cannot demonstrate these two segments in one plane.
+Instead, on EUS, the ligamentum venosum is seen as a thick
+hyperechoic band between S1 under the probe, and S4 deep
+to it (Fig. 2c; Fig. S3).</notes>
+			<notesNormalized>this is 3d image of ivc and liver hv and portoal vein
+
+scan plane can be changed from a to c by rotating like this.
+
+lv sperate s4 from s1.
+beyond mvh, s8 is seen partially.
+
+
+
+
+373690-소병일 
+
+top figure:the p2 and p3 merge to form left pv. the hyperechoic ligamentum venosum(l.v.) is seen extending to the right of image, and ligament teres (l.t.) /round ligament to the left of the image, from the left pv. between the probe and the ligamentum venosum is the caudate lobe (s1). s4 is beyond the ligamentum venosum. on the left side of the s1, the fissure for ligamentum venosum separates s2 from s1. however, on eus we cannot demonstrate s1 and s2 in one plane, unlike trans-abdominal ultrasound scanning.
+
+bottom figure: the ligamentum venosum (l.v.) is seen as a thick hyperechoic band in this image, and extends upwards to the termination of the left hepatic vein and middle hepatic vein (mhv) in the inferior vena cava, at the superior surface of liver. s1 (caudate lobe) lies between the probe and the ligamentum venosum, and s4 below. deep to the mhv extends s8. usually the inadequate echo-penetration does not allow adequate visualization of the s8 parenchyma from the stomach.
+
+l.v. is the obliterated remnant of the ductus venosus, which shunts blood from the umbilical vein to the lung in the foetus, bypassing the liver. l.v. separates s1 and s2. 
+
+
+ligamentum venosum is the obliterated ductus venosus,
+which shunts blood from the left umbilical vein to the inferior
+vena cava (ivc) until birth. it runs from the angle
+between the transverse and umbilical part of the left pv to
+the ivc at the drainage of the left hv and middle hv. the
+ligamentum venosum separates s1 from rest of the liver – s2
+to the left and s4 to the front. to the right and posteriorly, the
+s1 is bounded by the ivc.10 on transabdominal us, the
+ligamentum venosum is demonstrated between the s1 and
+s2,11 but the eus scan plane from the proximal stomach
+cannot demonstrate these two segments in one plane.
+instead, on eus, the ligamentum venosum is seen as a thick
+hyperechoic band between s1 under the probe, and s4 deep
+to it (fig. 2c; fig. s3).</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="14" color="#000000"&gt;This is 3d image of IVC and liver HV and portoal vein&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14" color="#000000"&gt;Scan plane can be changed from A to C by rotating like this.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14" color="#000000"&gt;LV sperate S4 from S1.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14" color="#000000"&gt;Beyond MVH, S8 is seen partially.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14" color="#000000"&gt;373690-소병일 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14" color="#000000"&gt;Top figure:The P2 and P3 merge to form left PV. The hyperechoic ligamentum venosum(l.v.) is seen extending to the right of image, and ligament teres (l.t.) /round ligament to the left of the image, from the left PV. Between the probe and the ligamentum venosum is the caudate lobe (S1). &lt;/font&gt;&lt;font size="14" color="#ff0000"&gt;S4 is beyond the ligamentum venosum&lt;/font&gt;&lt;font size="14" color="#000000"&gt;. On the left side of the S1, the fissure for ligamentum venosum separates S2 from S1. However, on EUS we cannot demonstrate S1 and S2 in one plane, unlike trans-abdominal ultrasound scanning.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14" color="#000000"&gt;Bottom figure: The ligamentum venosum (l.v.) is seen as a thick hyperechoic band in this image, and extends upwards to the termination of the left hepatic vein and middle hepatic vein (MHV) in the inferior vena cava, at the superior surface of liver. S1 (caudate lobe) lies between the probe and the ligamentum venosum, and S4 below. Deep to the MHV extends S8. Usually the inadequate echo-penetration does not allow adequate visualization of the S8 parenchyma from the stomach.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14" color="#000000"&gt;l.v. is the obliterated remnant of the ductus venosus, which shunts blood from the umbilical vein to the lung in the foetus, bypassing the liver. l.v. separates S1 and S2. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;Ligamentum venosum is the obliterated ductus venosus,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;which shunts blood from the left umbilical vein to the inferior&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;vena cava (IVC) until birth. It runs from the angle&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;between the transverse and umbilical part of the left PV to&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;the IVC at the drainage of the left HV and middle HV. The&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;ligamentum venosum separates S1 from rest of the liver – S2&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;to the left and S4 to the front. To the right and posteriorly, the&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;S1 is bounded by the IVC.10 On transabdominal US, the&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;ligamentum venosum is demonstrated between the S1 and&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;S2,11 but the EUS scan plane from the proximal stomach&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;cannot demonstrate these two segments in one plane.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;Instead, on EUS, the ligamentum venosum is seen as a thick&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;hyperechoic band between S1 under the probe, and S4 deep&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#000000"&gt;to it (Fig. 2c; Fig. S3).&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Caudate lobe (S1) and &amp; lig. venosum
+ S1 LV
+
+Left PV S4 MVH
+S8
+V. Bhatia et al. Digestive Endoscopy 2014</text>
+		</slide>
+		<slide index="16" title="Hepatic Hilum and GB" titleNormalized="hepatic hilum and gb" src="slide17.swf" size="214669" advanceOnTime="1" framesCount="1828" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_171dac40.spr0_5866948" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_171dac40.spr2_5866948" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="987" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1827" playTime="72.6729965" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>Endoscope more advaned to mid body of stomach,
+
+Perihlar area and S4  PV runk seen and CBD also seen.
+
+
+More adcanced to distal portion of stomch, we can see GB
+Sometimes we can cystic duct and neck 
+
+T
+
+op figure: Slight pushing in of the probe lands it on the hilum of the liver, which is seen in a longitudinal profile. The portal vein (PV) is seen as the superior-most structure from the stomach. The bile duct (not seen in this image) is seen behind the PV, as the scan plane is directed towards the right and forwards (looking from left and behind of the hepato-duodenal ligament). The hepatic artery (HA) and its branches course between and over the bile duct and PV trunk. S4 (Quadrate lobe) is located over the liver hilum. The right PV and right HA dip down on the screen, and cannot be traced further from the stomach. Part of the right lobe (S5) is seen in the lower half of the image, with the globular gallbladder (GB) on its underside.
+
+Bottom figure: Further pushing in of the probe slides it along the liver undersurface now. The scan plane shows the gallbladder GB along the liver undersurface, with S5 on top. We are now scanning from below-upwards.
+
+The hilum of the liver is below and behind S4 and can be
+seen by pushing the probe in. The PV trunk is seen in a
+longitudinal orientation from the stomach with the bile duct
+behind it. The cystic duct is seen below the bile duct and the
+GB below and counter-clockwise (to the right anatomically).
+A part of S5 may be seen farther in the field below the GB in
+patients with optimal scanning conditions (Fig. S6). The transverse part of the left PV rises close to the probe in the
+scan plane and can be traced down into the PV trunk at the
+hepatic hilum (Fig. 2d). The left HA follows the transverse
+part of the left PV and can be traced back to its branches
+by counter-clockwise rotation and slight upward tip angulation
+(Fig. S7a; Video S1). The right PV branch dips down
+almost vertically in this view and cannot be further traced
+from the stomach. The right HA also follows the right PV
+(Fig. S7b).
+Further clockwise rotation from the hilum directs the scan
+plane off the liver and the probe now faces the abdominal
+aorta posteriorly. At the level of the aortic hiatus, the aorta is
+slightly to the left of the midline. The common hepatic artery
+(CHA) can be traced from the celiac trunk by rotating back
+in a counter-clockwise direction and a little withdrawal
+towards the liver hilum. The CHA gives off the right gastric
+artery that is usually not seen, and the gastroduodenal artery
+(GDA) at the upper part of the pancreatic neck. Variations in
+HA anatomy are common12 and can be recognized during the
+EUS study. A replaced right HA or CHA is seen best from
+the stomach, and can be traced to its origin from the superior
+mesenteric artery. During transgastric imaging, the replaced
+right HA is seen to course ‘below’ the elongated image of the
+PV instead of the normal crossing down from an upward
+direction in the scan plane. It is important to recognize this
+anomaly before an intraductal ultrasound (IDUS) examination,
+as a replaced right HA cannot be seen during IDUS
+examination. A replaced left HA can be seen to originate
+from the left gastric artery and traced along the left PV into
+the hilum.</notes>
+			<notesNormalized>endoscope more advaned to mid body of stomach,
+
+perihlar area and s4 pv runk seen and cbd also seen.
+
+
+more adcanced to distal portion of stomch, we can see gb
+sometimes we can cystic duct and neck 
+
+t
+
+op figure: slight pushing in of the probe lands it on the hilum of the liver, which is seen in a longitudinal profile. the portal vein (pv) is seen as the superior-most structure from the stomach. the bile duct (not seen in this image) is seen behind the pv, as the scan plane is directed towards the right and forwards (looking from left and behind of the hepato-duodenal ligament). the hepatic artery (ha) and its branches course between and over the bile duct and pv trunk. s4 (quadrate lobe) is located over the liver hilum. the right pv and right ha dip down on the screen, and cannot be traced further from the stomach. part of the right lobe (s5) is seen in the lower half of the image, with the globular gallbladder (gb) on its underside.
+
+bottom figure: further pushing in of the probe slides it along the liver undersurface now. the scan plane shows the gallbladder gb along the liver undersurface, with s5 on top. we are now scanning from below-upwards.
+
+the hilum of the liver is below and behind s4 and can be
+seen by pushing the probe in. the pv trunk is seen in a
+longitudinal orientation from the stomach with the bile duct
+behind it. the cystic duct is seen below the bile duct and the
+gb below and counter-clockwise (to the right anatomically).
+a part of s5 may be seen farther in the field below the gb in
+patients with optimal scanning conditions (fig. s6). the transverse part of the left pv rises close to the probe in the
+scan plane and can be traced down into the pv trunk at the
+hepatic hilum (fig. 2d). the left ha follows the transverse
+part of the left pv and can be traced back to its branches
+by counter-clockwise rotation and slight upward tip angulation
+(fig. s7a; video s1). the right pv branch dips down
+almost vertically in this view and cannot be further traced
+from the stomach. the right ha also follows the right pv
+(fig. s7b).
+further clockwise rotation from the hilum directs the scan
+plane off the liver and the probe now faces the abdominal
+aorta posteriorly. at the level of the aortic hiatus, the aorta is
+slightly to the left of the midline. the common hepatic artery
+(cha) can be traced from the celiac trunk by rotating back
+in a counter-clockwise direction and a little withdrawal
+towards the liver hilum. the cha gives off the right gastric
+artery that is usually not seen, and the gastroduodenal artery
+(gda) at the upper part of the pancreatic neck. variations in
+ha anatomy are common12 and can be recognized during the
+eus study. a replaced right ha or cha is seen best from
+the stomach, and can be traced to its origin from the superior
+mesenteric artery. during transgastric imaging, the replaced
+right ha is seen to course ‘below’ the elongated image of the
+pv instead of the normal crossing down from an upward
+direction in the scan plane. it is important to recognize this
+anomaly before an intraductal ultrasound (idus) examination,
+as a replaced right ha cannot be seen during idus
+examination. a replaced left ha can be seen to originate
+from the left gastric artery and traced along the left pv into
+the hilum.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="14"&gt;Endoscope more advaned to mid body of stomach,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Perihlar area and S4  PV runk seen and CBD also seen.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;More adcanced to distal portion of stomch, we can see GB&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Sometimes we can cystic duct and neck &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;T&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;op figure: Slight pushing in of the probe lands it on the hilum of the liver, which is seen in a longitudinal profile. The portal vein (PV) is seen as the superior-most structure from the stomach. The bile duct (not seen in this image) is seen behind the PV, as the scan plane is directed towards the right and forwards (looking from left and behind of the hepato-duodenal ligament). The hepatic artery (HA) and its branches course between and over the bile duct and PV trunk. S4 (Quadrate lobe) is located over the liver hilum. The right PV and right HA dip down on the screen, and cannot be traced further from the stomach. Part of the right lobe (S5) is seen in the lower half of the image, with the globular gallbladder (GB) on its underside.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Bottom figure: Further pushing in of the probe slides it along the liver undersurface now. The scan plane shows the gallbladder GB along the liver undersurface, with S5 on top. We are now scanning from below-upwards.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;The hilum of the liver is below and behind S4 and can be&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;seen by pushing the probe in. The PV trunk is seen in a&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;longitudinal orientation from the stomach with the bile duct&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;behind it. The cystic duct is seen below the bile duct and the&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;GB below and counter-clockwise (to the right anatomically).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;A part of S5 may be seen farther in the field below the GB in&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;patients with optimal scanning conditions (Fig. S6). The &lt;/font&gt;&lt;font size="12"&gt;transverse part of the left PV rises close to the probe in the&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;scan plane and can be traced down into the PV trunk at the&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;hepatic hilum (Fig. 2d). The left HA follows the transverse&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;part of the left PV and can be traced back to its branches&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;by counter-clockwise rotation and slight upward tip angulation&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;(Fig. S7a; Video S1). The right PV branch dips down&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;almost vertically in this view and cannot be further traced&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;from the stomach. The right HA also follows the right PV&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;(Fig. S7b).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Further clockwise rotation from the hilum directs the scan&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;plane off the liver and the probe now faces the abdominal&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;aorta posteriorly. At the level of the aortic hiatus, the aorta is&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;slightly to the left of the midline. The common hepatic artery&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;(CHA) can be traced from the celiac trunk by rotating back&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;in a counter-clockwise direction and a little withdrawal&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;towards the liver hilum. The CHA gives off the right gastric&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;artery that is usually not seen, and the gastroduodenal artery&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;(GDA) at the upper part of the pancreatic neck. Variations in&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;HA anatomy are common12 and can be recognized during the&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;EUS study. A replaced right HA or CHA is seen best from&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;the stomach, and can be traced to its origin from the superior&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;mesenteric artery. During transgastric imaging, the replaced&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;right HA is seen to course ‘below’ the elongated image of the&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;PV instead of the normal crossing down from an upward&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;direction in the scan plane. It is important to recognize this&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;anomaly before an intraductal ultrasound (IDUS) examination,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;as a replaced right HA cannot be seen during IDUS&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;examination. A replaced left HA can be seen to originate&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;from the left gastric artery and traced along the left PV into&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;the hilum.&lt;/font&gt;&lt;font size="14"&gt;&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Hepatic Hilum and GB 
+GB
+S5
+CBD
+
+
+GB
+PV
+Lt PV
+
+
+
+Rt PV
+ S4
+
+ PV trunk
+
+CBD
+
+
+ S5</text>
+		</slide>
+		<slide index="17" title="" titleNormalized="" src="slide18.swf" size="215867" advanceOnTime="1" framesCount="1283" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video2" videoClipId="ispring.resources_1a6d16c0.spr0_5886089" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1a6d16c0.spr2_5886089" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="101" videoId="video2" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1282" playTime="53.4166667" pauseTime="0.4703344"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="18" title="Trans-duodenal imaging of the liver" titleNormalized="trans-duodenal imaging of the liver" src="slide19.swf" size="695052" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.7479996"/>
+			</animationSteps>
+			<notes>https://www.youtube.com/watch?v=_Et7Fj9ccM0
+
+Fig. 8. Intrahepatic vascular and biliary anatomy. posterior view. Adapted from Cameron JL,
+Sandone C. Atlas of gastrointestinal surgery, vol. 1. 2nd edition. Hamilton (ON): BC Decker;
+2007. p. 124 [Fig. 2]; the People’s Medical Publishing House—USA, Shelton, CT; with
+permissio</notes>
+			<notesNormalized>https://www.youtube.com/watch?v=_et7fj9ccm0
+
+fig. 8. intrahepatic vascular and biliary anatomy. posterior view. adapted from cameron jl,
+sandone c. atlas of gastrointestinal surgery, vol. 1. 2nd edition. hamilton (on): bc decker;
+2007. p. 124 [fig. 2]; the people’s medical publishing house—usa, shelton, ct; with
+permissio</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;https://www.youtube.com/watch?v=_Et7Fj9ccM0&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Fig. 8. Intrahepatic vascular and biliary anatomy. posterior view. Adapted from Cameron JL,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Sandone C. Atlas of gastrointestinal surgery, vol. 1. 2nd edition. Hamilton (ON): BC Decker;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;2007. p. 124 [Fig. 2]; the People’s Medical Publishing House—USA, Shelton, CT; with&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;permissio&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Trans-duodenal imaging of the liver</text>
+		</slide>
+		<slide index="19" title="Step 1: PV and CBD in Duodenal bulb" titleNormalized="step 1: pv and cbd in duodenal bulb" src="slide20.swf" size="419887" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="45.2110018"/>
+			</animationSteps>
+			<notes>The bile duct and PV are demonstrated in long axis from
+the bulb, with the bile duct closer to the probe.
+Scan plan is like this parrell to portal vein and CBD
+When the PV is
+traced upwards to the hilum, We can seen RT and Lt portal vein and Hepatic artery </notes>
+			<notesNormalized>the bile duct and pv are demonstrated in long axis from
+the bulb, with the bile duct closer to the probe.
+scan plan is like this parrell to portal vein and cbd
+when the pv is
+traced upwards to the hilum, we can seen rt and lt portal vein and hepatic artery</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The bile duct and PV are demonstrated in long axis from&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;the bulb, with the bile duct closer to the probe.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Scan plan is like this parrell to portal vein and CBD&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;When the PV is&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;traced upwards to the hilum, We can seen RT and Lt portal vein and Hepatic artery &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>PV
+SV
+SMV
+PAN
+Step 1: PV and CBD in Duodenal bulb
+P-Head
+PV
+SV
+SMV</text>
+		</slide>
+		<slide index="20" title="From Main PV to Hilum" titleNormalized="from main pv to hilum" src="slide21.swf" size="302378" advanceOnTime="1" framesCount="1406" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video3" videoClipId="ispring.resources_1a6d1e10.spr0_5899723" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1a6d1e10.spr2_5899723" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="721" videoId="video3" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1405" playTime="58.5416667" pauseTime="2.9193319"/>
+			</animationSteps>
+			<notes>1.	 Lets move ope to hilar area
+2.	Initiallly scope flexision and   ecten sion we can see hilar area 
+3.	Scope advanced to hilum like this 
+4.	This fluroscopi image is helpful understand how to move the probe, how to make image of hilum,  in the duodenal bulb.
+5.	Let me show video clip 
+its bifurcation can be displayed
+with the right PV branch directed upwards and the left branch downwards in the image (Fig. 3a; Video S2).
+
+
+
+
+
+1.	Balloon up.
+2.	Rotate to left and ‘drop elbow.’
+3.	Pull back slightly against pylorus
+
+Fluoroscopic images of a curved linear EUS scope, during imaging of the hilum and right liver from the duodenal bulb. The small metal stent was previously placed in the minor papilla, and is unrelated to the present study.
+Figure 9b: The scope is looped in the stomach and pushed in the duodenal bulb. The scan plane is directed downwards, medially, and backwards towards the upper part of the pancreatic head and hepato-duodenal ligament structures (scan planes A to C).
+
+Figure 9c: With counter-clockwise rotation of the probe, the scan plane is directed to image the gallbladder along the underside of the liver, corresponding to area between planes C and D.
+
+Figure 9d: Maximal counter-clockwise rotation of the probe, directs the scan plane deep into the right liver lobe. The scan plane corresponds to plane E, and visualizes the right sided vasculature and parenchyma.</notes>
+			<notesNormalized>1.	 lets move ope to hilar area
+2.	initiallly scope flexision and ecten sion we can see hilar area 
+3.	scope advanced to hilum like this 
+4.	this fluroscopi image is helpful understand how to move the probe, how to make image of hilum, in the duodenal bulb.
+5.	let me show video clip 
+its bifurcation can be displayed
+with the right pv branch directed upwards and the left branch downwards in the image (fig. 3a; video s2).
+
+
+
+
+
+1.	balloon up.
+2.	rotate to left and ‘drop elbow.’
+3.	pull back slightly against pylorus
+
+fluoroscopic images of a curved linear eus scope, during imaging of the hilum and right liver from the duodenal bulb. the small metal stent was previously placed in the minor papilla, and is unrelated to the present study.
+figure 9b: the scope is looped in the stomach and pushed in the duodenal bulb. the scan plane is directed downwards, medially, and backwards towards the upper part of the pancreatic head and hepato-duodenal ligament structures (scan planes a to c).
+
+figure 9c: with counter-clockwise rotation of the probe, the scan plane is directed to image the gallbladder along the underside of the liver, corresponding to area between planes c and d.
+
+figure 9d: maximal counter-clockwise rotation of the probe, directs the scan plane deep into the right liver lobe. the scan plane corresponds to plane e, and visualizes the right sided vasculature and parenchyma.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="14"&gt;1.	 Lets move ope to hilar area&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;2.	Initiallly scope flexision and   ecten sion we can see hilar area &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;3.	Scope advanced to hilum like this &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;4.	This fluroscopi image is helpful understand how to move the probe, how to make image of hilum,  in the duodenal bulb.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;5.	Let me show video clip &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;its bifurcation can be displayed&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;with the right PV branch directed upwards and the left branch downwards in the image (Fig. 3a; Video S2).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;1.	Balloon up.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;2.	Rotate to left and ‘drop elbow.’&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;3.	Pull back slightly against pylorus&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Fluoroscopic images of a curved linear EUS scope, during imaging of the hilum and right liver from the duodenal bulb. The small metal stent was previously placed in the minor papilla, and is unrelated to the present study.&lt;/font&gt;&lt;font size="12"&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Figure 9b: The scope is looped in the stomach and pushed in the duodenal bulb. The scan plane is directed downwards, medially, and backwards towards the upper part of the pancreatic head and hepato-duodenal ligament structures (scan planes A to C).&lt;/font&gt;&lt;font size="12"&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Figure 9c: With counter-clockwise rotation of the probe, the scan plane is directed to image the gallbladder along the underside of the liver, corresponding to area between planes C and D.&lt;/font&gt;&lt;font size="12"&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Figure 9d: Maximal counter-clockwise rotation of the probe, directs the scan plane deep into the right liver lobe. The scan plane corresponds to plane E, and visualizes the right sided vasculature and parenchyma.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>From Main PV to Hilum
+19-RT PV-B
+E-20- LT PV</text>
+		</slide>
+		<slide index="21" title="Step 2: Hilar area" titleNormalized="step 2: hilar area" src="slide22.swf" size="289438" advanceOnTime="1" framesCount="266" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="265" playTime="11.0416667" pauseTime="42.6783346"/>
+			</animationSteps>
+			<notes>In the hilear plate, many ortans placed in this plase like PV, Ha, bile ductm cystic duct.
+
+
+The orientation in the hilum from the duodenal bulb is common hepatic duct (CHD), hepatic artery, and the portal vein from front-backwards. All three structures branch with a variable anatomy. However, this  orientation at the hilum usually holds true.
+Behind the Hilum is S1.
+In front of left PV is S4; in front of right PV is S5.</notes>
+			<notesNormalized>in the hilear plate, many ortans placed in this plase like pv, ha, bile ductm cystic duct.
+
+
+the orientation in the hilum from the duodenal bulb is common hepatic duct (chd), hepatic artery, and the portal vein from front-backwards. all three structures branch with a variable anatomy. however, this orientation at the hilum usually holds true.
+behind the hilum is s1.
+in front of left pv is s4; in front of right pv is s5.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In the hilear plate, many ortans placed in this plase like PV, Ha, bile ductm cystic duct.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The orientation in the hilum from the duodenal bulb is common hepatic duct (CHD), hepatic artery, and the portal vein from front-backwards. All three structures branch with a variable anatomy. However, this  orientation at the hilum usually holds true.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Behind the Hilum is S1.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In front of left PV is S4; in front of right PV is S5.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Step 2: Hilar area 
+S4 in front of LPV / S5 in front of RPV
+S1 behind PV bifurcation
+
+S5
+S4
+CHD
+RPV GB</text>
+		</slide>
+		<slide index="22" title="" titleNormalized="" src="slide23.swf" size="286113" advanceOnTime="1" framesCount="1386" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video4" videoClipId="ispring.resources_1abe4850.spr0_5919832" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1abe4850.spr2_5919832" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="240" videoId="video4" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1385" playTime="57.7083333" pauseTime="5.3546664"/>
+			</animationSteps>
+			<notes>The bile duct and PV are demonstrated in long axis from
+the bulb, with the former closer to the probe. When the PV is
+traced upwards to the hilum its bifurcation can be displayed with the right PV branch directed upwards and the left branch downwards in the image (Fig. 3a; Video S2). The
+common HA is seen to indent the PV as it crosses it. It then divides into the GDA and the proper hepatic artery (henceforth called the HA) at the superior margin of the pancreatic
+head. The HA usually courses along the posterior aspect of the common bile duct in 80% of cases and divides into its right and left branches earlier than the branching of the PV
+and bile duct.13 The right HA is thus usually seen in cross section between the bile duct and the PV, indenting these structures. It then passes upwards into the hilum, while the
+left HA extends down on the screen (Fig. 3b). The arterial branch to S4 (A4) is variable and has two patterns. It can originate from the left HA near the umbilical portion/ fissure,
+best seen by transgastric imaging while tracing the left HA.14 The A4 branch can also arise from the loop of the extrahepatic HA (PHA) as a third branch between the left HA and
+right HA, coursing cephalad. This trifurcatingbranch to
+
+Further counter-clockwise rotation scans higher into the liver hilum, with the scanning plane gradually directed
+upwards and posteriorly. In most instances, the confluence of the right and left hepatic ducts lies anterior to the right HA.
+The PV is usually posterior to the bile duct and HA at the hilum, with the right and left PV branches behind the respective
+arteries in the scan plane. The left PV and left HA are seen as elongated structures going down and to the left, running vertically towards the umbilical fissure in the distance</notes>
+			<notesNormalized>the bile duct and pv are demonstrated in long axis from
+the bulb, with the former closer to the probe. when the pv is
+traced upwards to the hilum its bifurcation can be displayed with the right pv branch directed upwards and the left branch downwards in the image (fig. 3a; video s2). the
+common ha is seen to indent the pv as it crosses it. it then divides into the gda and the proper hepatic artery (henceforth called the ha) at the superior margin of the pancreatic
+head. the ha usually courses along the posterior aspect of the common bile duct in 80% of cases and divides into its right and left branches earlier than the branching of the pv
+and bile duct.13 the right ha is thus usually seen in cross section between the bile duct and the pv, indenting these structures. it then passes upwards into the hilum, while the
+left ha extends down on the screen (fig. 3b). the arterial branch to s4 (a4) is variable and has two patterns. it can originate from the left ha near the umbilical portion/ fissure,
+best seen by transgastric imaging while tracing the left ha.14 the a4 branch can also arise from the loop of the extrahepatic ha (pha) as a third branch between the left ha and
+right ha, coursing cephalad. this trifurcatingbranch to
+
+further counter-clockwise rotation scans higher into the liver hilum, with the scanning plane gradually directed
+upwards and posteriorly. in most instances, the confluence of the right and left hepatic ducts lies anterior to the right ha.
+the pv is usually posterior to the bile duct and ha at the hilum, with the right and left pv branches behind the respective
+arteries in the scan plane. the left pv and left ha are seen as elongated structures going down and to the left, running vertically towards the umbilical fissure in the distance</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The bile duct and PV are demonstrated in long axis from&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;the bulb, with the former closer to the probe. When the PV is&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;traced upwards to the hilum its bifurcation can be displayed with the right PV branch directed upwards and the left branch downwards in the image (Fig. 3a; Video S2). The&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;common HA is seen to indent the PV as it crosses it. It then divides into the GDA and the proper hepatic artery (henceforth called the HA) at the superior margin of the pancreatic&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;head. The HA usually courses along the posterior aspect of the common bile duct in 80% of cases and divides into its right and left branches earlier than the branching of the PV&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;and bile duct.13 The right HA is thus usually seen in cross section between the bile duct and the PV, indenting these structures. It then passes upwards into the hilum, while the&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;left HA extends down on the screen (Fig. 3b). The arterial branch to S4 (A4) is variable and has two patterns. It can originate from the left HA near the umbilical portion/ fissure,&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;best seen by transgastric imaging while tracing the left HA.14 The A4 branch can also arise from the loop of the extrahepatic HA (PHA) as a third branch between the left HA and&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;right HA, coursing cephalad. This trifurcatingbranch to&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Further counter-clockwise rotation scans higher into the liver hilum, with the scanning plane gradually directed&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;upwards and posteriorly. In most instances, the confluence of the right and left hepatic ducts lies anterior to the right HA.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The PV is usually posterior to the bile duct and HA at the hilum, with the right and left PV branches behind the respective&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;arteries in the scan plane. The left PV and left HA are seen as elongated structures going down and to the left, running vertically towards the umbilical fissure in the distance&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="23" title="Portal vein and tributaries" titleNormalized="portal vein and tributaries" src="slide24.swf" size="275756" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.2970003"/>
+			</animationSteps>
+			<notes>Preoperative portal vein embolization in liver cancer: indications, techniques and outcomes
+
+Home /
+Vol 5, No 5 (October 2015) /
+Preoperative portal vein embolization in liver cancer: indications, techniques and outcomes</notes>
+			<notesNormalized>preoperative portal vein embolization in liver cancer: indications, techniques and outcomes
+
+home /
+vol 5, no 5 (october 2015) /
+preoperative portal vein embolization in liver cancer: indications, techniques and outcomes</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;&lt;b&gt;Preoperative portal vein embolization in liver cancer: indications, techniques and outcomes&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Home /&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Vol 5, No 5 (October 2015) /&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Preoperative portal vein embolization in liver cancer: indications, techniques and outcomes&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Portal vein and tributaries
+Portal vein anatomy most consistent.
+Bile ducts easier to follow when dilated.
+PV branches from below</text>
+		</slide>
+		<slide index="24" title="Step 3: Right lobe from duodenum" titleNormalized="step 3: right lobe from duodenum" src="slide25.swf" size="281205" advanceOnTime="1" framesCount="3229" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video5" videoClipId="ispring.resources_1abe8470.spr0_5949238" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1abe8470.spr2_5949238" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="220" videoId="video5" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="3228" playTime="39.9070015" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>Top figure: The branching of the right portal vein (RPV) into its anterior division (Ant. RPV) and posterior division (Post. RPV) is seen clearly, with the use of Doppler. S5 is close to the probe.
+
+Lower figure: An elongated representation of the right portal vein branches.  Branches of hepatic vein as seen in this section, are usually perpendicular to the portal vein radicals.
+Superior aspect of the liver is towards the left of the scan plane, and S8 is seen deep in the scan plane with good imaging conditions. S6 lies behind (posterior) to S5, and is seen down in the scan plane, below S5. However, there is no clear demarcation between S5 and S6.
+
+
+Normal PV anatomy
+The PV is formed in the retroperitoneum by the confluence of the superior mesenteric vein and the splenic vein behind the neck of the pancreas and courses behind the duodenal bulb. The main PV and the right and left portal veins (LPVs) are in the hilar fissure. The portal bifurcation may be extrahepatic (48% of cases), intrahepatic (26%), or located right at the entrance of the liver (26%) (7,8). Figures 1 and 2 illustrate the most common portal venous anatomy. On the right, there are usually two sectoral portal branches (anterior and posterior); on the left, there are two parts to the (main) LPV: the extrahepatic portion [the horizontal part (hp)] and the intrahepatic portion (the umbilical vertical part). In general, the sectoral branch divides into several segmental portal branches, which in turn supply the various segments. One segmental branch usually supplies segments II, VI, and VII and, more rarely, segment III. Segments IV, V, and VIII are commonly supplied by more than one segmental branch. Segmental veins then divide into subsegmental branches, which further divide into small veins leading to the portal venule of the liver acinus (9).
+
+
+PV variants
+Anatomic variants of the PV are uncommon (10-15% of cases) (Figure 3) (10). However, when present, they are important to recognize because they may have profound implications for whether PVE or subsequent resection can be performed successfully. In a small portion (11%) of the population, the PV divides into one left and two right portal branches. This variant, known as portal trifurcation, is present if three branches stem from the main portal trunk: the posterior branch, the anterior branch, and the left main branch (Figure 3B). In addition, the right anterior segment PV may branch from the left main PV (4% of cases), or the left main PV may branch from the right anterior PV. Alternatively, the right posterior branch may stem from the main portal trunk, with the anterior branch forming a bifurcation with the LPV (5% of cases). Quadrifurcation of the PV can also occur, consisting of a branch for segment VII, a branch for segment VI, an anterior branch, and a left main portal branch (LPV) (Figure 3C). In exceptional cases, a branch for subsegment IVb or an additional branch for segments VI, VII, or even VIII may stem from the portal bifurcation. Only very rarely (1% of cases) are bifurcation of the PV completely absent [no right portal vein (RPV)] (Figure 3E) (11). When this occurs, the solitary PV in the hilum passes through the entire liver, either from right to left or from left to right. Failure to recognize this variation in the setting of hilar portal ligation leads to hepatic failure and death. Resection or liver transplantation may require PV resection and reconstruction, which greatly increases the complexity of these procedures (11). Additional variations can occur in both the right and left portal systems. It is extremely important to be aware of portal anomalies because failure to do so can lead to non-target embolization with potential risk to the future liver remnants (FLR).
+
+
+
+ </notes>
+			<notesNormalized>top figure: the branching of the right portal vein (rpv) into its anterior division (ant. rpv) and posterior division (post. rpv) is seen clearly, with the use of doppler. s5 is close to the probe.
+
+lower figure: an elongated representation of the right portal vein branches. branches of hepatic vein as seen in this section, are usually perpendicular to the portal vein radicals.
+superior aspect of the liver is towards the left of the scan plane, and s8 is seen deep in the scan plane with good imaging conditions. s6 lies behind (posterior) to s5, and is seen down in the scan plane, below s5. however, there is no clear demarcation between s5 and s6.
+
+
+normal pv anatomy
+the pv is formed in the retroperitoneum by the confluence of the superior mesenteric vein and the splenic vein behind the neck of the pancreas and courses behind the duodenal bulb. the main pv and the right and left portal veins (lpvs) are in the hilar fissure. the portal bifurcation may be extrahepatic (48% of cases), intrahepatic (26%), or located right at the entrance of the liver (26%) (7,8). figures 1 and 2 illustrate the most common portal venous anatomy. on the right, there are usually two sectoral portal branches (anterior and posterior); on the left, there are two parts to the (main) lpv: the extrahepatic portion [the horizontal part (hp)] and the intrahepatic portion (the umbilical vertical part). in general, the sectoral branch divides into several segmental portal branches, which in turn supply the various segments. one segmental branch usually supplies segments ii, vi, and vii and, more rarely, segment iii. segments iv, v, and viii are commonly supplied by more than one segmental branch. segmental veins then divide into subsegmental branches, which further divide into small veins leading to the portal venule of the liver acinus (9).
+
+
+pv variants
+anatomic variants of the pv are uncommon (10-15% of cases) (figure 3) (10). however, when present, they are important to recognize because they may have profound implications for whether pve or subsequent resection can be performed successfully. in a small portion (11%) of the population, the pv divides into one left and two right portal branches. this variant, known as portal trifurcation, is present if three branches stem from the main portal trunk: the posterior branch, the anterior branch, and the left main branch (figure 3b). in addition, the right anterior segment pv may branch from the left main pv (4% of cases), or the left main pv may branch from the right anterior pv. alternatively, the right posterior branch may stem from the main portal trunk, with the anterior branch forming a bifurcation with the lpv (5% of cases). quadrifurcation of the pv can also occur, consisting of a branch for segment vii, a branch for segment vi, an anterior branch, and a left main portal branch (lpv) (figure 3c). in exceptional cases, a branch for subsegment ivb or an additional branch for segments vi, vii, or even viii may stem from the portal bifurcation. only very rarely (1% of cases) are bifurcation of the pv completely absent [no right portal vein (rpv)] (figure 3e) (11). when this occurs, the solitary pv in the hilum passes through the entire liver, either from right to left or from left to right. failure to recognize this variation in the setting of hilar portal ligation leads to hepatic failure and death. resection or liver transplantation may require pv resection and reconstruction, which greatly increases the complexity of these procedures (11). additional variations can occur in both the right and left portal systems. it is extremely important to be aware of portal anomalies because failure to do so can lead to non-target embolization with potential risk to the future liver remnants (flr).
+
+
+
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="14"&gt;Top figure: The branching of the right portal vein (RPV) into its anterior division (Ant. RPV) and posterior division (Post. RPV) is seen clearly, with the use of Doppler. S5 is close to the probe.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Lower figure: An elongated representation of the right portal vein branches.  Branches of hepatic vein as seen in this section, are usually perpendicular to the portal vein radicals.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Superior aspect of the liver is towards the left of the scan plane, and S8 is seen deep in the scan plane with good imaging conditions. S6 lies behind (posterior) to S5, and is seen down in the scan plane, below S5. However, there is no clear demarcation between S5 and S6.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;&lt;b&gt;Normal PV anatomy&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;The PV is formed in the retroperitoneum by the confluence of the superior mesenteric vein and the splenic vein behind the neck of the pancreas and courses behind the duodenal bulb. The main PV and the right and left portal veins (LPVs) are in the hilar fissure. The portal bifurcation may be extrahepatic (48% of cases), intrahepatic (26%), or located right at the entrance of the liver (26%) (7,8). &lt;i&gt;Figures 1&lt;/i&gt; and &lt;i&gt;2&lt;/i&gt; illustrate the most common portal venous anatomy. On the right, there are usually two sectoral portal branches (anterior and posterior); on the left, there are two parts to the (main) LPV: the extrahepatic portion [the horizontal part (hp)] and the intrahepatic portion (the umbilical vertical part). In general, the sectoral branch divides into several segmental portal branches, which in turn supply the various segments. One segmental branch usually supplies segments II, VI, and VII and, more rarely, segment III. Segments IV, V, and VIII are commonly supplied by more than one segmental branch. Segmental veins then divide into subsegmental branches, which further divide into small veins leading to the portal venule of the liver acinus (9).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;&lt;b&gt;PV variants&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Anatomic variants of the PV are uncommon (10-15% of cases) (&lt;i&gt;Figure 3&lt;/i&gt;) (10). However, when present, they are important to recognize because they may have profound implications for whether PVE or subsequent resection can be performed successfully. In a small portion (11%) of the population, the PV divides into one left and two right portal branches. This variant, known as portal trifurcation, is present if three branches stem from the main portal trunk: the posterior branch, the anterior branch, and the left main branch (&lt;i&gt;Figure 3B&lt;/i&gt;). In addition, the right anterior segment PV may branch from the left main PV (4% of cases), or the left main PV may branch from the right anterior PV. Alternatively, the right posterior branch may stem from the main portal trunk, with the anterior branch forming a bifurcation with the LPV (5% of cases). Quadrifurcation of the PV can also occur, consisting of a branch for segment VII, a branch for segment VI, an anterior branch, and a left main portal branch (LPV) (&lt;i&gt;Figure 3C&lt;/i&gt;). In exceptional cases, a branch for subsegment IVb or an additional branch for segments VI, VII, or even VIII may stem from the portal bifurcation. Only very rarely (1% of cases) are bifurcation of the PV completely absent [no right portal vein (RPV)] (&lt;i&gt;Figure 3E&lt;/i&gt;) (11). When this occurs, the solitary PV in the hilum passes through the entire liver, either from right to left or from left to right. Failure to recognize this variation in the setting of hilar portal ligation leads to hepatic failure and death. Resection or liver transplantation may require PV resection and reconstruction, which greatly increases the complexity of these procedures (11). Additional variations can occur in both the right and left portal systems. It is extremely important to be aware of portal anomalies because failure to do so can lead to non-target embolization with potential risk to the future liver remnants (FLR).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Step 3: Right lobe from duodenum
+Probe contact with inferior surface of Liver.
+Landmark is Portal vein and Bile duct(dilated)</text>
+		</slide>
+		<slide index="25" title="Right lobe from duodenum" titleNormalized="right lobe from duodenum" src="slide26.swf" size="226795" advanceOnTime="1" framesCount="1242" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video6" videoClipId="ispring.resources_1abe9cd0.spr0_5968504" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1abe9cd0.spr2_5968504" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="78" videoId="video6" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1241" playTime="47.9480019" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>Top figure: The branching of the right portal vein (RPV) into its anterior division (Ant. RPV) and posterior division (Post. RPV) is seen clearly, with the use of Doppler. S5 is close to the probe.
+
+Lower figure: An elongated representation of the right portal vein branches.  Branches of hepatic vein as seen in this section, are usually perpendicular to the portal vein radicals.
+Superior aspect of the liver is towards the left of the scan plane, and S8 is seen deep in the scan plane with good imaging conditions. S6 lies behind (posterior) to S5, and is seen down in the scan plane, below S5. However, there is no clear demarcation between S5 and S6.
+
+
+Normal PV anatomy
+The PV is formed in the retroperitoneum by the confluence of the superior mesenteric vein and the splenic vein behind the neck of the pancreas and courses behind the duodenal bulb. The main PV and the right and left portal veins (LPVs) are in the hilar fissure. The portal bifurcation may be extrahepatic (48% of cases), intrahepatic (26%), or located right at the entrance of the liver (26%) (7,8). Figures 1 and 2 illustrate the most common portal venous anatomy. On the right, there are usually two sectoral portal branches (anterior and posterior); on the left, there are two parts to the (main) LPV: the extrahepatic portion [the horizontal part (hp)] and the intrahepatic portion (the umbilical vertical part). In general, the sectoral branch divides into several segmental portal branches, which in turn supply the various segments. One segmental branch usually supplies segments II, VI, and VII and, more rarely, segment III. Segments IV, V, and VIII are commonly supplied by more than one segmental branch. Segmental veins then divide into subsegmental branches, which further divide into small veins leading to the portal venule of the liver acinus (9).
+
+
+PV variants
+Anatomic variants of the PV are uncommon (10-15% of cases) (Figure 3) (10). However, when present, they are important to recognize because they may have profound implications for whether PVE or subsequent resection can be performed successfully. In a small portion (11%) of the population, the PV divides into one left and two right portal branches. This variant, known as portal trifurcation, is present if three branches stem from the main portal trunk: the posterior branch, the anterior branch, and the left main branch (Figure 3B). In addition, the right anterior segment PV may branch from the left main PV (4% of cases), or the left main PV may branch from the right anterior PV. Alternatively, the right posterior branch may stem from the main portal trunk, with the anterior branch forming a bifurcation with the LPV (5% of cases). Quadrifurcation of the PV can also occur, consisting of a branch for segment VII, a branch for segment VI, an anterior branch, and a left main portal branch (LPV) (Figure 3C). In exceptional cases, a branch for subsegment IVb or an additional branch for segments VI, VII, or even VIII may stem from the portal bifurcation. Only very rarely (1% of cases) are bifurcation of the PV completely absent [no right portal vein (RPV)] (Figure 3E) (11). When this occurs, the solitary PV in the hilum passes through the entire liver, either from right to left or from left to right. Failure to recognize this variation in the setting of hilar portal ligation leads to hepatic failure and death. Resection or liver transplantation may require PV resection and reconstruction, which greatly increases the complexity of these procedures (11). Additional variations can occur in both the right and left portal systems. It is extremely important to be aware of portal anomalies because failure to do so can lead to non-target embolization with potential risk to the future liver remnants (FLR).
+
+
+
+ </notes>
+			<notesNormalized>top figure: the branching of the right portal vein (rpv) into its anterior division (ant. rpv) and posterior division (post. rpv) is seen clearly, with the use of doppler. s5 is close to the probe.
+
+lower figure: an elongated representation of the right portal vein branches. branches of hepatic vein as seen in this section, are usually perpendicular to the portal vein radicals.
+superior aspect of the liver is towards the left of the scan plane, and s8 is seen deep in the scan plane with good imaging conditions. s6 lies behind (posterior) to s5, and is seen down in the scan plane, below s5. however, there is no clear demarcation between s5 and s6.
+
+
+normal pv anatomy
+the pv is formed in the retroperitoneum by the confluence of the superior mesenteric vein and the splenic vein behind the neck of the pancreas and courses behind the duodenal bulb. the main pv and the right and left portal veins (lpvs) are in the hilar fissure. the portal bifurcation may be extrahepatic (48% of cases), intrahepatic (26%), or located right at the entrance of the liver (26%) (7,8). figures 1 and 2 illustrate the most common portal venous anatomy. on the right, there are usually two sectoral portal branches (anterior and posterior); on the left, there are two parts to the (main) lpv: the extrahepatic portion [the horizontal part (hp)] and the intrahepatic portion (the umbilical vertical part). in general, the sectoral branch divides into several segmental portal branches, which in turn supply the various segments. one segmental branch usually supplies segments ii, vi, and vii and, more rarely, segment iii. segments iv, v, and viii are commonly supplied by more than one segmental branch. segmental veins then divide into subsegmental branches, which further divide into small veins leading to the portal venule of the liver acinus (9).
+
+
+pv variants
+anatomic variants of the pv are uncommon (10-15% of cases) (figure 3) (10). however, when present, they are important to recognize because they may have profound implications for whether pve or subsequent resection can be performed successfully. in a small portion (11%) of the population, the pv divides into one left and two right portal branches. this variant, known as portal trifurcation, is present if three branches stem from the main portal trunk: the posterior branch, the anterior branch, and the left main branch (figure 3b). in addition, the right anterior segment pv may branch from the left main pv (4% of cases), or the left main pv may branch from the right anterior pv. alternatively, the right posterior branch may stem from the main portal trunk, with the anterior branch forming a bifurcation with the lpv (5% of cases). quadrifurcation of the pv can also occur, consisting of a branch for segment vii, a branch for segment vi, an anterior branch, and a left main portal branch (lpv) (figure 3c). in exceptional cases, a branch for subsegment ivb or an additional branch for segments vi, vii, or even viii may stem from the portal bifurcation. only very rarely (1% of cases) are bifurcation of the pv completely absent [no right portal vein (rpv)] (figure 3e) (11). when this occurs, the solitary pv in the hilum passes through the entire liver, either from right to left or from left to right. failure to recognize this variation in the setting of hilar portal ligation leads to hepatic failure and death. resection or liver transplantation may require pv resection and reconstruction, which greatly increases the complexity of these procedures (11). additional variations can occur in both the right and left portal systems. it is extremely important to be aware of portal anomalies because failure to do so can lead to non-target embolization with potential risk to the future liver remnants (flr).
+
+
+
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="14"&gt;Top figure: The branching of the right portal vein (RPV) into its anterior division (Ant. RPV) and posterior division (Post. RPV) is seen clearly, with the use of Doppler. S5 is close to the probe.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Lower figure: An elongated representation of the right portal vein branches.  Branches of hepatic vein as seen in this section, are usually perpendicular to the portal vein radicals.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Superior aspect of the liver is towards the left of the scan plane, and S8 is seen deep in the scan plane with good imaging conditions. S6 lies behind (posterior) to S5, and is seen down in the scan plane, below S5. However, there is no clear demarcation between S5 and S6.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;&lt;b&gt;Normal PV anatomy&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;The PV is formed in the retroperitoneum by the confluence of the superior mesenteric vein and the splenic vein behind the neck of the pancreas and courses behind the duodenal bulb. The main PV and the right and left portal veins (LPVs) are in the hilar fissure. The portal bifurcation may be extrahepatic (48% of cases), intrahepatic (26%), or located right at the entrance of the liver (26%) (7,8). &lt;i&gt;Figures 1&lt;/i&gt; and &lt;i&gt;2&lt;/i&gt; illustrate the most common portal venous anatomy. On the right, there are usually two sectoral portal branches (anterior and posterior); on the left, there are two parts to the (main) LPV: the extrahepatic portion [the horizontal part (hp)] and the intrahepatic portion (the umbilical vertical part). In general, the sectoral branch divides into several segmental portal branches, which in turn supply the various segments. One segmental branch usually supplies segments II, VI, and VII and, more rarely, segment III. Segments IV, V, and VIII are commonly supplied by more than one segmental branch. Segmental veins then divide into subsegmental branches, which further divide into small veins leading to the portal venule of the liver acinus (9).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;&lt;b&gt;PV variants&lt;/b&gt;&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Anatomic variants of the PV are uncommon (10-15% of cases) (&lt;i&gt;Figure 3&lt;/i&gt;) (10). However, when present, they are important to recognize because they may have profound implications for whether PVE or subsequent resection can be performed successfully. In a small portion (11%) of the population, the PV divides into one left and two right portal branches. This variant, known as portal trifurcation, is present if three branches stem from the main portal trunk: the posterior branch, the anterior branch, and the left main branch (&lt;i&gt;Figure 3B&lt;/i&gt;). In addition, the right anterior segment PV may branch from the left main PV (4% of cases), or the left main PV may branch from the right anterior PV. Alternatively, the right posterior branch may stem from the main portal trunk, with the anterior branch forming a bifurcation with the LPV (5% of cases). Quadrifurcation of the PV can also occur, consisting of a branch for segment VII, a branch for segment VI, an anterior branch, and a left main portal branch (LPV) (&lt;i&gt;Figure 3C&lt;/i&gt;). In exceptional cases, a branch for subsegment IVb or an additional branch for segments VI, VII, or even VIII may stem from the portal bifurcation. Only very rarely (1% of cases) are bifurcation of the PV completely absent [no right portal vein (RPV)] (&lt;i&gt;Figure 3E&lt;/i&gt;) (11). When this occurs, the solitary PV in the hilum passes through the entire liver, either from right to left or from left to right. Failure to recognize this variation in the setting of hilar portal ligation leads to hepatic failure and death. Resection or liver transplantation may require PV resection and reconstruction, which greatly increases the complexity of these procedures (11). Additional variations can occur in both the right and left portal systems. It is extremely important to be aware of portal anomalies because failure to do so can lead to non-target embolization with potential risk to the future liver remnants (FLR).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Right lobe from duodenum</text>
+		</slide>
+		<slide index="26" title="43/F, Multiple masses in liver" titleNormalized="43/f, multiple masses in liver" src="slide27.swf" size="206063" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.1289992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>43/F, Multiple masses in liver
+segment 7 ; 0.7cm,1.8cm, segment 8 ; 1.3cm, segment5 ; 0.6cm</text>
+		</slide>
+		<slide index="27" title="" titleNormalized="" src="slide28.swf" size="235525" advanceOnTime="1" framesCount="1756" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video7" videoClipId="ispring.resources_1abe9650.spr0_5997630" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1abe9650.spr2_5997630" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video7" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1755" playTime="48.3479996" pauseTime="0.0000000"/>
+			</animationSteps>
+			<notes>1186996 </notes>
+			<notesNormalized>1186996</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;1186996 &lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="28" title="Step 5: Left lobe from duodenum" titleNormalized="step 5: left lobe from duodenum" src="slide29.swf" size="455567" advanceOnTime="1" framesCount="438" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="437" playTime="18.2083333" pauseTime="18.5616671"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Step 5: Left lobe from duodenum
+S1
+S2,3
+S4
+Lt PV</text>
+		</slide>
+		<slide index="29" title="Left lobe from duodenum" titleNormalized="left lobe from duodenum" src="slide30.swf" size="250605" advanceOnTime="1" framesCount="627" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video8" videoClipId="ispring.resources_1abe4850.spr0_6009220" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1abe4850.spr2_6009220" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video8" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="626" playTime="26.0833333" pauseTime="2.6786658"/>
+			</animationSteps>
+			<notes>Upper figure: The looping left hepatic artery (LHA) is seen. Umbilical part (UP) of the left portal vein can be made out in the distance. The liver parenchyma close to the probe probably belongs to S4. The branches of the LHA can be usually be further traced from the stomach, but not from the duodenal bulb.
+
+Lower figure: The dilated left hepatic duct (LHD) is seen extending away from the EUS probe. A small part of the left liver lobe can also be seen from the duodenal bulb.</notes>
+			<notesNormalized>upper figure: the looping left hepatic artery (lha) is seen. umbilical part (up) of the left portal vein can be made out in the distance. the liver parenchyma close to the probe probably belongs to s4. the branches of the lha can be usually be further traced from the stomach, but not from the duodenal bulb.
+
+lower figure: the dilated left hepatic duct (lhd) is seen extending away from the eus probe. a small part of the left liver lobe can also be seen from the duodenal bulb.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="14"&gt;Upper figure: The looping left hepatic artery (LHA) is seen. Umbilical part (UP) of the left portal vein can be made out in the distance. The liver parenchyma close to the probe probably belongs to S4. The branches of the LHA can be usually be further traced from the stomach, but not from the duodenal bulb.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="14"&gt;Lower figure: The dilated left hepatic duct (LHD) is seen extending away from the EUS probe. A small part of the left liver lobe can also be seen from the duodenal bulb.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Left lobe from duodenum</text>
+		</slide>
+		<slide index="30" title="M/66, C/C: Jaundice" titleNormalized="m/66, c/c: jaundice" src="slide31.swf" size="220299" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.7890009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>M/66, C/C: Jaundice 
+Lt IHD
+Rt IHD</text>
+		</slide>
+		<slide index="31" title="" titleNormalized="" src="slide32.swf" size="251846" advanceOnTime="1" framesCount="785" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video9" videoClipId="ispring.resources_1abe8470.spr0_6022574" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_1abe8470.spr2_6022574" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video9" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="784" playTime="32.6666667" pauseTime="7.9743322"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="32" title="Conclusion" titleNormalized="conclusion" src="slide33.swf" size="1848" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="42.2410006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Detailed exam of the liver by EUS is possible.
+EUS is a dynamic study, and the liver is imaged in variable scan planes.
+These intrahepatic landmarks can be used for approximation of hepatic segments and lesions.
+A through understanding of the liver and vessel anatomy by linear EUS will form the backbone of transhepatic EUS-guided therapy, FNB and accurate tumor staging.
+In the future, reliability, reproducibility, accuracy have to be evaluated.
+
+Conclusion</text>
+		</slide>
+		<slide index="33" title="" titleNormalized="" src="slide34.swf" size="1206471" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.2690000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+	</slides>
+</presentation>
