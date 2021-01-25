@@ -1,0 +1,1844 @@
+<?xml version="1.0"?>
+<presentation title="08 Jun Ho Choi" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{C24F26FD-EC5D-44F8-9DEA-D4E07987102F}">
+	<presenters>
+		<presenter name="Jun Ho Choi" title="Dankook University" email="" web="" phone="" photoAssetId="">
+			<bio>Long Term Outcomes after EUS-guided Pancreatic Cyst Ablation</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="362102" duration="12931"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="438171" duration="15647"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="294811" duration="10527"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="283108" duration="10109"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="218011" duration="7784"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="676616" duration="24163"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="630536" duration="22518"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="738056" duration="26358"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="578605" duration="20663"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="365759" duration="13061"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="613714" duration="21917"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="400868" duration="14315"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="449874" duration="16065"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="837531" duration="29910"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="594696" duration="21238"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="501805" duration="17920"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="253119" duration="9038"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="73919" duration="2638"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="302125" duration="10789"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="589576" duration="21055"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="404525" duration="14446"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="247999" duration="8856"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="346742" duration="12382"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="251656" duration="8986"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="487176" duration="17398"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="616639" duration="22021"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="484251" duration="17293"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="217279" duration="7758"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="473279" duration="16901"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="272136" duration="9718"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="404525" duration="14446"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="330651" duration="11807"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="256776" duration="9169"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="400136" duration="14289"/>
+		<soundAsset id="sndAsset34" src="sound35.mp3" embedded="0" size="293348" duration="10475"/>
+		<soundAsset id="sndAsset35" src="sound36.mp3" embedded="0" size="299199" duration="10684"/>
+		<soundAsset id="sndAsset36" src="sound37.mp3" embedded="0" size="919451" duration="32836"/>
+		<soundAsset id="sndAsset37" src="sound38.mp3" embedded="0" size="487176" duration="17398"/>
+		<soundAsset id="sndAsset38" src="sound39.mp3" embedded="0" size="271405" duration="9691"/>
+		<soundAsset id="sndAsset39" src="sound40.mp3" embedded="0" size="501074" duration="17894"/>
+		<soundAsset id="sndAsset40" src="sound41.mp3" embedded="0" size="470354" duration="16797"/>
+		<soundAsset id="sndAsset41" src="sound42.mp3" embedded="0" size="1157165" duration="41326"/>
+		<soundAsset id="sndAsset42" src="sound43.mp3" embedded="0" size="343816" duration="12278"/>
+		<soundAsset id="sndAsset43" src="sound44.mp3" embedded="0" size="208502" duration="7445"/>
+		<soundAsset id="sndAsset44" src="sound45.mp3" embedded="0" size="298468" duration="10658"/>
+		<soundAsset id="sndAsset45" src="sound46.mp3" embedded="0" size="207039" duration="7393"/>
+		<soundAsset id="sndAsset46" src="sound47.mp3" embedded="0" size="934811" duration="33384"/>
+		<soundAsset id="sndAsset47" src="sound48.mp3" embedded="0" size="339428" duration="12121"/>
+		<soundAsset id="sndAsset48" src="sound49.mp3" embedded="0" size="1224456" duration="43729"/>
+		<soundAsset id="sndAsset49" src="sound50.mp3" embedded="0" size="435245" duration="15543"/>
+		<soundAsset id="sndAsset50" src="sound51.mp3" embedded="0" size="558125" duration="19931"/>
+		<soundAsset id="sndAsset51" src="sound52.mp3" embedded="0" size="452068" duration="16144"/>
+		<soundAsset id="sndAsset52" src="sound53.mp3" embedded="0" size="192411" duration="6870"/>
+		<soundAsset id="sndAsset53" src="sound54.mp3" embedded="0" size="117805" duration="4206"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+		<graphicAsset id="imgAsset35" src="thmb36.swf" embedded="0"/>
+		<graphicAsset id="imgAsset36" src="thmb37.swf" embedded="0"/>
+		<graphicAsset id="imgAsset37" src="thmb38.swf" embedded="0"/>
+		<graphicAsset id="imgAsset38" src="thmb39.swf" embedded="0"/>
+		<graphicAsset id="imgAsset39" src="thmb40.swf" embedded="0"/>
+		<graphicAsset id="imgAsset40" src="thmb41.swf" embedded="0"/>
+		<graphicAsset id="imgAsset41" src="thmb42.swf" embedded="0"/>
+		<graphicAsset id="imgAsset42" src="thmb43.swf" embedded="0"/>
+		<graphicAsset id="imgAsset43" src="thmb44.swf" embedded="0"/>
+		<graphicAsset id="imgAsset44" src="thmb45.swf" embedded="0"/>
+		<graphicAsset id="imgAsset45" src="thmb46.swf" embedded="0"/>
+		<graphicAsset id="imgAsset46" src="thmb47.swf" embedded="0"/>
+		<graphicAsset id="imgAsset47" src="thmb48.swf" embedded="0"/>
+		<graphicAsset id="imgAsset48" src="thmb49.swf" embedded="0"/>
+		<graphicAsset id="imgAsset49" src="thmb50.swf" embedded="0"/>
+		<graphicAsset id="imgAsset50" src="thmb51.swf" embedded="0"/>
+		<graphicAsset id="imgAsset51" src="thmb52.swf" embedded="0"/>
+		<graphicAsset id="imgAsset52" src="thmb53.swf" embedded="0"/>
+		<graphicAsset id="imgAsset53" src="thmb54.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="12.8800000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="15.6160000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="10.4770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="10.0770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="7.7399998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="24.1240000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="22.4890000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="26.3260000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="20.6200008"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="13.0120001"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="21.8880005"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="14.2810000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="16.0160000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="29.8600006"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="21.1880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="17.8850000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="9.0090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="2.5999999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="10.7399998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="21.0200005"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="14.4099998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="8.8090000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="12.3460000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="8.9399996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="17.3500004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="21.9890000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="17.2500000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="7.7080000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="16.8500000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="9.6760000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="14.4099998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="11.7770004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="9.1420000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="14.2480000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset34">
+				<startTimestamp slideIndex="34" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="34" stepIndex="0" timeOffset="10.4399996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset35">
+				<startTimestamp slideIndex="35" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="35" stepIndex="0" timeOffset="10.6400003"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset36">
+				<startTimestamp slideIndex="36" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="36" stepIndex="0" timeOffset="32.7990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset37">
+				<startTimestamp slideIndex="37" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="37" stepIndex="0" timeOffset="17.3509998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset38">
+				<startTimestamp slideIndex="38" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="38" stepIndex="0" timeOffset="9.6429996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset39">
+				<startTimestamp slideIndex="39" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="39" stepIndex="0" timeOffset="17.8500004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset40">
+				<startTimestamp slideIndex="40" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="40" stepIndex="0" timeOffset="16.7500000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset41">
+				<startTimestamp slideIndex="41" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="41" stepIndex="0" timeOffset="41.2750000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset42">
+				<startTimestamp slideIndex="42" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="42" stepIndex="0" timeOffset="12.2460000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset43">
+				<startTimestamp slideIndex="43" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="43" stepIndex="0" timeOffset="7.4070000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset44">
+				<startTimestamp slideIndex="44" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="44" stepIndex="0" timeOffset="10.6110000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset45">
+				<startTimestamp slideIndex="45" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="45" stepIndex="0" timeOffset="7.3410000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset46">
+				<startTimestamp slideIndex="46" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="46" stepIndex="0" timeOffset="33.3300018"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset47">
+				<startTimestamp slideIndex="47" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="47" stepIndex="0" timeOffset="12.0790000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset48">
+				<startTimestamp slideIndex="48" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="48" stepIndex="0" timeOffset="43.6770000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset49">
+				<startTimestamp slideIndex="49" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="49" stepIndex="0" timeOffset="15.5150000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset50">
+				<startTimestamp slideIndex="50" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="50" stepIndex="0" timeOffset="19.8869991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset51">
+				<startTimestamp slideIndex="51" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="51" stepIndex="0" timeOffset="16.1159992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset52">
+				<startTimestamp slideIndex="52" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="52" stepIndex="0" timeOffset="6.8400000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset53">
+				<startTimestamp slideIndex="53" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="53" stepIndex="0" timeOffset="4.1700000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Long Term Outcomes after EUS-guided Pancreatic Cyst Ablation" titleNormalized="long term outcomes after eus-guided pancreatic cyst ablation" src="slide1.swf" size="9669" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.8790001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Long Term Outcomes after EUS-guided Pancreatic Cyst Ablation
+
+Jun Ho Choi
+Department of Gastroenterology, Dankook University
+College of Medicine, Cheonan, Korea</text>
+		</slide>
+		<slide index="1" title="Contents" titleNormalized="contents" src="slide2.swf" size="2887" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.6189999"/>
+			</animationSteps>
+			<notes>
+			</notes>
+			<notesNormalized/>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Brief overview 
+Efficacy of EUS-guided ethanol ablation
+Safety of EUS-guided ethanol ablation
+Long-term durability of cyst resolution
+Conclusion</text>
+		</slide>
+		<slide index="2" title="D/Dx: MCN, IPMN or SCN ?" titleNormalized="d/dx: mcn, ipmn or scn ?" src="slide3.swf" size="254535" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.4789995"/>
+			</animationSteps>
+			<notes>Let me show you one case 
+At head of pancreas, about 2.7cm sized oligolocular cystic lesion was seen on EUS
+
+*
+* Indication
+  : pancreas cystic lesion
+
+  Premedications(iv): midazolam 3 mg iv, none  
+  Complications: no immediate complication
+
+* Examination was done with UE-260 radial EUS.
+* Examination was done with UM-3R miniprobe.
+
+
+* EUS findings
+  : Pancreas의 echo는 정상이며 pancreatitis를 시사할 만한 소견 관찰되지 않음.
+    Main p-duct은 0.18cm 으로 늘어나 있지 않음. 
+    Pancreas head-neck portion에 2.7 x 2.7 cm sized cystic lesion 관찰됨. 
+    Septum이 있으며, wall은 얇음. oligolocular cyst이며, mural nodule은 
+    관찰되지 않음. 
+    Contrast enhance 시에 early phase에서 septum과 wall이 약간 enhance 되는 
+    양상이었고, delayed phase 까지 지속됨.
+    P-duct와 cyst간의 communication은 관찰되지 않아, IPMN 가능성은 떨어질 
+    것으로 생각됨.
+
+    Stomach MB PW에 보이는 SMT-like lesion은 pancreas cystic lesion에 의해 
+    extrinsic compression인 것으로 확인됨.
+
+Imp) 1. SCN &gt; MCN
+     2. IPMN, unlikely
+     3. Stomach MB PW, extrinsic compression by pancreatic cystic lesion</notes>
+			<notesNormalized>let me show you one case 
+at head of pancreas, about 2.7cm sized oligolocular cystic lesion was seen on eus
+
+*
+* indication
+ : pancreas cystic lesion
+
+ premedications(iv): midazolam 3 mg iv, none 
+ complications: no immediate complication
+
+* examination was done with ue-260 radial eus.
+* examination was done with um-3r miniprobe.
+
+
+* eus findings
+ : pancreas의 echo는 정상이며 pancreatitis를 시사할 만한 소견 관찰되지 않음.
+ main p-duct은 0.18cm 으로 늘어나 있지 않음. 
+ pancreas head-neck portion에 2.7 x 2.7 cm sized cystic lesion 관찰됨. 
+ septum이 있으며, wall은 얇음. oligolocular cyst이며, mural nodule은 
+ 관찰되지 않음. 
+ contrast enhance 시에 early phase에서 septum과 wall이 약간 enhance 되는 
+ 양상이었고, delayed phase 까지 지속됨.
+ p-duct와 cyst간의 communication은 관찰되지 않아, ipmn 가능성은 떨어질 
+ 것으로 생각됨.
+
+ stomach mb pw에 보이는 smt-like lesion은 pancreas cystic lesion에 의해 
+ extrinsic compression인 것으로 확인됨.
+
+imp) 1. scn &gt; mcn
+ 2. ipmn, unlikely
+ 3. stomach mb pw, extrinsic compression by pancreatic cystic lesion</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="7"&gt;Let me show you one case &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;At head of pancreas, about 2.7cm sized oligolocular cystic lesion was seen on EUS&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;*&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;* Indication&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;  : pancreas cystic lesion&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;  Premedications(iv): midazolam 3 mg iv, none  &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;  Complications: no immediate complication&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;* Examination was done with UE-260 radial EUS.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;* Examination was done with UM-3R miniprobe.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;* EUS findings&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;  : Pancreas의 echo는 정상이며 pancreatitis를 시사할 만한 소견 관찰되지 않음.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;    Main p-duct은 0.18cm 으로 늘어나 있지 않음. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;    Pancreas head-neck portion에 2.7 x 2.7 cm sized cystic lesion 관찰됨. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;    Septum이 있으며, wall은 얇음. oligolocular cyst이며, mural nodule은 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;    관찰되지 않음. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;    Contrast enhance 시에 early phase에서 septum과 wall이 약간 enhance 되는 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;    양상이었고, delayed phase 까지 지속됨.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;    P-duct와 cyst간의 communication은 관찰되지 않아, IPMN 가능성은 떨어질 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;    것으로 생각됨.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;    Stomach MB PW에 보이는 SMT-like lesion은 pancreas cystic lesion에 의해 &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;    extrinsic compression인 것으로 확인됨.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;Imp) 1. SCN &amp;gt; MCN&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;     2. IPMN, unlikely&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="7"&gt;     3. Stomach MB PW, extrinsic compression by pancreatic cystic lesion&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>D/Dx: MCN, IPMN or SCN ?
+ Courtesy of Pf. Seo DW. AMC</text>
+		</slide>
+		<slide index="3" title="April 16th, 2012" titleNormalized="april 16th, 2012" src="slide4.swf" size="1437" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.0789999"/>
+			</animationSteps>
+			<notes>120416
+The cystic lesion had increased in size from 2.5 to 4cm in diameter .</notes>
+			<notesNormalized>120416
+the cystic lesion had increased in size from 2.5 to 4cm in diameter .</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;120416&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The cystic lesion had increased in size from 2.5 to 4cm in diameter .&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>April 16th, 2012
+Size change: 2.5 =&gt; 3.1 =&gt; 4.0cm</text>
+		</slide>
+		<slide index="4" title="April 16th, 2012" titleNormalized="april 16th, 2012" src="slide5.swf" size="1623" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.7389998"/>
+			</animationSteps>
+			<notes>120416
+The cystic lesions had increased in size from 2.5cm to 4cm.
+There are two possible recommendation in this situation.
+Which one is the best option?</notes>
+			<notesNormalized>120416
+the cystic lesions had increased in size from 2.5cm to 4cm.
+there are two possible recommendation in this situation.
+which one is the best option?</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;120416&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The cystic lesions had increased in size from 2.5cm to 4cm.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;There are two possible recommendation in this situation.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Which one is the best option?&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>April 16th, 2012
+Size change: 2.5 =&gt; 3.1 =&gt; 4.0cm
+Recommendations 
+ =&gt; Surgery or surveillance?
+ Are there alternative?</text>
+		</slide>
+		<slide index="5" title="Current Management" titleNormalized="current management" src="slide6.swf" size="54612" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.1230005"/>
+			</animationSteps>
+			<notes>This is current management of pancreatic cystic tumor.
+When the lesion is mucinous or malignant, generally surgical resection is recommended. 
+When the lesion is serous one, just follow-up seems to be enough.
+When it is pseudocyst, we need to drain it.
+ </notes>
+			<notesNormalized>this is current management of pancreatic cystic tumor.
+when the lesion is mucinous or malignant, generally surgical resection is recommended. 
+when the lesion is serous one, just follow-up seems to be enough.
+when it is pseudocyst, we need to drain it.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is current management of pancreatic cystic tumor.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;When the lesion is mucinous or malignant, generally surgical resection is recommended. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;When the lesion is serous one, just follow-up seems to be enough.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;When it is pseudocyst, we need to drain it.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Ho KY, Brugge WR. Gastrointest Endosc 2009;69:S22
+Current Management</text>
+		</slide>
+		<slide index="6" title="High risk stigmata" titleNormalized="high risk stigmata" src="slide7.swf" size="79013" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.4889998"/>
+			</animationSteps>
+			<notes>All cyst with high risk stigmata , should be considered surgery
+All cyst with worrisome features should be evaluated by EUS to further risk stratify
+All patients without worrisome features should undergo surveilance</notes>
+			<notesNormalized>all cyst with high risk stigmata , should be considered surgery
+all cyst with worrisome features should be evaluated by eus to further risk stratify
+all patients without worrisome features should undergo surveilance</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;All cyst with high risk stigmata , should be considered surgery&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;All cyst with worrisome features should be evaluated by EUS to further risk stratify&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;All patients without worrisome features should undergo surveilance&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>High risk stigmata: 
+obstructive jaundice
+enhancing solid component
+MPD &gt; 10mm
+Worrisome features: 
+cyst size &gt; 3cm
+thickened cyst wall
+MPD: 5~9mm
+non-enhancing mural nodule
+abrupt MPD caliber change</text>
+		</slide>
+		<slide index="7" title="Histology of resected cystic tumors" titleNormalized="histology of resected cystic tumors" src="slide8.swf" size="4410" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.3289999"/>
+			</animationSteps>
+			<notes>One study from USA reported their resection cases. 
+the most common cystic lesion resected was a serous cystadenoma.
+56% of the patients with pancreatic cyst underwent unnecessary surgery. 
+
+Malignant diagnoses were present in 18% of patients.</notes>
+			<notesNormalized>one study from usa reported their resection cases. 
+the most common cystic lesion resected was a serous cystadenoma.
+56% of the patients with pancreatic cyst underwent unnecessary surgery. 
+
+malignant diagnoses were present in 18% of patients.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;One study from USA reported their resection cases. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;the most common cystic lesion resected was a serous cystadenoma.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;56% of the patients with pancreatic cyst underwent unnecessary surgery. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Malignant diagnoses were present in 18% of patients.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Histology of resected cystic tumors
+Total 
+170
+Serous cystadenoma
+72
+42%
+IPMN (benign)
+25
+15%
+Mucinous cystadenoma
+16
+9%
+Pseudocyst
+9
+5%
+Other benign cysts
+16
+9%
+Invasive IPMN
+12
+7%
+Invasive MCN
+6
+4%
+Neuroendocrine tumor
+6
+4%
+Solid pseudopapillary tumor
+4
+3%
+( Allen PJ et al, Ann Surg 2006)</text>
+		</slide>
+		<slide index="8" title="Substantial Morbidity of Surgical Resection" titleNormalized="substantial morbidity of surgical resection" src="slide9.swf" size="3554" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.6190008"/>
+			</animationSteps>
+			<notes>Although surgery is only curative treatment, but it is associated with substantial morbidity and mortality
+ </notes>
+			<notesNormalized>although surgery is only curative treatment, but it is associated with substantial morbidity and mortality
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Although surgery is only curative treatment, but it is associated with substantial morbidity and mortality&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Substantial Morbidity of Surgical Resection
+ Pancreatic resection
+Only curative treatment
+ Morbidity; 20-40%
+ Mortality; 2%
+Management strategy needs to be individualized,
+ applying a risk-benefit analysis 
+Allen PJ et al, Ann Surg 2006
+Goh BK et al. Am J Surg 2006</text>
+		</slide>
+		<slide index="9" title="Local treatment modality for pancreatic cystic tumor" titleNormalized="local treatment modality for pancreatic cystic tumor" src="slide10.swf" size="2197" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="13.0110001"/>
+			</animationSteps>
+			<notes> EUS-guided ethanol lavage is a local treatment modality for pancreatic cystic tumors.</notes>
+			<notesNormalized>eus-guided ethanol lavage is a local treatment modality for pancreatic cystic tumors.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt; EUS-guided ethanol lavage is a local treatment modality for pancreatic cystic tumors.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Local treatment modality for pancreatic cystic tumor
+EUS-guided ethanol lavage 
++ paclitaxel injection</text>
+		</slide>
+		<slide index="10" title="EUS-guided ethanol lavage" titleNormalized="eus-guided ethanol lavage" src="slide11.swf" size="3480" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.8870005"/>
+			</animationSteps>
+			<notes>Havard group reported the first pilot study of EUS guided ethanol lavage of pancreatic cystic lesions.
+25 patients were enrolled.
+They escalated dose of ethanol upto 80%.
+However, the complete resolution of cyst was observed only one-third of patients. 
+For the treatment of cystic tumors, more effective and still non-invasive modality is required. 
+
+So we combined taxol injection after EUS-guided ethanol lavage.  
+
+</notes>
+			<notesNormalized>havard group reported the first pilot study of eus guided ethanol lavage of pancreatic cystic lesions.
+25 patients were enrolled.
+they escalated dose of ethanol upto 80%.
+however, the complete resolution of cyst was observed only one-third of patients. 
+for the treatment of cystic tumors, more effective and still non-invasive modality is required. 
+
+so we combined taxol injection after eus-guided ethanol lavage. 
+
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Havard group reported the first pilot study of EUS guided ethanol lavage of pancreatic cystic lesions.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;25 patients were enrolled.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;They escalated dose of ethanol upto 80%.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;However, the complete resolution of cyst was observed only one-third of patients. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;For the treatment of cystic tumors, more effective and still non-invasive modality is required. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;So we combined taxol injection after EUS-guided ethanol lavage.  &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;</notesHtml>
+			<text>first report showing the safety &amp; 	technical 	feasibility
+ 25 patients: MCN 13, IPMN 4, SCN 3, 	pseudocyst 3, indeterminate 2)
+ escalating dose of ethanol: 5~80%
+ complete resolution of cyst: 35%
+EUS-guided ethanol lavage
+(Gan SI, et al Gastrointest Endosc 2005)</text>
+		</slide>
+		<slide index="11" title="EUS-guided ethanol lavage and paclitaxel injection" titleNormalized="eus-guided ethanol lavage and paclitaxel injection" src="slide12.swf" size="55019" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.2800001"/>
+			</animationSteps>
+			<notes>And Pf. Seo reported the result in GIE 2008 as a new treatment for cystic tumors of the pancreas.
+To increase the ablative effect, in new trial, a chemotherapeutic agent (paclitaxel) has been combined with ethanol ablation therapy.</notes>
+			<notesNormalized>and pf. seo reported the result in gie 2008 as a new treatment for cystic tumors of the pancreas.
+to increase the ablative effect, in new trial, a chemotherapeutic agent (paclitaxel) has been combined with ethanol ablation therapy.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;And Pf. Seo reported the result in GIE 2008 as a new treatment for cystic tumors of the pancreas.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;To increase the ablative effect, in new trial, a chemotherapeutic agent (paclitaxel) has been combined with ethanol ablation therapy.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS-guided ethanol lavage and paclitaxel injection</text>
+		</slide>
+		<slide index="12" title="Results" titleNormalized="results" src="slide13.swf" size="42434" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.2070002"/>
+			</animationSteps>
+			<notes>Among 14 included patients, 11 patients showed complete resolution.
+The cyst resolution rate (79%) was greater than the previously observed rate with ethanol alone, suggesting a synergistic effect between ethanol and paclitaxel.
+There was no significant adverse event except one case of mild pancreatitis.
+ 
+
+
+
+ </notes>
+			<notesNormalized>among 14 included patients, 11 patients showed complete resolution.
+the cyst resolution rate (79%) was greater than the previously observed rate with ethanol alone, suggesting a synergistic effect between ethanol and paclitaxel.
+there was no significant adverse event except one case of mild pancreatitis.
+ 
+
+
+
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Among 14 included patients, 11 patients showed complete resolution.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The cyst resolution rate (79%) was greater than the previously observed rate with ethanol alone, suggesting a synergistic effect between ethanol and paclitaxel.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;There was no significant adverse event except one case of mild pancreatitis.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Results</text>
+		</slide>
+		<slide index="13" title="Techniques of cyst ablation" titleNormalized="techniques of cyst ablation" src="slide14.swf" size="82858" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="29.8590006"/>
+			</animationSteps>
+			<notes>This slide shows stepwise EUS guided pancreatic cyst ablation. FNA within a septated cyst. The cyst is lavaged using ethanol. The injected ethanol is evacuated at the end of lavage. A second ablative agent such as paclitaxel may be injected and left in the cyst cavity.</notes>
+			<notesNormalized>this slide shows stepwise eus guided pancreatic cyst ablation. fna within a septated cyst. the cyst is lavaged using ethanol. the injected ethanol is evacuated at the end of lavage. a second ablative agent such as paclitaxel may be injected and left in the cyst cavity.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This slide shows stepwise EUS guided pancreatic cyst ablation. FNA within a septated cyst. The cyst is lavaged using ethanol. The injected ethanol is evacuated at the end of lavage. A second ablative agent such as paclitaxel may be injected and left in the cyst cavity.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Techniques of cyst ablation
+Oh HC et al. GIE 2013</text>
+		</slide>
+		<slide index="14" title="EUS-guided Ablation of Pancreatic Cysts" titleNormalized="eus-guided ablation of pancreatic cysts" src="slide15.swf" size="31137" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.1890005"/>
+			</animationSteps>
+			<notes>To date, several clinical trials have been reported Cyst resolution rate in 33-62%
+Seems to be effective but
+Long term fu study is needed.</notes>
+			<notesNormalized>to date, several clinical trials have been reported cyst resolution rate in 33-62%
+seems to be effective but
+long term fu study is needed.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;To date, several clinical trials have been reported Cyst resolution rate in 33-62%&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Seems to be effective but&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Long term fu study is needed.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Effective? 
+EUS-guided Ablation of Pancreatic Cysts
+Oh HC, Seo DW. JHBPS 2015
+ Complete ablation in 33-62%
+ Lack of long-term follow-up</text>
+		</slide>
+		<slide index="15" title="April 16th, 2012" titleNormalized="april 16th, 2012" src="slide16.swf" size="1434" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.8889994"/>
+			</animationSteps>
+			<notes>120416
+Let’s go back to the case previously mentioned
+Surgical resection was considered due to its size growth and malignant potential, but the patient refused.
+We performed EUS FNI  </notes>
+			<notesNormalized>120416
+let’s go back to the case previously mentioned
+surgical resection was considered due to its size growth and malignant potential, but the patient refused.
+we performed eus fni</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;120416&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Let’s go back to the case previously mentioned&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Surgical resection was considered due to its size growth and malignant potential, but the patient refused.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We performed EUS FNI  &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>April 16th, 2012
+Size change: 2.5 =&gt; 3.1 =&gt; 4.0cm</text>
+		</slide>
+		<slide index="16" title="3 months after EUS-FNI" titleNormalized="3 months after eus-fni" src="slide17.swf" size="164753" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.0090002"/>
+			</animationSteps>
+			<notes>120704</notes>
+			<notesNormalized>120704</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;120704&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>3 months after EUS-FNI</text>
+		</slide>
+		<slide index="17" title="18 months after EUS-FNI" titleNormalized="18 months after eus-fni" src="slide18.swf" size="163457" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="2.5989999"/>
+			</animationSteps>
+			<notes>130117</notes>
+			<notesNormalized>130117</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;130117&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>18 months after EUS-FNI</text>
+		</slide>
+		<slide index="18" title="36 months after EUS-FNI" titleNormalized="36 months after eus-fni" src="slide19.swf" size="158020" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.7389998"/>
+			</animationSteps>
+			<notes>This is 3 year after, the lesion nearly disappeared. 
+3 years after, we can not find any cystic area in this patient.</notes>
+			<notesNormalized>this is 3 year after, the lesion nearly disappeared. 
+3 years after, we can not find any cystic area in this patient.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is 3 year after, the lesion nearly disappeared. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;3 years after, we can not find any cystic area in this patient.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>150122 CT; CR
+36 months after EUS-FNI</text>
+		</slide>
+		<slide index="19" title="EUS-guided Ablation of Pancreatic Cysts" titleNormalized="eus-guided ablation of pancreatic cysts" src="slide20.swf" size="36581" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.0190005"/>
+			</animationSteps>
+			<notes>Regarding the safety
+The safety as well as efficacy of novel treatment was the major concern
+The overall complication rate was about 11%. But, no cases of severe pancreatitis, bleeding, or deaths have been reported.</notes>
+			<notesNormalized>regarding the safety
+the safety as well as efficacy of novel treatment was the major concern
+the overall complication rate was about 11%. but, no cases of severe pancreatitis, bleeding, or deaths have been reported.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Regarding the safety&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The safety as well as efficacy of novel treatment was the major concern&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The overall complication rate was about 11%. But, no cases of severe pancreatitis, bleeding, or deaths have been reported.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Safe?
+EUS-guided Ablation of Pancreatic Cysts
+Oh HC, et al. GIE 2013
+ Complication rate is low, and most of
+ complications are not serious</text>
+		</slide>
+		<slide index="20" title="Courtesy of Pf. Seo DW. AMC" titleNormalized="courtesy of pf. seo dw. amc" src="slide21.swf" size="195449" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.4089998"/>
+			</animationSteps>
+			<notes>39812814 김원명
+
+Let me show the complication cases. About 4.5 cm size unilocular cystic lesion was observed in pancreas tail.</notes>
+			<notesNormalized>39812814 김원명
+
+let me show the complication cases. about 4.5 cm size unilocular cystic lesion was observed in pancreas tail.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;39812814 김원명&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Let me show the complication cases. About 4.5 cm size unilocular cystic lesion was observed in pancreas tail.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>100217
+ Courtesy of Pf. Seo DW. AMC</text>
+		</slide>
+		<slide index="21" title="150202" titleNormalized="150202" src="slide22.swf" size="180760" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.8090004"/>
+			</animationSteps>
+			<notes>FU CT scan after ablation showed persistent cyst with rim calcification. </notes>
+			<notesNormalized>fu ct scan after ablation showed persistent cyst with rim calcification.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;FU CT scan after ablation showed persistent cyst with rim calcification. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>150202</text>
+		</slide>
+		<slide index="22" title="150216" titleNormalized="150216" src="slide23.swf" size="517338" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.3490004"/>
+			</animationSteps>
+			<notes>EUS FNA was performed. pus was aspirated.</notes>
+			<notesNormalized>eus fna was performed. pus was aspirated.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;EUS FNA was performed. pus was aspirated.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>150216</text>
+		</slide>
+		<slide index="23" title="Distal pancreatectomy &amp; splenectomy" titleNormalized="distal pancreatectomy &amp; splenectomy" src="slide24.swf" size="240830" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.9389996"/>
+			</animationSteps>
+			<notes>Distal pancreatectomy was done due to persistent cyst and abscess formation.
+The histopathology shown that lining epithelium was completely ablated which means pseudocyst or abscess</notes>
+			<notesNormalized>distal pancreatectomy was done due to persistent cyst and abscess formation.
+the histopathology shown that lining epithelium was completely ablated which means pseudocyst or abscess</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Distal pancreatectomy was done due to persistent cyst and abscess formation.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The histopathology shown that lining epithelium was completely ablated which means pseudocyst or abscess&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>150312
+Distal pancreatectomy &amp; splenectomy 
+lining epithelium: 
+	completely ablated
+intrapancreatic accessory spleen
+pseudocyst or abscess
+
+</text>
+		</slide>
+		<slide index="24" title="F/68 5.2cm PCT head EUS-FNI #2" titleNormalized="f/68 5.2cm pct head eus-fni #2" src="slide25.swf" size="134499" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.3490004"/>
+			</animationSteps>
+			<notes>There is case report of PVT after EUS guided ablation. 
+Venous obliteration and thrombosis in the venous system adjacent to the cyst have been reported after EUS FNI. Extensive inflammation and pericystic leak may result in local extension of inflammation into the adjacent vessels.
+The initial CT scan shows about 5 cm sized located adjacen to the main portal vein at the head of pancreas
+
+68/F</notes>
+			<notesNormalized>there is case report of pvt after eus guided ablation. 
+venous obliteration and thrombosis in the venous system adjacent to the cyst have been reported after eus fni. extensive inflammation and pericystic leak may result in local extension of inflammation into the adjacent vessels.
+the initial ct scan shows about 5 cm sized located adjacen to the main portal vein at the head of pancreas
+
+68/f</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;There is case report of PVT after EUS guided ablation. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Venous obliteration and thrombosis in the venous system adjacent to the cyst have been reported after EUS FNI. Extensive inflammation and pericystic leak may result in local extension of inflammation into the adjacent vessels.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The initial CT scan shows about 5 cm sized located adjacen to the main portal vein at the head of pancreas&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;68/F&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>F/68
+5.2cm PCT head
+EUS-FNI #2</text>
+		</slide>
+		<slide index="25" title="" titleNormalized="" src="slide26.swf" size="458771" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.9880003"/>
+			</animationSteps>
+			<notes>FU CT after second cyst ablation shows persistent cyst with rim caclfication and portal vein thrombosis
+The patient underwent PPPD and portal vein thrombectomy for histologic confirmation and prevention of clinical deterioration
+Histopathology demonstrated that epithelial ablation was nearly complete.
+
+When a cyst is closely located to the portal vein, the optimal injection volume of ablative agent needs to be cautiously titrated and aggressive lavage should be avoided.</notes>
+			<notesNormalized>fu ct after second cyst ablation shows persistent cyst with rim caclfication and portal vein thrombosis
+the patient underwent pppd and portal vein thrombectomy for histologic confirmation and prevention of clinical deterioration
+histopathology demonstrated that epithelial ablation was nearly complete.
+
+when a cyst is closely located to the portal vein, the optimal injection volume of ablative agent needs to be cautiously titrated and aggressive lavage should be avoided.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;FU CT after second cyst ablation shows persistent cyst with rim caclfication and portal vein thrombosis&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The patient underwent PPPD and portal vein thrombectomy for histologic confirmation and prevention of clinical deterioration&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Histopathology demonstrated that epithelial ablation was nearly complete.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;When a cyst is closely located to the portal vein, the optimal injection volume of ablative agent needs to be cautiously titrated and aggressive lavage should be avoided.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="26" title="Courtesy of Pf. Seo DW. AMC" titleNormalized="courtesy of pf. seo dw. amc" src="slide27.swf" size="433397" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.2490000"/>
+			</animationSteps>
+			<notes>Here is another case. (b00ster case)
+About 7cm sized oligocystic lesion was noted in the tail of the pancreas.
+There was no mural nodule and cyst in cyst pattern was noted.
+The MPD showed normal caliber.
+
+After EUS guidance, the cystic lesion in the body was punctured using 22G aspiration
+ needle. Then cystic fluid was aspirated. It showed clear color and the amount
+ was about 140 ml. After aspiration, 99% ethanol was injected into the cystic 
+cavity (100 ml) and retained in the cavity for 20 minutes. Then reaspiration was
+ done. A total 30 mg paclitaxol was injected into the cyst after 1:1 dilution 
+with distilled water (total volume 7 ml).
+
+The whole procedure was complited without complication.
+
+IMPRESSION) 1. Pancreatic cystic lesion
+               (Oligocyst, cyst in cyst pattern, no mural nodule)
+               Mucinous cystic neoplasm, more likely
+            2. EUS-guided ethanol lavage was performed without complication</notes>
+			<notesNormalized>here is another case. (b00ster case)
+about 7cm sized oligocystic lesion was noted in the tail of the pancreas.
+there was no mural nodule and cyst in cyst pattern was noted.
+the mpd showed normal caliber.
+
+after eus guidance, the cystic lesion in the body was punctured using 22g aspiration
+ needle. then cystic fluid was aspirated. it showed clear color and the amount
+ was about 140 ml. after aspiration, 99% ethanol was injected into the cystic 
+cavity (100 ml) and retained in the cavity for 20 minutes. then reaspiration was
+ done. a total 30 mg paclitaxol was injected into the cyst after 1:1 dilution 
+with distilled water (total volume 7 ml).
+
+the whole procedure was complited without complication.
+
+impression) 1. pancreatic cystic lesion
+ (oligocyst, cyst in cyst pattern, no mural nodule)
+ mucinous cystic neoplasm, more likely
+ 2. eus-guided ethanol lavage was performed without complication</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;Here is another case. (b00ster case)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;About 7cm sized oligocystic lesion was noted in the tail of the pancreas.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;There was no mural nodule and cyst in cyst pattern was noted.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;The MPD showed normal caliber.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;After EUS guidance, the cystic lesion in the body was punctured using 22G aspiration&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt; needle. Then cystic fluid was aspirated. It showed clear color and the amount&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt; was about 140 ml. After aspiration, 99% ethanol was injected into the cystic &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;cavity (100 ml) and retained in the cavity for 20 minutes. Then reaspiration was&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt; done. A total 30 mg paclitaxol was injected into the cyst after 1:1 dilution &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;with distilled water (total volume 7 ml).&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;The whole procedure was complited without complication.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;IMPRESSION) 1. Pancreatic cystic lesion&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;               (Oligocyst, cyst in cyst pattern, no mural nodule)&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;               Mucinous cystic neoplasm, more likely&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12" color="#ffffff"&gt;            2. EUS-guided ethanol lavage was performed without complication&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>090618
+Aspirated cystic fluid: 140cc
+Ethanol injected: 100cc
+Retention time: 20 min
+Paclitaxel injected: 30mg
+ Courtesy of Pf. Seo DW. AMC</text>
+		</slide>
+		<slide index="27" title="100220 8mos after EUS-FNI" titleNormalized="100220 8mos after eus-fni" src="slide28.swf" size="269296" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.7090000"/>
+			</animationSteps>
+			<notes>3 yr fu CT shown persistent cyst.  </notes>
+			<notesNormalized>3 yr fu ct shown persistent cyst.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;3 yr fu CT shown persistent cyst.  &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>100220
+8mos after EUS-FNI
+120627
+3yrs after EUS-FNI</text>
+		</slide>
+		<slide index="28" title="121029 using 19G needle" titleNormalized="121029 using 19g needle" src="slide29.swf" size="669484" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.8490004"/>
+			</animationSteps>
+			<notes>Since the patient refused surgery, we planned 2nd booster ablation. Booster ablation was performed to induce further decrease. 28 ml of cystic fluid was aspirated and ethanol lavage was done.
+</notes>
+			<notesNormalized>since the patient refused surgery, we planned 2nd booster ablation. booster ablation was performed to induce further decrease. 28 ml of cystic fluid was aspirated and ethanol lavage was done.
+</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Since the patient refused surgery, we planned 2nd booster ablation. Booster ablation was performed to induce further decrease. 28 ml of cystic fluid was aspirated and ethanol lavage was done.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>121029 using 19G needle
+Aspirated pus: 28cc
+1st injected ethanol: 20cc  50 min retention  28cc re-aspiration
+2nd injected ethanol: 20cc  40 min retention  20cc re-aspiration</text>
+		</slide>
+		<slide index="29" title="131216 1yr after 2nd EUS-FNI" titleNormalized="131216 1yr after 2nd eus-fni" src="slide30.swf" size="268578" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.6790003"/>
+			</animationSteps>
+			<notes>1 year after second cyst ablation, the lesion almost disappeared</notes>
+			<notesNormalized>1 year after second cyst ablation, the lesion almost disappeared</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;1 year after second cyst ablation, the lesion almost disappeared&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>160116
+3yr after 2nd EUS-FNI
+131216
+1yr after 2nd EUS-FNI</text>
+		</slide>
+		<slide index="30" title="1st EUS-FNI" titleNormalized="1st eus-fni" src="slide31.swf" size="230685" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.4089998"/>
+			</animationSteps>
+			<notes>This is the summarized CT scan.</notes>
+			<notesNormalized>this is the summarized ct scan.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is the summarized CT scan.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Initial
+3yrs after
+4yrs later
+7yrs later
+1st EUS-FNI
+2nd EUS-FNI</text>
+		</slide>
+		<slide index="31" title="Mid-term follow-up results" titleNormalized="mid-term follow-up results" src="slide32.swf" size="91685" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.7760004"/>
+			</animationSteps>
+			<notes>Reported in Gastroenterology this year.</notes>
+			<notesNormalized>reported in gastroenterology this year.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Reported in Gastroenterology this year.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Mid-term follow-up results</text>
+		</slide>
+		<slide index="32" title="Volume Change after Treatment" titleNormalized="volume change after treatment" src="slide33.swf" size="9148" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.1410002"/>
+			</animationSteps>
+			<notes>Most of the patients showed marked size decrease during first 6 months after treatment.
+Some patients showed continuous size decrease until 1 year after treatment.
+So the treatment response can be determined more than 1 year after treatment.</notes>
+			<notesNormalized>most of the patients showed marked size decrease during first 6 months after treatment.
+some patients showed continuous size decrease until 1 year after treatment.
+so the treatment response can be determined more than 1 year after treatment.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Most of the patients showed marked size decrease during first 6 months after treatment.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Some patients showed continuous size decrease until 1 year after treatment.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;So the treatment response can be determined more than 1 year after treatment.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Volume Change after Treatment 
+Months
+0
+3
+6
+9
+12
+18
+24
+CR, n
+4
+3
+6
+6
+2
+1</text>
+		</slide>
+		<slide index="33" title="M/49 Cystic tumor in pancreas head" titleNormalized="m/49 cystic tumor in pancreas head" src="slide34.swf" size="242478" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.2470001"/>
+			</animationSteps>
+			<notes>This case was treated in March 2007 and shows CR until now.</notes>
+			<notesNormalized>this case was treated in march 2007 and shows cr until now.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This case was treated in March 2007 and shows CR until now.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>070315
+070818
+100617
+M/49 Cystic tumor
+ in pancreas head</text>
+		</slide>
+		<slide index="34" title="Long-term durability of cyst resolution is not well understood." titleNormalized="long-term durability of cyst resolution is not well understood." src="slide35.swf" size="2189" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.4389996"/>
+			</animationSteps>
+			<notes>The durability of cyst ablation is an important issue because cyst resolution achieved for a short-term period may not ensure the long-term ablative effect.</notes>
+			<notesNormalized>the durability of cyst ablation is an important issue because cyst resolution achieved for a short-term period may not ensure the long-term ablative effect.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The durability of cyst ablation is an important issue because cyst resolution achieved for a short-term period may not ensure the long-term ablative effect.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Long-term durability of cyst resolution is not well understood.</text>
+		</slide>
+		<slide index="35" title="Long-term durability of cyst resolution" titleNormalized="long-term durability of cyst resolution" src="slide36.swf" size="3307" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset35" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.6390003"/>
+			</animationSteps>
+			<notes>The </notes>
+			<notesNormalized>the</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Long-term durability of cyst resolution 
+EUS-guided Ablation Can Be a Definitive Therapy for Pancreatic Cystic Tumors
+
+Jun Ho Choi, Dong-Wan Seo, 
+Tae Jun Song, Do Hyun Park, Sang Soo Lee, 
+Sung Koo Lee, Myung-Hwan Kim
+Department of Internal Medicine, University of Ulsan College of Medicine, Asan Medical Center
+Department of Internal Medicine, Dankook University College of Medicine, Dankook University Hospital
+Unpublished, Submitted data, AMC 2016</text>
+		</slide>
+		<slide index="36" title="Study Flowchart" titleNormalized="study flowchart" src="slide37.swf" size="45832" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset36" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.7989992"/>
+			</animationSteps>
+			<notes> 
+A total of 164 patients underwent EUS-PCA.  
+158 patients were included for analyzing treatment response.
+If they had undergone successful EUS-PCA (which is defined as CR), and follow up for at least 36 months, they were included in the final analysis of long term durability</notes>
+			<notesNormalized>
+a total of 164 patients underwent eus-pca. 
+158 patients were included for analyzing treatment response.
+if they had undergone successful eus-pca (which is defined as cr), and follow up for at least 36 months, they were included in the final analysis of long term durability</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt; &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;A total of 164 patients underwent EUS-PCA.  &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;158 patients were included for analyzing treatment response.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;If they had undergone successful EUS-PCA (which is defined as CR), and follow up for at least 36 months, they were included in the final analysis of long term durability&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Study Flowchart</text>
+		</slide>
+		<slide index="37" title="Baseline characteristics (n=164)" titleNormalized="baseline characteristics (n=164)" src="slide38.swf" size="5767" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset37" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.3499998"/>
+			</animationSteps>
+			<notes>Median age was 51 years old. Most common presumed diagnosis was MCN. Median EUS diameter was 32 mm. </notes>
+			<notesNormalized>median age was 51 years old. most common presumed diagnosis was mcn. median eus diameter was 32 mm.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Median age was 51 years old. Most common presumed diagnosis was MCN. Median EUS diameter was 32 mm. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Baseline characteristics (n=164)
+Characteristic
+Patient (n=164)
+Age, median (range), years
+51 (20─85)
+Sex, n (%)
+ 
+ Male
+49 (30)
+ Female
+115 (70)
+Clinical presumed diagnosis, n (%)
+ 
+ MCN
+95 (58)
+ IPMN
+22 (13)
+ SCA
+23 (14)
+ Indeterminate 
+24 (15)
+Cyst location, n (%)
+ 
+ Head or uncinate
+42 (25.6)
+ Body or neck
+86 (52.4)
+ Tail
+36 (22.0)
+Locularity of cystic lesion, n (%)
+ 
+ Unilocular
+59 (36.0)
+ Oligolocular
+95 (57.9)
+ Multilocular
+10(6.1)
+Maxium EUS diameter, median (range), mm
+32 (12─98)
+Presence of mural nodules, n (%)
+8 (4.8)</text>
+		</slide>
+		<slide index="38" title="Treatment response" titleNormalized="treatment response" src="slide39.swf" size="4420" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset38" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="9.6419996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Treatment response
+†12 patients, operation; 1 patient, observation.
+Treatment response (n=158)
+Dose of paclitaxel injected, mg (range)
+9 (0─60)
+Follow-up period, mo (IQR)
+69 (48─81)
+Treatment response
+ 
+ Complete resolution
+114 (72.2)
+ Partial resolution 
+31 (19.6)
+ Persistent cyst
+13 (8.2)†
+Time until complete resolution was achieved, n (%)
+ 
+ Early, &lt;12mo
+62 (58)
+ Late, ≥12mo
+56 (42)</text>
+		</slide>
+		<slide index="39" title="Adverse event (16/164, 9.8%)" titleNormalized="adverse event (16/164, 9.8%)" src="slide40.swf" size="3275" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset39" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.8490004"/>
+			</animationSteps>
+			<notes>This slide shows the results of prospective cohort in asan medical center.
+Complication s after EUS-guided cyst ablation have included pericystic leakage, pancreatitis, hemorrhage, splenic vein thrombosis.
+Overall complication rate was 9.8%. Pancreatitis rate was 3.6%
+Most complications are mild and self limited. </notes>
+			<notesNormalized>this slide shows the results of prospective cohort in asan medical center.
+complication s after eus-guided cyst ablation have included pericystic leakage, pancreatitis, hemorrhage, splenic vein thrombosis.
+overall complication rate was 9.8%. pancreatitis rate was 3.6%
+most complications are mild and self limited.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This slide shows the results of prospective cohort in asan medical center.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Complication s after EUS-guided cyst ablation have included pericystic leakage, pancreatitis, hemorrhage, splenic vein thrombosis.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Overall complication rate was 9.8%. Pancreatitis rate was 3.6%&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Most complications are mild and self limited. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Early
+EtOH leakage
+Acute pancreatitis
+Mild
+Intra-cystic hemorrhage
+Fever
+n = 9 
+1
+
+6
+1
+1
+Late
+Pseudocyst
+Abscess
+Portal vein thrombosis
+Recurrence
+Splenic vein thrombosis
+Main p-duct stricture
+n = 7 
+2
+2
+1
+2
+1
+1
+(all sorts of complication)
+Adverse event (16/164, 9.8%)
+Unpublished, Submitted data, AMC 2016</text>
+		</slide>
+		<slide index="40" title="Treatment response" titleNormalized="treatment response" src="slide41.swf" size="10420" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset40" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.7490000"/>
+			</animationSteps>
+			<notes>On multivariate analysis, Smaller &amp; unilocular cystic lesions were independent predictive factor for complete resolution</notes>
+			<notesNormalized>on multivariate analysis, smaller &amp; unilocular cystic lesions were independent predictive factor for complete resolution</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;On multivariate analysis, Smaller &amp;amp; unilocular cystic lesions were independent predictive factor for complete resolution&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Treatment response
+Predictive of Complete Resolution
+Characteristic
+Complete 
+resolution 
+(n=114)
+Partial resolution/ 
+persistent cyst (n=44)
+Univariate 
+analysis
+Multivariate 
+analysis
+Characteristic
+Complete 
+resolution 
+(n=114)
+Partial resolution/ 
+persistent cyst (n=44)
+P value
+P value
+Location
+ 
+ 
+.243
+ 
+ Head/uncinate
+26
+14
+ 
+ 
+ Body/tail
+88
+30
+ 
+ 
+EUS diameter, mm, n (%)
+ 
+ 
+.038
+.025
+ &lt;35
+51
+28
+ 
+ 
+ ≥35
+63
+16
+ 
+ 
+Locularity of cystic lesion, 
+n (%)
+ 
+ 
+&lt;.001
+&lt;.001
+ Unilocular
+57
+6
+ 
+ 
+ Multilocular
+57
+38
+ 
+ 
+Clinical diagnosis, n (%) 
+ 
+ 
+.031
+.090
+ Mucinous lesion
+77
+36
+ 
+ 
+ Non-mucinous lesion
+24
+3
+ 
+ </text>
+		</slide>
+		<slide index="41" title="Treatment response" titleNormalized="treatment response" src="slide42.swf" size="16847" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset41" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="41.2740015"/>
+			</animationSteps>
+			<notes>Patients followed for at least 3 years after complete ablation were included in the analysis of durability
+Kaplan Meier analysis showed that cyst remained eradicated in 98% of patients without recurrence
+As long as the complete cyst resolution achieved after ablation, we can expect long term durability and potential cure of pancreatic cyst.</notes>
+			<notesNormalized>patients followed for at least 3 years after complete ablation were included in the analysis of durability
+kaplan meier analysis showed that cyst remained eradicated in 98% of patients without recurrence
+as long as the complete cyst resolution achieved after ablation, we can expect long term durability and potential cure of pancreatic cyst.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Patients followed for at least 3 years after complete ablation were included in the analysis of durability&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Kaplan Meier analysis showed that cyst remained eradicated in 98% of patients without recurrence&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;As long as the complete cyst resolution achieved after ablation, we can expect long term durability and potential cure of pancreatic cyst.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Treatment response
+The Durability of Complete Resolution
+(n=106)
+N=106
+Median FU; 72 months
+Recurrence rate; 2%</text>
+		</slide>
+		<slide index="42" title="F/23 Cystic tumor in tail" titleNormalized="f/23 cystic tumor in tail" src="slide43.swf" size="103782" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset42" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.2450003"/>
+			</animationSteps>
+			<notes>An oligolocular cystic lesion was observed in the pancreatic tail.
+Size regrowth case.
+
+또다른 증례로 췌장의 미부에  약 2.6x2.0cm의 cystic tumor가 있었으며 역시 다수의 septation이 있었습니다. </notes>
+			<notesNormalized>an oligolocular cystic lesion was observed in the pancreatic tail.
+size regrowth case.
+
+또다른 증례로 췌장의 미부에 약 2.6x2.0cm의 cystic tumor가 있었으며 역시 다수의 septation이 있었습니다.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;An oligolocular cystic lesion was observed in the pancreatic tail.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Size regrowth case.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;또다른 증례로 췌장의 미부에  약 2.6x2.0cm의 cystic tumor가 있었으며 역시 다수의 septation이 있었습니다. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>F/23 Cystic tumor in tail
+Size: 2.6x2.0cm
+ Oh HC, Seo DW et al. Gastroenterology 2011</text>
+		</slide>
+		<slide index="43" title="F/23 Cystic tumor in tail" titleNormalized="f/23 cystic tumor in tail" src="slide44.swf" size="2433" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset43" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.4060001"/>
+			</animationSteps>
+			<notes> After EUS FNI, cyst size decreased at 6 month follow up. Size regrowth was observed at the 12 month follow up. </notes>
+			<notesNormalized>after eus fni, cyst size decreased at 6 month follow up. size regrowth was observed at the 12 month follow up.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt; After EUS FNI, cyst size decreased at 6 month follow up. Size regrowth was observed at the 12 month follow up. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>F/23 Cystic tumor in tail
+Size: 2.6x2.0cm
+6 mos after Tx</text>
+		</slide>
+		<slide index="44" title="F/23 Cystic tumor in tail" titleNormalized="f/23 cystic tumor in tail" src="slide45.swf" size="153894" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset44" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.6100001"/>
+			</animationSteps>
+			<notes>Cyst volume decreased at the 6 month follow up, but size regrowth was observed at the 12 month follow up. 그러나 1년 뒤 추적한 CT상에서 낭성 종양이 다시 커지는 것을 확인하였습니다. 이 환자는 수술을 이 후에 시행하였습니다.  </notes>
+			<notesNormalized>cyst volume decreased at the 6 month follow up, but size regrowth was observed at the 12 month follow up. 그러나 1년 뒤 추적한 ct상에서 낭성 종양이 다시 커지는 것을 확인하였습니다. 이 환자는 수술을 이 후에 시행하였습니다.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Cyst volume decreased at the 6 month follow up, but size regrowth was observed at the 12 month follow up. 그러나 1년 뒤 추적한 CT상에서 낭성 종양이 다시 커지는 것을 확인하였습니다. 이 환자는 수술을 이 후에 시행하였습니다.  &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>F/23 Cystic tumor in tail
+Size: 2.6x2.0cm
+6 mos after Tx
+1 yr after Tx</text>
+		</slide>
+		<slide index="45" title="" titleNormalized="" src="slide46.swf" size="622423" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset45" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.3400001"/>
+			</animationSteps>
+			<notes>퇴화된 locule들은 epithelial lining이 없어지고 fibrosis가 진행되면서 contracture가 나타나는 것을 확인할 수 있습니다.  
+
+Epithelial lining was denuded and replaced by secondary fibrosis</notes>
+			<notesNormalized>퇴화된 locule들은 epithelial lining이 없어지고 fibrosis가 진행되면서 contracture가 나타나는 것을 확인할 수 있습니다. 
+
+epithelial lining was denuded and replaced by secondary fibrosis</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;퇴화된 locule들은 epithelial lining이 없어지고 fibrosis가 진행되면서 contracture가 나타나는 것을 확인할 수 있습니다.  &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Epithelial lining was denuded and replaced by secondary fibrosis&lt;/font&gt;&lt;/p&gt;</notesHtml>
+		</slide>
+		<slide index="46" title="Atrophic mucosa" titleNormalized="atrophic mucosa" src="slide47.swf" size="845150" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset46" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="33.3290018"/>
+			</animationSteps>
+			<notes>Microscopic examination showed variable degree of histopathologic ablation in the cyst epithelial lining of mucinous cystadenoma. The regrowth of cyst may result from remnant mucinous epithelium in the missed locule.
+We think that the presence of septa may  influence the ablative effect by limiting the delivery of ablative agent. Thus, each needle pass must be introduced at an optimal angle, to ensure that the maximum number of locule within a cyst is punctured during a single pass.
+고배율 소견상에서는 atrophic mucosa와 transitional zone 그리고 점액을 다수 포함하는 mucinous adenmoa 등이 혼재하였습니다. 
+치료후 초기에는 대부분의 locule이 퇴화하면서 전체 크기가 감소하였지만 시간이 지나면서 남이 있는 mucinous epithelium 이 자라나면서
+다시 종양의 크기가 커진 것으로 추정되었습니다. </notes>
+			<notesNormalized>microscopic examination showed variable degree of histopathologic ablation in the cyst epithelial lining of mucinous cystadenoma. the regrowth of cyst may result from remnant mucinous epithelium in the missed locule.
+we think that the presence of septa may influence the ablative effect by limiting the delivery of ablative agent. thus, each needle pass must be introduced at an optimal angle, to ensure that the maximum number of locule within a cyst is punctured during a single pass.
+고배율 소견상에서는 atrophic mucosa와 transitional zone 그리고 점액을 다수 포함하는 mucinous adenmoa 등이 혼재하였습니다. 
+치료후 초기에는 대부분의 locule이 퇴화하면서 전체 크기가 감소하였지만 시간이 지나면서 남이 있는 mucinous epithelium 이 자라나면서
+다시 종양의 크기가 커진 것으로 추정되었습니다.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Microscopic examination showed variable degree of histopathologic ablation in the cyst epithelial lining of mucinous cystadenoma. The regrowth of cyst may result from remnant mucinous epithelium in the missed locule.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;We think that the presence of septa may  influence the ablative effect by limiting the delivery of ablative agent. Thus, each needle pass must be introduced at an optimal angle, to ensure that the maximum number of locule within a cyst is punctured during a single pass.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;고배율 소견상에서는 atrophic mucosa와 transitional zone 그리고 점액을 다수 포함하는 mucinous adenmoa 등이 혼재하였습니다. &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;치료후 초기에는 대부분의 locule이 퇴화하면서 전체 크기가 감소하였지만 시간이 지나면서 남이 있는 mucinous epithelium 이 자라나면서&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;다시 종양의 크기가 커진 것으로 추정되었습니다. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Atrophic mucosa
+Transitional area
+Mucinous adenoma</text>
+		</slide>
+		<slide index="47" title="Pancreas 2016" titleNormalized="pancreas 2016" src="slide48.swf" size="29946" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset47" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="12.0789999"/>
+			</animationSteps>
+			<notes>This is another recent data from Korea.
+There were 91 study patients with meidian fu of 40 months
+The complete ablation rate was 45%. Pancreatitis rate was 3%</notes>
+			<notesNormalized>this is another recent data from korea.
+there were 91 study patients with meidian fu of 40 months
+the complete ablation rate was 45%. pancreatitis rate was 3%</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;This is another recent data from Korea.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;There were 91 study patients with meidian fu of 40 months&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The complete ablation rate was 45%. Pancreatitis rate was 3%&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Inclusion; clinically indeterminate cysts, 2 to 5cm
+ Ethanol lavage
+ 91 (median FU; 40 months)
+ 33 SCA, 12 MCN, 9 IPMN, 28 uncategorized
+ Complete resolution in 41 patients (45%)
+
+Pancreas 2016</text>
+		</slide>
+		<slide index="48" title="Gastrointest Endosc 2016" titleNormalized="gastrointest endosc 2016" src="slide49.swf" size="45977" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset48" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="43.6790003"/>
+			</animationSteps>
+			<notes>Recent study from Mayo clinic published their data in GIE.
+The complete ablation rate was only 9%. It is lower than that of previous reports
+There may be several possible explanations for these different findings
+As mentioned by pf Ryu in previous lecture, the inclusion criteria was different (they included suspected MCN or IPMN more than 1cm
+In addition, they injected contrast medium into cysts before ethanol lavage, this might have limited the effectiveness of ethanol ablation.
+Further refinement of technique, optimal treatment indication, standardized technique will be necessary to maximize the efficacy</notes>
+			<notesNormalized>recent study from mayo clinic published their data in gie.
+the complete ablation rate was only 9%. it is lower than that of previous reports
+there may be several possible explanations for these different findings
+as mentioned by pf ryu in previous lecture, the inclusion criteria was different (they included suspected mcn or ipmn more than 1cm
+in addition, they injected contrast medium into cysts before ethanol lavage, this might have limited the effectiveness of ethanol ablation.
+further refinement of technique, optimal treatment indication, standardized technique will be necessary to maximize the efficacy</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Recent study from Mayo clinic published their data in GIE.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;The complete ablation rate was only 9%. It is lower than that of previous reports&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;There may be several possible explanations for these different findings&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;As mentioned by pf Ryu in previous lecture, the inclusion criteria was different (they included suspected MCN or IPMN more than 1cm&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;In addition, they injected contrast medium into cysts before ethanol lavage, this might have limited the effectiveness of ethanol ablation.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Further refinement of technique, optimal treatment indication, standardized technique will be necessary to maximize the efficacy&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Inclusion; suspected MCN or BD-IPMN ≥1cm 
+ 23 patients (15 presumed BD-IPMN, 4 presumed MCN, and 4 with presumed non-mucinous cysts)
+ Complete resolution in 2 patients (9%)
+
+Gastrointest Endosc 2016</text>
+		</slide>
+		<slide index="49" title="Surgery is still very important" titleNormalized="surgery is still very important" src="slide50.swf" size="3090" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset49" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.5140003"/>
+			</animationSteps>
+			<notes>During this talk, I just focused on EUS-guided treatment.
+However, surgery is till very important treatment modality.
+Because we excluded overt carcinoma and IPMN, there are still existing non-responders.
+
+One limitation of EUS guided therapy is the difficulty of operation after failure.
+This treatment causes fibrosis with adhesion and subsequent surgery becomes a little more difficult.</notes>
+			<notesNormalized>during this talk, i just focused on eus-guided treatment.
+however, surgery is till very important treatment modality.
+because we excluded overt carcinoma and ipmn, there are still existing non-responders.
+
+one limitation of eus guided therapy is the difficulty of operation after failure.
+this treatment causes fibrosis with adhesion and subsequent surgery becomes a little more difficult.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;During this talk, I just focused on EUS-guided treatment.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;However, surgery is till very important treatment modality.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Because we excluded overt carcinoma and IPMN, there are still existing non-responders.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;One limitation of EUS guided therapy is the difficulty of operation after failure.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;This treatment causes fibrosis with adhesion and subsequent surgery becomes a little more difficult.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>excluded overt carcinoma, IPMN
+ still existing non-responder
+ difficulty of operation after failure
+ causing fibrosis &amp; adhesion
+
+
+Surgery is still very important !</text>
+		</slide>
+		<slide index="50" title="SUMMARY" titleNormalized="summary" src="slide51.swf" size="2380" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset50" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.8859991"/>
+			</animationSteps>
+			<notes> After showing complete ablation, durable response</notes>
+			<notesNormalized>after showing complete ablation, durable response</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt; After showing complete ablation, durable response&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>SUMMARY
+EUS-guided ethanol ablation
+Safe and durable response (low recurrence)
+Alternative to surveillance policy
+A minimally invasive bridge therapy to final surgical resection in MCN
+Unilocular and smaller cyst (&lt;35mm); predictive of complete ablation 
+
+</text>
+		</slide>
+		<slide index="51" title="CONCLUSIONS" titleNormalized="conclusions" src="slide52.swf" size="2345" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset51" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="16.1149992"/>
+			</animationSteps>
+			<notes>In conclusion, EUS guided therapy can be an effective option for the treatment of cystic tumors of the pancreas.
+However, careful patient selection and tailored intervention are required 
+To avoid unnecessary trial and to maximize the therapeutic efficacy.
+IPMN is 
+Thank you very much for your kind attention.</notes>
+			<notesNormalized>in conclusion, eus guided therapy can be an effective option for the treatment of cystic tumors of the pancreas.
+however, careful patient selection and tailored intervention are required 
+to avoid unnecessary trial and to maximize the therapeutic efficacy.
+ipmn is 
+thank you very much for your kind attention.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;In conclusion, EUS guided therapy can be an effective option for the treatment of cystic tumors of the pancreas.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;However, careful patient selection and tailored intervention are required &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;To avoid unnecessary trial and to maximize the therapeutic efficacy.&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;IPMN is &lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Thank you very much for your kind attention.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>CONCLUSIONS
+EUS-PCA can be a definitive therapy for pancreatic cystic tumors in selected cases.
+
+However, careful patient selection &amp; tailored
+intervention are required 
+	- to avoid unnecessary trial and 
+	- to maximize the therapeutic efficacy.
+</text>
+		</slide>
+		<slide index="52" title="Acknowledgement" titleNormalized="acknowledgement" src="slide53.swf" size="66358" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset52" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="6.8390002"/>
+			</animationSteps>
+			<notes>Organizing committee chair</notes>
+			<notesNormalized>organizing committee chair</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;Organizing committee chair&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Pf. Dong-Wan Seo, Asan Medical Center
+Courtesy of slide, cases.
+Acknowledgement</text>
+		</slide>
+		<slide index="53" title="Thank you for your attention" titleNormalized="thank you for your attention" src="slide54.swf" size="4788" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset53" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="4.1690001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for your attention</text>
+		</slide>
+	</slides>
+</presentation>

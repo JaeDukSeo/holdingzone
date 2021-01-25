@@ -1,0 +1,1175 @@
+<?xml version="1.0"?>
+<presentation title="05 Fei Jiang" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{16F77E34-3E5B-4892-8473-D91681151867}">
+	<presenters>
+		<presenter name="Fei Jiang" title="Changhai Hospital, THe Second Military Medical University" email="" web="" phone="" photoAssetId="">
+			<bio>EUS in the differential diagnosis of Pancreatic cystic Neoplasms(PCNs)</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="604936" duration="21603"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="771702" duration="27559"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="332114" duration="11860"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="1292479" duration="46158"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="678811" duration="24242"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="524479" duration="18730"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="501074" duration="17894"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="400136" duration="14289"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="748296" duration="26723"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="218011" duration="7784"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="585919" duration="20924"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="441828" duration="15778"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="251656" duration="8986"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="160228" duration="5721"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="917988" duration="32784"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="776822" duration="27742"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="595428" duration="21264"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="866056" duration="30929"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="615176" duration="21969"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="244342" duration="8725"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="648822" duration="23171"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="902628" duration="32235"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="504731" duration="18024"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="757805" duration="27063"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="1060616" duration="37878"/>
+		<soundAsset id="sndAsset25" src="sound26.mp3" embedded="0" size="618834" duration="22100"/>
+		<soundAsset id="sndAsset26" src="sound27.mp3" embedded="0" size="571291" duration="20402"/>
+		<soundAsset id="sndAsset27" src="sound28.mp3" embedded="0" size="757074" duration="27037"/>
+		<soundAsset id="sndAsset28" src="sound29.mp3" embedded="0" size="710262" duration="25365"/>
+		<soundAsset id="sndAsset29" src="sound30.mp3" embedded="0" size="638582" duration="22805"/>
+		<soundAsset id="sndAsset30" src="sound31.mp3" embedded="0" size="566171" duration="20219"/>
+		<soundAsset id="sndAsset31" src="sound32.mp3" embedded="0" size="1116936" duration="39889"/>
+		<soundAsset id="sndAsset32" src="sound33.mp3" embedded="0" size="905554" duration="32340"/>
+		<soundAsset id="sndAsset33" src="sound34.mp3" embedded="0" size="589576" duration="21055"/>
+		<soundAsset id="sndAsset34" src="sound35.mp3" embedded="0" size="104639" duration="3736"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+		<graphicAsset id="imgAsset25" src="thmb26.swf" embedded="0"/>
+		<graphicAsset id="imgAsset26" src="thmb27.swf" embedded="0"/>
+		<graphicAsset id="imgAsset27" src="thmb28.swf" embedded="0"/>
+		<graphicAsset id="imgAsset28" src="thmb29.swf" embedded="0"/>
+		<graphicAsset id="imgAsset29" src="thmb30.swf" embedded="0"/>
+		<graphicAsset id="imgAsset30" src="thmb31.swf" embedded="0"/>
+		<graphicAsset id="imgAsset31" src="thmb32.swf" embedded="0"/>
+		<graphicAsset id="imgAsset32" src="thmb33.swf" embedded="0"/>
+		<graphicAsset id="imgAsset33" src="thmb34.swf" embedded="0"/>
+		<graphicAsset id="imgAsset34" src="thmb35.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="21.5550000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="27.5279999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="11.8120000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="46.1100006"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="24.1900005"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="18.6849995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="17.8509998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="14.2480000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="26.6930000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="7.7410000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="20.8880000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="15.7489996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="8.9420000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="5.6719999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="32.7330000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="27.6940000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="21.2210000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="30.8980000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="21.9220000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="8.6750000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="23.1229992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="32.1990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="17.9850000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="27.0270000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="37.8380000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset25">
+				<startTimestamp slideIndex="25" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="25" stepIndex="0" timeOffset="22.0550000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset26">
+				<startTimestamp slideIndex="26" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="26" stepIndex="0" timeOffset="20.3500004"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset27">
+				<startTimestamp slideIndex="27" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="27" stepIndex="0" timeOffset="26.9899998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset28">
+				<startTimestamp slideIndex="28" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="28" stepIndex="0" timeOffset="25.3250000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset29">
+				<startTimestamp slideIndex="29" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="29" stepIndex="0" timeOffset="22.7560000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset30">
+				<startTimestamp slideIndex="30" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="30" stepIndex="0" timeOffset="20.1870000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset31">
+				<startTimestamp slideIndex="31" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="31" stepIndex="0" timeOffset="39.8400000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset32">
+				<startTimestamp slideIndex="32" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="32" stepIndex="0" timeOffset="32.2990000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset33">
+				<startTimestamp slideIndex="33" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="33" stepIndex="0" timeOffset="21.0209999"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset34">
+				<startTimestamp slideIndex="34" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="34" stepIndex="0" timeOffset="3.7000000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="EUS in the differential diagnosis of Pancreatic cystic Neoplasms(PCNs)" titleNormalized="eus in the differential diagnosis of pancreatic cystic neoplasms(pcns)" src="slide1.swf" size="2744" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.5540003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS in the differential diagnosis of Pancreatic cystic Neoplasms(PCNs)
+ Fei Jiang, Zhendong Jin
+Shanghai Changhai Hospital, China
+</text>
+		</slide>
+		<slide index="1" title="PCNs" titleNormalized="pcns" src="slide2.swf" size="2947" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.5269999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>PCNs
+Prevalence of PCNs increased Dramatically
+ Improved quality of image modality
+ Aging of the population
+Diverse in pathological characteristics &amp; clinical outcomes
+PCNs mainly including SCN, MCN, IPMN,SPN</text>
+		</slide>
+		<slide index="2" title="Classification of PCNs" titleNormalized="classification of pcns" src="slide3.swf" size="143637" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="11.8110003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Classification of PCNs</text>
+		</slide>
+		<slide index="3" title="Gross appearence of PCNs" titleNormalized="gross appearence of pcns" src="slide4.swf" size="441424" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="46.1090006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>SCN
+MCN
+IPMN
+SPN
+Gross appearence of PCNs</text>
+		</slide>
+		<slide index="4" title="Camilo et al. Pancreatology 2009" titleNormalized="camilo et al. pancreatology 2009" src="slide5.swf" size="78882" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.1890005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+ 
+ 
+
+ 
+ 
+ 
+Camilo et al. Pancreatology 2009
+Only 68% of cases did the preoperative and histological diagnosis match</text>
+		</slide>
+		<slide index="5" title="Differential diagnosis aspects" titleNormalized="differential diagnosis aspects" src="slide6.swf" size="2819" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.6839995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Differential diagnosis aspects
+ Two major aspects of effective diagnosis 
+ Differentiation between mucinous and nonmucinous lesions
+Understanding the varying degree of malignant risk of PCNs</text>
+		</slide>
+		<slide index="6" title="Differential diagnosis" titleNormalized="differential diagnosis" src="slide7.swf" size="3025" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.8499998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Differential diagnosis 
+How to choose the imaging examination?
+Does it need EUS examination?
+Does it need EUS-FNA?
+What can we do for the EUS-FNA?
+
+ 
+ 
+
+ 
+ 
+</text>
+		</slide>
+		<slide index="7" title="How to choose the imaging examination?" titleNormalized="how to choose the imaging examination?" src="slide8.swf" size="3012" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="14.2470001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How to choose the imaging examination? 
+
+No ‘one and only’ image modality for PCNs
+ 
+ Abdominal ultrasound, CT，MRI and EUS are complementary to each other
+
+
+
+ 
+ 
+
+ 
+ 
+</text>
+		</slide>
+		<slide index="8" title="What should we focus on imaging examination?" titleNormalized="what should we focus on imaging examination?" src="slide9.swf" size="3128" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.6920008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What should we focus on imaging examination? 
+Location?
+Size?
+Single or multiple?
+Communication with the MPD? Dilation of MPD?
+Solid components?
+Thickness of septa?
+Nodules of the cyst?
+
+
+
+ 
+ 
+
+ 
+ 
+</text>
+		</slide>
+		<slide index="9" title="How to choose the imaging examination?" titleNormalized="how to choose the imaging examination?" src="slide10.swf" size="90294" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="7.7400002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How to choose the imaging examination? 
+Abdominal ultrasound
+Simple but useful
+Primary screening method
+
+
+
+ 
+ 
+
+ 
+ 
+</text>
+		</slide>
+		<slide index="10" title="How to choose the imaging examination?" titleNormalized="how to choose the imaging examination?" src="slide11.swf" size="77835" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.8870005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How to choose the imaging examination? 
+CT
+Initial detection
+Precise evaluation
+MRI 
+Relationship of PCNs with PD
+Routine surveillance
+
+
+
+
+ 
+ 
+
+ 
+ 
+</text>
+		</slide>
+		<slide index="11" title="How to choose the imaging examination?" titleNormalized="how to choose the imaging examination?" src="slide12.swf" size="3237" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="15.7479996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How to choose the imaging examination? 
+MRI for the surveillance
+Size ≥3cm
+Solid components of the cyst
+Increasing size of the PD
+
+
+
+ 
+ 
+
+ 
+ 
+ 
+AGA guideline on the diagnosis and management of asymptomatic neoplastic pancreatic cysts, Gastroenterology 2015;148:819-822</text>
+		</slide>
+		<slide index="12" title="How to choose the imaging examination?" titleNormalized="how to choose the imaging examination?" src="slide13.swf" size="102043" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.9410004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How to choose the imaging examination? 
+IDUS 
+Only recommended for IPMNs
+
+
+ 
+ 
+
+ 
+ 
+</text>
+		</slide>
+		<slide index="13" title="How to choose the imaging examination?" titleNormalized="how to choose the imaging examination?" src="slide14.swf" size="2865" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="5.6709999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>How to choose the imaging examination? 
+PET-CT
+Only recommended for PCNs suspicious of malignancy
+
+
+ 
+ 
+
+ 
+ 
+</text>
+		</slide>
+		<slide index="14" title="EUS" titleNormalized="eus" src="slide15.swf" size="110720" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.7320017"/>
+			</animationSteps>
+			<notes>The reasons for  low diagnostic yield are overlapping morphological features between different PCN and various skills among endosonographers.</notes>
+			<notesNormalized>the reasons for low diagnostic yield are overlapping morphological features between different pcn and various skills among endosonographers.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;The reasons for  low diagnostic yield are overlapping morphological features between different PCN and various skills among endosonographers.&lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>EUS
+Advantages
+Low invasive and high resolution
+Anatomical proximity to the pancreas
+Clear demonstration of cystic nodules , walls and solid components 
+ Limitations
+Hard to identify the classification of PCNs
+Hard to judge the communication of cyst with the PD
+
+
+
+
+
+ 
+ 
+</text>
+		</slide>
+		<slide index="15" title="Image of PCNs" titleNormalized="image of pcns" src="slide16.swf" size="441635" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.6930002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Image of PCNs
+SCN
+MCN
+IPMN
+SPN
+IPMN
+MCN
+SCN</text>
+		</slide>
+		<slide index="16" title="EUS in the differential diagnosis of PCNs" titleNormalized="eus in the differential diagnosis of pcns" src="slide17.swf" size="3836" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.2200007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS in the differential diagnosis of PCNs
+Sedlack et al. GIE 2002；Brugge et al. GIE 2000
+Diagnostic yield of EUS is operator-dependent
+EUS in discrimination of benign &amp; malignant/potentially malignant PCNs</text>
+		</slide>
+		<slide index="17" title="Contrast-enhanced EUS" titleNormalized="contrast-enhanced eus" src="slide18.swf" size="231842" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="30.8970007"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Contrast-enhanced EUS
+
+
+
+
+ 
+ een
+ 
+Pietro Fusaroli et al. GIE 2016
+
+No differentiation between the diagnosis of serous vs. mucinous PCLs
+
+Identification of neoplastic solid components as hyperenhanced in PCLs</text>
+		</slide>
+		<slide index="18" title="EUS-FNA:When to do？" titleNormalized="eus-fna:when to do？" src="slide19.swf" size="43603" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.9210009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA:When to do？ 
+At least 2 high-risk features 
+Size ≥3cm
+Solid component of the cyst
+Dilated MPD
+
+
+ 
+ 
+
+ 
+ 
+</text>
+		</slide>
+		<slide index="19" title="EUS-FNA:When to do？" titleNormalized="eus-fna:when to do？" src="slide20.swf" size="69928" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="8.6740002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA:When to do？ 
+EUS-FNA is recommended for lesions ＞2cm in diameter</text>
+		</slide>
+		<slide index="20" title="EUS-FNA:What can we do ？" titleNormalized="eus-fna:what can we do ？" src="slide21.swf" size="3196" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="23.1219992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>EUS-FNA:What can we do ？ 
+
+ 
+
+ 
+ 
+ 
+Cystic fluid analysis
+Cytology brush
+Cyst wall puncture
+Cyst wall biopsy
+Through-the-needle imaging
+ cystoscopy
+ needle-based confocal laser endomicroscopy (nCLE)
+</text>
+		</slide>
+		<slide index="21" title="Cystic fluid analysis" titleNormalized="cystic fluid analysis" src="slide22.swf" size="55908" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.1980013"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cystic fluid analysis 
+ Viscosity of cystic fluid
+Amylase 
+Tumor marker (CEA/CA19-9)
+Cytology 
+DNA analysis : K-ras mutation
+New marker: miR-221 and miR-21
+
+
+
+ 
+ 
+
+ 
+ 
+</text>
+		</slide>
+		<slide index="22" title="Cystic fluid analysis" titleNormalized="cystic fluid analysis" src="slide23.swf" size="70338" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="17.9889998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+ 
+ 
+
+ 
+ 
+ 
+Leung et al. Ann Surg Oncol. 2009
+‘Positive string sign’(string test ＞4mm) is strongly suggestive of premalignant/malignant cysts
+Cystic fluid analysis</text>
+		</slide>
+		<slide index="23" title="ntida" titleNormalized="ntida" src="slide24.swf" size="64796" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.0260004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+ 
+ 
+
+ 
+ 
+ 
+ntida
+Wlliam et al. Gastroenterology 2004
+CEA (cutoff 192ng/ml) 
+mucinous VS. nonmucinous cystic lesions
+accuracy 79%, sensitivity 73%, specificity 84%
+Cytic fluid analysis</text>
+		</slide>
+		<slide index="24" title="Cystic fluid analysis" titleNormalized="cystic fluid analysis" src="slide25.swf" size="160014" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.8390002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+ 
+ 
+
+ 
+ 
+ 
+Laurens et al. GIE 2005
+Cystic fluid analysis</text>
+		</slide>
+		<slide index="25" title="Cystic fluid analysis" titleNormalized="cystic fluid analysis" src="slide26.swf" size="59696" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset25" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.0589995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+ 
+ 
+
+ 
+ 
+ 
+Walter et al. Pancreas 2011
+Low amylase, rather than high CEA, was useful to diagnose malignant PCNs
+Cytic fluid analysis</text>
+		</slide>
+		<slide index="26" title="Cystic fluid analysis" titleNormalized="cystic fluid analysis" src="slide27.swf" size="142889" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset26" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.3490004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+ 
+ 
+
+ 
+ 
+ 
+Sagar et al. Clin Transl Sci 2012
+Cystic fluid analysis</text>
+		</slide>
+		<slide index="27" title="Cystic fluid analysis" titleNormalized="cystic fluid analysis" src="slide28.swf" size="53361" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset27" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.9889998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+ 
+ 
+
+ 
+ 
+ 
+Ferrel et al. Am J Gastroenterol 2013
+Cystic fluid analysis 
+miR-21(benign/malignant)
+miR-221(advanced malignant cystic lesions)</text>
+		</slide>
+		<slide index="28" title="Al-Haddad M et al. Endoscopy. 2010" titleNormalized="al-haddad m et al. endoscopy. 2010" src="slide29.swf" size="174567" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset28" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.3289999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+ 
+ 
+
+ 
+ 
+ 
+Al-Haddad M et al. Endoscopy. 2010 
+High diagnostic yield 
+Complications(8%) 
+pancreatitis &amp; bleeding
+Cytobrushing
+specimen</text>
+		</slide>
+		<slide index="29" title="v" titleNormalized="v" src="slide30.swf" size="202620" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset29" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.7550005"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+ 
+ 
+
+ 
+ 
+ 
+v
+Shih-Kuang et al. GIE. 2012</text>
+		</slide>
+		<slide index="30" title="v" titleNormalized="v" src="slide31.swf" size="424363" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset30" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="20.1860003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+ 
+ 
+
+ 
+ 
+ 
+v
+Jose R et al. GIE. 2010</text>
+		</slide>
+		<slide index="31" title="Yousuke et al. GIE. 2015" titleNormalized="yousuke et al. gie. 2015" src="slide32.swf" size="229943" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset31" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="39.8390002"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Yousuke et al. GIE. 2015
+Cystoscopy
+Cyst contents projection &amp; mucin
+Cyst wall</text>
+		</slide>
+		<slide index="32" title="Yousuke et al. GIE. 2015" titleNormalized="yousuke et al. gie. 2015" src="slide33.swf" size="121679" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset32" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="32.2989992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>
+
+
+
+ 
+ 
+ 
+Yousuke et al. GIE. 2015
+nCLE
+Cyst projection, dark ring
+superficial vascular network</text>
+		</slide>
+		<slide index="33" title="What should we do ?" titleNormalized="what should we do ?" src="slide34.swf" size="313416" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset33" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="21.0199999"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>What should we do ?
+Imaging
+Fluid analysis
+nCLE
+CE-EUS
+Cystoscopy</text>
+		</slide>
+		<slide index="34" title="Thank you for your attention!" titleNormalized="thank you for your attention!" src="slide35.swf" size="831939" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset34" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.6990000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for your attention!</text>
+		</slide>
+	</slides>
+</presentation>

@@ -1,0 +1,801 @@
+<?xml version="1.0"?>
+<presentation title="07 Ji Kon Ryu" width="720.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="59.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{76F5BCAA-113B-4261-A965-E4B329FE2A76}">
+	<presenters>
+		<presenter name="Ji Kon Ryu" title="Seoul National University" email="" web="" phone="" photoAssetId="">
+			<bio>Endoscopic Ablation Therapy:
+Technique and Limitation</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="306514" duration="10945"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="1633325" duration="58331"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="1091336" duration="38975"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="1051108" duration="37538"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="758536" duration="27089"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="982354" duration="35082"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="773165" duration="27611"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="511314" duration="18260"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="1318811" duration="47099"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="690514" duration="24660"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="1614308" duration="57652"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="2187016" duration="78106"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="1718171" duration="61362"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="2112411" duration="75442"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="1265416" duration="45192"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="1694034" duration="60500"/>
+		<soundAsset id="sndAsset16" src="sound17.mp3" embedded="0" size="862399" duration="30798"/>
+		<soundAsset id="sndAsset17" src="sound18.mp3" embedded="0" size="1037942" duration="37068"/>
+		<soundAsset id="sndAsset18" src="sound19.mp3" embedded="0" size="1569691" duration="56059"/>
+		<soundAsset id="sndAsset19" src="sound20.mp3" embedded="0" size="1222994" duration="43677"/>
+		<soundAsset id="sndAsset20" src="sound21.mp3" embedded="0" size="1285896" duration="45923"/>
+		<soundAsset id="sndAsset21" src="sound22.mp3" embedded="0" size="2366948" duration="84532"/>
+		<soundAsset id="sndAsset22" src="sound23.mp3" embedded="0" size="1034285" duration="36937"/>
+		<soundAsset id="sndAsset23" src="sound24.mp3" embedded="0" size="1359771" duration="48562"/>
+		<soundAsset id="sndAsset24" src="sound25.mp3" embedded="0" size="86354" duration="3082"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+		<graphicAsset id="imgAsset16" src="thmb17.swf" embedded="0"/>
+		<graphicAsset id="imgAsset17" src="thmb18.swf" embedded="0"/>
+		<graphicAsset id="imgAsset18" src="thmb19.swf" embedded="0"/>
+		<graphicAsset id="imgAsset19" src="thmb20.swf" embedded="0"/>
+		<graphicAsset id="imgAsset20" src="thmb21.swf" embedded="0"/>
+		<graphicAsset id="imgAsset21" src="thmb22.swf" embedded="0"/>
+		<graphicAsset id="imgAsset22" src="thmb23.swf" embedded="0"/>
+		<graphicAsset id="imgAsset23" src="thmb24.swf" embedded="0"/>
+		<graphicAsset id="imgAsset24" src="thmb25.swf" embedded="0"/>
+	</graphicAssets>
+	<playlists/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="10.9099998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="58.2919998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="38.9389992"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="37.5040000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="27.0599995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="35.0349998"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="27.5610000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="18.2180000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="47.0470000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="24.6250000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="57.6199989"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="78.0780000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="61.3279991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="75.4089966"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="45.1450000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="60.4599991"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset16">
+				<startTimestamp slideIndex="16" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="16" stepIndex="0" timeOffset="30.7600002"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset17">
+				<startTimestamp slideIndex="17" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="17" stepIndex="0" timeOffset="37.0370000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset18">
+				<startTimestamp slideIndex="18" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="18" stepIndex="0" timeOffset="56.0200005"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset19">
+				<startTimestamp slideIndex="19" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="19" stepIndex="0" timeOffset="43.6399994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset20">
+				<startTimestamp slideIndex="20" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="20" stepIndex="0" timeOffset="45.8790000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset21">
+				<startTimestamp slideIndex="21" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="21" stepIndex="0" timeOffset="84.4840000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset22">
+				<startTimestamp slideIndex="22" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="22" stepIndex="0" timeOffset="36.9039993"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset23">
+				<startTimestamp slideIndex="23" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="23" stepIndex="0" timeOffset="48.5149994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset24">
+				<startTimestamp slideIndex="24" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="24" stepIndex="0" timeOffset="3.0360000"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Endoscopic Ablation Therapy: Technique and Limitation" titleNormalized="endoscopic ablation therapy: technique and limitation" src="slide1.swf" size="267673" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="10.9089998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Ji Kon Ryu, MD., PhD.
+Seoul National University College of Medicine
+Department of Internal Medicine
+Division of Gastroenterology
+Pancreatic and Biliary Cancer Center
+
+Endoscopic Ablation Therapy: Technique and Limitation</text>
+		</slide>
+		<slide index="1" title="Cystic Neoplasm of Pancreas" titleNormalized="cystic neoplasm of pancreas" src="slide2.swf" size="110510" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="58.2909998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cystic Neoplasm of Pancreas
+Surgery 2012;152:S4
+(851 resection in MGH, 1978-2011)
+Pancreas 2008;37:254
+(1064 resection in Korea, 1993-2005)</text>
+		</slide>
+		<slide index="2" title="Serous Cystic Neoplasm of the Pancreas: a Multinational Study of 2,622 Patients (IAP &amp; EPC) " titleNormalized="serous cystic neoplasm of the pancreas: a multinational study of 2,622 patients (iap &amp; epc) " src="slide3.swf" size="4588" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="38.9379992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Serous Cystic Neoplasm of the Pancreas: a Multinational Study of 2,622 Patients (IAP &amp; EPC)  
+Asymptomatic (61%)
+Surgical indications were uncertain diagnosis (60%).
+Three serous cystadenocarcinomas (0.001%)
+Surgical treatment should be proposed only for diagnosis remaining uncertain after complete workup, significantly related symptoms.
+This study supports an initial conservative management in the majority of patients with SCN.
+
+Gut 2016 Feb;65(2):305-12</text>
+		</slide>
+		<slide index="3" title="" titleNormalized="" src="slide4.swf" size="230180" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="37.5030016"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="4" title="EUS-FNA Cytology" titleNormalized="eus-fna cytology" src="slide5.swf" size="28452" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.0589995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Meta-analysis: 376 in 11 studies
+ Sensitivity 63%, specificity 88%
+
+ Prospective study
+ Indeterminate pancreatic cyst 143
+ Adequate cytology: 31% (44/143)
+EUS-FNA Cytology
+Thosani N, et al. Dig Dis Sci 2010; 55: 2756
+de Jong K, et al. Endoscopy 2011;43:585</text>
+		</slide>
+		<slide index="5" title="" titleNormalized="" src="slide6.swf" size="113851" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.0339998"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>105 ng/mL 
+0.77</text>
+		</slide>
+		<slide index="6" title="Indeterminate Cyst &amp; Gray Zone (Cyst Fluid CEA and Amylase)" titleNormalized="indeterminate cyst &amp; gray zone (cyst fluid cea and amylase)" src="slide7.swf" size="2921" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.5600008"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Indeterminate Cyst &amp; Gray Zone (Cyst Fluid CEA and Amylase)
+Amylase (U/mL)
+CEA (ng/mL)
+800 
+5 
+200 
+800 
+Pseudocyst
+SCA
+MCN
+IPMN
+IPMN or MCN
+IPMN or MCN
+MCN
+MCN</text>
+		</slide>
+		<slide index="7" title="" titleNormalized="" src="slide8.swf" size="55382" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="18.2170004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The AGA suggests that patients with pancreatic cysts &lt;3 cm without a solid component or a dilated pancreatic duct undergo MRI for surveillance in 1 year and then every 2 years for a total of 5 years if there is no change in size or characteristics. (Conditional recommendation, Very low quality evidence)
+The AGA suggests that pancreatic cysts with at least 2 high-risk features, such as size &gt;3 cm, a dilated main pancreatic duct, or the presence of an associated solid component, should be examined with EUS-FNA. (Conditional recommendation, Very low quality evidence)
+</text>
+		</slide>
+		<slide index="8" title="" titleNormalized="" src="slide9.swf" size="112476" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="47.0460009"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>The AGA guidelines identified advanced neoplasia with 62% sensitivity, 79% specificity, 57% positive predictive value, and 82% negative predictive value. 
+Moreover, the AGA guidelines missed 45% of IPMN with adenocarcinoma or high-grade dysplasia. 
+21of 184 patients (15%) with SCAs would continue costly unnecessary MRI surveillance because the AGA guidelines manage all neoplastic pancreatic cysts similarly.</text>
+		</slide>
+		<slide index="9" title="Gan SI, et al. Gastrointest Endosc 2005;61:746" titleNormalized="gan si, et al. gastrointest endosc 2005;61:746" src="slide10.swf" size="144978" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.6289992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>De Witt J. et al. Gastrointest Endosc 2009;70:710
+Gan SI, et al. Gastrointest Endosc 2005;61:746
+Oh HC, et al. Gastrointest Endosc 2008;67:636</text>
+		</slide>
+		<slide index="10" title="Inclusion criteria" titleNormalized="inclusion criteria" src="slide11.swf" size="110871" advanceOnTime="1" framesCount="964" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="963" playTime="40.1250000" pauseTime="17.4949989"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Inclusion criteria
+ - asymptomatic 2~5 cm unilocular or oligolocular cysts
+ - indeterminate cysts on image which needed cyst fluid
+ analysis with suspicious MCN
+Exclusion criteria
+ - mural nodule or main PD dilatation
+ - communication between cyst and main pancreatic duct on image (CT, MRI, EUS)
+ - typical image of SCA</text>
+		</slide>
+		<slide index="11" title="Ablation Protocol" titleNormalized="ablation protocol" src="slide12.swf" size="134644" advanceOnTime="1" framesCount="856" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_199a5600.spr0_14378534" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_199a5600.spr2_14378534" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="121" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="855" playTime="35.6250000" pauseTime="42.4530029"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Cyst fluid aspiration (70-80% of total volume) 
+1st 99% ethanol lavage (79% )
+2nd 99% ethanol lavage (96%)
+3rd 99% ethanol lavage (98%) and retention for 5 mins
+Total cyst fluid aspiration
+Ablation Protocol 
+CEA
+Amylase
+5
+800
+MCN
+IPMN
+PC
+SCA
+200
+Indeterminate
+0%
+79%
+96%
+98%</text>
+		</slide>
+		<slide index="12" title="" titleNormalized="" src="slide13.swf" size="165946" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="61.3269991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="13" title="Treatment Response According to Presumed Diagnosis (by CEA &amp; Amylase)" titleNormalized="treatment response according to presumed diagnosis (by cea &amp; amylase)" src="slide14.swf" size="13876" advanceOnTime="1" framesCount="1417" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="1416" playTime="59.0000000" pauseTime="16.4089966"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Treatment Response According to Presumed Diagnosis (by CEA &amp; Amylase)
+Patients No 
+Complete resolution
+Partial/Persistent 
+58 %
+42 %
+50 %
+50 %
+89 %
+11 %
+39 %
+61 %
+P &lt; 0.0001
+11 %
+61 %
+39 %
+33
+28
+12
+9
+Indeterminate cysts may include MCN &amp;IPMN.
+(CEA&lt;5)
+(CEA&gt;200)
+(CEA:5-200)
+(CEA&gt;200, Amylase&gt;800)</text>
+		</slide>
+		<slide index="14" title="F/41" titleNormalized="f/41" src="slide15.swf" size="455498" advanceOnTime="1" framesCount="859" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="858" playTime="35.7500000" pauseTime="9.4000015"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CEA 1, Amylase 140
+33
+ SCA
+F/41
+4 Years: CR
+2.9cm</text>
+		</slide>
+		<slide index="15" title="F/25" titleNormalized="f/25" src="slide16.swf" size="326494" advanceOnTime="1" framesCount="1213" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="1212" playTime="50.5000000" pauseTime="9.9599991"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>F/25
+CEA 1, Amylase 40
+ SCA
+2 Years: CR
+2.7cm
+3.5cm</text>
+		</slide>
+		<slide index="16" title="F/65" titleNormalized="f/65" src="slide17.swf" size="463391" advanceOnTime="1" framesCount="590" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset16" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="589" playTime="24.5416667" pauseTime="6.2183336"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CEA 6,805, Amylase 37
+F/65
+ MCN
+3 Years: CR</text>
+		</slide>
+		<slide index="17" title="F/58, DM with CRF" titleNormalized="f/58, dm with crf" src="slide18.swf" size="421146" advanceOnTime="1" framesCount="737" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset17" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="736" playTime="30.6666667" pauseTime="6.3733342"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>F/58, DM with CRF
+CEA 256, Amylase 102
+ MCN
+3.5cm
+2.5 Years: CR</text>
+		</slide>
+		<slide index="18" title="F/55" titleNormalized="f/55" src="slide19.swf" size="532217" advanceOnTime="1" framesCount="1059" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset18" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="1058" playTime="44.0833333" pauseTime="11.9366671"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>CEA 226, Amylase 10,262
+F/55
+ IPMN, BD
+4 Years: Regrowth</text>
+		</slide>
+		<slide index="19" title="M/83" titleNormalized="m/83" src="slide20.swf" size="462137" advanceOnTime="1" framesCount="834" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset19" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="833" playTime="34.7083333" pauseTime="8.9316661"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>5 Years: CR
+M/83
+CEA 150, Amylase 562
+ Indeterminate cyst (R/O IPMN)
+4.5 cm</text>
+		</slide>
+		<slide index="20" title="Outcome of 13 Persistent Cysts" titleNormalized="outcome of 13 persistent cysts" src="slide21.swf" size="1722" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset20" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="45.8780016"/>
+			</animationSteps>
+			<notes>#16
+Surgical resections were performed according to the relapse in 2 premalinancy suspicion, and 1 case was spillage case. </notes>
+			<notesNormalized>#16
+surgical resections were performed according to the relapse in 2 premalinancy suspicion, and 1 case was spillage case.</notesNormalized>
+			<notesHtml>&lt;p&gt;&lt;font size="12"&gt;#16&lt;/font&gt;&lt;/p&gt;&lt;p&gt;&lt;font size="12"&gt;Surgical resections were performed according to the relapse in 2 premalinancy suspicion, and 1 case was spillage case. &lt;/font&gt;&lt;/p&gt;</notesHtml>
+			<text>Outcome of 13 Persistent Cysts
+ 3 patients surgical resection 
+ - 1 IPMN with moderate dysplasia 
+ - 2 MCNs without malignant transformation 
+
+ 10 patients with persistent
+ - 3 SCNs
+ - 4 BD IPMNs: no worrisome features
+ - 3 indeterminate cysts: no change during F/U</text>
+		</slide>
+		<slide index="21" title="" titleNormalized="" src="slide22.swf" size="447016" advanceOnTime="1" framesCount="1282" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset21" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="1281" playTime="53.3750000" pauseTime="31.1090012"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+		</slide>
+		<slide index="22" title="Limitation" titleNormalized="limitation" src="slide23.swf" size="1587" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset22" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="36.9029993"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Limitation
+No final pathologic diagnosis
+No control group (simple F/U)
+No standard technique 
+Low ablation rate in mucinous cyst &amp; large cyst
+Not indicated in IPMN 
+</text>
+		</slide>
+		<slide index="23" title="Summary" titleNormalized="summary" src="slide24.swf" size="2146" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset23" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="48.5139994"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Summary 
+Diagnosis of pancreatic cyst: inaccurate
+
+Ablation of incidental pancreatic cystic tumors
+ - Alternative to simple surveillance
+ - Indeterminate cysts with suspicious MCN
+ - Simple and safe methods: no serious complication
+ - 99% ethanol lavage: cheap &amp; cost-effective 
+ - Avoid unnecessary operation if SCA
+ - Bridge therapy to final surgical resection if MCN
+ - Not indicated in IPMN 
+Limitation
+
+</text>
+		</slide>
+		<slide index="24" title="Thank you for attention !" titleNormalized="thank you for attention !" src="slide25.swf" size="112395" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset24" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="3.0390000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Thank you for attention !
+</text>
+		</slide>
+	</slides>
+</presentation>
