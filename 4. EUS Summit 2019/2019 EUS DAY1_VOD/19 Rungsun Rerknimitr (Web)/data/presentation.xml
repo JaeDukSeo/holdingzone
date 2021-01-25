@@ -1,0 +1,555 @@
+<?xml version="1.0"?>
+<presentation title="19 Rungsun Rerknimitr" width="960.0000000" height="540.0000000" thmbWidth="78.0000000" thmbHeight="44.0000000" frameRate="24.0000000" looping="0" startingSlideShow="" pptVersion="2010" type="compound" hasExternalAudio="0" uid="{04947DEA-5645-466E-949A-E27B7B438371}">
+	<presenters>
+		<presenter name="Rungsun Rerknimitr" title="Thailand" email="" web="" phone="" photoAssetId="">
+			<bio>Acute cholecystitis: ERCP First</bio>
+		</presenter>
+	</presenters>
+	<references/>
+	<soundAssets>
+		<soundAsset id="sndAsset0" src="sound1.mp3" embedded="0" size="640045" duration="22858"/>
+		<soundAsset id="sndAsset1" src="sound2.mp3" embedded="0" size="2732662" duration="97595"/>
+		<soundAsset id="sndAsset2" src="sound3.mp3" embedded="0" size="681005" duration="24321"/>
+		<soundAsset id="sndAsset3" src="sound4.mp3" embedded="0" size="784136" duration="28004"/>
+		<soundAsset id="sndAsset4" src="sound5.mp3" embedded="0" size="871176" duration="31113"/>
+		<soundAsset id="sndAsset5" src="sound6.mp3" embedded="0" size="1391222" duration="49686"/>
+		<soundAsset id="sndAsset6" src="sound7.mp3" embedded="0" size="2518354" duration="89941"/>
+		<soundAsset id="sndAsset7" src="sound8.mp3" embedded="0" size="1121325" duration="40047"/>
+		<soundAsset id="sndAsset8" src="sound9.mp3" embedded="0" size="1680868" duration="60031"/>
+		<soundAsset id="sndAsset9" src="sound10.mp3" embedded="0" size="1149119" duration="41039"/>
+		<soundAsset id="sndAsset10" src="sound11.mp3" embedded="0" size="702948" duration="25105"/>
+		<soundAsset id="sndAsset11" src="sound12.mp3" embedded="0" size="1002102" duration="35789"/>
+		<soundAsset id="sndAsset12" src="sound13.mp3" embedded="0" size="554468" duration="19802"/>
+		<soundAsset id="sndAsset13" src="sound14.mp3" embedded="0" size="753416" duration="26907"/>
+		<soundAsset id="sndAsset14" src="sound15.mp3" embedded="0" size="871908" duration="31139"/>
+		<soundAsset id="sndAsset15" src="sound16.mp3" embedded="0" size="1143999" duration="40857"/>
+	</soundAssets>
+	<sharedAssetsLibrary src="assets.swf"/>
+	<graphicAssets>
+		<graphicAsset id="imgAsset0" src="thmb1.swf" embedded="0"/>
+		<graphicAsset id="imgAsset1" src="thmb2.swf" embedded="0"/>
+		<graphicAsset id="imgAsset2" src="thmb3.swf" embedded="0"/>
+		<graphicAsset id="imgAsset3" src="thmb4.swf" embedded="0"/>
+		<graphicAsset id="imgAsset4" src="thmb5.swf" embedded="0"/>
+		<graphicAsset id="imgAsset5" src="thmb6.swf" embedded="0"/>
+		<graphicAsset id="imgAsset6" src="thmb7.swf" embedded="0"/>
+		<graphicAsset id="imgAsset7" src="thmb8.swf" embedded="0"/>
+		<graphicAsset id="imgAsset8" src="thmb9.swf" embedded="0"/>
+		<graphicAsset id="imgAsset9" src="thmb10.swf" embedded="0"/>
+		<graphicAsset id="imgAsset10" src="thmb11.swf" embedded="0"/>
+		<graphicAsset id="imgAsset11" src="thmb12.swf" embedded="0"/>
+		<graphicAsset id="imgAsset12" src="thmb13.swf" embedded="0"/>
+		<graphicAsset id="imgAsset13" src="thmb14.swf" embedded="0"/>
+		<graphicAsset id="imgAsset14" src="thmb15.swf" embedded="0"/>
+		<graphicAsset id="imgAsset15" src="thmb16.swf" embedded="0"/>
+	</graphicAssets>
+	<backgroundSound soundAssetId="" looping="0" volume="1.0000000"/>
+	<narration>
+		<audioTracks>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset0">
+				<startTimestamp slideIndex="0" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="0" stepIndex="0" timeOffset="22.8230000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset1">
+				<startTimestamp slideIndex="1" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="1" stepIndex="0" timeOffset="97.5640000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset2">
+				<startTimestamp slideIndex="2" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="2" stepIndex="0" timeOffset="24.2910000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset3">
+				<startTimestamp slideIndex="3" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="3" stepIndex="0" timeOffset="27.9610000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset4">
+				<startTimestamp slideIndex="4" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="4" stepIndex="0" timeOffset="31.0599995"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset5">
+				<startTimestamp slideIndex="5" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="5" stepIndex="0" timeOffset="49.6500000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset6">
+				<startTimestamp slideIndex="6" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="6" stepIndex="0" timeOffset="89.8899994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset7">
+				<startTimestamp slideIndex="7" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="7" stepIndex="0" timeOffset="40.0070000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset8">
+				<startTimestamp slideIndex="8" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="8" stepIndex="0" timeOffset="59.9930000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset9">
+				<startTimestamp slideIndex="9" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="9" stepIndex="0" timeOffset="41.0079994"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset10">
+				<startTimestamp slideIndex="10" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="10" stepIndex="0" timeOffset="25.0580000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset11">
+				<startTimestamp slideIndex="11" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="11" stepIndex="0" timeOffset="35.7360000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset12">
+				<startTimestamp slideIndex="12" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="12" stepIndex="0" timeOffset="19.7530000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset13">
+				<startTimestamp slideIndex="13" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="13" stepIndex="0" timeOffset="26.8600000"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset14">
+				<startTimestamp slideIndex="14" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="14" stepIndex="0" timeOffset="31.0979996"/>
+			</audioTrack>
+			<audioTrack volume="1.0000000" soundAssetId="sndAsset15">
+				<startTimestamp slideIndex="15" stepIndex="0" timeOffset="0.0000000"/>
+				<endTimestamp slideIndex="15" stepIndex="0" timeOffset="40.8069992"/>
+			</audioTrack>
+		</audioTracks>
+	</narration>
+	<settings>
+		<navigation>
+			<keyboard enabled="1">
+				<actions>
+					<action name="playPause">
+						<shortcut code="32" control="0" shift="0"/>
+					</action>
+					<action name="nextSlide">
+						<shortcut code="34" control="0" shift="0"/>
+					</action>
+					<action name="previousSlide">
+						<shortcut code="33" control="0" shift="0"/>
+					</action>
+					<action name="nextStep">
+						<shortcut code="13" control="0" shift="0"/>
+					</action>
+					<action name="previousStep">
+						<shortcut code="13" control="0" shift="1"/>
+					</action>
+					<action name="firstSlide">
+						<shortcut code="36" control="1" shift="0"/>
+					</action>
+					<action name="lastSlide">
+						<shortcut code="35" control="1" shift="0"/>
+					</action>
+					<action name="lastViewedSlide">
+						<shortcut code="8" control="0" shift="0"/>
+					</action>
+					<action name="slideStart">
+						<shortcut code="36" control="0" shift="0"/>
+					</action>
+					<action name="slideEnd">
+						<shortcut code="35" control="0" shift="0"/>
+					</action>
+					<action name="seekForward">
+						<shortcut code="39" control="0" shift="0"/>
+					</action>
+					<action name="seekBackward">
+						<shortcut code="37" control="0" shift="0"/>
+					</action>
+					<action name="volumeUp">
+						<shortcut code="38" control="0" shift="0"/>
+					</action>
+					<action name="volumeDown">
+						<shortcut code="40" control="0" shift="0"/>
+					</action>
+					<action name="toggleFullscreen">
+						<shortcut code="70" control="1" shift="0"/>
+					</action>
+				</actions>
+			</keyboard>
+			<mouse enabled="1" target="step"/>
+			<gesture zoom="1"/>
+		</navigation>
+		<skin>
+			<colorSettings>
+				<color id="button.content.normal">#FFFFFF</color>
+				<color id="button.content.over">#FFFFFF</color>
+				<color id="button.face.normal">#777777</color>
+				<color id="button.face.over">#575757</color>
+				<color id="companyLogo.background">#FFFFFF</color>
+				<color id="hyperlink">#097CE7</color>
+				<color id="listItem.face.over">#E8E8E8</color>
+				<color id="listItem.face.pressed">#6E6E6E</color>
+				<color id="listItem.label.over">#000000</color>
+				<color id="listItem.label.pressed">#FFFFFF</color>
+				<color id="listItem.label.visited">#A1A1A1</color>
+				<color id="page.background">#8A8A8A</color>
+				<color id="panel.background">#F7F7F7</color>
+				<color id="panel.text">#323232</color>
+				<color id="player.background">#D4D4D4</color>
+				<color id="popup.background">#FFFFFF</color>
+				<color id="progress.background">#6E6E6E</color>
+				<color id="progress.loading">#D0D0D0</color>
+				<color id="progress.playback">#A1A1A1</color>
+				<color id="text">#4D4D4D</color>
+			</colorSettings>
+			<controlPanelSettings>
+				<visible>true</visible>
+				<showOutline>false</showOutline>
+				<showPlayPause>true</showPlayPause>
+				<showRewind>true</showRewind>
+				<showVolumeControl>true</showVolumeControl>
+				<showCCButton>false</showCCButton>
+				<showPrevButton>true</showPrevButton>
+				<showNextButton>true</showNextButton>
+				<showSlideOnlyButton>true</showSlideOnlyButton>
+				<progressBar>
+					<visible>true</visible>
+					<enabled>true</enabled>
+					<showLabels>true</showLabels>
+					<mode>slideTimeline</mode>
+				</progressBar>
+				<navigationMode>bySlides</navigationMode>
+			</controlPanelSettings>
+			<titlePanelSettings>
+				<showLogo>false</showLogo>
+				<visible>true</visible>
+				<buttons>
+					<button type="attachments" visible="false"/>
+					<button type="presenterInfo" visible="false"/>
+					<button type="markerTools" visible="true"/>
+					<button type="notes" visible="false"/>
+					<button type="outline" visible="false"/>
+				</buttons>
+			</titlePanelSettings>
+			<outlinePanelSettings>
+				<numberEntries>true</numberEntries>
+				<highlightViewedEntries>true</highlightViewedEntries>
+				<thumbnails>true</thumbnails>
+				<search>true</search>
+				<multilevel>true</multilevel>
+			</outlinePanelSettings>
+			<sidePanelSettings>
+				<showAtLeft>true</showAtLeft>
+				<showLogo>false</showLogo>
+				<showPresenterInfo>true</showPresenterInfo>
+				<showPresenterVideo>false</showPresenterVideo>
+				<visible>true</visible>
+				<tabsPanel>
+					<showOutline>true</showOutline>
+					<showNotes>false</showNotes>
+				</tabsPanel>
+			</sidePanelSettings>
+		</skin>
+		<appearance fullScreen="1" showSlidePreloader="1"/>
+		<playback autoStart="1" syncWithVideoNarration="1" enableVideoControl="1" resumePresentationPlayback="always"/>
+	</settings>
+	<slides embedded="0">
+		<slide index="0" title="Acute cholecystitis: ERCP First" titleNormalized="acute cholecystitis: ercp first" src="slide1.swf" size="344863" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset0" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="22.8220000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Acute cholecystitis: ERCP First
+ Rungsun Rerknimitr, MD FRCP (London), FASGE
+
+Division of Gastroenterology, Faculty of Medicine, Chulalongkorn University and King Chulalongkorn Memorial Hospital, Thai Red Cross Society, Bangkok, Thailand 
+</text>
+		</slide>
+		<slide index="1" title="" titleNormalized="" src="slide2.swf" size="70796" advanceOnTime="1" framesCount="1453" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset1" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="1452" playTime="60.5000000" pauseTime="37.0640030"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Need GB drainage</text>
+		</slide>
+		<slide index="2" title="Alternative approach to severe or unfit to surgery acute cholecystitis" titleNormalized="alternative approach to severe or unfit to surgery acute cholecystitis" src="slide3.swf" size="815835" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset2" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="24.2900004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Alternative approach to severe or unfit to surgery acute cholecystitis
+Percutaneous GB drainage and then elective LC or OC
+Endoscopic drainage Transpapillary vs. EUS guided GB drainage
+Okamoto K, Suzuki K, Takada T, et al. Tokyo Guidelines 2018: flowchart for the management of acute cholecystitis. J Hepatobiliary Pancreat Sci. 2018 ;25(1):55-72.</text>
+		</slide>
+		<slide index="3" title="Management of Acute Cholecystitis for High-surgical Risk Patients, Unstable vital sign, Logistic problems" titleNormalized="management of acute cholecystitis for high-surgical risk patients, unstable vital sign, logistic problems" src="slide4.swf" size="1805" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset3" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="27.9600004"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Management of Acute Cholecystitis for High-surgical Risk Patients, Unstable vital sign, Logistic problems
+Percutaneous approach
+Endoscopic approach
+Percutaneous cholecystostomy
+Endoscopic transpapillary gallbladder stenting (Transpapillary group)
+
+Endoscopic ultrasound-guided gallbladder stenting (EUS-guided group)</text>
+		</slide>
+		<slide index="4" title="Endoscopic Gallbladder Drainage" titleNormalized="endoscopic gallbladder drainage" src="slide5.swf" size="325990" advanceOnTime="1" framesCount="121" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset4" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="120" playTime="5.0000000" pauseTime="26.0599995"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Transpapillary
+Natural orifice
+Small-caliber (7Fr) 
+ plastic stent
+Endoscopic Gallbladder Drainage</text>
+		</slide>
+		<slide index="5" title="Techniques of Transpapillary Group" titleNormalized="techniques of transpapillary group" src="slide6.swf" size="198243" advanceOnTime="1" framesCount="730" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset5" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video0" videoClipId="ispring.resources_213a54c0.spr0_22703609" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_213a54c0.spr2_22703609" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video0" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="729" playTime="30.3750000" pauseTime="19.2750015"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Techniques of Transpapillary Group
+Cystic duct cannulation
+Fluoroscopic guidance using 0.025-inch guidewire
+If failed  cholangioscopy assistance
+Gallbladder guidewire placement
+7Fr x 15cm double pigtail plastic stent placement</text>
+		</slide>
+		<slide index="6" title="Techniques of EUS-guided Group" titleNormalized="techniques of eus-guided group" src="slide7.swf" size="113719" advanceOnTime="1" framesCount="1067" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset6" presenterIndex="0">
+			<sounds/>
+			<videos>
+				<video id="video1" videoClipId="ispring.resources_20766970.spr0_22744046" slides="1" repeat="1" volume="0.8000000" posterFrameId="ispring.resources_20766970.spr2_22744046" playFullScreen="0" hideWhenNotPlaying="0" rewindAfterPlaying="0"/>
+			</videos>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands>
+				<playVideo frameIndex="0" videoId="video1" startPos="0.0000000"/>
+			</videoCommands>
+			<animationSteps>
+				<step start="0" end="1066" playTime="44.4166667" pauseTime="45.4733327"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Techniques of EUS-guided Group
+Transduodenal approach
+19-gauge needle
+0.025-inch guidewire
+6Fr cystotome
+6-mm balloon dilator
+Metal stent placement using LAMS or FCSEMS
+Now one step with a hot LAMS system</text>
+		</slide>
+		<slide index="7" title="Definitions" titleNormalized="definitions" src="slide8.swf" size="1759" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset7" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="40.0060000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Definitions
+High-surgical risk (HSR) patient: Charlson comorbidity index (CCI) &gt; 6 or American Society of Anesthesiologists physical status (ASA-PS) &gt; III
+
+Technical success: successful stent placement in the desired location as determined endoscopically and radiographically
+
+Clinical success: complete resolution of clinical symptoms and radiologic evidence of gallbladder decompression
+</text>
+		</slide>
+		<slide index="8" title="Reasons to DO ERCP FIRST!" titleNormalized="reasons to do ercp first!" src="slide9.swf" size="1031187" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset8" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="59.9920000"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Reasons to DO ERCP FIRST!
+AC with concomitant CBD stone (s)
+Preserve external GB texture for easier future LC
+In some with Mirizzi syndrome a GB stent could save a patient from CBD injury
+Training may be easier.
+No special device needed
+More cost effectiveness (plastic stent vs. LAMS)
+
+ERCP</text>
+		</slide>
+		<slide index="9" title="When fluoroscopic guidance failed -Complete cystic duct obstruction -Obscured cystic duct take-off (posterior orifice) - Tortuous cystic duct" titleNormalized="when fluoroscopic guidance failed -complete cystic duct obstruction -obscured cystic duct take-off (posterior orifice) - tortuous cystic duct" src="slide10.swf" size="395245" advanceOnTime="1" framesCount="866" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset9" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="865" playTime="36.0416667" pauseTime="4.9663328"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>When fluoroscopic guidance failed -Complete cystic duct obstruction -Obscured cystic duct take-off (posterior orifice) - Tortuous cystic duct</text>
+		</slide>
+		<slide index="10" title="Why cholangioscopy could help for GB cannulation?" titleNormalized="why cholangioscopy could help for gb cannulation?" src="slide11.swf" size="416864" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset10" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="25.0570006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Why cholangioscopy could help for GB cannulation?
+Cystic duct orifice
+Rt IHD take off
+Lt IHD take off
+Cystic duct orifice</text>
+		</slide>
+		<slide index="11" title="DG guidance vs. Fluoroscopic guidance" titleNormalized="dg guidance vs. fluoroscopic guidance" src="slide12.swf" size="16765" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset11" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="35.7350001"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>DG guidance vs. Fluoroscopic guidance 
+Teeratorn N, et al DDW 2019
+- DG added 10% more success rate
+- The reasons of failed DC-assisted CD cannulation (n=4) were unstable cholangioscope position (n=2), aberrant CD taking off from right intrahepatic duct (n=1), and a slit-like CD opening (n=1).</text>
+		</slide>
+		<slide index="12" title="Unsuccessful Transpapillary Stenting" titleNormalized="unsuccessful transpapillary stenting" src="slide13.swf" size="402792" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset12" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="19.7520003"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Unsuccessful Transpapillary Stenting
+Small caliber and tortuous cystic duct (n=12)
+Acute angle (n=3)
+Impacted stone (n=2)
+Other: cystic duct orifice placed posteriorly in the common bile duct (n=9)</text>
+		</slide>
+		<slide index="13" title="" titleNormalized="" src="slide14.swf" size="8886" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset13" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="26.8590006"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Endoscopic Gallbladder Stenting (n=96)
+Transpapillary (n=83)
+EUS-guided (n=13)
+Success (n=65)
+Failure (n=18)
+EUS (n=4)
+Percutaneous cholecystostomy (n=3)
+Conservative treatment (n=11)
+EUS-guided (n=17)
+Success (n=17)
+Technical Success Rate
+Transpapillary
+EUS-guided
+p-value
+Technical Success Rate
+78%
+100%
+0.04
+Fluoroscopy-guided
+(n=57)
+Cholangioscopy-assisted
+(n=8)
+complete cystic duct obstruction (n=9)
+previous biliary stenting (n=4)</text>
+		</slide>
+		<slide index="14" title="Our recent update" titleNormalized="our recent update" src="slide15.swf" size="168367" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset14" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="31.0969996"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Our recent update
+DS guided added from 53% to 73% success rate</text>
+		</slide>
+		<slide index="15" title="Management for AC with high surgical risk" titleNormalized="management for ac with high surgical risk" src="slide16.swf" size="33018" advanceOnTime="1" framesCount="1" hasEmbeddedFlashClip="0" hidden="0" level="0" advanceOnClick="1" thumbnailAssetId="imgAsset15" presenterIndex="0">
+			<sounds/>
+			<videos/>
+			<transitionEffect name="" duration="0.0000000" soundId="" looped="0"/>
+			<soundCommands/>
+			<videoCommands/>
+			<animationSteps>
+				<step start="0" end="0" playTime="0.0010000" pauseTime="40.8059992"/>
+			</animationSteps>
+			<notes/>
+			<notesNormalized/>
+			<notesHtml/>
+			<text>Management for AC with high surgical risk</text>
+		</slide>
+	</slides>
+</presentation>
